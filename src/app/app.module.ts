@@ -6,7 +6,9 @@ import { AppComponent } from './app.component';
 import {NoopAnimationsModule} from '@angular/platform-browser/animations';
 
 import {
-  MatTabsModule
+  MatTabsModule,
+  MatCardModule,
+  MatButtonModule
 } from '@angular/material';
 
 
@@ -18,7 +20,9 @@ import {
     BrowserModule,
     HttpClientModule,
     NoopAnimationsModule,
-    MatTabsModule
+    MatTabsModule, 
+    MatCardModule,
+    MatButtonModule
   ],
   providers: [],
   bootstrap: [AppComponent]

@@ -7,8 +7,8 @@ import { HttpClient } from '@angular/common/http';
   styleUrls: ['./app.component.css']
 })
 export class AppComponent {
-  title = 'app';
-  data: any = {};
+  //title = 'app';
+  data: any; 
   constructor(private http: HttpClient) {
     this.http.get("assets/data.json").subscribe( res => this.data=res );
   }

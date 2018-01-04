@@ -1,0 +1,5 @@
+.example-header-image {
+    background-image: url('/assets/portrait.jpg');
+    /* background-image: url("{{data?.about.picture}}"); */
+    background-size: cover;
+  }
