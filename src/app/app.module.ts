@@ -5,6 +5,8 @@ import { HttpClientModule }    from '@angular/common/http';
 import { AppComponent } from './app.component';
 import {NoopAnimationsModule} from '@angular/platform-browser/animations';
 
+import {KeysPipe} from './key.pipe';
+
 import {
   MatTabsModule,
   MatCardModule,
@@ -14,7 +16,8 @@ import {
 
 @NgModule({
   declarations: [
-    AppComponent
+    AppComponent,
+    KeysPipe
   ],
   imports: [
     BrowserModule,
@@ -24,7 +27,7 @@ import {
     MatCardModule,
     MatButtonModule
   ],
-  providers: [],
+  providers: [KeysPipe],
   bootstrap: [AppComponent]
 })
 export class AppModule { }
