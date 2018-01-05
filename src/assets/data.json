@@ -13,13 +13,13 @@
             {"id":"10.1016/j.hlpt.2014.10.011", "title": "Open-source health information technology: A case study of electronic medical records", "authors": ["Hani Safad", "David Chan", "Martin Dawes", "Mark Roper", "Samer Faraj"], "year": 2015, "venue": "Health Policy and Technology", "url":"https://www.sciencedirect.com/science/article/pii/S2211883714000847"}
         ],
         "conference": [
-            {"title":"The Role of Anchoring in Actualizing IT Affordances in EMR Implementations", "authors": [], "venue":"HICSS", "year": 2018}
+            {"id":"http://hdl.handle.net/10125/50268", "title":"The Role of Anchoring in Actualizing IT Affordances in EMR Implementations", "authors": [], "venue":"HICSS", "year": 2018}
         ]
     } ,
     "courses": [
-        {"id":"MIST 9777", "title":"Big Data Research Methods for Computational Social Science "},
+        {"id":"MIST 9777", "title":"Big Data Research Methods for Computational Social Science"},
         {"id":"MIST 9750", "title":"Individual Level Theories in Information Systems"},
-        {"id":"MIST 9760", "title":"Special Topics in Management Information Systems"},       
+        {"id":"MIST 9760", "title":"Special Topics in Information Systems Research"},       
         {"id":"FYOS 1001", "title":"iOS App Development and Game Programming Using Swift"},
         {"id":"MIST 4600", "title":"Computer Programming in Business"},
         {"id":"MIS 630", "title":"Data and Knowledge Management "},
