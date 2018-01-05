@@ -1,7 +1,6 @@
 import { Component } from '@angular/core';
 import { HttpClient } from '@angular/common/http';
 import { NgModule }      from '@angular/core';
-import {KeysPipe} from './key.pipe';
 @Component({
   selector: 'app-root',
   templateUrl: './app.component.html',
@@ -9,7 +8,6 @@ import {KeysPipe} from './key.pipe';
 })
 
 export class AppComponent  {
-  //title = 'app';
   data: any; 
   constructor(private http: HttpClient) {
     this.http.get("assets/data.json").subscribe( res => this.data=res );

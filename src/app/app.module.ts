@@ -5,19 +5,20 @@ import { HttpClientModule }    from '@angular/common/http';
 import { AppComponent } from './app.component';
 import {NoopAnimationsModule} from '@angular/platform-browser/animations';
 
-import {KeysPipe} from './key.pipe';
+import {KeysPipe, CitesPipe} from './pipes';
 
 import {
   MatTabsModule,
   MatCardModule,
-  MatButtonModule
+  MatListModule
 } from '@angular/material';
 
 
 @NgModule({
   declarations: [
     AppComponent,
-    KeysPipe
+    KeysPipe,
+    CitesPipe
   ],
   imports: [
     BrowserModule,
@@ -25,9 +26,9 @@ import {
     NoopAnimationsModule,
     MatTabsModule, 
     MatCardModule,
-    MatButtonModule
+    MatListModule
   ],
-  providers: [KeysPipe],
+  providers: [],
   bootstrap: [AppComponent]
 })
 export class AppModule { }

@@ -1,37 +1,47 @@
 <mat-tab-group>
   <mat-tab label="About">
-      <mat-card class="example-card">
-         
-          <mat-card-header>
-            <div mat-card-avatar class="example-header-image">
-            </div>
-             
-            <mat-card-title>{{data?.about.title}}</mat-card-title>
-            <mat-card-subtitle>{{data?.about.subtitle}}</mat-card-subtitle>
-           
-          </mat-card-header>
-           
-          <mat-card-content>
-            
-              {{data?.about.blurb}}
-           
-          </mat-card-content>
+    <mat-card>
 
-        </mat-card>
+      <mat-card-header>
+        <div mat-card-avatar class="example-header-image">
+        </div>
+
+        <mat-card-title>{{data?.about.title}}</mat-card-title>
+        <mat-card-subtitle>{{data?.about.subtitle}}</mat-card-subtitle>
+
+      </mat-card-header>
+
+      <mat-card-content>
+
+        {{data?.about.blurb}}
+
+      </mat-card-content>
+
+    </mat-card>
   </mat-tab>
-  <mat-tab label="Publications">
+  <mat-tab label="Research">
 
-    <!-- <div *ngIf="data">
-      <p *ngFor="let kind of Object.keys(data.publications)">{{kind}} </p>
-    </div> -->
-    <ul>
-      <li *ngFor="let pub of data?.publications.journal"> 
-        {{ pub }}
-      </li>
-     </ul>
+    <span *ngFor="let entry of data?.publications | keys">
+      <mat-card>
 
-     <span *ngFor="let entry of data?.publications | keys">           
-      Key: {{entry.key}}, value: {{entry.value}}
+        <mat-card-header>
+            {{entry.key | uppercase}} PAPERS
+
+        </mat-card-header>
+
+        <mat-card-content>
+
+          <mat-nav-list>
+              <a mat-list-item [href]="v.url" *ngFor="let v of entry.value"> {{ v.title }}, {{v.venue}} {{v.year}} </a>
+           </mat-nav-list>
+        </mat-card-content>
+
+      </mat-card>
     </span>
+  </mat-tab>
+  <mat-tab label="Teaching">
+      <mat-list role="list">
+          <mat-list-item role="listitem" *ngFor="let entry of data?.courses">{{entry.id}}: {{entry.title}}</mat-list-item>
+        </mat-list>
   </mat-tab>
 </mat-tab-group>

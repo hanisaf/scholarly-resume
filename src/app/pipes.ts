@@ -1,10 +1,4 @@
 import { PipeTransform, Pipe } from '@angular/core';
-// import { NgModule }      from '@angular/core';
-
-// @NgModule({
-//     declarations: [KeysPipe],
-//     exports: [KeysPipe]
-// })
 
 @Pipe({name: 'keys'})
 export class KeysPipe implements PipeTransform {
@@ -14,5 +8,12 @@ export class KeysPipe implements PipeTransform {
       keys.push({key: key, value: value[key]});
     }
     return keys;
+  }
+} 
+
+@Pipe({name: 'cites'})
+export class CitesPipe implements PipeTransform {
+  transform(value, args:string[]) : any {
+    return `<a href="${value.url}">${value.url}</a>`;
   }
 } 
