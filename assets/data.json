@@ -1,0 +1,32 @@
+{
+    "about": {
+        "title":"Hani Safadi",
+        "subtitle": "Assistant Professor",
+        "blurb": "Hani Safadi is an assistant professor in the Terry College of Business at the University of Georgia and a research collaborator at Mayo Clinic. He is interested in online communities, social media, healthcare information technology, mixed-methods research and the application of computational linguistics in studying qualitative data. He holds a Ph.D. in Management Information Systems from McGill University.",
+        "picture": "/assets/portrait.jpg"
+    },
+    "publications": {
+        "journal": [
+            {"id":"", "title": "Data-Driven Computationally-Intensive Theory Development", "authors": ["Nicholas Berente", "Stefan Seidel", "Hani Safadi"], "year": 2018, "venue": "Information Systems Research", "url":"https://www.researchgate.net/publication/322069351_Data-Driven_Computationally-Intensive_Theory_Development"},
+            {"id":"", "title": "Social Media Affordances for Connective Action: An Examination of Microblogging Use During the Gulf of Mexico Oil Spill", "authors": ["Emmanuelle Vaast", "Hani Safadi", "Liette Lapointe", "Bogdan Negoita"], "year": 2017, "venue": "MIS Quarterly", "url":"https://misq.org/social-media-affordances-for-connective-action-an-examination-of-microblogging-use-during-the-gulf-of-mexico-oil-spill.html"},
+            {"id":"10.1287/isre.2014.0562", "title": "The Emergence of Online Community Leadership", "authors": ["Steven Johnson", "Hani Safadi", "Samer Faraj"], "year": 2015, "venue": "Information Systems Research", "url":"https://www.researchgate.net/publication/277553143_The_Emergence_of_Online_Community_Leadership"},
+            {"id":"10.1016/j.hlpt.2014.10.011", "title": "Open-source health information technology: A case study of electronic medical records", "authors": ["Hani Safad", "David Chan", "Martin Dawes", "Mark Roper", "Samer Faraj"], "year": 2015, "venue": "Health Policy and Technology", "url":"https://www.sciencedirect.com/science/article/pii/S2211883714000847"}
+        ],
+        "conference": [
+            {"id":"http://hdl.handle.net/10125/50268", "title":"The Role of Anchoring in Actualizing IT Affordances in EMR Implementations", "authors": [], "venue":"HICSS", "year": 2018}
+        ]
+    } ,
+    "courses": [
+        {"id":"MIST 9777", "title":"Big Data Research Methods for Computational Social Science"},
+        {"id":"MIST 9750", "title":"Individual Level Theories in Information Systems"},
+        {"id":"MIST 9760", "title":"Special Topics in Information Systems Research"},       
+        {"id":"FYOS 1001", "title":"iOS App Development and Game Programming Using Swift"},
+        {"id":"MIST 4600", "title":"Computer Programming in Business"},
+        {"id":"MIS 630", "title":"Data and Knowledge Management "},
+        {"id":"BIA 658", "title":"Social Networks Analytics"},
+        {"id":"INSY 437", "title":"Managing Data & Databases"},
+        {"id":"MGCR 331", "title":"Introduction to Information Systems "},
+        {"id":"COMP 250", "title":"Introduction to Algorithms and Data Structures"},
+        {"id":"COMP 202", "title":"Introduction to Programming in Java "}
+    ]
+}
