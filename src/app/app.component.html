@@ -1,4 +1,4 @@
-<mat-tab-group>
+<mat-tab-group (selectedTabChange)="onLinkClick($event)"> 
   <mat-tab label="About">
     <mat-card>
 
@@ -60,5 +60,30 @@
             </mat-card-content>
           </mat-card>
         </span>
+  </mat-tab>
+  <mat-tab label="🖨Print CV">
+    <div id="print-section">
+      <H1>{{data?.about.title}}</H1>
+
+      <H2>Journal publications</H2>
+        <li *ngFor='let paper of data?.research["journal papers"]'>
+            {{paper.title}}, {{paper.venue}}, {{paper.year}}
+        </li>
+
+      <H2>Conference publications</H2>
+        <li *ngFor='let paper of data?.research["conference papers"]'>
+            {{paper.title}}, {{paper.venue}}, {{paper.year}}
+        </li>
+
+      <H2>Grants</H2>
+          <li *ngFor='let grant of data?.research["grants"]'>
+              {{grant.title}}, {{grant.venue}}, {{grant.year}} (${{grant.amount}})
+          </li>
+
+      <H2>Teaching</H2> 
+        <span *ngFor='let university of data?.courses | keys'>
+            <span *ngFor="let course of university.value">{{course.id}}: {{course.title}}, </span>
+        </span>
+    </div>
   </mat-tab>
 </mat-tab-group>
