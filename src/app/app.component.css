@@ -3,3 +3,7 @@
     /* background-image: url("{{data?.about.picture}}"); */
     background-size: cover;
   }
+
+.mat-card-header {
+    font-weight: bold;
+  }

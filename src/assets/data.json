@@ -5,28 +5,53 @@
         "blurb": "Hani Safadi is an assistant professor in the Terry College of Business at the University of Georgia and a research collaborator at Mayo Clinic. He is interested in online communities, social media, healthcare information technology, mixed-methods research and the application of computational linguistics in studying qualitative data. He holds a Ph.D. in Management Information Systems from McGill University.",
         "picture": "/assets/portrait.jpg"
     },
-    "publications": {
-        "journal": [
+    "research": {
+        "journal papers": [
             {"id":"", "title": "Data-Driven Computationally-Intensive Theory Development", "authors": ["Nicholas Berente", "Stefan Seidel", "Hani Safadi"], "year": 2018, "venue": "Information Systems Research", "url":"https://www.researchgate.net/publication/322069351_Data-Driven_Computationally-Intensive_Theory_Development"},
             {"id":"", "title": "Social Media Affordances for Connective Action: An Examination of Microblogging Use During the Gulf of Mexico Oil Spill", "authors": ["Emmanuelle Vaast", "Hani Safadi", "Liette Lapointe", "Bogdan Negoita"], "year": 2017, "venue": "MIS Quarterly", "url":"https://misq.org/social-media-affordances-for-connective-action-an-examination-of-microblogging-use-during-the-gulf-of-mexico-oil-spill.html"},
             {"id":"10.1287/isre.2014.0562", "title": "The Emergence of Online Community Leadership", "authors": ["Steven Johnson", "Hani Safadi", "Samer Faraj"], "year": 2015, "venue": "Information Systems Research", "url":"https://www.researchgate.net/publication/277553143_The_Emergence_of_Online_Community_Leadership"},
             {"id":"10.1016/j.hlpt.2014.10.011", "title": "Open-source health information technology: A case study of electronic medical records", "authors": ["Hani Safad", "David Chan", "Martin Dawes", "Mark Roper", "Samer Faraj"], "year": 2015, "venue": "Health Policy and Technology", "url":"https://www.sciencedirect.com/science/article/pii/S2211883714000847"}
         ],
-        "conference": [
+        "conference papers": [
+            {"id":"10.5465/AMBPP.2018.35", "title":"Who Contributes Knowledge? Embeddedness and Marginality in Online Communities", "authors":["Hani Safadi", "Steven Lawrence Johnson","Samer Faraj"], "venue":"Academy of Management Proceedings", "year":2018, "url":"https://journals.aom.org/doi/10.5465/AMBPP.2018.35"},
             {"id":"http://hdl.handle.net/10125/50268", "title":"The Role of Anchoring in Actualizing IT Affordances in EMR Implementations", "authors": [], "venue":"HICSS", "year": 2018}
+        ],
+        "grants": [
+            {"id":"GR-FP00009170", "title":"Design and Evaluation of a Digital Transparency Platform for Advancing Legislative and Regulatory Transparency", "year":2017, "venue": "Institute of Museum and Library Services", "amount":49839, "url":"https://www.imls.gov/grants/awarded/lg-72-17-0078-17"},
+            {"id":"34A55206-4A6D-4618-B945-AC7FC4FD4B74", "title": "Effective Moderation of Online Patient Communities", "year": 2017, "venue":"University of Georgia Research Foundation", "amount":9829 }
         ]
     } ,
-    "courses": [
-        {"id":"MIST 9777", "title":"Big Data Research Methods for Computational Social Science"},
-        {"id":"MIST 9750", "title":"Individual Level Theories in Information Systems"},
-        {"id":"MIST 9760", "title":"Special Topics in Information Systems Research"},       
-        {"id":"FYOS 1001", "title":"iOS App Development and Game Programming Using Swift"},
-        {"id":"MIST 4600", "title":"Computer Programming in Business"},
-        {"id":"MIS 630", "title":"Data and Knowledge Management "},
-        {"id":"BIA 658", "title":"Social Networks Analytics"},
-        {"id":"INSY 437", "title":"Managing Data & Databases"},
-        {"id":"MGCR 331", "title":"Introduction to Information Systems "},
-        {"id":"COMP 250", "title":"Introduction to Algorithms and Data Structures"},
-        {"id":"COMP 202", "title":"Introduction to Programming in Java "}
-    ]
+    "courses": {
+        "University of Georgia": [
+            {"id":"MIST 9000", "title":"Doctoral Research"},
+            {"id":"MIST 9777", "title":"Big Data Research Methods for Computational Social Science"},
+            {"id":"MIST 9750", "title":"Individual Level Theories in Information Systems"},
+            {"id":"MIST 9760", "title":"Special Topics in Information Systems Research"},       
+            {"id":"MIST 4600", "title":"Computer Programming in Business"},
+            {"id":"FYOS 1001", "title":"iOS App Development and Game Programming Using Swift"}
+        ],
+        "Stevens Institute of Technology": [
+            {"id":"BIA 658", "title":"Social Networks Analytics"},
+            {"id":"MIS 630", "title":"Data and Knowledge Management"}
+        ],
+        "McGill University": [
+            {"id":"INSY 437", "title":"Managing Data & Databases"},
+            {"id":"MGCR 331", "title":"Introduction to Information Systems"},
+            {"id":"COMP 250", "title":"Introduction to Algorithms and Data Structures"},
+            {"id":"COMP 202", "title":"Introduction to Programming in Java "}
+        ]
+    },
+
+    "service": {
+        "journal editorialship": [
+            {"venue": "IEEE Transactions on Engineering Management", "venueshort":"IEEE TEM", "role":"Review Board Member", "startdate": 2016, "enddate":"present"}
+        ],
+        "journal reviewer": [
+
+        ],
+        "conference editorialship": [
+            {"venue":"International Conference on Information Systems", "venueshort":"ICIS", "role":"Track Associate Editor ", "startdate":2016, "enddate":"present"}
+
+        ]
+    }
 }

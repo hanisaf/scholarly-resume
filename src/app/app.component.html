@@ -20,28 +20,45 @@
     </mat-card>
   </mat-tab>
   <mat-tab label="Research">
-
-    <span *ngFor="let entry of data?.publications | keys">
+    <span *ngFor="let entry of data?.research | keys">
       <mat-card>
-
         <mat-card-header>
-            {{entry.key | uppercase}} PAPERS
-
+            {{entry.key | uppercase}}
         </mat-card-header>
-
         <mat-card-content>
-
           <mat-nav-list>
               <a mat-list-item [href]="v.url" *ngFor="let v of entry.value"> {{ v.title }}, {{v.venue}} {{v.year}} </a>
            </mat-nav-list>
         </mat-card-content>
-
       </mat-card>
     </span>
   </mat-tab>
   <mat-tab label="Teaching">
-      <mat-list role="list">
-          <mat-list-item role="listitem" *ngFor="let entry of data?.courses">{{entry.id}}: {{entry.title}}</mat-list-item>
-        </mat-list>
+      <span *ngFor="let entry of data?.courses | keys">
+          <mat-card>
+            <mat-card-header>
+                {{entry.key | uppercase}}
+            </mat-card-header>
+            <mat-card-content>
+              <mat-nav-list>
+                  <a mat-list-item role="listitem" *ngFor="let v of entry.value"> {{v.id}}: {{v.title}} </a>
+               </mat-nav-list>
+            </mat-card-content>
+          </mat-card>
+        </span>
+  </mat-tab>
+  <mat-tab label="Service">
+      <span *ngFor="let entry of data?.service | keys">
+          <mat-card>
+            <mat-card-header>
+                {{entry.key | uppercase}}
+            </mat-card-header>
+            <mat-card-content>
+              <mat-nav-list>
+                  <a mat-list-item role="listitem" *ngFor="let v of entry.value"> {{v.role}} at {{v.venue}} ({{v.venueshort}}), {{v.startdate}}-{{v.enddate}} </a>
+               </mat-nav-list>
+            </mat-card-content>
+          </mat-card>
+        </span>
   </mat-tab>
 </mat-tab-group>
