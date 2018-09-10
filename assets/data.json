@@ -13,6 +13,7 @@
             {"id":"10.1016/j.hlpt.2014.10.011", "title": "Open-source health information technology: A case study of electronic medical records", "authors": ["Hani Safad", "David Chan", "Martin Dawes", "Mark Roper", "Samer Faraj"], "year": 2015, "venue": "Health Policy and Technology", "url":"https://www.sciencedirect.com/science/article/pii/S2211883714000847"}
         ],
         "conference papers": [
+            {"id":"10.5465/AMBPP.2018.35", "title":"Who Contributes Knowledge? Embeddedness and Marginality in Online Communities", "authors":["Hani Safadi", "Steven Lawrence Johnson","Samer Faraj"], "venue":"Academy of Management Proceedings", "year":2018, "url":"https://journals.aom.org/doi/10.5465/AMBPP.2018.35"},
             {"id":"http://hdl.handle.net/10125/50268", "title":"The Role of Anchoring in Actualizing IT Affordances in EMR Implementations", "authors": [], "venue":"HICSS", "year": 2018}
         ],
         "grants": [
@@ -35,7 +36,7 @@
         ],
         "McGill University": [
             {"id":"INSY 437", "title":"Managing Data & Databases"},
-            {"id":"MGCR 331", "title":"Introduction to Information Systems "},
+            {"id":"MGCR 331", "title":"Introduction to Information Systems"},
             {"id":"COMP 250", "title":"Introduction to Algorithms and Data Structures"},
             {"id":"COMP 202", "title":"Introduction to Programming in Java "}
         ]
@@ -49,9 +50,7 @@
 
         ],
         "conference editorialship": [
-
-        ],
-        "conference reviewer": [
+            {"venue":"International Conference on Information Systems", "venueshort":"ICIS", "role":"Track Associate Editor ", "startdate":2016, "enddate":"present"}
 
         ]
     }
