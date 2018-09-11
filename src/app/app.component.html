@@ -27,7 +27,7 @@
         </mat-card-header>
         <mat-card-content>
           <mat-nav-list>
-              <a mat-list-item [href]="v.url" *ngFor="let v of entry.value"> {{ v.title }}, {{v.venue}} {{v.year}} </a>
+              <a mat-list-item [href]="v.url" *ngFor="let v of entry.value"> {{ v.title }}, {{v.venue}}, {{v.year}} </a>
            </mat-nav-list>
         </mat-card-content>
       </mat-card>
@@ -83,6 +83,10 @@
       <H2>Teaching</H2> 
         <span *ngFor='let university of data?.courses | keys'>
             <span *ngFor="let course of university.value">{{course.id}}: {{course.title}}, </span>
+        </span>
+      <H2>Professional Service</H2>
+        <span *ngFor='let cat of data?.service | keys'>
+            <li *ngFor="let service of cat.value">{{service.role}} at {{service.venue}} ({{service.venueshort}}), {{service.startdate}}-{{service.enddate}}</li>
         </span>
     </div>
   </mat-tab>

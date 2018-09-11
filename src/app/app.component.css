@@ -1,9 +1,28 @@
 .example-header-image {
     background-image: url('/assets/portrait.jpg');
-    /* background-image: url("{{data?.about.picture}}"); */
-    background-size: cover;
+    background-size:  cover;
   }
 
 .mat-card-header {
     font-weight: bold;
   }
+
+.mat-card-title {
+  font-weight: bold;
+  font-size: x-large;
+}
+
+.mat-card-subtitle {
+  font-weight: bold;
+  font-size: large;
+}
+
+.mat-card-content {
+  font-size: medium;
+}
+
+
+
+.mat-nav-item {
+  height: 300px;
+}
