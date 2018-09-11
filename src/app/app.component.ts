@@ -1,6 +1,5 @@
 import { Component } from '@angular/core';
 import { HttpClient } from '@angular/common/http';
-import { NgModule }      from '@angular/core';
 import { MatTabChangeEvent } from '@angular/material';
 @Component({
   selector: 'app-root',
