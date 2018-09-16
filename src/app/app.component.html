@@ -6,8 +6,8 @@
         <div mat-card-avatar class="example-header-image">
         </div>
 
-        <mat-card-title>{{data?.about.title}}</mat-card-title>
-        <mat-card-subtitle>{{data?.about.subtitle}}</mat-card-subtitle>
+        <mat-card-title>{{data?.about.name}}</mat-card-title>
+        <mat-card-subtitle>{{data?.about.title}}</mat-card-subtitle>
 
       </mat-card-header>
 
@@ -27,7 +27,9 @@
         </mat-card-header>
         <mat-card-content>
           <mat-nav-list>
-              <a mat-list-item [href]="v.url" *ngFor="let v of entry.value"> {{ v.title }}, {{v.venue}}, {{v.year}} </a>
+              <a mat-list-item [href]="v.url" *ngFor="let v of entry.value"> {{ v.title }}, {{v.venue}}, {{v.year}} 
+                {{v.authors | coauthors}} {{v.amount | currency}}
+              </a>
            </mat-nav-list>
         </mat-card-content>
       </mat-card>
@@ -63,28 +65,27 @@
   </mat-tab>
   <mat-tab label="🖨Print CV">
     <div id="print-section">
-      <H1>{{data?.about.title}}</H1>
-
-      <H2>Journal publications</H2>
+      <H2>{{data?.about.name}}, {{data?.about.title}}</H2>
+      <H3>Journal publications</H3>
         <li *ngFor='let paper of data?.research["journal papers"]'>
-            {{paper.title}}, {{paper.venue}}, {{paper.year}}
+            {{paper.title}}, {{paper.venue}}, {{paper.year}} {{paper.authors | coauthors}}
         </li>
 
-      <H2>Conference publications</H2>
+      <H3>Conference publications</H3>
         <li *ngFor='let paper of data?.research["conference papers"]'>
-            {{paper.title}}, {{paper.venue}}, {{paper.year}}
+            {{paper.title}}, {{paper.venue}}, {{paper.year}} {{paper.authors | coauthors}}
         </li>
 
-      <H2>Grants</H2>
+      <H3>Grants</H3>
           <li *ngFor='let grant of data?.research["grants"]'>
-              {{grant.title}}, {{grant.venue}}, {{grant.year}} (${{grant.amount}})
+              {{grant.title}}, {{grant.venue}}, {{grant.year}} ({{grant.amount | currency}})
           </li>
 
-      <H2>Teaching</H2> 
+      <H3>Teaching</H3> 
         <span *ngFor='let university of data?.courses | keys'>
             <span *ngFor="let course of university.value">{{course.id}}: {{course.title}}, </span>
         </span>
-      <H2>Professional Service</H2>
+      <H3>Professional Service</H3>
         <span *ngFor='let cat of data?.service | keys'>
             <li *ngFor="let service of cat.value">{{service.role}} at {{service.venue}} ({{service.venueshort}}), {{service.startdate}}-{{service.enddate}}</li>
         </span>
