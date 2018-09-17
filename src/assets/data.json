@@ -1,57 +1,527 @@
 {
     "about": {
-        "name":"Hani Safadi",
+        "name": "Hani Safadi",
         "title": "Assistant Professor",
         "blurb": "Hani Safadi is an assistant professor in the Terry College of Business at the University of Georgia and a research collaborator at Mayo Clinic. He is interested in online communities, social media, healthcare information technology, mixed-methods research and the application of computational linguistics in studying qualitative data. He holds a Ph.D. in Management Information Systems from McGill University.",
-        "picture": "/assets/portrait.jpg"
+        "picture": "/assets/portrait.jpg",
+        "education": [
+            {
+                "title": "Ph.D. in Information Systems Management",
+                "venue": "McGill University",
+                "startdate": 2009,
+                "enddate": 2014
+            },
+            {
+                "title": "M.Sc. in Computer Science",
+                "venue": "McGill University",
+                "startdate": 2006,
+                "enddate": 2008
+            },
+            {
+                "title": "B.Eng. in Computer Engineering",
+                "venue": "University of Damascus",
+                "startdate": 2001,
+                "enddate": 2006
+            }
+        ],
+        "work": [
+            {
+                "title": "Assistant Professor",
+                "venue": "University of Georgia, Terry College of Business",
+                "startdate": 2015,
+                "enddate": "present"
+            },
+            {
+                "title": "Visiting Assistant Professor",
+                "venue": "Stevens Institute of Technology, School of Business",
+                "startdate": 2014,
+                "enddate": 2015
+            },
+            {
+                "title": "Instructor",
+                "venue": "McGill University, Desautels Faculty of Management",
+                "startdate": 2012,
+                "enddate": 2013
+            }
+        ]
     },
     "research": {
         "journal papers": [
-            {"id":"", "title": "Data-Driven Computationally-Intensive Theory Development", "authors": ["Nicholas Berente", "Stefan Seidel", "Hani Safadi"], "year": 2018, "venue": "Information Systems Research", "url":"https://www.researchgate.net/publication/322069351_Data-Driven_Computationally-Intensive_Theory_Development"},
-            {"id":"", "title": "Social Media Affordances for Connective Action: An Examination of Microblogging Use During the Gulf of Mexico Oil Spill", "authors": ["Emmanuelle Vaast", "Hani Safadi", "Liette Lapointe", "Bogdan Negoita"], "year": 2017, "venue": "MIS Quarterly", "url":"https://misq.org/social-media-affordances-for-connective-action-an-examination-of-microblogging-use-during-the-gulf-of-mexico-oil-spill.html"},
-            {"id":"10.1287/isre.2014.0562", "title": "The Emergence of Online Community Leadership", "authors": ["Steven Johnson", "Hani Safadi", "Samer Faraj"], "year": 2015, "venue": "Information Systems Research", "url":"https://www.researchgate.net/publication/277553143_The_Emergence_of_Online_Community_Leadership"},
-            {"id":"10.1016/j.hlpt.2014.10.011", "title": "Open-source health information technology: A case study of electronic medical records", "authors": ["Hani Safadi", "David Chan", "Martin Dawes", "Mark Roper", "Samer Faraj"], "year": 2015, "venue": "Health Policy and Technology", "url":"https://www.sciencedirect.com/science/article/pii/S2211883714000847"}
+            {
+                "id": "",
+                "title": "Data-Driven Computationally-Intensive Theory Development",
+                "authors": [
+                    "Nicholas Berente",
+                    "Stefan Seidel",
+                    "Hani Safadi"
+                ],
+                "year": 2018,
+                "venue": "Information Systems Research",
+                "url": "https://www.researchgate.net/publication/322069351_Data-Driven_Computationally-Intensive_Theory_Development",
+                "abstract": "Increasingly abundant trace data provides an opportunity for information systems researchers to generate new theory. In this research commentary, we draw on the largely \"manual\" tradition of the grounded theory methodology (GTM) and the highly \"automated\" process of computational theory discovery (CTD) in the sciences to develop a general approach to computa-tionally-intensive theory development from trace data. This approach involves the iterative application of four general processes: sampling, synchronic analysis, lexical framing, and dia-chronic analysis. We provide examples from recent research in information systems."
+            },
+            {
+                "id": "",
+                "title": "Social Media Affordances for Connective Action: An Examination of Microblogging Use During the Gulf of Mexico Oil Spill",
+                "authors": [
+                    "Emmanuelle Vaast",
+                    "Hani Safadi",
+                    "Liette Lapointe",
+                    "Bogdan Negoita"
+                ],
+                "year": 2017,
+                "venue": "MIS Quarterly",
+                "url": "https://misq.org/social-media-affordances-for-connective-action-an-examination-of-microblogging-use-during-the-gulf-of-mexico-oil-spill.html",
+                "abstract": "This research questions how social media use affords new forms of organizing and collective engagement. The concept of connective action has been introduced to characterize such new forms of collective engagement in which actors coproduce and circulate content based upon an issue of mutual interest. Yet, how the use of social media actually affords connective action still needed to be investigated. Mixed methods analyses of microblogging use during the Gulf of Mexico oil spill bring insights onto this question and reveal in particular how multiple actors enacted emerging and interdependent roles with their distinct patterns of feature use. The findings allow us to elaborate upon the concept of connective affordances as collective level affordances actualized by actors in team interdependent roles. Connective affordances extend research on affordances as a relational concept by considering not only the relationships between technology and users but also the interdependence type among users and the effects of this interdependence onto what users can do with the technology. This study contributes to research on social media use by paying close attention to how distinct patterns of feature use enact emerging roles. Adding to IS scholarship on the collective use of technology, it considers how the patterns of feature use for emerging groups of actors are intricately and mutually related to each other."
+            },
+            {
+                "id": "10.1287/isre.2014.0562",
+                "title": "The Emergence of Online Community Leadership",
+                "authors": [
+                    "Steven Johnson",
+                    "Hani Safadi",
+                    "Samer Faraj"
+                ],
+                "year": 2015,
+                "venue": "Information Systems Research",
+                "url": "https://www.researchgate.net/publication/277553143_The_Emergence_of_Online_Community_Leadership"
+            },
+            {
+                "id": "10.1016/j.hlpt.2014.10.011",
+                "title": "Open-source health information technology: A case study of electronic medical records",
+                "authors": [
+                    "Hani Safadi",
+                    "David Chan",
+                    "Martin Dawes",
+                    "Mark Roper",
+                    "Samer Faraj"
+                ],
+                "year": 2015,
+                "venue": "Health Policy and Technology",
+                "url": "https://www.sciencedirect.com/science/article/pii/S2211883714000847"
+            }
         ],
         "conference papers": [
-            {"id":"10.5465/AMBPP.2018.35", "title":"Who Contributes Knowledge? Embeddedness and Marginality in Online Communities", "authors":["Hani Safadi", "Steven Lawrence Johnson","Samer Faraj"], "venue":"Academy of Management Proceedings", "year":2018, "url":"https://journals.aom.org/doi/10.5465/AMBPP.2018.35"},
-            {"id":"http://hdl.handle.net/10125/50268", "title":"The Role of Anchoring in Actualizing IT Affordances in EMR Implementations", "authors": [], "venue":"HICSS", "year": 2018}
+            {
+                "id": "10.5465/AMBPP.2018.35",
+                "title": "Who Contributes Knowledge? Embeddedness and Marginality in Online Communities",
+                "authors": [
+                    "Hani Safadi",
+                    "Steven Lawrence Johnson",
+                    "Samer Faraj"
+                ],
+                "venue": "Academy of Management Proceedings",
+                "year": 2018,
+                "url": "https://journals.aom.org/doi/10.5465/AMBPP.2018.35"
+            },
+            {
+                "id": "10.24251/HICSS.2018.380",
+                "title": "The Role of Anchoring in Actualizing IT Affordances in EMR Implementations",
+                "authors": [
+                    "Venkata Mallampalli",
+                    "Hani Safadi",
+                    "Samer Faraj"
+                ],
+                "venue": "Hawaii International Conference on System Sciences",
+                "year": 2018,
+                "url": "https://www.researchgate.net/publication/323379738_The_Role_of_Anchoring_in_Actualizing_IT_Affordances_in_EMR_Implementations"
+            },
+            {
+                "id": "10.5465/ambpp.2017.11597abstract",
+                "title": "Design of an Interactive Visual System to Support Grounded Process Theorizing from Qualitative Data",
+                "authors": [
+                    "Hani Safadi",
+                    "Marie-Claude Bourdeau"
+                ],
+                "venue": "Academy of Management Proceedings",
+                "year": 2017,
+                "url": "https://journals.aom.org/doi/abs/10.5465/ambpp.2017.11597abstract"
+            },
+            {
+                "id": "",
+                "title": "The distributed construction of an occupational community with social media",
+                "authors": [
+                    "Emmanuelle Vaast",
+                    "Hani Safadi",
+                    "Lisa Cohen"
+                ],
+                "venue": "International Conference on Information Systems",
+                "year": 2015,
+                "url": ""
+            },
+            {
+                "id": "10.5465/ambpp.2017.11597abstract",
+                "title": "The Power of Words Online: Explaining Tie Formation of New Members in Open-Source Online Communities",
+                "authors": [
+                    "Hani Safadi",
+                    "Samer Faraj"
+                ],
+                "venue": "Academy of Management Proceedings",
+                "year": 2014,
+                "url": "https://journals.aom.org/doi/abs/10.5465/ambpp.2014.12549abstract"
+            },
+            {
+                "id": "arXiv:1406.2977",
+                "title": "Toward a Local Perspective on Online Collaboration",
+                "authors": [
+                    "Hani Safadi",
+                    "Samer Faraj"
+                ],
+                "venue": "Collective Intelligence",
+                "year": 2014,
+                "url": "https://arxiv.org/ftp/arxiv/papers/1406/1406.2977.pdf"
+            },
+            {
+                "id": "10.5465/ambpp.2014.104",
+                "title": "Grassroots versus Established Actors' Framing of a Crisis: Tweeting the Oil Spill",
+                "authors": [
+                    "Hani Safadi",
+                    "Liette Lapointe",
+                    "Emmanuelle Vaast",
+                    "Bogdan Negoita"
+                ],
+                "venue": "Academy of Management Proceedings",
+                "year": 2014,
+                "url": "https://journals.aom.org/doi/abs/10.5465/ambpp.2014.104"
+            },
+            {
+                "id": "https://www.semanticscholar.org/paper/Stakeholders'-Use-of-Microblogging-to-Engage-in-a-Vaast-Lapointe/169337b6f7644c41bc93743aa85425fcefa4fad3",
+                "title": "Stakeholders' Use of Microblogging to Engage in Emotion Strategies During a Crisis",
+                "authors": [
+                    "Hani Safadi",
+                    "Liette Lapointe",
+                    "Bogdan Negoita",
+                    "Emmanuelle Vaast"
+                ],
+                "venue": "International Conference on Information Systems",
+                "year": 2012,
+                "url": "https://www.semanticscholar.org/paper/Stakeholders'-Use-of-Microblogging-to-Engage-in-a-Vaast-Lapointe/169337b6f7644c41bc93743aa85425fcefa4fad3"
+            },
+            {
+                "id": "",
+                "title": "Symbolic action through microblogging during and after a crisis: Tweeting the oil spill",
+                "authors": [
+                    "Emmanuelle Vaast",
+                    "Bogdan Negoita",
+                    "Hani Safadi"
+                ],
+                "venue": "Academy of Management Proceedings",
+                "year": 2012,
+                "url": ""
+            },
+            {
+                "id": "https://aisel.aisnet.org/amcis2011_submissions/21",
+                "title": "IT in Healthcare: an Integrative Study of Organizational Change",
+                "authors": [
+                    "Hani Safadi",
+                    "Samer Faraj"
+                ],
+                "venue": "Americas Conference Information System",
+                "year": 2011,
+                "url": "https://aisel.aisnet.org/amcis2011_submissions/21"
+            },
+            {
+                "id": "https://aisel.aisnet.org/icis2010_submissions/47",
+                "title": "The Role of Workarounds during an Opensource Electronic Medical Record System Implementation",
+                "authors": [
+                    "Hani Safadi",
+                    "Samer Faraj"
+                ],
+                "venue": "International Conference on Information Systems",
+                "year": 2010,
+                "url": "https://aisel.aisnet.org/icis2010_submissions/47/"
+            },
+            {
+                "id": "http://citeseerx.ist.psu.edu/viewdoc/summary?doi=10.1.1.331.1043",
+                "title": "Incorporating Knowledge of Source Language Text in a System for Dictation of Document Translations",
+                "authors": [
+                    "Hani Safadi",
+                    "Aarthi Reddy",
+                    "Richard Rose",
+                    "Samuel Larkin",
+                    "Gilles Boulianne"
+                ],
+                "venue": "Proceedings of the twelfth Machine Translation Summit",
+                "year": 2009,
+                "url": "http://citeseerx.ist.psu.edu/viewdoc/summary?doi=10.1.1.331.1043"
+            },
+            {
+                "id": "10.1109/ICTTA.2006.1684669",
+                "title": "AraPen: An Arabic Online Handwriting Recognition System",
+                "authors": [
+                    "Hani Safadi",
+                    "Bilal Alsallakh"
+                ],
+                "venue": "IEEE International Conference on Information & Communication Technologies",
+                "year": 2006,
+                "url": "https://ieeexplore.ieee.org/document/1684669"
+            },
+            {
+                "id": "https://www.w3.org/2006/02/SSML/papers/HIAST/final_Voc2.pdf",
+                "title": "Computational Methods to Vocalize Arabic Texts",
+                "authors": [
+                    "Hani Safadi",
+                    "Oumayma Dakkak",
+                    "Nada Ghneim"
+                ],
+                "venue": "Internationalizing SSML",
+                "year": 2006,
+                "url": "https://www.w3.org/2006/02/SSML/papers/HIAST/final_Voc2.pdf"
+            }
+        ],
+        "workshop papers": [
+            {
+                "id": "",
+                "title": "ODIN: Tracing Ideas, Entities, and Relationships from Big Textual Data",
+                "authors": [
+                    "Hani Safadi"
+                ],
+                "venue": "Pre-ICIS Workshop on Text Mining as a Strategy of Inquiry in Information Systems Research",
+                "year": 2016,
+                "url": "",
+                "abstract": ""
+            }
+        ],
+        "books": [
+            {
+                "id": "9783838326771",
+                "title": "Open-Source Software and Health Information Technology: The Impact of Open-Source Software in Adopting and Implementing Electronic Medical Record Systems",
+                "authors": [
+                    "Hani Safadi"
+                ],
+                "venue": "LAP Lambert Academic Publishing",
+                "year": 2010,
+                "url": "https://www.amazon.com/Open-Source-Software-Health-Information-Technology/dp/3838326776",
+                "abstract": "The open-source software development model emerged as a serious competitor to proprietary software development models. Open-source development relies on the efforts of voluntary individuals and organizations to develop, test and use the software. This first essay, focuses on understanding the development process of open-source systems by looking at the communication between the two groups as an important indicator of the sophistication of the system. We argue that this continuous feedback loop is a determining factor of the system evolution. The essay presents a theory regarding it, develops its constructs and suggests a methodology to test the theory. The second essay focuses on the adoption of open-source Health Information Technology (HIT) in the delivery of health care. More specifically, it looks into the challenges that face the adoption and the implementation of Electronic Medical Record (EMR) systems. Open-Source software is an alternative to proprietary software. The study examines the specifics of open-source EMR systems in order to see how such systems may alleviate some of the challenges of the adoption and the implementation of traditional proprietary EMR systems."
+            },
+            {
+                "id": "9780557448098",
+                "title": "Crosslingual Implementation of Linguistic Taggers using Parallel Corpora",
+                "authors": [
+                    "Hani Safadi"
+                ],
+                "venue": "Self-Published Master Dissertation, Lulu Press",
+                "year": 2010,
+                "url": "https://www.amazon.com/Crosslingual-Implementation-Linguistic-Taggers-Parallel/dp/0557448093",
+                "abstract": "This book addresses the problem of creating linguistic taggers for resource-poor languages using existing taggers in resource rich languages. Linguistic taggers are classifiers that map individual words or phrases from a sentence to a set of tags. Linguistic taggers are usually trained using supervised learning algorithms.The proposed approach does not require that the input sentence be translated into the source language. Instead, projection of linguistic tags is accomplished through the use of a parallel corpus, which is a collection of texts that are available in a source language and a target language. The correspondence between words of the source and target language allows to project tags from source to target language words.A parallel corpus of the source and target languages might not be readily available for many language pairs. To deal with this problem, we describe a system for automatic acquisition of aligned, bilingual corpora from pre-specified domains on the World Wide Web."
+            }
+        ],
+        "theses": [
+            {
+                "id": "130355",
+                "title": "Knowledge creation in health IT online communities",
+                "authors": [
+                    "Hani Safadi",
+                    "Samer Faraj (Supervisor)"
+                ],
+                "venue": "Doctor of Philosophy Thesis",
+                "year": 2015,
+                "url": "http://digitool.Library.McGill.CA:80/R/-?func=dbin-jump-full&object_id=130355&silo_library=GEN01",
+                "abstract": "Research on knowledge and digital production in Communities of Innovation is still in its early stages. The most sustained research has focused on open-source software development as it has emerged as a serious competitor to the traditional proprietary software. The Linux operating system, the Apache web server, and the Firefox browser are all successful open-source products that achieved wide commercial success over their proprietary competitors. It has been argued that open-source software combines aspects of private investment and common action production models. This new combination requires fundamental revisions to theories of innovation. With the objective of gaining a deeper understanding of open innovation in healthcare, this research focuses on how online communities focused on innovation create, share, and evolve knowledge artifacts.Specifically, I explore the development, evolution, and knowledge creation in a community of innovation centered on an open-source Electronic Medical Record (EMR) named OSCAR. This community is primarily Canadian, has been in existence for a decade, and has developed an EMR that is rapidly diffusing (currently used by over 1,500 Canadian doctors to follow over a million patients). The OSCAR EMR is freely available open-source software and is gaining market share against commercial products typically costing $25,000 per year. Given the complexity of such software, the mission-critical nature of patient records for solving Canadian and world health issues, and the fact that the vast majority of users (family doctors) are not computer savvy, this success is unusual and significant. Contrary to other open-source projects, this software is embedded in a community of doctors rather than a community of programmers. The community is active both face to face via user meetings and online via discussion forums.Focusing on knowledge creation and software evolution, I take on three interrelated studies of this healthcare community of innovation to answer the following research questions: (1) What determines individual members' contributions in the community? (2) How does the community integrate individual contributions into the digital artifact? (3) How does the community grow and evolve overtime creating and sustaining its collaborative structure? Taken together, the studies contribute theoretically by exploring the knowledge exchanges and innovation dynamics in a community of innovation that involves diverse groups of participants (e.g., doctors, programmers, nurses, administrators). They will also help shed light on an important class of innovation communities, one where Canada is a leader and where the innovation outcomes are helping computerize healthcare in Canada."
+            },
+            {
+                "id": "22000",
+                "title": "Crosslingual implementation of linguistic taggers using parallel corpora",
+                "authors": [
+                    "Hani Safadi",
+                    "Doina Precup (Supervisor)",
+                    "Richard Rose (Co-Supervisor)"
+                ],
+                "venue": "Master of Science Thesis",
+                "year": 2008,
+                "url": "http://digitool.Library.McGill.CA:80/R/-?func=dbin-jump-full&object_id=22000&silo_library=GEN01",
+                "abstract": "This thesis addresses the problem of creating linguistic taggers for resource-poor languages using existing taggers in resource rich languages. Linguistic taggers are classifiers that map individual words or phrases from a sentence to a set of tags. Part of speech tagging and named entity extraction are two examples of linguistic tagging. Linguistic taggers are usually trained using supervised learning algorithms. This requires the existence of labeled training data, which is not available for many languages. We describe an approach for assigning linguistic tags to sentences in a target (resource-poor) language by exploiting a linguistic tagger that has been configured in a source (resource-rich) language. The approach does not require that the input sentence be translated into the source language. Instead, projection of linguistic tags is accomplished through the use of a parallel corpus, which is a collection of texts that are available in a source language and a target language. The correspondence between words of the source and target language allows us to project tags from source to target language words. The projected tags are further processed to compute the final tags of the target language words. A system for part of speech (POS) tagging of French language sentences using an English language POS tagger and an English/French parallel corpus has been implemented and evaluated using this approach. A parallel corpus of the source and target languages might not be readily available for many language pairs. To deal with this problem, we describe a system for automatic acquisition of aligned, bilingual corpora from pre-specified domains on the World Wide Web. The system involves automatic indexing of a given domain using a web crawler, identifying pairs of pages that are translations of one another, and aligning bilingual texts at the sentence level. Using this approach we create a 40,000,000 word English-French parallel corpus from the Government of Canada domain. The quality of this corpus is evaluated and compared to other parallel corpora."
+            }
         ],
         "grants": [
-            {"id":"GR-FP00009170", "title":"Design and Evaluation of a Digital Transparency Platform for Advancing Legislative and Regulatory Transparency", "year":2017, "venue": "Institute of Museum and Library Services", "amount":49839, "url":"https://www.imls.gov/grants/awarded/lg-72-17-0078-17"},
-            {"id":"34A55206-4A6D-4618-B945-AC7FC4FD4B74", "title": "Effective Moderation of Online Patient Communities", "year": 2017, "venue":"University of Georgia Research Foundation", "amount":9829 }
-        ]
-    } ,
-    "courses": {
-        "University of Georgia": [
-            {"id":"MIST 9000", "title":"Doctoral Research"},
-            {"id":"MIST 9777", "title":"Big Data Research Methods for Computational Social Science"},
-            {"id":"MIST 9750", "title":"Individual Level Theories in Information Systems"},
-            {"id":"MIST 9760", "title":"Special Topics in Information Systems Research"},       
-            {"id":"MIST 4600", "title":"Computer Programming in Business"},
-            {"id":"FYOS 1001", "title":"iOS App Development and Game Programming Using Swift"}
-        ],
-        "Stevens Institute of Technology": [
-            {"id":"BIA 658", "title":"Social Networks Analytics"},
-            {"id":"MIS 630", "title":"Data and Knowledge Management"}
-        ],
-        "McGill University": [
-            {"id":"INSY 437", "title":"Managing Data & Databases"},
-            {"id":"MGCR 331", "title":"Introduction to Information Systems"},
-            {"id":"COMP 250", "title":"Introduction to Algorithms and Data Structures"},
-            {"id":"COMP 202", "title":"Introduction to Programming in Java "}
+            {
+                "id": "GR-FP00009170",
+                "title": "Design and Evaluation of a Digital Transparency Platform for Advancing Legislative and Regulatory Transparency",
+                "year": 2017,
+                "venue": "Institute of Museum and Library Services",
+                "amount": 49839,
+                "url": "https://www.imls.gov/grants/awarded/lg-72-17-0078-17"
+            },
+            {
+                "id": "34A55206-4A6D-4618-B945-AC7FC4FD4B74",
+                "title": "Effective Moderation of Online Patient Communities",
+                "year": 2017,
+                "venue": "University of Georgia Research Foundation",
+                "amount": 9829
+            }
         ]
     },
-
+    "courses": {
+        "University of Georgia": [
+            {
+                "id": "MIST 9000",
+                "title": "Doctoral Research"
+            },
+            {
+                "id": "MIST 9777",
+                "title": "Big Data Research Methods for Computational Social Science"
+            },
+            {
+                "id": "MIST 9750",
+                "title": "Individual Level Theories in Information Systems"
+            },
+            {
+                "id": "MIST 9760",
+                "title": "Special Topics in Information Systems Research"
+            },
+            {
+                "id": "MIST 4600",
+                "title": "Computer Programming in Business"
+            },
+            {
+                "id": "FYOS 1001",
+                "title": "iOS App Development and Game Programming Using Swift"
+            }
+        ],
+        "Stevens Institute of Technology": [
+            {
+                "id": "BIA 658",
+                "title": "Social Networks Analytics"
+            },
+            {
+                "id": "MIS 630",
+                "title": "Data and Knowledge Management"
+            }
+        ],
+        "McGill University": [
+            {
+                "id": "INSY 437",
+                "title": "Managing Data & Databases"
+            },
+            {
+                "id": "MGCR 331",
+                "title": "Introduction to Information Systems"
+            },
+            {
+                "id": "COMP 250",
+                "title": "Introduction to Algorithms and Data Structures"
+            },
+            {
+                "id": "COMP 202",
+                "title": "Introduction to Programming in Java "
+            }
+        ]
+    },
     "service": {
         "journal editorialship": [
-            {"venue": "IEEE Transactions on Engineering Management", "venueshort":"IEEE TEM", "role":"Review Board Member", "startdate": 2016, "enddate":"present"}
+            {
+                "venue": "IEEE Transactions on Engineering Management",
+                "venueshort": "IEEE TEM",
+                "role": "Review Board Member",
+                "startdate": 2016,
+                "enddate": "present"
+            }
         ],
         "journal reviewer": [
-
+            {
+                "venue": "MIS Quarterly",
+                "venueshort": "MISQ",
+                "role": "Reviewer"
+            },
+            {
+                "venue": "Information Systems Research",
+                "venueshort": "ISR",
+                "role": "Reviewer"
+            },
+            {
+                "venue": "Management Science",
+                "venueshort": "Management Science",
+                "role": "Reviewer"
+            },
+            {
+                "venue": "Journal of the Association for Information Systems",
+                "venueshort": "JAIS",
+                "role": "Reviewer"
+            },
+            {
+                "venue": "ACM Transactions on Management Information Systems",
+                "venueshort": "TMIS",
+                "role": "Reviewer"
+            },
+            {
+                "venue": "Communications of the Association for Information Systems",
+                "venueshort": "CAIS",
+                "role": "Reviewer"
+            },
+            {
+                "venue": "Information and Organization",
+                "venueshort": "I&O",
+                "role": "Reviewer"
+            },
+            {
+                "venue": "Health Policy and Technology",
+                "venueshort": "HPT",
+                "role": "Reviewer"
+            }
         ],
         "conference editorialship": [
-            {"venue":"International Conference on Information Systems", "venueshort":"ICIS", "role":"Track Associate Editor ", "startdate":2016, "enddate":"present"}
-
+            {
+                "venue": "International Conference on Information Systems",
+                "venueshort": "ICIS",
+                "role": "Track Associate Editor",
+                "startdate": 2016,
+                "enddate": "present"
+            },
+            {
+                "venue": "Organizational Communication and Information Systems",
+                "venueshort": "OCIS",
+                "role": "OCIS Division Associate Editor",
+                "startdate": 2016,
+                "enddate": "present"
+            },
+            {
+                "venue": "International Federation for Information Processing",
+                "venueshort": "IFIP",
+                "role": "Conference Chair",
+                "startdate": 2015,
+                "enddate": 2015
+            },
+            {
+                "venue": "The First International Workshop on Privacy and Security in HealthCare",
+                "venueshort": "",
+                "role": "Technical Committee member ",
+                "startdate": 2014,
+                "enddate": 2014
+            }
+        ]
+    },
+    "invitations": {
+        "talks": [
+            {
+                "id": "",
+                "title": "Talking about us and them: The formation of a new occupation’s ecosystem with digital technology use",
+                "venue": "University of Minnesota Carlson School of Management",
+                "year": 2016,
+                "url": "",
+                "abstract": ""
+            }
+        ],
+        "panels": [
+            {
+                "id": "10.5465/ambpp.2015.12911symposium",
+                "title": "The Role of Information Technology and Work Practices in Relational Coordination",
+                "venue": "Academy of Management Symposium",
+                "year": 2015,
+                "url": "https://journals.aom.org/doi/10.5465/ambpp.2015.12911symposium",
+                "abstract": "Information and communication technologies (ICTs) play an increasingly important role in the facilitation of complex, non- routine knowledge work that relies on rapid assessments of uncertain situations and tight coordination among professional workers. In contrast to routinized or transactional work settings, the influences of technology on professionals’ communication and coordination in this type of work are not clear. In this symposium, four empirical presentations examine how technology enables, constrains and changes work practices and coordination in multi-disciplinary health care organizations, which are prototypical examples of contemporary, complex organizations undergoing remarkable digital transformations. Following the presentations, Wanda Orlikowski and Jody Hoffer Gittell will serve as discussants to provide both theoretical and practical insights and lead an interactive group discussion that focuses on how information technology influences relational coordination processes and outcomes in professional work settings."
+            }
+        ]
+    },
+    "recognition": {
+        "awards": [
+            {
+                "id": "",
+                "title": "Best Published Paper In 2015: The Emergence of Online Community Leadership",
+                "venue": "Annual Meeting of the Academy of Management",
+                "year": 2016,
+                "url": "",
+                "abstract": ""
+            }
         ]
     }
 }
