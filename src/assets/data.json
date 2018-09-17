@@ -9,19 +9,22 @@
                 "title": "Ph.D. in Information Systems Management",
                 "venue": "McGill University",
                 "startdate": 2009,
-                "enddate": 2014
+                "enddate": 2014,
+                "abstract": "GPA 3.92/4.0"
             },
             {
                 "title": "M.Sc. in Computer Science",
                 "venue": "McGill University",
                 "startdate": 2006,
-                "enddate": 2008
+                "enddate": 2008,
+                "abstract": "GPA 4.0/4.0"
             },
             {
                 "title": "B.Eng. in Computer Engineering",
                 "venue": "University of Damascus",
                 "startdate": 2001,
-                "enddate": 2006
+                "enddate": 2006,
+                "abstract": "2nd student in the cohort"
             }
         ],
         "work": [
@@ -38,11 +41,45 @@
                 "enddate": 2015
             },
             {
+                "title": "Software Developer",
+                "venue": "Queen Elizabeth Health Complex",
+                "startdate": 2012,
+                "enddate": 2013,
+                "abstract": "Supporting and implementing a multi-clinic Open-Source Electronic Medical System "
+            },
+            {
                 "title": "Instructor",
                 "venue": "McGill University, Desautels Faculty of Management",
                 "startdate": 2012,
-                "enddate": 2013
-            }
+                "enddate": 2011
+            },
+            {
+                "title": "Search Engine Optimization Consultant",
+                "venue": "McGill University",
+                "startdate": 2009,
+                "enddate": 2009,
+                "abstract": "Improving the visibility of the graduate school new website and optimizing it for search engines "
+            },
+            {
+                "title": "Research Engineer",
+                "venue": "Yahoo!",
+                "startdate": 2007,
+                "enddate": 2007,
+                "abstract": "Using statistical machine translation technology to enhance user query experience in Yahoo! Answers "
+            },
+            {
+                "title": "Software Developer",
+                "venue": "Arexera Information Technology",
+                "startdate": 2005,
+                "enddate": 2005,
+                "abstract": "Adaptation of Arexera's search engine technologies to Arabic"
+            },
+            {
+                "title": "Software Developer",
+                "venue": "TeachArabia",
+                "startdate": 2004,
+                "enddate": 2005
+            }             
         ]
     },
     "research": {
@@ -331,6 +368,19 @@
                 "year": 2008,
                 "url": "http://digitool.Library.McGill.CA:80/R/-?func=dbin-jump-full&object_id=22000&silo_library=GEN01",
                 "abstract": "This thesis addresses the problem of creating linguistic taggers for resource-poor languages using existing taggers in resource rich languages. Linguistic taggers are classifiers that map individual words or phrases from a sentence to a set of tags. Part of speech tagging and named entity extraction are two examples of linguistic tagging. Linguistic taggers are usually trained using supervised learning algorithms. This requires the existence of labeled training data, which is not available for many languages. We describe an approach for assigning linguistic tags to sentences in a target (resource-poor) language by exploiting a linguistic tagger that has been configured in a source (resource-rich) language. The approach does not require that the input sentence be translated into the source language. Instead, projection of linguistic tags is accomplished through the use of a parallel corpus, which is a collection of texts that are available in a source language and a target language. The correspondence between words of the source and target language allows us to project tags from source to target language words. The projected tags are further processed to compute the final tags of the target language words. A system for part of speech (POS) tagging of French language sentences using an English language POS tagger and an English/French parallel corpus has been implemented and evaluated using this approach. A parallel corpus of the source and target languages might not be readily available for many language pairs. To deal with this problem, we describe a system for automatic acquisition of aligned, bilingual corpora from pre-specified domains on the World Wide Web. The system involves automatic indexing of a given domain using a web crawler, identifying pairs of pages that are translations of one another, and aligning bilingual texts at the sentence level. Using this approach we create a 40,000,000 word English-French parallel corpus from the Government of Canada domain. The quality of this corpus is evaluated and compared to other parallel corpora."
+            },
+            {
+                "id": "",
+                "title": "Computational Methods to Vocalize Arabic Texts",
+                "authors": [
+                    "Hani Safadi",
+                    "Oumayma Dakkak (Supervisor)",
+                    "Nada Ghneim (Co-Supervisor)"
+                ],
+                "venue": "Bachelor of Engineering Thesis",
+                "year": 2006,
+                "url": "",
+                "abstract": "Arabic Language has two kinds of vowels: Long vowels which are written as normal letters; and short vowels which are written as punctuation marks, above or below letters. Those short vowels are normally omitted in Arabic texts because the reader can fill them and guess the meaning based on his knowledge of the language, and the context in which the words are. However, with the widespread usage of computers in linguistics application; Arabic texts need to be supplied with short vowels in order to be analyzed. Search engines, text to speech engines, and text mining tools are just some examples of applications that need Arabic texts to be vocalized before being processed. In this paper, we present a new method to supply those vocals. The approach emphasizes on unsupervised machine methods, because public Arabic corpora are not available. Arabic rich morphology and diverse orthography present serious challenges for this approach. An algorithm is developed and a system is implemented in Java."
             }
         ],
         "grants": [
@@ -349,6 +399,18 @@
                 "venue": "University of Georgia Research Foundation",
                 "amount": 9829
             }
+        ],
+        "reports": [
+            {
+                "id": "",
+                "title": "Query Reformulation with Query Logs and Statistical Machine Translation",
+                "year": 2007,
+                "authors": [
+                    "Hani Safadi",
+                    "Jean-François Crespo"
+                ],
+                "venue": "Yahoo! Research Internal Report"
+            }           
         ]
     },
     "courses": {
@@ -415,9 +477,7 @@
                 "role": "Review Board Member",
                 "startdate": 2016,
                 "enddate": "present"
-            }
-        ],
-        "journal reviewer": [
+            },
             {
                 "venue": "MIS Quarterly",
                 "venueshort": "MISQ",
@@ -494,18 +554,58 @@
         "talks": [
             {
                 "id": "",
+                "title": "Cognitive Augmentation of Human Sensemaking of Large Textual Data",
+                "venue": "American University of Beirut Olayan School of Business",
+                "year": 2018,
+                "url": "",
+                "abstract": "Five decades ago, Herbert Simon identified the challenge of extracting useful patterns from data, rather than storing larger amounts of data. This predicament is much more salient today, particularly for decision makers overloaded by information. The language and cognitive schemas that humans have evolved over thousands of years are now encountering a new kind of environment in which people are increasingly blinded to the limits of thought and action. Overwhelmed by the sheer volume of information associated with complex problems and highly ambiguous circumstances, decision makers face a variety of challenges that at times can seem insurmountable. Knowledge workers in many professions depend on reading and making sense of textual data. Journalists, lawyers and investigative analysts all need to read through many documents, categorize events and concepts, and connect threads of evidence in order to reach conclusions. As the number of documents grows, sensemaking becomes more challenging. One recent example is the Panama Papers leak. Journalists spent three years analyzing 3TB of text before they reached a conclusion about illegal offshoring activities. Today, there are many tools for content analysis and discovery. However, most of these tools are designed for specific information retrieval tasks. We lack the understanding of how these technologies augment human cognition to serve sensemaking. The future of knowledge work will involve technologies that augment human sensemaking of large amounts of text data. The Open Data Innovation Project (ODIN) has two key elements. First, we build a tool that integrates and extends methods for unifying and visualizing text data in the domain problem of legislative law. Then we design and conduct a set of experiments centered on human sensemaking to elicit general principles for human cognitive augmentation. This presentation will focus on the first part. I will overview the theoretical and design principles of the ODIN project. I will then present some applications of ODIN. I am hoping that I can stir some interest in ODIN and that scholars and practitioners will be interested in using it for new applications and in new domains."
+            },
+            {
+                "id": "",
+                "title": "Text Mining & Natural Language Processing for Management Research",
+                "venue": "Stevens Institute of Technology School of Business",
+                "year": 2016,
+                "url": "",
+                "abstract": ""
+            },           
+            {
+                "id": "",
                 "title": "Talking about us and them: The formation of a new occupation’s ecosystem with digital technology use",
                 "venue": "University of Minnesota Carlson School of Management",
                 "year": 2016,
                 "url": "",
                 "abstract": ""
+            },
+            {
+                "id": "",
+                "title": "Don’t Pretend to Test Hypotheses: Lexicon and the Legitimization of Empirically-Grounded Computationally-Intensive Theory Development",
+                "venue": "American University of Beirut Olayan School of Business",
+                "year": 2016,
+                "url": "",
+                "abstract": "The unprecedented availability of digital traces of human activity is already revolutionizing IS research. In this research commentary, we draw on Habermas’s “rational reconstruction” as a legitimizing epistemological foundation for how trace data can be used to develop novel and important theory. We leverage lessons learned from Grounded Theory Method (GTM) and articulate a general process for computationally-intensive, empirically-grounded theory generation. This view emphasizes the importance of a lexicon and of emergence in the process of building theory. We focus on four pivotal activities as a framework for this computationally-intensive approach: sampling, synchronic analysis, lexicon reference, and diachronic analysis. In constructing this framework, we hope to arm researchers with a legitimate approach for inductively generating theory from computationally-intensive analysis of empirical data, and thus avoid recasting exploratory analyses in terms of hypothesis testing."
+            },
+            {
+                "id": "",
+                "title": "From Exceptions to Rules: Achieving Quality of Care & Coordinating Technological Change during Electronic Medical Record Implementation",
+                "venue": "Georgia State University  Robinson College of Business",
+                "year": 2015,
+                "url": "",
+                "abstract": "The high rate of failure of information systems (IS) implementation has intrigued researchers to investigate its causes (Bostrom and Heinen 1977; Lucas 1975). It has been acknowledged from early on that IS implementation faces organizational and social challenges in addition to technical ones (Lyytinen and Hirschheim 1988). Users’ resistance to information systems use is an enduring phenomenon that was studied comprehensively in the IS field (Hirschheim and Newman 1988). In the early days of computing, not complying with the prescribed use of an information system was a serious threat to its success. Thus early scholarship focused its attention on the mental models of IS users that lead them to accept or reject its use (Davis Jr 1986; DeSanctis 1983). Research then shifted towards understanding users’ roles in IS implementation. Users’ involvement in IS development is an essential factor of its success (Baroudi et al. 1986; Ives and Olson 1984). Technology implementation is a continuous process. While the traditional waterfall model assumes users’ involvement in requirement analysis (Royce 1970), users engage in complex behaviors in order to integrate computing into their work post its implementation (Gasser 1986). For example, users intentionally use the systems in ways for which it was not designed or rely on alternative means to achieve the same task is a strategy for accommodating to the misfit between the system and their work practices (p. 216). We study the roles of users over a five-year episode of technological change following the implementation of an Electronic Medical Record (EMR) system in a large clinic. Using computer-assisted qualitative data analysis, we find that users built incremental solutions with increasing degree of formalization overtime. Initial solutions were shaped by the EMR technical limitations and lead to negotiating work practices in the clinic. Further iterations evolved to first-order solutions that extended the EMR capabilities giving room for further improvement. These findings demonstrate the prevalence of continuous user involvement during IS implementation and challenge the black taint of users’ second-order problem solving in healthcare."
             }
         ],
         "panels": [
             {
+                "id": "",
+                "title": "Jumpstarting your academic career",
+                "venue": "Concordia University John Molson School of Business",
+                "year": 2016,
+                "url": "https://www.mcgill.ca/desautels/fr/node/66728",
+                "abstract": ""
+            },
+            {
                 "id": "10.5465/ambpp.2015.12911symposium",
-                "title": "The Role of Information Technology and Work Practices in Relational Coordination",
-                "venue": "Academy of Management Symposium",
+                "title": "The Role of Information Technology and Work Practices in Relational Coordination: Technological change and the continuity of care",
+                "venue": "Academy of Management All-Academy Symposium",
                 "year": 2015,
                 "url": "https://journals.aom.org/doi/10.5465/ambpp.2015.12911symposium",
                 "abstract": "Information and communication technologies (ICTs) play an increasingly important role in the facilitation of complex, non- routine knowledge work that relies on rapid assessments of uncertain situations and tight coordination among professional workers. In contrast to routinized or transactional work settings, the influences of technology on professionals’ communication and coordination in this type of work are not clear. In this symposium, four empirical presentations examine how technology enables, constrains and changes work practices and coordination in multi-disciplinary health care organizations, which are prototypical examples of contemporary, complex organizations undergoing remarkable digital transformations. Following the presentations, Wanda Orlikowski and Jody Hoffer Gittell will serve as discussants to provide both theoretical and practical insights and lead an interactive group discussion that focuses on how information technology influences relational coordination processes and outcomes in professional work settings."
@@ -516,12 +616,68 @@
         "awards": [
             {
                 "id": "",
-                "title": "Best Published Paper In 2015: The Emergence of Online Community Leadership",
+                "title": "Best Division Paper Award: Who Contributes Knowledge? Embeddednessand Marginality in Online Communities",
+                "venue": "Annual Meeting of the Academy of Management",
+                "year": 2018,
+                "url": "https://ocis.aom.org/awards/2018-award-winners",
+                "abstract": "Organizational Communication & Information Systems Division"
+            },
+            {
+                "id": "",
+                "title": "Best Published 2015 Paper Award: The Emergence of Online Community Leadership",
                 "venue": "Annual Meeting of the Academy of Management",
                 "year": 2016,
+                "url": "https://ocis.aom.org/awards/2016-award-winners",
+                "abstract": "Organizational Communication & Information Systems Division"
+            },
+            {
+                "id": "",
+                "title": "Second Runner-Up Best Dissertation Award",
+                "venue": "International Conference on Information Systems",
+                "year": 2015,
                 "url": "",
                 "abstract": ""
+            },            
+            {
+                "id": "",
+                "title": "Best Conference Paper Award: Grassroots versus Established Actors' Framing of a Crisis: Tweeting the Oil Spill",
+                "venue": "Annual Meeting of the Academy of Management",
+                "year": 2014,
+                "url": "",
+                "abstract": ""
+            },
+            {
+                "id": "",
+                "title": "Excellence in Teaching Award",
+                "venue": "Desautels Faculty of Management",
+                "year": 2013,
+                "url": "",
+                "abstract": ""
+            },
+            {
+                "id": "",
+                "title": "The impact of an open-source electronic medical record (EMR) system on clinical practice in Canadian ambulatory care",
+                "year": 2012,
+                "venue": "Fonds Québécois de la recherche sur la société et la culture",
+                "amount": 20000
+            },
+            {
+                "id": "",
+                "title": "The impact of an open-source electronic medical record (EMR) system on clinical practice in Canadian ambulatory care",
+                "year": 2011,
+                "venue": "Social Sciences and Humanities Research Council of Canada",
+                "amount": 40000
             }
+        ],
+        "press": [
+            {
+                "id": "",
+                "title": "What it takes to create a social media movement",
+                "venue": "The Globe and Mail Business School Research",
+                "year": 2018,
+                "url": "https://www.theglobeandmail.com/report-on-business/careers/business-education/what-it-takes-to-create-a-social-media-movement/article38295693/",
+                "abstract": "The Globe's bimonthly report on research from business schools."
+            }           
         ]
     }
 }

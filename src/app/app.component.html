@@ -28,13 +28,13 @@
         </mat-card-header>
         <mat-card-content>
           <mat-list>
-              <mat-list-item *ngFor="let v of data?.about.work"> {{v.title}}, {{v.venue}}  {{[v.startdate, v.enddate] | tenure}}</mat-list-item>
+              <mat-list-item [title]="v.abstract || ''" *ngFor="let v of data?.about.work"> {{v.title}}, {{v.venue}}  {{[v.startdate, v.enddate] | tenure}}</mat-list-item>
           </mat-list>
         </mat-card-content>
       </mat-card>
   </mat-tab>
 
-  <mat-tab label="Publications">
+  <mat-tab label="Research">
     <span *ngFor="let entry of data?.research | keys">
       <mat-card>
         <mat-card-header>
