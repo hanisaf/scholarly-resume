@@ -4,6 +4,10 @@
         "title": "Assistant Professor",
         "blurb": "Hani Safadi is an assistant professor in the Terry College of Business at the University of Georgia and a research collaborator at Mayo Clinic. He is interested in online communities, social media, healthcare information technology, mixed-methods research and the application of computational linguistics in studying qualitative data. He holds a Ph.D. in Management Information Systems from McGill University.",
         "picture": "/assets/portrait.jpg",
+        "address": "Benson C420, 610 South Lumpkin Street, Athens, GA 30602",
+        "email": "hanisaf@uga.edu",
+        "phone": "+1-706-542-3336",
+        "fax": "+1-706-542-2784",
         "education": [
             {
                 "title": "Ph.D. in Information Systems Management",
@@ -32,13 +36,22 @@
                 "title": "Assistant Professor",
                 "venue": "University of Georgia, Terry College of Business",
                 "startdate": 2015,
-                "enddate": "present"
+                "enddate": "present",
+                "highlight": "yes"
+            },
+            {
+                "title": "Research Collaborator",
+                "venue": "Mayo Clinic",
+                "startdate": 2016,
+                "enddate": "present",
+                "highlight": "yes"
             },
             {
                 "title": "Visiting Assistant Professor",
                 "venue": "Stevens Institute of Technology, School of Business",
                 "startdate": 2014,
-                "enddate": 2015
+                "enddate": 2015,
+                "highlight": "yes"
             },
             {
                 "title": "Software Developer",
