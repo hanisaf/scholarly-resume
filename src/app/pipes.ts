@@ -50,6 +50,18 @@ export class TenurePipe implements PipeTransform {
   }
 } 
 
+@Pipe({name: 'highlight'})
+export class HighlightPipe implements PipeTransform {
+  transform(items: any[], filterHighlighted = true): any {
+    if(filterHighlighted) {
+      return items.filter(item => item.highlight == "yes");
+    } else {
+      return items.filter(item => item.highlight != "yes");
+    }
+      
+  }
+}
+
 @Pipe({name: 'coauthors'})
 export class CoAuthorsPipe implements PipeTransform {
   static me = "";

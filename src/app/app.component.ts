@@ -36,7 +36,7 @@ export class AppComponent  {
           //........Customized style.......
           </style>
         </head>
-    <body onload="window.print();window.close()">${printContents}</body>
+    <body onload="window.print()">${printContents}</body>
       </html>`
     );
     popupWin.document.close();

@@ -5,7 +5,7 @@ import { HttpClientModule }    from '@angular/common/http';
 import { AppComponent } from './app.component';
 import {BrowserAnimationsModule} from '@angular/platform-browser/animations';
 
-import {KeysPipe, CitesPipe, CoAuthorsPipe, MoneyPipe, TenurePipe} from './pipes';
+import {KeysPipe, CitesPipe, CoAuthorsPipe, MoneyPipe, TenurePipe, HighlightPipe} from './pipes';
 
 import {
   MatTabsModule,
@@ -21,7 +21,8 @@ import {
     CitesPipe,
     MoneyPipe,
     CoAuthorsPipe,
-    TenurePipe
+    TenurePipe,
+    HighlightPipe
   ],
   imports: [
     BrowserModule,
