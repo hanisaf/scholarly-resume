@@ -113,27 +113,46 @@
       <H1>{{data?.about.name}}</H1>
       {{data?.about.address}}&nbsp;{{data?.about.phone}}&nbsp;{{data?.about.email}}
       <H2>Professional Appointments</H2>
-      <li *ngFor='let v of data?.about.work | highlight'>
-        {{v.title}}, {{v.venue}}  {{[v.startdate, v.enddate] | tenure}}
-      </li>
+      <table>
+        <tr *ngFor='let v of data?.about.work | highlight'>
+          <td>{{[v.startdate, v.enddate] | tenure}}</td> <td>{{v.title}}, {{v.venue}}</td> 
+        </tr>
+      </table>
+
 
       <H2>Education</H2>
-      <li *ngFor="let v of data?.about.education"> {{v.title}}, {{v.venue}}  {{[v.startdate, v.enddate] | tenure}}</li>
+      <div>
+        <table>
+          <tr *ngFor='let v of data?.about.education'>
+            <td>{{[v.startdate, v.enddate] | tenure}}</td> <td>{{v.title}}, {{v.venue}}</td> 
+          </tr>
+        </table>
+      </div>
+
 
       <H2>Journal publications</H2>
-      <li *ngFor='let paper of data?.research["journal papers"]'>
-        {{paper.title}}, {{paper.venue}}, {{paper.year}} {{paper.authors | coauthors}}
-      </li>
+      <ol>
+        <li *ngFor='let paper of data?.research["journal papers"]'>
+          {{paper.title}}, <b>{{paper.venue}}</b>, {{paper.year}} <i>{{paper.authors | coauthors}}</i>
+        </li>
+      </ol>
+
 
       <H2>Conference publications</H2>
-      <li *ngFor='let paper of data?.research["conference papers"]'>
-        {{paper.title}}, {{paper.venue}}, {{paper.year}} {{paper.authors | coauthors}}
-      </li>
+      <ol>
+        <li *ngFor='let paper of data?.research["conference papers"]'>
+          {{paper.title}}, <b>{{paper.venue}}</b>, {{paper.year}} <i>{{paper.authors | coauthors}}</i>
+        </li>
+      </ol>
+
 
       <H2>Grants</H2>
-      <li *ngFor='let grant of data?.research["grants"]'>
-        {{grant.title}}, {{grant.venue}}, {{grant.year}} ({{grant.amount | currency}})
-      </li>
+      <ol>
+        <li *ngFor='let grant of data?.research["grants"]'>
+          {{grant.title}}, {{grant.venue}}, {{grant.year}} ({{grant.amount | currency}})
+        </li>
+      </ol>
+
 
       <H2>Teaching</H2>
       <span *ngFor='let university of data?.courses | keys'>
@@ -141,16 +160,23 @@
       </span>
 
       <H2>Professional Service</H2>
-      <span *ngFor='let cat of data?.service | keys'>
-        <li *ngFor="let service of cat.value">{{service.role}} at {{service.venue}} ({{service.venueshort}}),
-          {{service.startdate}}-{{service.enddate}}</li>
-      </span>
+      <table>
+        <span *ngFor='let cat of data?.service | keys'>
+          <tr *ngFor="let service of cat.value">
+              <td>{{[service.startdate, service.enddate] | tenure}}</td> <td>{{service.role}} at {{service.venue}} ({{service.venueshort}})</td> 
+          </tr>
+        </span>
+      </table>
 
-      <H2>Work Experience</H2>
-      <li *ngFor='let v of data?.about.work | highlight:false'>
-        {{v.title}}, {{v.venue}}  {{[v.startdate, v.enddate] | tenure}}
-      </li>
+
       
+      <H2>Work Experience</H2>
+      <table>
+        <tr *ngFor='let v of data?.about.work | highlight:false'>
+          <td>{{[v.startdate, v.enddate] | tenure}}</td> <td>{{v.title}}, {{v.venue}}</td> 
+        </tr>
+      </table>
+
     </div>
   </mat-tab>
 </mat-tab-group>

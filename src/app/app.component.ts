@@ -33,7 +33,10 @@ export class AppComponent  {
         <head>
           <title>Resume of ${title}</title>
           <style>
-          //........Customized style.......
+          ol {
+            list-style-position: inside;
+            padding-left:0;
+          }
           </style>
         </head>
     <body onload="window.print()">${printContents}</body>

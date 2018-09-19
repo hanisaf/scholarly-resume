@@ -36,7 +36,7 @@ export class TenurePipe implements PipeTransform {
       let enddate=dates[1];
       if(startdate && enddate) {
         if(startdate != enddate)
-          return startdate + "-" + enddate;
+          return startdate + "—" + enddate;
         else return ""+startdate;
       } else {
         if(startdate)
