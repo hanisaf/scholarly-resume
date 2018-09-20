@@ -32,10 +32,11 @@ export class AppComponent  {
       <html>
         <head>
           <title>Resume of ${title}</title>
+          <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/angular-material/1.1.10/angular-material.min.css">
           <style>
           ol {
-            list-style-position: inside;
-            padding-left:0;
+            list-style-position: outside;
+            padding-left:1em;
           }
           </style>
         </head>

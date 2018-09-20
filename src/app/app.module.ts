@@ -3,14 +3,15 @@ import { NgModule } from '@angular/core';
 import { HttpClientModule }    from '@angular/common/http';
 
 import { AppComponent } from './app.component';
-import {BrowserAnimationsModule} from '@angular/platform-browser/animations';
+import {NoopAnimationsModule} from '@angular/platform-browser/animations';
 
-import {KeysPipe, CitesPipe, CoAuthorsPipe, MoneyPipe, TenurePipe, HighlightPipe} from './pipes';
+import {LengthPipe, KeysPipe, CitesPipe, CoAuthorsPipe, MoneyPipe, TenurePipe, HighlightPipe} from './pipes';
 
 import {
   MatTabsModule,
   MatCardModule,
-  MatListModule
+  MatListModule,
+  MatExpansionModule
 } from '@angular/material';
 
 
@@ -22,15 +23,17 @@ import {
     MoneyPipe,
     CoAuthorsPipe,
     TenurePipe,
-    HighlightPipe
+    HighlightPipe,
+    LengthPipe
   ],
   imports: [
     BrowserModule,
     HttpClientModule,
-    BrowserAnimationsModule,
+    NoopAnimationsModule,
     MatTabsModule, 
     MatCardModule,
-    MatListModule
+    MatListModule,
+    MatExpansionModule
   ],
   providers: [],
   bootstrap: [AppComponent]

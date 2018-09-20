@@ -13,6 +13,26 @@
     </mat-card>
     <mat-card>
       <mat-card-header>
+        Research Interests
+      </mat-card-header>
+      <mat-card-content>
+        <mat-accordion>
+            <mat-expansion-panel *ngFor="let v of data?.about.interests | keys">
+              <mat-expansion-panel-header>
+                <mat-panel-title>
+                    {{v.key}}
+                </mat-panel-title>
+              </mat-expansion-panel-header>
+              <mat-list>
+                  <mat-list-item *ngFor="let i of v?.value"> {{i}}</mat-list-item>
+              </mat-list>
+            </mat-expansion-panel>
+          </mat-accordion>
+      </mat-card-content>
+
+    </mat-card>
+    <mat-card>
+      <mat-card-header>
         Education
       </mat-card-header>
       <mat-card-content>
@@ -111,24 +131,31 @@
   <mat-tab label="🖨 Print CV">
     <div id="print-section">
       <H1>{{data?.about.name}}</H1>
-      {{data?.about.address}}&nbsp;{{data?.about.phone}}&nbsp;{{data?.about.email}}
+      {{data?.about.address}}&nbsp;☎{{data?.about.phone}}&nbsp;✉ {{data?.about.email}}
       <H2>Professional Appointments</H2>
       <table>
-        <tr *ngFor='let v of data?.about.work | highlight'>
+        <tr *ngFor='let v of data?.about?.work | highlight'>
           <td>{{[v.startdate, v.enddate] | tenure}}</td> <td>{{v.title}}, {{v.venue}}</td> 
         </tr>
       </table>
 
 
       <H2>Education</H2>
-      <div>
-        <table>
-          <tr *ngFor='let v of data?.about.education'>
-            <td>{{[v.startdate, v.enddate] | tenure}}</td> <td>{{v.title}}, {{v.venue}}</td> 
+      <table>
+        <tr *ngFor='let v of data?.about.education'>
+          <td>{{[v.startdate, v.enddate] | tenure}}</td> <td>{{v.title}}, {{v.venue}}</td> 
+        </tr>
+      </table>
+
+      <H2>Research Interests</H2>
+      <table>
+          <tr>
+            <td *ngFor="let v of data?.about.interests | keys"> <b>{{v.key}}</b></td>
+          </tr>
+          <tr *ngFor="let i of (data?.about.interests | keys)[0].value | length:true">
+            <td *ngFor="let e of data?.about.interests | keys">{{e.value[i]}}</td>
           </tr>
         </table>
-      </div>
-
 
       <H2>Journal publications</H2>
       <ol>
@@ -141,7 +168,7 @@
       <H2>Conference publications</H2>
       <ol>
         <li *ngFor='let paper of data?.research["conference papers"]'>
-          {{paper.title}}, <b>{{paper.venue}}</b>, {{paper.year}} <i>{{paper.authors | coauthors}}</i>
+          {{paper.title}}, {{paper.venue}}, {{paper.year}} <i>{{paper.authors | coauthors}}</i>
         </li>
       </ol>
 
@@ -152,6 +179,8 @@
           {{grant.title}}, {{grant.venue}}, {{grant.year}} ({{grant.amount | currency}})
         </li>
       </ol>
+
+
 
 
       <H2>Teaching</H2>
@@ -168,8 +197,34 @@
         </span>
       </table>
 
+      <H2>Awards</H2>
+      <ol>
+        <li *ngFor='let v of data?.recognition["awards"]'>
+          {{ v.title }}, {{v.venue}}, {{v.year}}        
+        </li>
+      </ol>
 
-      
+      <H2>Invited Presentations</H2>
+      <ol>
+        <li *ngFor='let v of data?.invitations["talks"]'>
+          {{ v.title }}, {{v.venue}}, {{v.year}}        
+        </li>
+      </ol>
+
+      <H2>Invited Panels</H2>
+      <ol>
+        <li *ngFor='let v of data?.invitations["panels"]'>
+          {{ v.title }}, {{v.venue}}, {{v.year}}        
+        </li>
+      </ol>     
+
+      <H2>Press Coverage</H2>
+      <ol>
+        <li *ngFor='let v of data?.recognition["press"]'>
+          {{ v.title }}, {{v.venue}}, {{v.year}}        
+        </li>
+      </ol>
+
       <H2>Work Experience</H2>
       <table>
         <tr *ngFor='let v of data?.about.work | highlight:false'>
