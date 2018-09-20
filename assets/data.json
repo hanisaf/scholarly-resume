@@ -36,14 +36,12 @@
                 "title": "Assistant Professor",
                 "venue": "University of Georgia, Terry College of Business",
                 "startdate": 2015,
-                "enddate": "present",
                 "highlight": "yes"
             },
             {
                 "title": "Research Collaborator",
                 "venue": "Mayo Clinic",
                 "startdate": 2016,
-                "enddate": "present",
                 "highlight": "yes"
             },
             {
@@ -93,7 +91,18 @@
                 "startdate": 2004,
                 "enddate": 2005
             }             
-        ]
+        ],
+        "interests": {
+            "New Forms of Organization": [
+               "Social media", "Open innovation", "Online communities", "Large scale collaboration", "AI and cognitive augmentation" 
+            ],
+            "Health Information Technology": [
+                "Open-source health IT", "Health IT workarounds", "Online patient communities", "Open innovation in healthcare", "Impact of IT on medical practice"
+            ],
+            "Methods": [
+                "Network analysis", "Big data analytics", "Information visualization", "Natural language processing", "Computational social science"
+            ]
+        }
     },
     "research": {
         "journal papers": [
@@ -411,6 +420,19 @@
                 "year": 2017,
                 "venue": "University of Georgia Research Foundation",
                 "amount": 9829
+            },            {
+                "id": "",
+                "title": "The impact of an open-source electronic medical record (EMR) system on clinical practice in Canadian ambulatory care",
+                "year": 2012,
+                "venue": "Fonds Québécois de la recherche sur la société et la culture",
+                "amount": 20000
+            },
+            {
+                "id": "",
+                "title": "The impact of an open-source electronic medical record (EMR) system on clinical practice in Canadian ambulatory care",
+                "year": 2011,
+                "venue": "Social Sciences and Humanities Research Council of Canada",
+                "amount": 40000
             }
         ],
         "reports": [
@@ -488,48 +510,55 @@
                 "venue": "IEEE Transactions on Engineering Management",
                 "venueshort": "IEEE TEM",
                 "role": "Review Board Member",
-                "startdate": 2016,
-                "enddate": "present"
-            },
+                "startdate": 2016
+           },
             {
                 "venue": "MIS Quarterly",
                 "venueshort": "MISQ",
-                "role": "Reviewer"
+                "role": "Reviewer",
+                "startdate": 2015
             },
             {
                 "venue": "Information Systems Research",
                 "venueshort": "ISR",
-                "role": "Reviewer"
+                "role": "Reviewer",
+                "startdate": 2015
             },
             {
                 "venue": "Management Science",
                 "venueshort": "Management Science",
-                "role": "Reviewer"
+                "role": "Reviewer",
+                "startdate": 2017
             },
             {
                 "venue": "Journal of the Association for Information Systems",
                 "venueshort": "JAIS",
-                "role": "Reviewer"
+                "role": "Reviewer",
+                "startdate": 2016
             },
             {
                 "venue": "ACM Transactions on Management Information Systems",
                 "venueshort": "TMIS",
-                "role": "Reviewer"
+                "role": "Reviewer",
+                "startdate": 2018
             },
             {
                 "venue": "Communications of the Association for Information Systems",
                 "venueshort": "CAIS",
-                "role": "Reviewer"
+                "role": "Reviewer",
+                "startdate": 2017
             },
             {
                 "venue": "Information and Organization",
                 "venueshort": "I&O",
-                "role": "Reviewer"
+                "role": "Reviewer",
+                "startdate": 2015
             },
             {
                 "venue": "Health Policy and Technology",
                 "venueshort": "HPT",
-                "role": "Reviewer"
+                "role": "Reviewer",
+                "startdate": 2014
             }
         ],
         "conference editorialship": [
@@ -537,15 +566,13 @@
                 "venue": "International Conference on Information Systems",
                 "venueshort": "ICIS",
                 "role": "Track Associate Editor",
-                "startdate": 2016,
-                "enddate": "present"
+                "startdate": 2016
             },
             {
                 "venue": "Organizational Communication and Information Systems",
                 "venueshort": "OCIS",
                 "role": "OCIS Division Associate Editor",
-                "startdate": 2016,
-                "enddate": "present"
+                "startdate": 2016
             },
             {
                 "venue": "International Federation for Information Processing",
@@ -629,7 +656,7 @@
         "awards": [
             {
                 "id": "",
-                "title": "Best Division Paper Award: Who Contributes Knowledge? Embeddednessand Marginality in Online Communities",
+                "title": "Best Division Paper Award: Who Contributes Knowledge? Embeddedness and Marginality in Online Communities",
                 "venue": "Annual Meeting of the Academy of Management",
                 "year": 2018,
                 "url": "https://ocis.aom.org/awards/2018-award-winners",
@@ -666,20 +693,50 @@
                 "year": 2013,
                 "url": "",
                 "abstract": ""
+            }
+        ],
+        "student awards": [
+            {
+                "id": "",
+                "title": "PHD Fellowship",
+                "year": 2014,
+                "venue": "Rathlyn Foundation",
+                "amount": 5000
             },
             {
                 "id": "",
-                "title": "The impact of an open-source electronic medical record (EMR) system on clinical practice in Canadian ambulatory care",
-                "year": 2012,
-                "venue": "Fonds Québécois de la recherche sur la société et la culture",
-                "amount": 20000
+                "title": "PHD Fellowship",
+                "year": 2013,
+                "venue": "Hian Siang Chan",
+                "amount": 6000
             },
             {
                 "id": "",
-                "title": "The impact of an open-source electronic medical record (EMR) system on clinical practice in Canadian ambulatory care",
-                "year": 2011,
-                "venue": "Social Sciences and Humanities Research Council of Canada",
-                "amount": 40000
+                "title": "Provost's Graduate Fellowship",
+                "year": 2010,
+                "venue": "McGill University",
+                "amount": 500
+            },
+            {
+                "id": "",
+                "title": "Recruitment Excellence Fellowship",
+                "year": 2009,
+                "venue": "McGill University",
+                "amount": 5000
+            },
+            {
+                "id": "",
+                "title": "Doctoral Program Entrance Fellowship",
+                "year": 2009,
+                "venue": "McGill University",
+                "amount": 15000
+            },
+            {
+                "id": "",
+                "title": "Alma Mater Student Travel Grant",
+                "year": 2008,
+                "venue": "McGill University",
+                "amount": 750
             }
         ],
         "press": [
