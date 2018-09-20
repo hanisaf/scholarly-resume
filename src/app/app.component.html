@@ -11,23 +11,25 @@
         {{data?.about.blurb}}
       </mat-card-content>
     </mat-card>
+
+    <mat-card>
+        <mat-card-header>
+            Online Presence
+          </mat-card-header>
+          <mat-card-content>
+              <!-- <mat-nav-list> -->
+                <a  mat-button [href]="v.url" *ngFor="let v of data?.about.websites"> {{ v.title }}</a>
+              <!-- </mat-nav-list> -->
+            </mat-card-content>
+    </mat-card>
     <mat-card>
       <mat-card-header>
         Research Interests
       </mat-card-header>
       <mat-card-content>
-        <mat-accordion>
-            <mat-expansion-panel *ngFor="let v of data?.about.interests | keys">
-              <mat-expansion-panel-header>
-                <mat-panel-title>
-                    {{v.key}}
-                </mat-panel-title>
-              </mat-expansion-panel-header>
-              <mat-list>
-                  <mat-list-item *ngFor="let i of v?.value"> {{i}}</mat-list-item>
-              </mat-list>
-            </mat-expansion-panel>
-          </mat-accordion>
+          <mat-list>
+              <mat-list-item *ngFor="let v of data?.about.interests | keys"> {{v.key}}: {{v.value | listformat}}</mat-list-item>
+          </mat-list>
       </mat-card-content>
 
     </mat-card>
@@ -37,7 +39,7 @@
       </mat-card-header>
       <mat-card-content>
         <mat-list>
-            <mat-list-item *ngFor="let v of data?.about.education"> {{v.title}}, {{v.venue}}  {{[v.startdate, v.enddate] | tenure}}</mat-list-item>
+            <mat-list-item *ngFor="let v of data?.about.education">{{[v.startdate, v.enddate] | tenure}} {{v.title}}, {{v.venue}}</mat-list-item>
         </mat-list>
       </mat-card-content>
     </mat-card>
@@ -48,7 +50,7 @@
         </mat-card-header>
         <mat-card-content>
           <mat-list>
-              <mat-list-item [title]="v.abstract || ''" *ngFor="let v of data?.about.work"> {{v.title}}, {{v.venue}}  {{[v.startdate, v.enddate] | tenure}}</mat-list-item>
+              <mat-list-item [title]="v.abstract || ''" *ngFor="let v of data?.about.work">{{[v.startdate, v.enddate] | tenure}} {{v.title}}, {{v.venue}} </mat-list-item>
           </mat-list>
         </mat-card-content>
       </mat-card>
@@ -93,8 +95,8 @@
         </mat-card-header>
         <mat-card-content>
           <mat-nav-list>
-            <a mat-list-item role="listitem" *ngFor="let v of entry.value"> {{v.role}} at {{v.venue}}
-              ({{v.venueshort}}) {{[v.startdate, v.enddate] | tenure}}</a>
+            <a mat-list-item role="listitem" *ngFor="let v of entry.value">{{[v.startdate, v.enddate] | tenure}} {{v.role}} at {{v.venue}}
+              ({{v.venueshort}})</a>
           </mat-nav-list>
         </mat-card-content>
       </mat-card>
@@ -128,8 +130,8 @@
       </mat-card>
     </span>
   </mat-tab>
-  <mat-tab label="🖨 Print CV">
-    <div id="print-section">
+  <mat-tab label="🖨 Print CV">    
+    <div *ngIf="data" id="print-section">
       <H1>{{data?.about.name}}</H1>
       {{data?.about.address}}&nbsp;☎{{data?.about.phone}}&nbsp;✉ {{data?.about.email}}
       <H2>Professional Appointments</H2>
@@ -150,10 +152,10 @@
       <H2>Research Interests</H2>
       <table>
           <tr>
-            <td *ngFor="let v of data?.about.interests | keys"> <b>{{v.key}}</b></td>
+            <td *ngFor="let v of data?.about?.interests | keys"> <b>{{v?.key}}</b></td>
           </tr>
-          <tr *ngFor="let i of (data?.about.interests | keys)[0].value | length:true">
-            <td *ngFor="let e of data?.about.interests | keys">{{e.value[i]}}</td>
+          <tr *ngFor="let i of (data?.about?.interests | keys)[0].value | length:true">
+            <td *ngFor="let e of data?.about?.interests | keys">{{e?.value[i]}}</td>
           </tr>
         </table>
 

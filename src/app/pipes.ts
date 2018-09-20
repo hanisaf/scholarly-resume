@@ -82,6 +82,19 @@ export class HighlightPipe implements PipeTransform {
       
   }
 }
+@Pipe({name: 'listformat'})
+export class ListFormat implements PipeTransform {
+  transform(list: Array<string>): string {
+    let res = "";
+    for(let i = 0; i < list.length; i++) {
+      res = res + list[i];
+      if(i < list.length - 1) {
+        res = res + ", ";
+      }
+    }
+    return res;
+  }
+}
 
 @Pipe({name: 'coauthors'})
 export class CoAuthorsPipe implements PipeTransform {

@@ -36,7 +36,7 @@ export class AppComponent  {
           <style>
           ol {
             list-style-position: outside;
-            padding-left:1em;
+            padding-left:1.5em;
           }
           </style>
         </head>
