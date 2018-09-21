@@ -1,239 +1,241 @@
-<mat-tab-group (selectedTabChange)="onLinkClick($event)">
-  <mat-tab label="About">
-    <mat-card>
-      <mat-card-header>
-        <div mat-card-avatar class="example-header-image">
-        </div>
-        <mat-card-title>{{data?.about.name}}</mat-card-title>
-        <mat-card-subtitle>{{data?.about?.work[0]?.title}}, {{data?.about?.work[0]?.venue}}</mat-card-subtitle>
-      </mat-card-header>
-      <mat-card-content>
-        {{data?.about.blurb}}
-      </mat-card-content>
-    </mat-card>
-
-    <mat-card>
+<span *ngIf="data">
+  <mat-tab-group (selectedTabChange)="onLinkClick($event)">
+    <mat-tab label="About">
+      <mat-card>
         <mat-card-header>
-            Online Presence
+          <div mat-card-avatar class="example-header-image">
+          </div>
+          <mat-card-title>{{data?.about.name}}</mat-card-title>
+          <mat-card-subtitle>{{data?.about?.work[0]?.title}}, {{data?.about?.work[0]?.venue}}</mat-card-subtitle>
+        </mat-card-header>
+        <mat-card-content>
+          {{data?.about.blurb}}
+        </mat-card-content>
+      </mat-card>
+  
+      <mat-card>
+          <mat-card-header>
+              Online Presence
+            </mat-card-header>
+            <mat-card-content>
+                <!-- <mat-nav-list> -->
+                  <a  mat-button [href]="v.url" *ngFor="let v of data?.about.websites"> {{ v.title }}</a>
+                <!-- </mat-nav-list> -->
+              </mat-card-content>
+      </mat-card>
+      <mat-card>
+        <mat-card-header>
+          Research Interests
+        </mat-card-header>
+        <mat-card-content>
+            <mat-list>
+                <mat-list-item *ngFor="let v of data?.about.interests | keys"> {{v.key}}: {{v.value | listformat}}</mat-list-item>
+            </mat-list>
+        </mat-card-content>
+  
+      </mat-card>
+      <mat-card>
+        <mat-card-header>
+          Education
+        </mat-card-header>
+        <mat-card-content>
+          <mat-list>
+              <mat-list-item *ngFor="let v of data?.about.education">{{[v.startdate, v.enddate] | tenure}} {{v.title}}, {{v.venue}}</mat-list-item>
+          </mat-list>
+        </mat-card-content>
+      </mat-card>
+  
+      <mat-card>
+          <mat-card-header>
+            Work Experience
           </mat-card-header>
           <mat-card-content>
-              <!-- <mat-nav-list> -->
-                <a  mat-button [href]="v.url" *ngFor="let v of data?.about.websites"> {{ v.title }}</a>
-              <!-- </mat-nav-list> -->
-            </mat-card-content>
-    </mat-card>
-    <mat-card>
-      <mat-card-header>
-        Research Interests
-      </mat-card-header>
-      <mat-card-content>
-          <mat-list>
-              <mat-list-item *ngFor="let v of data?.about.interests | keys"> {{v.key}}: {{v.value | listformat}}</mat-list-item>
-          </mat-list>
-      </mat-card-content>
-
-    </mat-card>
-    <mat-card>
-      <mat-card-header>
-        Education
-      </mat-card-header>
-      <mat-card-content>
-        <mat-list>
-            <mat-list-item *ngFor="let v of data?.about.education">{{[v.startdate, v.enddate] | tenure}} {{v.title}}, {{v.venue}}</mat-list-item>
-        </mat-list>
-      </mat-card-content>
-    </mat-card>
-
-    <mat-card>
-        <mat-card-header>
-          Work Experience
-        </mat-card-header>
-        <mat-card-content>
-          <mat-list>
-              <mat-list-item [title]="v.abstract || ''" *ngFor="let v of data?.about.work">{{[v.startdate, v.enddate] | tenure}} {{v.title}}, {{v.venue}} </mat-list-item>
-          </mat-list>
-        </mat-card-content>
-      </mat-card>
-  </mat-tab>
-
-  <mat-tab label="Research">
-    <span *ngFor="let entry of data?.research | keys">
-      <mat-card>
-        <mat-card-header>
-          {{entry.key | titlecase}}
-        </mat-card-header>
-        <mat-card-content>
-          <mat-nav-list>
-            <a [title]="v.abstract || ''" mat-list-item [href]="v.url" *ngFor="let v of entry.value"> {{ v.title }},
-              {{v.venue}}, {{v.year}}
-              {{v.authors | coauthors}} {{v.amount | currency}}
-            </a>
-          </mat-nav-list>
-        </mat-card-content>
-      </mat-card>
-    </span>
-  </mat-tab>
-  <mat-tab label="Teaching">
-    <span *ngFor="let entry of data?.courses | keys">
-      <mat-card>
-        <mat-card-header>
-          {{entry.key | titlecase}}
-        </mat-card-header>
-        <mat-card-content>
-          <mat-nav-list>
-            <a mat-list-item role="listitem" *ngFor="let v of entry.value"> {{v.id}}: {{v.title}} </a>
-          </mat-nav-list>
-        </mat-card-content>
-      </mat-card>
-    </span>
-  </mat-tab>
-  <mat-tab label="Service">
-    <span *ngFor="let entry of data?.service | keys">
-      <mat-card>
-        <mat-card-header>
-          {{entry.key | titlecase}}
-        </mat-card-header>
-        <mat-card-content>
-          <mat-nav-list>
-            <a mat-list-item role="listitem" *ngFor="let v of entry.value">{{[v.startdate, v.enddate] | tenure}} {{v.role}} at {{v.venue}}
-              ({{v.venueshort}})</a>
-          </mat-nav-list>
-        </mat-card-content>
-      </mat-card>
-    </span>
-  </mat-tab>
-  <mat-tab label="Talks">
-    <span *ngFor="let entry of data?.invitations | keys">
-      <mat-card>
-        <mat-card-header>
-          {{entry.key | titlecase}}
-        </mat-card-header>
-        <mat-card-content>
-          <mat-nav-list>
-            <a [title]="v.abstract || ''" mat-list-item [href]="v.url" *ngFor="let v of entry.value"> {{ v.title }},
-              {{v.venue}}, {{v.year}} </a> </mat-nav-list>
-        </mat-card-content>
-      </mat-card>
-    </span>
-  </mat-tab>
-  <mat-tab label="Recognition">
-    <span *ngFor="let entry of data?.recognition | keys">
-      <mat-card>
-        <mat-card-header>
-          {{entry.key | titlecase}}
-        </mat-card-header>
-        <mat-card-content>
-          <mat-nav-list>
-            <a [title]="v.abstract || ''" mat-list-item [href]="v.url" *ngFor="let v of entry.value"> {{ v.title }},
-              {{v.venue}}, {{v.year}} </a> </mat-nav-list>
-        </mat-card-content>
-      </mat-card>
-    </span>
-  </mat-tab>
-  <mat-tab label="🖨 Print CV">    
-    <div *ngIf="data" id="print-section">
-      <H1>{{data?.about.name}}</H1>
-      {{data?.about.address}}&nbsp;☎{{data?.about.phone}}&nbsp;✉ {{data?.about.email}}
-      <H2>Professional Appointments</H2>
-      <table>
-        <tr *ngFor='let v of data?.about?.work | highlight'>
-          <td>{{[v.startdate, v.enddate] | tenure}}</td> <td>{{v.title}}, {{v.venue}}</td> 
-        </tr>
-      </table>
-
-
-      <H2>Education</H2>
-      <table>
-        <tr *ngFor='let v of data?.about.education'>
-          <td>{{[v.startdate, v.enddate] | tenure}}</td> <td>{{v.title}}, {{v.venue}}</td> 
-        </tr>
-      </table>
-
-      <H2>Research Interests</H2>
-      <table>
-          <tr>
-            <td *ngFor="let v of data?.about?.interests | keys"> <b>{{v?.key}}</b></td>
-          </tr>
-          <tr *ngFor="let i of (data?.about?.interests | keys)[0].value | length:true">
-            <td *ngFor="let e of data?.about?.interests | keys">{{e?.value[i]}}</td>
+            <mat-list>
+                <mat-list-item [title]="v.abstract || ''" *ngFor="let v of data?.about.work">{{[v.startdate, v.enddate] | tenure}} {{v.title}}, {{v.venue}} </mat-list-item>
+            </mat-list>
+          </mat-card-content>
+        </mat-card>
+    </mat-tab>
+  
+    <mat-tab label="Research">
+      <span *ngFor="let entry of data?.research | keys">
+        <mat-card>
+          <mat-card-header>
+            {{entry.key | titlecase}}
+          </mat-card-header>
+          <mat-card-content>
+            <mat-nav-list>
+              <a [title]="v.abstract || ''" mat-list-item [href]="v.url" *ngFor="let v of entry.value"> {{ v.title }},
+                {{v.venue}}, {{v.year}}
+                {{v.authors | coauthors}} {{v.amount | currency}}
+              </a>
+            </mat-nav-list>
+          </mat-card-content>
+        </mat-card>
+      </span>
+    </mat-tab>
+    <mat-tab label="Teaching">
+      <span *ngFor="let entry of data?.courses | keys">
+        <mat-card>
+          <mat-card-header>
+            {{entry.key | titlecase}}
+          </mat-card-header>
+          <mat-card-content>
+            <mat-nav-list>
+              <a mat-list-item role="listitem" *ngFor="let v of entry.value"> {{v.id}}: {{v.title}} </a>
+            </mat-nav-list>
+          </mat-card-content>
+        </mat-card>
+      </span>
+    </mat-tab>
+    <mat-tab label="Service">
+      <span *ngFor="let entry of data?.service | keys">
+        <mat-card>
+          <mat-card-header>
+            {{entry.key | titlecase}}
+          </mat-card-header>
+          <mat-card-content>
+            <mat-nav-list>
+              <a mat-list-item role="listitem" *ngFor="let v of entry.value">{{[v.startdate, v.enddate] | tenure}} {{v.role}} at {{v.venue}}
+                ({{v.venueshort}})</a>
+            </mat-nav-list>
+          </mat-card-content>
+        </mat-card>
+      </span>
+    </mat-tab>
+    <mat-tab label="Talks">
+      <span *ngFor="let entry of data?.invitations | keys">
+        <mat-card>
+          <mat-card-header>
+            {{entry.key | titlecase}}
+          </mat-card-header>
+          <mat-card-content>
+            <mat-nav-list>
+              <a [title]="v.abstract || ''" mat-list-item [href]="v.url" *ngFor="let v of entry.value"> {{ v.title }},
+                {{v.venue}}, {{v.year}} </a> </mat-nav-list>
+          </mat-card-content>
+        </mat-card>
+      </span>
+    </mat-tab>
+    <mat-tab label="Recognition">
+      <span *ngFor="let entry of data?.recognition | keys">
+        <mat-card>
+          <mat-card-header>
+            {{entry.key | titlecase}}
+          </mat-card-header>
+          <mat-card-content>
+            <mat-nav-list>
+              <a [title]="v.abstract || ''" mat-list-item [href]="v.url" *ngFor="let v of entry.value"> {{ v.title }},
+                {{v.venue}}, {{v.year}} </a> </mat-nav-list>
+          </mat-card-content>
+        </mat-card>
+      </span>
+    </mat-tab>
+    <mat-tab label="🖨 Print CV">    
+      <div id="print-section">
+        <H1>{{data?.about.name}}</H1>
+        {{data?.about.address}}&nbsp;☎{{data?.about.phone}}&nbsp;✉ {{data?.about.email}}
+        <H2>Professional Appointments</H2>
+        <table>
+          <tr *ngFor='let v of data?.about?.work | highlight'>
+            <td>{{[v.startdate, v.enddate] | tenure}}</td> <td>{{v.title}}, {{v.venue}}</td> 
           </tr>
         </table>
-
-      <H2>Journal publications</H2>
-      <ol>
-        <li *ngFor='let paper of data?.research["journal papers"]'>
-          {{paper.title}}, <b>{{paper.venue}}</b>, {{paper.year}} <i>{{paper.authors | coauthors}}</i>
-        </li>
-      </ol>
-
-
-      <H2>Conference publications</H2>
-      <ol>
-        <li *ngFor='let paper of data?.research["conference papers"]'>
-          {{paper.title}}, {{paper.venue}}, {{paper.year}} <i>{{paper.authors | coauthors}}</i>
-        </li>
-      </ol>
-
-
-      <H2>Grants</H2>
-      <ol>
-        <li *ngFor='let grant of data?.research["grants"]'>
-          {{grant.title}}, {{grant.venue}}, {{grant.year}} ({{grant.amount | currency}})
-        </li>
-      </ol>
-
-
-
-
-      <H2>Teaching</H2>
-      <span *ngFor='let university of data?.courses | keys'>
-        <span *ngFor="let course of university.value">{{course.id}}: {{course.title}}, </span>
-      </span>
-
-      <H2>Professional Service</H2>
-      <table>
-        <span *ngFor='let cat of data?.service | keys'>
-          <tr *ngFor="let service of cat.value">
-              <td>{{[service.startdate, service.enddate] | tenure}}</td> <td>{{service.role}} at {{service.venue}} ({{service.venueshort}})</td> 
+  
+  
+        <H2>Education</H2>
+        <table>
+          <tr *ngFor='let v of data?.about.education'>
+            <td>{{[v.startdate, v.enddate] | tenure}}</td> <td>{{v.title}}, {{v.venue}}</td> 
           </tr>
+        </table>
+  
+        <H2>Research Interests</H2>
+        <table>
+            <tr>
+              <td *ngFor="let v of data?.about?.interests | keys"> <b>{{v?.key}}</b></td>
+            </tr>
+            <tr *ngFor="let i of (data?.about?.interests | keys)[0].value | length:true">
+              <td *ngFor="let e of data?.about?.interests | keys">{{e?.value[i]}}</td>
+            </tr>
+          </table>
+  
+        <H2>Journal publications</H2>
+        <ol>
+          <li *ngFor='let paper of data?.research["journal papers"]'>
+            {{paper.title}}, <b>{{paper.venue}}</b>, {{paper.year}} <i>{{paper.authors | coauthors}}</i>
+          </li>
+        </ol>
+  
+  
+        <H2>Conference publications</H2>
+        <ol>
+          <li *ngFor='let paper of data?.research["conference papers"]'>
+            {{paper.title}}, {{paper.venue}}, {{paper.year}} <i>{{paper.authors | coauthors}}</i>
+          </li>
+        </ol>
+  
+  
+        <H2>Grants</H2>
+        <ol>
+          <li *ngFor='let grant of data?.research["grants"]'>
+            {{grant.title}}, {{grant.venue}}, {{grant.year}} ({{grant.amount | currency}})
+          </li>
+        </ol>
+  
+  
+  
+  
+        <H2>Teaching</H2>
+        <span *ngFor='let university of data?.courses | keys'>
+          <span *ngFor="let course of university.value">{{course.id}}: {{course.title}}, </span>
         </span>
-      </table>
-
-      <H2>Awards</H2>
-      <ol>
-        <li *ngFor='let v of data?.recognition["awards"]'>
-          {{ v.title }}, {{v.venue}}, {{v.year}}        
-        </li>
-      </ol>
-
-      <H2>Invited Presentations</H2>
-      <ol>
-        <li *ngFor='let v of data?.invitations["talks"]'>
-          {{ v.title }}, {{v.venue}}, {{v.year}}        
-        </li>
-      </ol>
-
-      <H2>Invited Panels</H2>
-      <ol>
-        <li *ngFor='let v of data?.invitations["panels"]'>
-          {{ v.title }}, {{v.venue}}, {{v.year}}        
-        </li>
-      </ol>     
-
-      <H2>Press Coverage</H2>
-      <ol>
-        <li *ngFor='let v of data?.recognition["press"]'>
-          {{ v.title }}, {{v.venue}}, {{v.year}}        
-        </li>
-      </ol>
-
-      <H2>Work Experience</H2>
-      <table>
-        <tr *ngFor='let v of data?.about.work | highlight:false'>
-          <td>{{[v.startdate, v.enddate] | tenure}}</td> <td>{{v.title}}, {{v.venue}}</td> 
-        </tr>
-      </table>
-
-    </div>
-  </mat-tab>
-</mat-tab-group>
+  
+        <H2>Professional Service</H2>
+        <table>
+          <span *ngFor='let cat of data?.service | keys'>
+            <tr *ngFor="let service of cat.value">
+                <td>{{[service.startdate, service.enddate] | tenure}}</td> <td>{{service.role}} at {{service.venue}} ({{service.venueshort}})</td> 
+            </tr>
+          </span>
+        </table>
+  
+        <H2>Awards</H2>
+        <ol>
+          <li *ngFor='let v of data?.recognition["awards"]'>
+            {{ v.title }}, {{v.venue}}, {{v.year}}        
+          </li>
+        </ol>
+  
+        <H2>Invited Presentations</H2>
+        <ol>
+          <li *ngFor='let v of data?.invitations["talks"]'>
+            {{ v.title }}, {{v.venue}}, {{v.year}}        
+          </li>
+        </ol>
+  
+        <H2>Invited Panels</H2>
+        <ol>
+          <li *ngFor='let v of data?.invitations["panels"]'>
+            {{ v.title }}, {{v.venue}}, {{v.year}}        
+          </li>
+        </ol>     
+  
+        <H2>Press Coverage</H2>
+        <ol>
+          <li *ngFor='let v of data?.recognition["press"]'>
+            {{ v.title }}, {{v.venue}}, {{v.year}}        
+          </li>
+        </ol>
+  
+        <H2>Work Experience</H2>
+        <table>
+          <tr *ngFor='let v of data?.about.work | highlight:false'>
+            <td>{{[v.startdate, v.enddate] | tenure}}</td> <td>{{v.title}}, {{v.venue}}</td> 
+          </tr>
+        </table>
+  
+      </div>
+    </mat-tab>
+  </mat-tab-group>
+</span>

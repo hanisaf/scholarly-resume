@@ -12,9 +12,8 @@ import {CoAuthorsPipe} from './pipes';
 export class AppComponent  {
   data: any; 
   constructor(private http: HttpClient) {
-    this.http.get("assets/data.json").subscribe( res => { console.log(res); this.data=res; CoAuthorsPipe.me = this.data.about.name; });
+    this.http.get("assets/data.json").subscribe( res => {  this.data=res; CoAuthorsPipe.me = this.data.about.name; });
   }
-
 
   onLinkClick(event: MatTabChangeEvent) {
     if(event.tab.textLabel.includes("Print")) {
