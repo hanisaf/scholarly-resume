@@ -678,12 +678,15 @@
             {
                 "id": "MIST 9000",
                 "title": "Doctoral Research",
-                "venue":"University of Georgia"
+                "venue":"University of Georgia",
+                "abstract":"description"
             },
             {
                 "id": "MIST 9777",
                 "title": "Big Data Research Methods for Computational Social Science",
-                "venue":"University of Georgia"
+                "venue":"University of Georgia",
+                "abstract": "Approaches for developing, analyzing, and managing large datasets for computational social science. Development topics include acquiring data from the web and log files and managing unstructured data. Analysis approaches overviewed include econometric, social network, text, and sequence analysis. Data management topics cover sharing, protecting, and archiving data.",
+                "url": "https://www.terry.uga.edu/courses/MIST/9777/"
             },
             {
                 "id": "MIST 9750",
@@ -708,7 +711,8 @@
             {
                 "id": "BIA 658",
                 "title": "Social Networks Analytics",
-                "venue":"Stevens Institute of Technology"
+                "venue":"Stevens Institute of Technology",
+                "abstract": "This course introduces concepts and theories of social network and social media analyses. Application areas include customer profiling, community and trend detection, targeting, sentiment analysis, and development of recommendation systems."
             },
             {
                 "id": "MIS 630",

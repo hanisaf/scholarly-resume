@@ -82,7 +82,7 @@
           </mat-card-header>
           <mat-card-content>
             <mat-nav-list>
-              <a mat-list-item role="listitem" *ngFor="let v of entry.value"> {{v.id}}: {{v.title}} </a>
+              <a [title]="v.abstract || ''" mat-list-item role="listitem" *ngFor="let v of entry.value"> {{v.id}}: {{v.title}} </a>
             </mat-nav-list>
           </mat-card-content>
         </mat-card>
