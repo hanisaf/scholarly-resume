@@ -10,8 +10,10 @@
         "websites": [
             {"title": "University page", "url": "https://www.terry.uga.edu/directory/profile/hanisaf"},
             {"title": "Google scholar", "url": "https://scholar.google.com/citations?user=OUWTJoMAAAAJ"},
+            {"title": "GitHub", "url": "https://github.com/hanisaf/"},
             {"title": "LinkedIn", "url": "https://www.linkedin.com/in/hanisafadi"},
-            {"title": "Twitter", "url": "https://twitter.com/hanisaf"}
+            {"title": "Twitter", "url": "https://twitter.com/hanisaf"},
+            {"title": "ODIN", "url": "https://open-data.stream/"}
         ],
         "education": [
             {
@@ -91,7 +93,7 @@
                 "abstract": "Adaptation of Arexera's search engine technologies to Arabic"
             },
             {
-                "title": "Software Developer",
+                "title": "Software Tester",
                 "venue": "TeachArabia",
                 "startdate": 2004,
                 "enddate": 2005
@@ -110,7 +112,7 @@
         }
     },
     "research": {
-        "journal papers": [
+        "journal articles": [
             {
                 "id": "",
                 "title": "Data-Driven Computationally-Intensive Theory Development",
@@ -122,7 +124,7 @@
                 "year": 2018,
                 "venue": "Information Systems Research",
                 "url": "https://www.researchgate.net/publication/322069351_Data-Driven_Computationally-Intensive_Theory_Development",
-                "abstract": "Increasingly abundant trace data provides an opportunity for information systems researchers to generate new theory. In this research commentary, we draw on the largely \"manual\" tradition of the grounded theory methodology (GTM) and the highly \"automated\" process of computational theory discovery (CTD) in the sciences to develop a general approach to computa-tionally-intensive theory development from trace data. This approach involves the iterative application of four general processes: sampling, synchronic analysis, lexical framing, and dia-chronic analysis. We provide examples from recent research in information systems."
+                "abstract": "Increasingly abundant trace data provides an opportunity for information systems researchers to generate new theory. In this research commentary, we draw on the largely \"manual\" tradition of the grounded theory methodology (GTM) and the highly \"automated\" process of computational theory discovery (CTD) in the sciences to develop a general approach to computa-tionally-intensive theory development from trace data. This approach involves the iterative application of four general processes: sampling, synchronic analysis, lexical framing, and dia-chronic analysis. We provide examples from recent research in information systems." 
             },
             {
                 "id": "",
@@ -144,11 +146,11 @@
                 "authors": [
                     "Steven Johnson",
                     "Hani Safadi",
-                    "Samer Faraj"
-                ],
+                    "Samer Faraj"],
                 "year": 2015,
                 "venue": "Information Systems Research",
-                "url": "https://www.researchgate.net/publication/277553143_The_Emergence_of_Online_Community_Leadership"
+                "url": "https://www.researchgate.net/publication/277553143_The_Emergence_of_Online_Community_Leadership",
+                "abstract":"Compared to traditional organizations, online community leadership processes and how leaders emerge are not well studied. Previous studies of online leadership have often identified leaders as those who administer forums or have high network centrality scores. Although communication in online communities occurs almost exclusively through written words, little research has addressed how the comparative use of language shapes community dynamics. Using participant surveys to identify leading online community members, this study analyzes a year of communication network history and message content to assess whether language use differentiates leaders from other core community participants. We contribute a novel use of textual analysis to develop a model of language use to evaluate the utterances of all participants in the community. We find that beyond communication network position-in terms of formal role, centrality, membership in the core, and boundary spanning-those viewed as leaders by other participants, post a large number of positive, concise posts with simple language familiar to other participants. This research provides a model to study online language use and points to the emergent and shared nature of online community leadership."
             },
             {
                 "id": "10.1016/j.hlpt.2014.10.011",
@@ -162,10 +164,11 @@
                 ],
                 "year": 2015,
                 "venue": "Health Policy and Technology",
-                "url": "https://www.sciencedirect.com/science/article/pii/S2211883714000847"
+                "url": "https://www.sciencedirect.com/science/article/pii/S2211883714000847",
+                "abstract":"Objectives Open-source software OSS has achieved widespread adoption in many domains such as server operating systems, enterprise tools, and databases. We review the status of open-source in healthcare and discuss the potential of open-source to resolve some of the challenges surrounding the wide adoption of Health IT in North America. Specifically, we address aspects that are unique to using open-source in ambulatory care. We present the case of a Canadian open-source electronic medical record system (EMR) named OSCAR that is widely adopted by primary care units and family physicians in Canada.Target audience Health practitioners, health technology managers and policy makers.Methods A case study based on semi-structured interviews with various stakeholders of the EMR including users (medical and staff), developers, and service providers. In addition, we assess arguments presented in the literature for and against open-source software in healthcare in light of the OSCAR EMR.Results and conclusions Open-source development provides a unique platform that enlists contributions from various stakeholders toward creating a common good. As evident from the OSCAR case, the dynamics of OSS development are potential solutions for the low adoption of technology in healthcare. In particular the low cost of acquisition and maintenance, the high degree of customizability, and the community of users are important advantages of OSS EMR. On the other hand, the lack of understanding of OSS model and the unavailability of trusty support providers are unique challenges facing OSS EMR."
             }
         ],
-        "conference papers": [
+        "conference proceedings": [
             {
                 "id": "10.5465/AMBPP.2018.35",
                 "title": "Who Contributes Knowledge? Embeddedness and Marginality in Online Communities",
@@ -176,7 +179,9 @@
                 ],
                 "venue": "Academy of Management Proceedings",
                 "year": 2018,
-                "url": "https://journals.aom.org/doi/10.5465/AMBPP.2018.35"
+                "url": "https://journals.aom.org/doi/10.5465/AMBPP.2018.35",  
+                "abstract":"This paper applies a multiple embeddedness perspective to better understand individual knowledge contribution in online communities. The community of practice and open innovation perspectives suggest different answers to the question: who is most likely to contribute knowledge in online communities? Viewed from a community of practice perspective, the most deeply embedded members of an online community are most likely to contribute knowledge. Conversely, from an open innovation perspective, solutions to local problems are more likely to be provided by peripheral participants from the marginsñcontributors who are not embeddeded in the community. By extending the conceptualization of embeddedness to encompass not only social embeddedness, but also epistemic embeddedness, we resolve these conflicting predictions. Neither the community of practice nor the open innovation perspective individually explains knowledge contribution in online communities. Instead, using data regarding 88,472 participants at 51 Stack Exchange problem-solving online communities, we find that individuals who are socially embedded and epistemically marginal are more likely to make valuable knowledge contributions. We develop a novel approach to measuring epistemic embeddedness, using topic models, and also demonstrate that social embeddedness and epistemic marginality exhibit a considerable complementary interaction."
+      
             },
             {
                 "id": "10.24251/HICSS.2018.380",
@@ -188,7 +193,8 @@
                 ],
                 "venue": "Hawaii International Conference on System Sciences",
                 "year": 2018,
-                "url": "https://www.researchgate.net/publication/323379738_The_Role_of_Anchoring_in_Actualizing_IT_Affordances_in_EMR_Implementations"
+                "url": "https://www.researchgate.net/publication/323379738_The_Role_of_Anchoring_in_Actualizing_IT_Affordances_in_EMR_Implementations",
+                "abstract":"Affordances are useful theoretical tools to study IT mediated organizational change. Affordance actualization process provides a temporal structure to build a model that lays out a non-deterministic sequence to understand the changes that happen in organizations on the introduction of new IS. Affordances and affordance actualization have been studied in many contexts with the focus on material agency of the new IS or human agency of the user groups. Using the case of an EMR implementation in a family and urgent care clinic in Canada observed over 5 years, we discovered that anchoring on legacy systems in place before the EMR implementation has a significant influence in the actualization of affordances of the new IS. We present an affordance actualization process model including the anchoring influence observed, to provide a richer explanation of affordance actualization in EMR implementations."
             },
             {
                 "id": "10.5465/ambpp.2017.11597abstract",
@@ -199,19 +205,8 @@
                 ],
                 "venue": "Academy of Management Proceedings",
                 "year": 2017,
-                "url": "https://journals.aom.org/doi/abs/10.5465/ambpp.2017.11597abstract"
-            },
-            {
-                "id": "",
-                "title": "The distributed construction of an occupational community with social media",
-                "authors": [
-                    "Emmanuelle Vaast",
-                    "Hani Safadi",
-                    "Lisa Cohen"
-                ],
-                "venue": "International Conference on Information Systems",
-                "year": 2015,
-                "url": ""
+                "url": "https://journals.aom.org/doi/abs/10.5465/ambpp.2017.11597abstract",
+                "abstract":"Todayís world is characterized with an ever-increasing influx of data generated at an unparalleled scale. Big data provide unprecedented opportunities for social scientists to apply computational techniques to understand patterns of individual and group behavior that used to be beyond the reach of scientific method. At the same time, big data pose challenges for exploration and inductive understanding of social phenomena. This is in particular more prevalent when questions are not well defined and data is unstructured, making it less amenable to quantification and computation. In this conceptual paper, we review some of the key challenges that big data raise for qualitative researchers trained in the grounded theory methods (GTM) tradition, and then outline guiding principles for designing a system to respond to these challenges. Paying attention to the particularities of qualitative data analysis, we suggest several design patterns suiting the tasks involved and matching them to challenges of applying GTM to big data sets. We are in the process of developing a system which, as an initial prototype, incorporates these design patterns and addresses the aforementioned key challenges."
             },
             {
                 "id": "10.5465/ambpp.2017.11597abstract",
@@ -222,10 +217,11 @@
                 ],
                 "venue": "Academy of Management Proceedings",
                 "year": 2014,
-                "url": "https://journals.aom.org/doi/abs/10.5465/ambpp.2014.12549abstract"
+                "url": "https://journals.aom.org/doi/abs/10.5465/ambpp.2014.12549abstract",
+                "abstract":"This paper proposes a new mechanism that explains how new members in online communities establish ties with existing members. Contrary to mainstream tie formation mechanisms (e.g. preferential attachment and small world clustering) that rely solely on structural properties to predict new relationships, we propose that members interests represented by the content of messages exchanged among members are a key factor in forming future relationships. Using statistical language modeling, we show that a new member chooses to link to other existing members based on shared interests implied by their previous communication. We validate the model using longitudinal data from an open-source online community in the context of healthcare IT."
             },
             {
-                "id": "arXiv:1406.2977",
+                "id": "https://arxiv.org/ftp/arxiv/papers/1406/1406.2977.pdf",
                 "title": "Toward a Local Perspective on Online Collaboration",
                 "authors": [
                     "Hani Safadi",
@@ -233,7 +229,8 @@
                 ],
                 "venue": "Collective Intelligence",
                 "year": 2014,
-                "url": "https://arxiv.org/ftp/arxiv/papers/1406/1406.2977.pdf"
+                "url": "https://arxiv.org/ftp/arxiv/papers/1406/1406.2977.pdf",
+                "abstract":"In this paper, we focus on how the position/embeddedness of members in an online community of innovation relates to their knowledge contribution to the community. We depart from previous research by bringing a different perspective to examine position within a network: we focus on the local position of members rather than the traditionally considered global position. This differentiation has significant theoretical and methodological implications. On the theoretical front, a local view of position implies a more confined and local organization of work in online communities than previously thought. From a methodological perspective, evaluating the local structure of large networks involves radically different algorithms that have only recently become feasible with the increase of processing power."
             },
             {
                 "id": "10.5465/ambpp.2014.104",
@@ -246,7 +243,8 @@
                 ],
                 "venue": "Academy of Management Proceedings",
                 "year": 2014,
-                "url": "https://journals.aom.org/doi/abs/10.5465/ambpp.2014.104"
+                "url": "https://journals.aom.org/doi/abs/10.5465/ambpp.2014.104",
+                "abstract":"Recent crises as well as the rise of social media have made it especially theoretically and topically important to understand how grassroots actors, i.e. actors who are not institutionally recognized and established, frame a crisis. This research contrasts and relates grassroots actorsí to established actorsí framing (e.g. media and social movement organizations). Building upon framing and social movement literatures as well as upon emerging works on social media affordances, we develop mixed-methods analyses of framing related to the Gulf of Mexico oil spill of 2010 and produced through the popular microblogging platform Twitter. Building upon empirical findings, this research conceptualizes why and how, with microblogging, grassroots actorsí framing of a crisis does not simply diffuse but rather builds upon, reacts to and opposes established actorsí framing. It adds to the literature by showing and conceptualizing how, through microblogging, grassroots actors do not only come together with others who share similar frames, but also provoke others who hold opposite frames. It finally reveals that grassroots framing through microblogging may contribute to exacerbate the crisis."
             },
             {
                 "id": "https://www.semanticscholar.org/paper/Stakeholders'-Use-of-Microblogging-to-Engage-in-a-Vaast-Lapointe/169337b6f7644c41bc93743aa85425fcefa4fad3",
@@ -259,19 +257,8 @@
                 ],
                 "venue": "International Conference on Information Systems",
                 "year": 2012,
-                "url": "https://www.semanticscholar.org/paper/Stakeholders'-Use-of-Microblogging-to-Engage-in-a-Vaast-Lapointe/169337b6f7644c41bc93743aa85425fcefa4fad3"
-            },
-            {
-                "id": "",
-                "title": "Symbolic action through microblogging during and after a crisis: Tweeting the oil spill",
-                "authors": [
-                    "Emmanuelle Vaast",
-                    "Bogdan Negoita",
-                    "Hani Safadi"
-                ],
-                "venue": "Academy of Management Proceedings",
-                "year": 2012,
-                "url": ""
+                "url": "https://www.semanticscholar.org/paper/Stakeholders'-Use-of-Microblogging-to-Engage-in-a-Vaast-Lapointe/169337b6f7644c41bc93743aa85425fcefa4fad3",
+                "abstract":"The rise of microblogging has drastically transformed the ways in which people become aware of, talk about, experience, and respond to crises. Microblogging allows for multiple stakeholders to express and manage emotions that a crisis may trigger. This research examines how multiple stakeholders engage in emotion strategies through microblogging over the course of a crisis. Relying upon and extending emerging literatures on crisis management and the psycho-sociology of emotions, we propose the concept of emotion strategies to explore and elaborate upon the different uses of emotions and their crucial importance in a crisis context. We examine how microblogging features and affordances might enable and shape the emotion strategies of various stakeholders involved in a crisis. We outline the details of an ongoing investigation in the context of the 2010 Gulf of Mexico oil spill and provide illustrative insights. We conclude by highlighting future steps in this research and expected contributions"
             },
             {
                 "id": "https://aisel.aisnet.org/amcis2011_submissions/21",
@@ -282,7 +269,8 @@
                 ],
                 "venue": "Americas Conference Information System",
                 "year": 2011,
-                "url": "https://aisel.aisnet.org/amcis2011_submissions/21"
+                "url": "https://aisel.aisnet.org/amcis2011_submissions/21",
+                "abstract":"Research on Healthcare IT is a highly multidisciplinary field. Each stream of research brings a certain focus and contributionsto our understanding of the role of technology in healthcare. However, this high multidisciplinary can be confusing as theresults and implications of the different streams may look incommensurable. This paper looks at various streams of researchon health IT and presents an integrative framework that utilizes organizational change to understand how different researchstreams on health IT interrelate and contradict in terms of their focus, contributions and implications. We argue that such anintegrative understanding is the key to capture the complexity of health IT projects and ensure their success."
             },
             {
                 "id": "https://aisel.aisnet.org/icis2010_submissions/47",
@@ -293,7 +281,8 @@
                 ],
                 "venue": "International Conference on Information Systems",
                 "year": 2010,
-                "url": "https://aisel.aisnet.org/icis2010_submissions/47/"
+                "url": "https://aisel.aisnet.org/icis2010_submissions/47/",
+                "abstract":"A significant degree of customization of medical information technology is required to effectively integrate the promise of IT with the diversity and complexity of medical work. In the absence of such customizations, dissatisfaction and resistance toward the system arise. Indeed, the complexity of the medical work and the inability of software to tailor to the diverse medical practices may explain the limited diffusion of health information systems especially in North America. We study the role of workarounds during an open-source Electronic Medical Record System (EMR) implementation at a medium-size urgent care clinic in a major Canadian city. We found that the technology appropriation process involved the evolving of number of non-trivial workarounds in order to match the EMR to medical work. The emergence of workarounds is conceptualized as a knowledge creation and integration process. This perspective allows us to look at the antecedents and the change dynamics of workarounds in the clinic. Furthermore diverging from the negative view toward workarounds, we discuss the importance of incorporating workarounds during and following system development. The workaround perspective shed the light on how usersí behavior can be channeled into a constructive development effort. This paper contributes by examining the workaround of medical practitioners using an open-source electronic medical record system as well as offering a knowledge perspective for the study of EMR appropriation"
             },
             {
                 "id": "http://citeseerx.ist.psu.edu/viewdoc/summary?doi=10.1.1.331.1043",
@@ -307,7 +296,8 @@
                 ],
                 "venue": "Proceedings of the twelfth Machine Translation Summit",
                 "year": 2009,
-                "url": "http://citeseerx.ist.psu.edu/viewdoc/summary?doi=10.1.1.331.1043"
+                "url": "http://citeseerx.ist.psu.edu/viewdoc/summary?doi=10.1.1.331.1043",
+                "abstract":"This paper describes methods for integrating source language and target language information for machine aided human translation (MAHT) of text documents. These methods are applied to a language translation task involving a human translator dictating a first draft translation of a source language document. A method is presented which integrates target language automatic speech recognition (ASR) models with source language statistical machine translation (SMT) and named entity recognition (NER) information at the phonetic level. Information extracted from a source language document including translation mode"
             },
             {
                 "id": "10.1109/ICTTA.2006.1684669",
@@ -318,7 +308,8 @@
                 ],
                 "venue": "IEEE International Conference on Information & Communication Technologies",
                 "year": 2006,
-                "url": "https://ieeexplore.ieee.org/document/1684669"
+                "url": "https://ieeexplore.ieee.org/document/1684669",
+                "abstract":"In this paper we present AraPen, a trainable system we developed to recognize Arabic online handwriting. The system is based on mathematical matching techniques and our testing results show high recognition rate for non-cursive character recognition, and are promising for cursive recognition. The low memory and CPU requirements enable the system to run on low-end devices interactively"
             },
             {
                 "id": "https://www.w3.org/2006/02/SSML/papers/HIAST/final_Voc2.pdf",
@@ -330,12 +321,25 @@
                 ],
                 "venue": "Internationalizing SSML",
                 "year": 2006,
-                "url": "https://www.w3.org/2006/02/SSML/papers/HIAST/final_Voc2.pdf"
+                "url": "https://www.w3.org/2006/02/SSML/papers/HIAST/final_Voc2.pdf",
+                "abstract":"Arabic Language has two kinds of vowels: Long vowels which are written as normal letters; and short vowels which are written as punctuation marks, above or below letters. Those short vowels are normally omitted in Arabic texts because the reader can fill them and guess the meaning based on his knowledge of the language, and the context in which the words are.However, with the widespread usage of computers in linguistics application; Arabic texts need to be supplied with short vowels in order to be analyzed. Search engines, text to speech engines, and text mining tools are just some examples of applications that need Arabic texts to be vocalized before being processed.In this paper, we present a new method to supply those vocals. The approach emphasizes on unsupervised machine methods, because public Arabic corpora are not available. Arabic rich morphology and diverse orthography present serious challenges for this approach. An algorithm is developed and a system is implemented in Java.The techniques presented in this dissertation can be applied to similar Semitic or other languages that have the same problem."
             }
         ],
-        "workshop papers": [
+        "conference presentations": [
             {
                 "id": "",
+                "title": "Design of a Computational System to Support Grounded Theorizing from Big Textual Data",
+                "authors": [
+                    "Hani Safadi",
+                    "Marie-Claude Boudreau",
+                    "Emmanuelle Vaast"
+                ],
+                "venue": "Pre-ICIS Workshop on Advances in Qualitative IS Research Methodologies, 2016",
+                "year": 2016,
+                "url": "",
+                "abstract": ""
+            },
+            {  "id": "",
                 "title": "ODIN: Tracing Ideas, Entities, and Relationships from Big Textual Data",
                 "authors": [
                     "Hani Safadi"
@@ -344,6 +348,180 @@
                 "year": 2016,
                 "url": "",
                 "abstract": ""
+            },
+            {
+                "id": "",
+                "title": "GTM and Trace Data",
+                "authors": [
+                    "Hani Safadi",
+                    "Stefan Seidel"
+                ],
+                "venue": "International Workshop on GTM Research: The Richness of the Grounded Theory Method in IS Research",
+                "year": 2016,
+                "url": "",
+                "abstract": ""
+            } ,  
+            {
+                "id": "",
+                "title": "The distributed construction of an occupational community with social media",
+                "authors": [
+                    "Emmanuelle Vaast",
+                    "Hani Safadi",
+                    "Lisa Cohen"
+                ],
+                "venue": "International Conference on Information Systems",
+                "year": 2015,
+                "url": ""
+            },
+             {
+                "id": "",
+                "title": "A Local Perspective on Online Collaboration in Open Source Communities",
+                "authors": [
+                    "Hani Safadi",
+                    "Samer Faraj"
+                ],
+                "venue": "IFIP Working Group 8.2 Workshop on Information Systems and Organization",
+                "year": 2014,
+                "url": "",
+                "abstract": ""
+            },
+            {
+                "id": "",
+                "title": "Knowledge Creation Practices in a Healthcare Collaborative Work Community",
+                "authors": [
+                    "Hani Safadi",
+                    "Samer Faraj",
+                    "Diego Mastroianni"
+                ],
+                "venue": "Open and User Innovation Workshop",
+                "year": 2014,
+                "url": "https://www.hbs.edu/faculty/conferences/2014-oui/Documents/OUI2014_Book_of_Abstracts.pdf",
+                "abstract": ""
+            },
+        
+            {
+                "id": "",
+                "title": "#BPoilspill: Grassroots Framing In A Crisis Through Microblogging",
+                "authors": [
+                    "Hani Safadi",
+                    "Emmanuelle Vaast",
+                    "Liette Lapointe",
+                    "Bogdan Negoita"
+                ],
+                "venue": "Colloquium of the European Group for Organizational Studies",
+                "year": 2013,
+                "url": "",
+                "abstract": ""
+            },
+            {
+                "id": "",
+                "title": "General Laws of IS Use",
+                "authors": [
+                    "Hani Safadi"
+                    ],
+                "venue": "Conference of the Administrative Sciences Association of Canada",
+                "year": 2013,
+                "url": "",
+                "abstract": ""
+            },
+            {
+                "id": "",
+                "title": "Rethinking IS Workarounds: Lessons from Open-Source Healthcare IT",
+                "authors": [
+                    "Hani Safadi",
+                    "Samer Faraj"
+                    ],
+                "venue": "Open and User Innovation Workshop",
+                "year": 2012,
+                "url": "",
+                "abstract": ""
+            } ,
+            {
+                "id": "",
+                "title": "Symbolic action through microblogging during and after a crisis: Tweeting the oil spill",
+                "authors": [
+                    "Emmanuelle Vaast",
+                    "Bogdan Negoita",
+                    "Hani Safadi"
+                ],
+                "venue": "Academy of Management Proceedings",
+                "year": 2012,
+                "url": ""
+                
+            },
+            {
+                "id": "",
+                "title": "Customizations and Workarounds during the Implementation of an Open-Source Electronic Medical Record System",
+                "authors": [
+                    "Hani Safadi",
+                    "Samer Faraj"
+                    ],
+                "venue": "Conference of the Administrative Sciences Association of Canada",
+                "year": 2011,
+                "url": "",
+                "abstract": ""
+            },
+            {
+                "id": "",
+                "title": "Organizational Identification in Online Communities",
+                "authors": [
+                    "Hani Safadi",
+                    "Samer Faraj",
+                    "Steven Johnson"
+                    ],
+                "venue": "Conference of the Administrative Sciences Association of Canada",
+                "year": 2011,
+                "url": "",
+                "abstract": ""
+            } ,
+            {
+                "id": "",
+                "title": "Impact of Open-Source Software in Adopting and Implementing Electronic Medical Record Systems",
+                "authors": [
+                    "Hani Safadi",
+                    "Samer Faraj"
+                    ],
+                "venue": "Conference of the Administrative Sciences Association of Canada",
+                "year": 2010,
+                "url": "",
+                "abstract": ""
+            },
+            {
+                "id": "",
+                "title": "Crosslingual Implementation of Linguistic Resources and Tools",
+                "authors": [
+                    "Hani Safadi",
+                    "Richard Rose",
+                    "Doina Precup"
+                    ],
+                "venue": "Conference of Atlantic Provinces Linguistic Association",
+                "year": 2008,
+                "url": "",
+                "abstract": ""
+            }
+        ],
+        "posters": [
+            {
+                "id": "",
+                "title": "Extracting Social Network Ontologies from Unstructured Data",
+                "authors": [
+                    "Hani Safadi"
+                    ],
+                "venue": "Sequences, Traces, & Time: Building a research community",
+                "year": 2017,
+                "url": "http://cbsa.msu.edu/index.php/first-annual-conference-sequences-and-traces/",
+                "abstract": "at Michigan State University"
+            },
+            {
+                "id": "",
+                "title": "Tracing Ideas, Entities, and Relationships from Big Textual Data",
+                "authors": [
+                    "Hani Safadi"
+                    ],
+                "venue": "Georgia Informatics Symposium",
+                "year": 2016,
+                "url": "https://news.uga.edu/informatics-symposium-2016/",
+                "abstract": "at University of Georgia"
             }
         ],
         "books": [
@@ -450,63 +628,137 @@
                     "Jean-François Crespo"
                 ],
                 "venue": "Yahoo! Research Internal Report"
-            }           
+            },
+            {
+                "id": "",
+                "title": "Local path planning using virtual potential field",
+                "year": 2007,
+                "authors": [
+                    "Hani Safadi"                ],
+                "venue": "McGill University School of Computer Science",
+                "url": "https://www.cs.mcgill.ca/~hsafad/robotics",
+                "abstract": "In this report we discuss our implementation of  a local path planning algorithm based on virtual potential field described in [1]. The algorithm uses virtual forces to avoid being trapped in a local minimum. Simulation and experiments are performed, and compared to the results presented in the paper. They show good performance and ability to avoid the local minimum problem in most of the cases."
+            },
+            {
+                "id": "",
+                "title": "Geometrical Tools for Classification",
+                "year": 2007,
+                "authors": [
+                    "Hani Safadi"                ],
+                "venue": "McGill University School of Computer Science",
+                "url": "https://www.cs.mcgill.ca/~hsafad/prproject/index.html",
+                "abstract": "In this project we will describe a new methods used to alleviate the problems of non-parametric methods, namely the large training set requirements and the locality problem. Those methods rely on geometry as a tool. The construct that will be used is the \"Convex Hull\"."
+            }               
+        ],
+        "software": [
+            {
+                "id": "",
+                "title": "An online platform to explore the process legislation and law making of the Jumpstart Our Business Act of 2012",
+                "year": 2018,
+                "authors": [
+                    "Hani Safadi"            
+                ],
+                "venue": "GitHub",
+                "url": "https://github.com/hanisaf/odin-front"
+            },
+            {
+                "id": "",
+                "title": "Scholarly Resume: academic profile frontend web application",
+                "year": 2018,
+                "authors": [
+                    "Hani Safadi"            
+                ],
+                "venue": "GitHub",
+                "url": "https://github.com/hanisaf/scholarly-resume"
+            }
         ]
-    },
-    "courses": {
-        "University of Georgia": [
+    }, 
+    "teaching": {
+        "courses": [
             {
                 "id": "MIST 9000",
-                "title": "Doctoral Research"
+                "title": "Doctoral Research",
+                "venue":"University of Georgia"
             },
             {
                 "id": "MIST 9777",
-                "title": "Big Data Research Methods for Computational Social Science"
+                "title": "Big Data Research Methods for Computational Social Science",
+                "venue":"University of Georgia"
             },
             {
                 "id": "MIST 9750",
-                "title": "Individual Level Theories in Information Systems"
+                "title": "Individual Level Theories in Information Systems",
+                "venue":"University of Georgia"
             },
             {
                 "id": "MIST 9760",
-                "title": "Special Topics in Information Systems Research"
+                "title": "Special Topics in Information Systems Research",
+                "venue":"University of Georgia"
             },
             {
                 "id": "MIST 4600",
-                "title": "Computer Programming in Business"
+                "title": "Computer Programming in Business",
+                "venue":"University of Georgia"
             },
             {
                 "id": "FYOS 1001",
-                "title": "iOS App Development and Game Programming Using Swift"
-            }
-        ],
-        "Stevens Institute of Technology": [
+                "title": "iOS App Development and Game Programming Using Swift",
+                "venue":"University of Georgia"
+            },
             {
                 "id": "BIA 658",
-                "title": "Social Networks Analytics"
+                "title": "Social Networks Analytics",
+                "venue":"Stevens Institute of Technology"
             },
             {
                 "id": "MIS 630",
-                "title": "Data and Knowledge Management"
-            }
-        ],
-        "McGill University": [
+                "title": "Data and Knowledge Management",
+                "venue":"Stevens Institute of Technology"
+            },
             {
                 "id": "INSY 437",
-                "title": "Managing Data & Databases"
+                "title": "Managing Data & Databases",
+                "venue":"McGill University"
             },
             {
                 "id": "MGCR 331",
-                "title": "Introduction to Information Systems"
+                "title": "Introduction to Information Systems",
+                "venue":"McGill University"
             },
             {
                 "id": "COMP 250",
-                "title": "Introduction to Algorithms and Data Structures"
+                "title": "Introduction to Algorithms and Data Structures",
+                "venue":"McGill University"
             },
             {
                 "id": "COMP 202",
-                "title": "Introduction to Programming in Java "
+                "title": "Introduction to Programming in Java",
+                "venue":"McGill University"
             }
+        ],
+        "pedagogical development": [
+            {
+                "id": "2017",
+                "title": "Academic Affairs Faculty Symposium",
+                "venue":"Unicoi Lodge"
+            },
+            {
+                "id": "2016",
+                "title": "University of Georgia Teaching Academy Fellow",
+                "venue":""
+            },
+            {
+                "id": "2012",
+                "title": "Harvard Business Publishing, Participant-Centered Learning seminar",
+                "venue":""
+            }
+        ],
+        "students": [
+            {"title": "Kamesh Mallampalli", "id": "Co-supervisor"},
+            {"title": "Tanner Skousen", "id": "Co-supervisor"},
+            {"title": "Carolina Salge", "id": "Committee member"},
+            {"title": "Ken Park", "id": "Committee member"},
+            {"title": "Mazen Shawosh", "id": "Committee member"}
         ]
     },
     "service": {
