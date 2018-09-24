@@ -75,7 +75,7 @@
       </span>
     </mat-tab>
     <mat-tab label="Teaching">
-      <span *ngFor="let entry of data?.courses | keys">
+      <span *ngFor="let entry of data?.teaching | keys">
         <mat-card>
           <mat-card-header>
             {{entry.key | titlecase}}
@@ -160,21 +160,27 @@
             </tr>
           </table>
   
-        <H2>Journal publications</H2>
+        <H2>Journal articles</H2>
         <ol>
-          <li *ngFor='let paper of data?.research["journal papers"]'>
+          <li *ngFor='let paper of data?.research["journal articles"]'>
             {{paper.title}}, <b>{{paper.venue}}</b>, {{paper.year}} <i>{{paper.authors | coauthors}}</i>
           </li>
         </ol>
   
   
-        <H2>Conference publications</H2>
+        <H2>Conference proceedings</H2>
         <ol>
-          <li *ngFor='let paper of data?.research["conference papers"]'>
+          <li *ngFor='let paper of data?.research["conference proceedings"]'>
             {{paper.title}}, {{paper.venue}}, {{paper.year}} <i>{{paper.authors | coauthors}}</i>
           </li>
         </ol>
   
+        <H2>Conference presentations</H2>
+        <ol>
+          <li *ngFor='let paper of data?.research["conference presentations"]'>
+            {{paper.title}}, {{paper.venue}}, {{paper.year}} <i>{{paper.authors | coauthors}}</i>
+          </li>
+        </ol>
   
         <H2>Grants</H2>
         <ol>
@@ -187,8 +193,8 @@
   
   
         <H2>Teaching</H2>
-        <span *ngFor='let university of data?.courses | keys'>
-          <span *ngFor="let course of university.value">{{course.id}}: {{course.title}}, </span>
+        <span *ngFor='let course of data?.teaching.courses'>
+          {{course.id}}: {{course.title}}, 
         </span>
   
         <H2>Professional Service</H2>
@@ -237,5 +243,8 @@
   
       </div>
     </mat-tab>
+    <!-- <mat-tab label="Experimental">
+      <button mat-button (click)="print()">Print full resume</button>
+    </mat-tab> -->
   </mat-tab-group>
 </span>

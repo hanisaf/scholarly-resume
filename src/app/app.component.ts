@@ -44,5 +44,9 @@ export class AppComponent  {
     );
     popupWin.document.close();
 }
+
+test() {
+  window.alert("Hi");
+}
 }
 
