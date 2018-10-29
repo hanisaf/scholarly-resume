@@ -679,7 +679,9 @@
                 "id": "MIST 9000",
                 "title": "Doctoral Research",
                 "venue":"University of Georgia",
-                "abstract":"description"
+                "abstract":"Research while enrolled for a doctoral degree under the direction of faculty members.",
+                "url":"https://www.terry.uga.edu/courses/MIST/9000/"
+            
             },
             {
                 "id": "MIST 9777",
@@ -691,23 +693,32 @@
             {
                 "id": "MIST 9750",
                 "title": "Individual Level Theories in Information Systems",
-                "venue":"University of Georgia"
+                "venue":"University of Georgia",
+                "abstract":"An overview of research on individual behavior with specific emphasis on information systems and marketing.",
+                "url":"https://www.terry.uga.edu/courses/MIST/9750/"
             },
             {
                 "id": "MIST 9760",
                 "title": "Special Topics in Information Systems Research",
-                "venue":"University of Georgia"
+                "venue":"University of Georgia",
+                "abstract":"Theories, conceptual issues, empirical papers, and research approaches pertaining to Information Systems (IS) research and its application. Topics vary, but examples are IS-enabled value creation, economics of IS, design science, inter-organizational level IS research, group level IS research, critical and qualitative approaches to IS, and addressing the research needs of practice.",
+                "url":"https://www.terry.uga.edu/courses/MIST/9760/"
             },
             {
                 "id": "MIST 4600",
                 "title": "Computer Programming in Business",
-                "venue":"University of Georgia"
+                "venue":"University of Georgia",
+                "abstract":"Introduction to computer programming using an object-oriented language; top-down design; structured programming; and debugging, testing and implementation",
+                "url":"https://www.terry.uga.edu/courses/MIST/4600/"
             },
             {
                 "id": "FYOS 1001",
                 "title": "iOS App Development and Game Programming Using Swift",
-                "venue":"University of Georgia"
-            },
+                "venue":"University of Georgia",
+                "abstract":"A seminar to engage first-year students in the academic culture of the University. Seminars will promote meaningful academic dialogue between students and faculty in a small class setting that encourages reflective thinking and learning to learn. Varied topics based on faculty scholarship. Exploration of the unique learning environment at UGA, including opportunities to engage in research, public service, and varied forms of instruction both on campus and globally.",
+                "url":"http://bulletin.uga.edu/CoursesHome.aspx?Prefix=FYOS"
+            } ,
+            
             {
                 "id": "BIA 658",
                 "title": "Social Networks Analytics",
@@ -717,27 +728,33 @@
             {
                 "id": "MIS 630",
                 "title": "Data and Knowledge Management",
-                "venue":"Stevens Institute of Technology"
-            },
+                "venue":"Stevens Institute of Technology",
+                "abstract":"This course focuses on data and database management, with an emphasis on modeling and design, and their application to decision support. The course is organized around the following general themes: Strategic Data Planning, Data Governance, Enterprise Data Integration, Data Management Approaches, Data Design for Transaction Processing vs. Decision Support, Data Management Functions, Abstraction and Modeling, Data- and Information Modeling (ER, Object-oriented), Database Schemas (Conceptual Schema), Database Design (Functional Dependencies and Normalization), Query languages (SQL, DDL, QBE), Metadata Development and Application, Data Quality Approaches, Master and Reference Data Management (e.g., Customer and Product Data), Temporal Data, Data, Analytics, and Business Performance, Introduction to Data Warehousing, OLAP, OLTP, and Data Mining, Strategic Data Policies and Guidelines (e.g. Enterprise Data and Integration, Governance, Markets, Customers, and Competitors, Leadership, Analysts and Knowledge Worker Skills and Training, Communities of Analysts). There are numerous case studies and modeling projects throughout the course."
+            } ,
+           
             {
                 "id": "INSY 437",
                 "title": "Managing Data & Databases",
-                "venue":"McGill University"
+                "venue":"McGill University",
+                "abstract":"Information Systems : Management of organizational data, implementation of database management systems, and the roles and responsibilities of data management personnel. Explores different models of data representation with an emphasis on the relational model; simple and complex SQL queries."
             },
             {
                 "id": "MGCR 331",
                 "title": "Introduction to Information Systems",
-                "venue":"McGill University"
+                "venue":"McGill University",
+                "abstract":"Management Core : Introduction to principles and concepts of information systems in organizations. Topics include information technology, transaction processing systems, decision support systems, database and systems development. Students are required to have background preparation on basic micro computer skills including spreadsheet and word-processing."
             },
             {
                 "id": "COMP 250",
                 "title": "Introduction to Algorithms and Data Structures",
-                "venue":"McGill University"
+                "venue":"McGill University",
+                "abstract":"Computer Science (Sci) : Mathematical tools (binary numbers, induction, recurrence relations, asymptotic complexity, establishing correctness of programs), Data structures (arrays, stacks, queues, linked lists, trees, binary trees, binary search trees, heaps, hash tables), Recursive and non-recursive algorithms (searching and sorting, tree and graph traversal). Abstract data types, inheritance. Selected topics"
             },
             {
                 "id": "COMP 202",
                 "title": "Introduction to Programming in Java",
-                "venue":"McGill University"
+                "venue":"McGill University",
+                "abstract":"Computer Science (Sci) : Introduction to computer programming in a high level language: variables, expressions, primitive types, methods, conditionals, loops. Introduction to algorithms, data structures (arrays, strings), modular software design, libraries, file input/output, debugging, exception handling. Selected topics."
             }
         ],
         "pedagogical development": [
@@ -804,6 +821,12 @@
                 "startdate": 2018
             },
             {
+                "venue": "European Journal of Information Systems",
+                "venueshort": "EJIS",
+                "role": "Reviewer",
+                "startdate": 2018
+            },
+            {
                 "venue": "Communications of the Association for Information Systems",
                 "venueshort": "CAIS",
                 "role": "Reviewer",
@@ -820,6 +843,12 @@
                 "venueshort": "HPT",
                 "role": "Reviewer",
                 "startdate": 2014
+            },
+            {
+                "venue": "Big Data & Society",
+                "venueshort": "BDS",
+                "role": "Reviewer",
+                "startdate": 2018
             }
         ],
         "conference editorialship": [
