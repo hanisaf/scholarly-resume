@@ -853,6 +853,13 @@
         ],
         "conference editorialship": [
             {
+                "venue": "Advancing Informatics in Government and Industry",
+                "venueshort": "AIGI",
+                "role": "Organization Committee Member",
+                "startdate": 2018,
+                "enddate": 2018
+            },            
+            {
                 "venue": "International Conference on Information Systems",
                 "venueshort": "ICIS",
                 "role": "Track Associate Editor",
@@ -873,7 +880,7 @@
             },
             {
                 "venue": "The First International Workshop on Privacy and Security in HealthCare",
-                "venueshort": "",
+                "venueshort": "IWPS",
                 "role": "Technical Committee member ",
                 "startdate": 2014,
                 "enddate": 2014
