@@ -181,7 +181,14 @@
             {{paper.title}}, {{paper.venue}}, {{paper.year}} <i>{{paper.authors | coauthors}}</i>
           </li>
         </ol>
-  
+ 
+        <H2>Conference posters</H2>
+        <ol>
+          <li *ngFor='let paper of data?.research["posters"]'>
+            {{paper.title}}, {{paper.venue}}, {{paper.year}} <i>{{paper.authors | coauthors}}</i>
+          </li>
+        </ol>
+
         <H2>Grants</H2>
         <ol>
           <li *ngFor='let grant of data?.research["grants"]'>

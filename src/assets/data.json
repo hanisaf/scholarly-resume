@@ -328,13 +328,28 @@
         "conference presentations": [
             {
                 "id": "",
+                "title": "Effective Moderation of Online Patient Communities",
+                "authors": [
+                    "Hani Safadi",
+                    "Elena Karahanna",
+                    "Tanner Skousen",
+                    "Colleen Young",
+                    "Sami Safadi"
+                ],
+                "venue": "Pre-ICIS Paper-a-Thon Workshop",
+                "year": 2018,
+                "url": "",
+                "abstract": "Online patient communities are becoming a mainstream medium for patients to share their stories, gain peer support and search for medical information. Online patient communities face unique challenges in sustaining their membership and dealing with specific issues that arise in the healthcare domain such as privacy, misinformation and trust. Moreover, these communities are commonly sponsored by health organizations that are keen on moderating information on these sites. We focus on moderation practices and the role of moderators to understand how they contribute to the success of an online patient community. We conduct an inductive case study to uncover best practices employed in a thriving online patient community to manage volunteer workforce, moderate an increasing volume of content contributed by members, resolve issues and achieve desired outcomes. We find four categories of practices: connective, syntactic, semantic and pragmatic that are used by both staff moderators and volunteer mentors. These findings offer a deeper understanding of how online patient communities effectively moderate contributions and resolve issues which has important implications for managers and designers of online patient communities and contribute to literature on organization-sponsored online communities in healthcare."
+            },
+            {
+                "id": "",
                 "title": "Design of a Computational System to Support Grounded Theorizing from Big Textual Data",
                 "authors": [
                     "Hani Safadi",
                     "Marie-Claude Boudreau",
                     "Emmanuelle Vaast"
                 ],
-                "venue": "Pre-ICIS Workshop on Advances in Qualitative IS Research Methodologies, 2016",
+                "venue": "Pre-ICIS Workshop on Advances in Qualitative IS Research Methodologies",
                 "year": 2016,
                 "url": "",
                 "abstract": ""
@@ -354,6 +369,7 @@
                 "title": "GTM and Trace Data",
                 "authors": [
                     "Hani Safadi",
+                    "Nicholas Berente",
                     "Stefan Seidel"
                 ],
                 "venue": "International Workshop on GTM Research: The Richness of the Grounded Theory Method in IS Research",
@@ -444,7 +460,7 @@
                     "Bogdan Negoita",
                     "Hani Safadi"
                 ],
-                "venue": "Academy of Management Proceedings",
+                "venue": "Academy of Management Meeting",
                 "year": 2012,
                 "url": ""
                 
@@ -501,6 +517,17 @@
             }
         ],
         "posters": [
+            {
+                "id": "",
+                "title": "ODIN: Tracing Ideas, Entities, and Relationships from Big Textual Data",
+                "authors": [
+                    "Hani Safadi"
+                    ],
+                "venue": "Advancing Informatics in Government and Industry",
+                "year": 2018,
+                "url": "https://gii.uga.edu/wp-content/uploads/2018/10/2018-AIGI-Poster-Session-Abstracts.pdf",
+                "abstract": "at University of Georgia"
+            },
             {
                 "id": "",
                 "title": "Extracting Social Network Ontologies from Unstructured Data",
