@@ -122,6 +122,7 @@
                     "Hani Safadi"
                 ],
                 "year": 2018,
+                "accepted": 2017,
                 "venue": "Information Systems Research",
                 "url": "https://www.researchgate.net/publication/322069351_Data-Driven_Computationally-Intensive_Theory_Development",
                 "abstract": "Increasingly abundant trace data provides an opportunity for information systems researchers to generate new theory. In this research commentary, we draw on the largely \"manual\" tradition of the grounded theory methodology (GTM) and the highly \"automated\" process of computational theory discovery (CTD) in the sciences to develop a general approach to computa-tionally-intensive theory development from trace data. This approach involves the iterative application of four general processes: sampling, synchronic analysis, lexical framing, and dia-chronic analysis. We provide examples from recent research in information systems." 
@@ -136,6 +137,7 @@
                     "Bogdan Negoita"
                 ],
                 "year": 2017,
+                "accepted": 2017,
                 "venue": "MIS Quarterly",
                 "url": "https://misq.org/social-media-affordances-for-connective-action-an-examination-of-microblogging-use-during-the-gulf-of-mexico-oil-spill.html",
                 "abstract": "This research questions how social media use affords new forms of organizing and collective engagement. The concept of connective action has been introduced to characterize such new forms of collective engagement in which actors coproduce and circulate content based upon an issue of mutual interest. Yet, how the use of social media actually affords connective action still needed to be investigated. Mixed methods analyses of microblogging use during the Gulf of Mexico oil spill bring insights onto this question and reveal in particular how multiple actors enacted emerging and interdependent roles with their distinct patterns of feature use. The findings allow us to elaborate upon the concept of connective affordances as collective level affordances actualized by actors in team interdependent roles. Connective affordances extend research on affordances as a relational concept by considering not only the relationships between technology and users but also the interdependence type among users and the effects of this interdependence onto what users can do with the technology. This study contributes to research on social media use by paying close attention to how distinct patterns of feature use enact emerging roles. Adding to IS scholarship on the collective use of technology, it considers how the patterns of feature use for emerging groups of actors are intricately and mutually related to each other."
@@ -148,6 +150,7 @@
                     "Hani Safadi",
                     "Samer Faraj"],
                 "year": 2015,
+                "accepted": 2015,
                 "venue": "Information Systems Research",
                 "url": "https://www.researchgate.net/publication/277553143_The_Emergence_of_Online_Community_Leadership",
                 "abstract":"Compared to traditional organizations, online community leadership processes and how leaders emerge are not well studied. Previous studies of online leadership have often identified leaders as those who administer forums or have high network centrality scores. Although communication in online communities occurs almost exclusively through written words, little research has addressed how the comparative use of language shapes community dynamics. Using participant surveys to identify leading online community members, this study analyzes a year of communication network history and message content to assess whether language use differentiates leaders from other core community participants. We contribute a novel use of textual analysis to develop a model of language use to evaluate the utterances of all participants in the community. We find that beyond communication network position-in terms of formal role, centrality, membership in the core, and boundary spanning-those viewed as leaders by other participants, post a large number of positive, concise posts with simple language familiar to other participants. This research provides a model to study online language use and points to the emergent and shared nature of online community leadership."
@@ -163,12 +166,25 @@
                     "Samer Faraj"
                 ],
                 "year": 2015,
+                "accepted": 2015,
                 "venue": "Health Policy and Technology",
                 "url": "https://www.sciencedirect.com/science/article/pii/S2211883714000847",
                 "abstract":"Objectives Open-source software OSS has achieved widespread adoption in many domains such as server operating systems, enterprise tools, and databases. We review the status of open-source in healthcare and discuss the potential of open-source to resolve some of the challenges surrounding the wide adoption of Health IT in North America. Specifically, we address aspects that are unique to using open-source in ambulatory care. We present the case of a Canadian open-source electronic medical record system (EMR) named OSCAR that is widely adopted by primary care units and family physicians in Canada.Target audience Health practitioners, health technology managers and policy makers.Methods A case study based on semi-structured interviews with various stakeholders of the EMR including users (medical and staff), developers, and service providers. In addition, we assess arguments presented in the literature for and against open-source software in healthcare in light of the OSCAR EMR.Results and conclusions Open-source development provides a unique platform that enlists contributions from various stakeholders toward creating a common good. As evident from the OSCAR case, the dynamics of OSS development are potential solutions for the low adoption of technology in healthcare. In particular the low cost of acquisition and maintenance, the high degree of customizability, and the community of users are important advantages of OSS EMR. On the other hand, the lack of understanding of OSS model and the unavailability of trusty support providers are unique challenges facing OSS EMR."
             }
         ],
         "conference proceedings": [
+            {                
+                "id": "hdl.handle.net/10125/59995",
+                "title": "Legitimate Peripheral Participation and Value Creation in Online Knowledge Sharing Communities",
+                "authors": [
+                    "Hani Safadi",
+                    "Nicholas Berente"
+                ],
+                "venue": "Hawaii International Conference on System Sciences",
+                "year": 2019,
+                "url": "https://scholarspace.manoa.hawaii.edu/bitstream/10125/59995/1/0555.pdf",
+                "abstract":"Online knowledge sharing communities require contributions and active participation to thrive, yet all participation is not equal. Community members well-socialized in the community are more likely to make stronger contributions. In this paper, we theorize about how legitimate peripheral participation of new online knowledge sharing community members can drive different types of contributions and potentially generate value for the community. We conduct an agent-based simulation analysis of different configurations of legitimate peripheral participation to explore our theoretical arguments. We find, in general, that increased requirements for legitimate peripheral participation of new members drive quality contributions and generates value for the community. However, we also find that there is an inflection point where too many such demands may stifle contributions and impede value creation in these communities."
+            },
             {
                 "id": "10.5465/AMBPP.2018.35",
                 "title": "Who Contributes Knowledge? Embeddedness and Marginality in Online Communities",
@@ -703,6 +719,13 @@
     "teaching": {
         "courses": [
             {
+                "id": "BUSN 7990 B3",
+                "title": "Python Bootcamp",
+                "venue":"University of Georgia",
+                "abstract":"A four session workshop introducing students to data management, visualization and analysis using Python", 
+                "url": "https://github.com/hanisaf/python-bootcamp"
+            },
+            {
                 "id": "MIST 9000",
                 "title": "Doctoral Research",
                 "venue":"University of Georgia",
@@ -876,7 +899,13 @@
                 "venueshort": "BDS",
                 "role": "Reviewer",
                 "startdate": 2018
-            }
+            },
+            {
+                "venue": "IEEE Transactions on Engineering Management",
+                "venueshort": "IEEE TEM",
+                "role": "Reviewer",
+                "startdate": 2019
+           }
         ],
         "conference editorialship": [
             {

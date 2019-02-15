@@ -163,7 +163,7 @@
         <H2>Journal articles</H2>
         <ol>
           <li *ngFor='let paper of data?.research["journal articles"]'>
-            {{paper.title}}, <b>{{paper.venue}}</b>, {{paper.year}} <i>{{paper.authors | coauthors}}</i>
+            {{paper.title}}, <b>{{paper.venue}}</b>, {{paper.year}} [accepted in {{paper.accepted}}] <i>{{paper.authors | coauthors}}</i>
           </li>
         </ol>
   
