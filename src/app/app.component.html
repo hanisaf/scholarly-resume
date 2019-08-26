@@ -18,9 +18,7 @@
               Online Presence
             </mat-card-header>
             <mat-card-content>
-                <!-- <mat-nav-list> -->
                   <a  mat-button [href]="v.url" *ngFor="let v of data?.about.websites"> {{ v.title }}</a>
-                <!-- </mat-nav-list> -->
               </mat-card-content>
       </mat-card>
       <mat-card>
@@ -82,7 +80,7 @@
           </mat-card-header>
           <mat-card-content>
             <mat-nav-list>
-              <a [title]="v.abstract || ''" mat-list-item role="listitem" *ngFor="let v of entry.value"> {{v.id}}: {{v.title}} </a>
+              <a [title]="v.abstract || ''" mat-list-item [href]="v.url" role="listitem" *ngFor="let v of entry.value"> {{v.id}}: {{v.title}} </a>
             </mat-nav-list>
           </mat-card-content>
         </mat-card>
@@ -135,14 +133,13 @@
       <div id="print-section">
         <H1>{{data?.about.name}}</H1>
         {{data?.about.address}}&nbsp;☎{{data?.about.phone}}&nbsp;✉ {{data?.about.email}}
-        <H2>Professional Appointments</H2>
+        <H2>Academic Appointments</H2>
         <table>
           <tr *ngFor='let v of data?.about?.work | highlight'>
             <td>{{[v.startdate, v.enddate] | tenure}}</td> <td>{{v.title}}, {{v.venue}}</td> 
           </tr>
         </table>
-  
-  
+
         <H2>Education</H2>
         <table>
           <tr *ngFor='let v of data?.about.education'>
@@ -163,10 +160,17 @@
         <H2>Journal articles</H2>
         <ol>
           <li *ngFor='let paper of data?.research["journal articles"]'>
-            {{paper.title}}, <b>{{paper.venue}}</b>, {{paper.year}} [accepted in {{paper.accepted}}] <i>{{paper.authors | coauthors}}</i>
+            <!-- {{paper.title}}, <b>{{paper.venue}}</b>, {{paper.year}} [accepted in {{paper.accepted}}] <i>{{paper.authors | coauthors}}</i> -->
+            {{paper.title}}, <b>{{paper.venue}}</b>, {{paper.year}} <i>{{paper.authors | coauthors}}</i>
           </li>
         </ol>
   
+        <H2>Preprints and forthcoming articles</H2>
+        <ol>
+          <li *ngFor='let paper of data?.research["preprints & forthcoming"]'>
+            {{paper.title}}, <b>{{paper.venue}}</b>, {{paper.year}} <i>{{paper.authors | coauthors}}</i>
+          </li>
+        </ol>
   
         <H2>Conference proceedings</H2>
         <ol>

@@ -12,7 +12,6 @@ import {
   MatCardModule,
   MatListModule,
   MatButtonModule
-  // MatExpansionModule
 } from '@angular/material';
 
 
@@ -36,7 +35,6 @@ import {
     MatCardModule,
     MatListModule,
     MatButtonModule
-    // MatExpansionModule
   ],
   providers: [],
   bootstrap: [AppComponent]
