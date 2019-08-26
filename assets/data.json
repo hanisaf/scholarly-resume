@@ -8,12 +8,34 @@
         "phone": "+1-706-542-3336",
         "fax": "+1-706-542-2784",
         "websites": [
-            {"title": "University page", "url": "https://www.terry.uga.edu/directory/profile/hanisaf"},
-            {"title": "Google scholar", "url": "https://scholar.google.com/citations?user=OUWTJoMAAAAJ"},
-            {"title": "GitHub", "url": "https://github.com/hanisaf/"},
-            {"title": "LinkedIn", "url": "https://www.linkedin.com/in/hanisafadi"},
-            {"title": "Twitter", "url": "https://twitter.com/hanisaf"},
-            {"title": "ODIN", "url": "https://open-data.stream/"}
+            {
+                "title": "University page",
+                "url": "https://www.terry.uga.edu/directory/profile/hanisaf"
+            },
+            {
+                "title": "Google scholar",
+                "url": "https://scholar.google.com/citations?user=OUWTJoMAAAAJ"
+            },
+            {
+                "title": "ORCID",
+                "url": "https://orcid.org/0000-0003-0609-8005"
+            },
+            {
+                "title": "GitHub",
+                "url": "https://github.com/hanisaf/"
+            },
+            {
+                "title": "LinkedIn",
+                "url": "https://www.linkedin.com/in/hanisafadi"
+            },
+            {
+                "title": "Twitter",
+                "url": "https://twitter.com/hanisaf"
+            },
+            {
+                "title": "ODIN",
+                "url": "https://open-data.stream/"
+            }
         ],
         "education": [
             {
@@ -97,38 +119,50 @@
                 "venue": "TeachArabia",
                 "startdate": 2004,
                 "enddate": 2005
-            }             
+            }
         ],
         "interests": {
             "New Forms of Organization": [
-               "Social media", "Open innovation", "Online communities", "Large scale collaboration", "AI and cognitive augmentation" 
+                "Social media",
+                "Open innovation",
+                "Online communities",
+                "Large scale collaboration",
+                "AI and cognitive augmentation"
             ],
             "Health Information Technology": [
-                "Open-source health IT", "Health IT workarounds", "Online patient communities", "Open innovation in healthcare", "Impact of IT on medical practice"
+                "Open-source health IT",
+                "Health IT workarounds",
+                "Online patient communities",
+                "Open innovation in healthcare",
+                "Impact of IT on medical practice"
             ],
             "Methods": [
-                "Network analysis", "Big data analytics", "Information visualization", "Natural language processing", "Computational social science"
+                "Network analysis",
+                "Big data analytics",
+                "Information visualization",
+                "Natural language processing",
+                "Computational social science"
             ]
         }
     },
     "research": {
         "journal articles": [
             {
-                "id": "",
+                "id": "10.1287/isre.2018.0774",
                 "title": "Data-Driven Computationally-Intensive Theory Development",
                 "authors": [
                     "Nicholas Berente",
                     "Stefan Seidel",
                     "Hani Safadi"
                 ],
-                "year": 2018,
+                "year": 2019,
                 "accepted": 2017,
                 "venue": "Information Systems Research",
                 "url": "https://www.researchgate.net/publication/322069351_Data-Driven_Computationally-Intensive_Theory_Development",
-                "abstract": "Increasingly abundant trace data provides an opportunity for information systems researchers to generate new theory. In this research commentary, we draw on the largely \"manual\" tradition of the grounded theory methodology (GTM) and the highly \"automated\" process of computational theory discovery (CTD) in the sciences to develop a general approach to computa-tionally-intensive theory development from trace data. This approach involves the iterative application of four general processes: sampling, synchronic analysis, lexical framing, and dia-chronic analysis. We provide examples from recent research in information systems." 
+                "abstract": "Increasingly abundant trace data provides an opportunity for information systems researchers to generate new theory. In this research commentary, we draw on the largely \"manual\" tradition of the grounded theory methodology (GTM) and the highly \"automated\" process of computational theory discovery (CTD) in the sciences to develop a general approach to computa-tionally-intensive theory development from trace data. This approach involves the iterative application of four general processes: sampling, synchronic analysis, lexical framing, and dia-chronic analysis. We provide examples from recent research in information systems."
             },
             {
-                "id": "",
+                "id": "10.25300/MISQ/2017/41.4.08",
                 "title": "Social Media Affordances for Connective Action: An Examination of Microblogging Use During the Gulf of Mexico Oil Spill",
                 "authors": [
                     "Emmanuelle Vaast",
@@ -148,12 +182,13 @@
                 "authors": [
                     "Steven Johnson",
                     "Hani Safadi",
-                    "Samer Faraj"],
+                    "Samer Faraj"
+                ],
                 "year": 2015,
                 "accepted": 2015,
                 "venue": "Information Systems Research",
                 "url": "https://www.researchgate.net/publication/277553143_The_Emergence_of_Online_Community_Leadership",
-                "abstract":"Compared to traditional organizations, online community leadership processes and how leaders emerge are not well studied. Previous studies of online leadership have often identified leaders as those who administer forums or have high network centrality scores. Although communication in online communities occurs almost exclusively through written words, little research has addressed how the comparative use of language shapes community dynamics. Using participant surveys to identify leading online community members, this study analyzes a year of communication network history and message content to assess whether language use differentiates leaders from other core community participants. We contribute a novel use of textual analysis to develop a model of language use to evaluate the utterances of all participants in the community. We find that beyond communication network position-in terms of formal role, centrality, membership in the core, and boundary spanning-those viewed as leaders by other participants, post a large number of positive, concise posts with simple language familiar to other participants. This research provides a model to study online language use and points to the emergent and shared nature of online community leadership."
+                "abstract": "Compared to traditional organizations, online community leadership processes and how leaders emerge are not well studied. Previous studies of online leadership have often identified leaders as those who administer forums or have high network centrality scores. Although communication in online communities occurs almost exclusively through written words, little research has addressed how the comparative use of language shapes community dynamics. Using participant surveys to identify leading online community members, this study analyzes a year of communication network history and message content to assess whether language use differentiates leaders from other core community participants. We contribute a novel use of textual analysis to develop a model of language use to evaluate the utterances of all participants in the community. We find that beyond communication network position-in terms of formal role, centrality, membership in the core, and boundary spanning-those viewed as leaders by other participants, post a large number of positive, concise posts with simple language familiar to other participants. This research provides a model to study online language use and points to the emergent and shared nature of online community leadership."
             },
             {
                 "id": "10.1016/j.hlpt.2014.10.011",
@@ -169,11 +204,58 @@
                 "accepted": 2015,
                 "venue": "Health Policy and Technology",
                 "url": "https://www.sciencedirect.com/science/article/pii/S2211883714000847",
-                "abstract":"Objectives Open-source software OSS has achieved widespread adoption in many domains such as server operating systems, enterprise tools, and databases. We review the status of open-source in healthcare and discuss the potential of open-source to resolve some of the challenges surrounding the wide adoption of Health IT in North America. Specifically, we address aspects that are unique to using open-source in ambulatory care. We present the case of a Canadian open-source electronic medical record system (EMR) named OSCAR that is widely adopted by primary care units and family physicians in Canada.Target audience Health practitioners, health technology managers and policy makers.Methods A case study based on semi-structured interviews with various stakeholders of the EMR including users (medical and staff), developers, and service providers. In addition, we assess arguments presented in the literature for and against open-source software in healthcare in light of the OSCAR EMR.Results and conclusions Open-source development provides a unique platform that enlists contributions from various stakeholders toward creating a common good. As evident from the OSCAR case, the dynamics of OSS development are potential solutions for the low adoption of technology in healthcare. In particular the low cost of acquisition and maintenance, the high degree of customizability, and the community of users are important advantages of OSS EMR. On the other hand, the lack of understanding of OSS model and the unavailability of trusty support providers are unique challenges facing OSS EMR."
+                "abstract": "Objectives Open-source software OSS has achieved widespread adoption in many domains such as server operating systems, enterprise tools, and databases. We review the status of open-source in healthcare and discuss the potential of open-source to resolve some of the challenges surrounding the wide adoption of Health IT in North America. Specifically, we address aspects that are unique to using open-source in ambulatory care. We present the case of a Canadian open-source electronic medical record system (EMR) named OSCAR that is widely adopted by primary care units and family physicians in Canada.Target audience Health practitioners, health technology managers and policy makers.Methods A case study based on semi-structured interviews with various stakeholders of the EMR including users (medical and staff), developers, and service providers. In addition, we assess arguments presented in the literature for and against open-source software in healthcare in light of the OSCAR EMR.Results and conclusions Open-source development provides a unique platform that enlists contributions from various stakeholders toward creating a common good. As evident from the OSCAR case, the dynamics of OSS development are potential solutions for the low adoption of technology in healthcare. In particular the low cost of acquisition and maintenance, the high degree of customizability, and the community of users are important advantages of OSS EMR. On the other hand, the lack of understanding of OSS model and the unavailability of trusty support providers are unique challenges facing OSS EMR."
+            }
+        ],
+        "preprints & forthcoming": [
+            {
+                "id": "10.2196/preprints.15983",
+                "title": "Successful Moderation in Online Patient Communities",
+                "authors": [
+                    "Tanner Skousen",
+                    "Hani Safadi",
+                    "Colleen Young",
+                    "Elena Karahanna",
+                    "Sami Safadi",
+                    "Fouad Chebib"
+                ],
+                "year": "",
+                "accepted": "",
+                "venue": "Preprints of Journal of Medical Internet Research",
+                "url": "https://preprints.jmir.org/preprint/15983",
+                "abstract": "Online patient communities are becoming more prevalent as a resource to help patients take control of their health. However, online patient communities experience challenges that require active moderation. To identify challenges to having a thriving online patient community and moderation practices to manage an online patient community successfully. A qualitative study of Mayo Clinic Connect that draws insights from observations in community meetings, participating in the community, and semi-structured interviews with key stakeholders. We find five types of practices used to moderate the community successfully. These practices include instructive, connective, semantic, administrative, and policing practices. These practices lead to two sets of desired outcomes: community success and member success. Successful moderation requires multiple practices to manage challenges in online patient communities – some from within the community’s discussion threads and some from outside the community’s discussion threads, some from authority figures and some from exemplary members. Different practices can influence different outcomes. Online patient communities can use these practices to effectuate desired outcomes."
             }
         ],
         "conference proceedings": [
-            {                
+            {
+                "id": "",
+                "title": "Tension Resolution and Sustaining Knowledge Flows in Online Communities",
+                "authors": [
+                    "Tanner Skousen",
+                    "Hani Safadi",
+                    "Elena Karahanna",
+                    "Fouad Chebib",
+                    "Colleen Young"
+                ],
+                "venue": "International Conference on Information Systems",
+                "year": 2019,
+                "url": "",
+                "abstract": "Online communities bring together members of common interest and are recognized as generators of significant knowledge. In healthcare, online communities are a medium for patients to share their stories, gain peer support, and learn more about medical conditions. To succeed, these communities need to sustain their knowledge flows and resolve arising tensions. The current literature suggests that participation dynamics and emergent organizational structure are sufficient to resolve tensions in online communities. Based on increased evidence of the need of formal management to sustain online communities, we propose that emergent structure and roles may not always be sufficient when tensions are prevalent and stakes are high such as in online patient communities. We conduct an inductive field study of Mayo Clinic Connect, a leading online patient community. The findings suggest that formal management and emergent leadership play a complementary role to resolve tensions and sustain knowledge flows. We theorize a virtuous cycle of moderation and socialization that effectively integrates the effort of the community formal management and emergent leaders."
+            },
+            {
+                "id": "https://aisel.aisnet.org/amcis2019/enterprise_systems/enterprise_systems/6",
+                "title": "Remixing Generic Defaults with Specialized Software: The Case of Enterprise Collaboration Systems",
+                "authors": [
+                    "Mazen Shawosh",
+                    "Hani Safadi",
+                    "Nicholas Berente"
+                ],
+                "venue": "Americas Conference on Information Systems",
+                "year": 2019,
+                "url": "https://aisel.aisnet.org/amcis2019/enterprise_systems/enterprise_systems/6",
+                "abstract": "Extant literature emphasizes the fit between tasks and technology features to impact performance. Specialized information systems such as Enterprise Collaboration Systems (ECSs) are designed to align with the tasks of collaboration, coordination, and communication in organizations. Despite this fit, users often continue to use generic default technologies (i.e., general purpose software such as an Excel spreadsheet) to perform the tasks that are supported by the specialized systems. We investigate this phenomenon using a multiple case study approach. We present our initial findings and elaborate on the emerging theme of remixing of generic defaults with specialized software as a new perspective in exploring this phenomenon."
+            },
+            {
                 "id": "hdl.handle.net/10125/59995",
                 "title": "Legitimate Peripheral Participation and Value Creation in Online Knowledge Sharing Communities",
                 "authors": [
@@ -183,7 +265,7 @@
                 "venue": "Hawaii International Conference on System Sciences",
                 "year": 2019,
                 "url": "https://scholarspace.manoa.hawaii.edu/bitstream/10125/59995/1/0555.pdf",
-                "abstract":"Online knowledge sharing communities require contributions and active participation to thrive, yet all participation is not equal. Community members well-socialized in the community are more likely to make stronger contributions. In this paper, we theorize about how legitimate peripheral participation of new online knowledge sharing community members can drive different types of contributions and potentially generate value for the community. We conduct an agent-based simulation analysis of different configurations of legitimate peripheral participation to explore our theoretical arguments. We find, in general, that increased requirements for legitimate peripheral participation of new members drive quality contributions and generates value for the community. However, we also find that there is an inflection point where too many such demands may stifle contributions and impede value creation in these communities."
+                "abstract": "Online knowledge sharing communities require contributions and active participation to thrive, yet all participation is not equal. Community members well-socialized in the community are more likely to make stronger contributions. In this paper, we theorize about how legitimate peripheral participation of new online knowledge sharing community members can drive different types of contributions and potentially generate value for the community. We conduct an agent-based simulation analysis of different configurations of legitimate peripheral participation to explore our theoretical arguments. We find, in general, that increased requirements for legitimate peripheral participation of new members drive quality contributions and generates value for the community. However, we also find that there is an inflection point where too many such demands may stifle contributions and impede value creation in these communities."
             },
             {
                 "id": "10.5465/AMBPP.2018.35",
@@ -195,9 +277,8 @@
                 ],
                 "venue": "Academy of Management Proceedings",
                 "year": 2018,
-                "url": "https://journals.aom.org/doi/10.5465/AMBPP.2018.35",  
-                "abstract":"This paper applies a multiple embeddedness perspective to better understand individual knowledge contribution in online communities. The community of practice and open innovation perspectives suggest different answers to the question: who is most likely to contribute knowledge in online communities? Viewed from a community of practice perspective, the most deeply embedded members of an online community are most likely to contribute knowledge. Conversely, from an open innovation perspective, solutions to local problems are more likely to be provided by peripheral participants from the marginsñcontributors who are not embeddeded in the community. By extending the conceptualization of embeddedness to encompass not only social embeddedness, but also epistemic embeddedness, we resolve these conflicting predictions. Neither the community of practice nor the open innovation perspective individually explains knowledge contribution in online communities. Instead, using data regarding 88,472 participants at 51 Stack Exchange problem-solving online communities, we find that individuals who are socially embedded and epistemically marginal are more likely to make valuable knowledge contributions. We develop a novel approach to measuring epistemic embeddedness, using topic models, and also demonstrate that social embeddedness and epistemic marginality exhibit a considerable complementary interaction."
-      
+                "url": "https://journals.aom.org/doi/10.5465/AMBPP.2018.35",
+                "abstract": "This paper applies a multiple embeddedness perspective to better understand individual knowledge contribution in online communities. The community of practice and open innovation perspectives suggest different answers to the question: who is most likely to contribute knowledge in online communities? Viewed from a community of practice perspective, the most deeply embedded members of an online community are most likely to contribute knowledge. Conversely, from an open innovation perspective, solutions to local problems are more likely to be provided by peripheral participants from the marginsñcontributors who are not embeddeded in the community. By extending the conceptualization of embeddedness to encompass not only social embeddedness, but also epistemic embeddedness, we resolve these conflicting predictions. Neither the community of practice nor the open innovation perspective individually explains knowledge contribution in online communities. Instead, using data regarding 88,472 participants at 51 Stack Exchange problem-solving online communities, we find that individuals who are socially embedded and epistemically marginal are more likely to make valuable knowledge contributions. We develop a novel approach to measuring epistemic embeddedness, using topic models, and also demonstrate that social embeddedness and epistemic marginality exhibit a considerable complementary interaction."
             },
             {
                 "id": "10.24251/HICSS.2018.380",
@@ -210,7 +291,7 @@
                 "venue": "Hawaii International Conference on System Sciences",
                 "year": 2018,
                 "url": "https://www.researchgate.net/publication/323379738_The_Role_of_Anchoring_in_Actualizing_IT_Affordances_in_EMR_Implementations",
-                "abstract":"Affordances are useful theoretical tools to study IT mediated organizational change. Affordance actualization process provides a temporal structure to build a model that lays out a non-deterministic sequence to understand the changes that happen in organizations on the introduction of new IS. Affordances and affordance actualization have been studied in many contexts with the focus on material agency of the new IS or human agency of the user groups. Using the case of an EMR implementation in a family and urgent care clinic in Canada observed over 5 years, we discovered that anchoring on legacy systems in place before the EMR implementation has a significant influence in the actualization of affordances of the new IS. We present an affordance actualization process model including the anchoring influence observed, to provide a richer explanation of affordance actualization in EMR implementations."
+                "abstract": "Affordances are useful theoretical tools to study IT mediated organizational change. Affordance actualization process provides a temporal structure to build a model that lays out a non-deterministic sequence to understand the changes that happen in organizations on the introduction of new IS. Affordances and affordance actualization have been studied in many contexts with the focus on material agency of the new IS or human agency of the user groups. Using the case of an EMR implementation in a family and urgent care clinic in Canada observed over 5 years, we discovered that anchoring on legacy systems in place before the EMR implementation has a significant influence in the actualization of affordances of the new IS. We present an affordance actualization process model including the anchoring influence observed, to provide a richer explanation of affordance actualization in EMR implementations."
             },
             {
                 "id": "10.5465/ambpp.2017.11597abstract",
@@ -222,7 +303,7 @@
                 "venue": "Academy of Management Proceedings",
                 "year": 2017,
                 "url": "https://journals.aom.org/doi/abs/10.5465/ambpp.2017.11597abstract",
-                "abstract":"Todayís world is characterized with an ever-increasing influx of data generated at an unparalleled scale. Big data provide unprecedented opportunities for social scientists to apply computational techniques to understand patterns of individual and group behavior that used to be beyond the reach of scientific method. At the same time, big data pose challenges for exploration and inductive understanding of social phenomena. This is in particular more prevalent when questions are not well defined and data is unstructured, making it less amenable to quantification and computation. In this conceptual paper, we review some of the key challenges that big data raise for qualitative researchers trained in the grounded theory methods (GTM) tradition, and then outline guiding principles for designing a system to respond to these challenges. Paying attention to the particularities of qualitative data analysis, we suggest several design patterns suiting the tasks involved and matching them to challenges of applying GTM to big data sets. We are in the process of developing a system which, as an initial prototype, incorporates these design patterns and addresses the aforementioned key challenges."
+                "abstract": "Todayís world is characterized with an ever-increasing influx of data generated at an unparalleled scale. Big data provide unprecedented opportunities for social scientists to apply computational techniques to understand patterns of individual and group behavior that used to be beyond the reach of scientific method. At the same time, big data pose challenges for exploration and inductive understanding of social phenomena. This is in particular more prevalent when questions are not well defined and data is unstructured, making it less amenable to quantification and computation. In this conceptual paper, we review some of the key challenges that big data raise for qualitative researchers trained in the grounded theory methods (GTM) tradition, and then outline guiding principles for designing a system to respond to these challenges. Paying attention to the particularities of qualitative data analysis, we suggest several design patterns suiting the tasks involved and matching them to challenges of applying GTM to big data sets. We are in the process of developing a system which, as an initial prototype, incorporates these design patterns and addresses the aforementioned key challenges."
             },
             {
                 "id": "10.5465/ambpp.2017.11597abstract",
@@ -234,7 +315,7 @@
                 "venue": "Academy of Management Proceedings",
                 "year": 2014,
                 "url": "https://journals.aom.org/doi/abs/10.5465/ambpp.2014.12549abstract",
-                "abstract":"This paper proposes a new mechanism that explains how new members in online communities establish ties with existing members. Contrary to mainstream tie formation mechanisms (e.g. preferential attachment and small world clustering) that rely solely on structural properties to predict new relationships, we propose that members interests represented by the content of messages exchanged among members are a key factor in forming future relationships. Using statistical language modeling, we show that a new member chooses to link to other existing members based on shared interests implied by their previous communication. We validate the model using longitudinal data from an open-source online community in the context of healthcare IT."
+                "abstract": "This paper proposes a new mechanism that explains how new members in online communities establish ties with existing members. Contrary to mainstream tie formation mechanisms (e.g. preferential attachment and small world clustering) that rely solely on structural properties to predict new relationships, we propose that members interests represented by the content of messages exchanged among members are a key factor in forming future relationships. Using statistical language modeling, we show that a new member chooses to link to other existing members based on shared interests implied by their previous communication. We validate the model using longitudinal data from an open-source online community in the context of healthcare IT."
             },
             {
                 "id": "https://arxiv.org/ftp/arxiv/papers/1406/1406.2977.pdf",
@@ -246,7 +327,7 @@
                 "venue": "Collective Intelligence",
                 "year": 2014,
                 "url": "https://arxiv.org/ftp/arxiv/papers/1406/1406.2977.pdf",
-                "abstract":"In this paper, we focus on how the position/embeddedness of members in an online community of innovation relates to their knowledge contribution to the community. We depart from previous research by bringing a different perspective to examine position within a network: we focus on the local position of members rather than the traditionally considered global position. This differentiation has significant theoretical and methodological implications. On the theoretical front, a local view of position implies a more confined and local organization of work in online communities than previously thought. From a methodological perspective, evaluating the local structure of large networks involves radically different algorithms that have only recently become feasible with the increase of processing power."
+                "abstract": "In this paper, we focus on how the position/embeddedness of members in an online community of innovation relates to their knowledge contribution to the community. We depart from previous research by bringing a different perspective to examine position within a network: we focus on the local position of members rather than the traditionally considered global position. This differentiation has significant theoretical and methodological implications. On the theoretical front, a local view of position implies a more confined and local organization of work in online communities than previously thought. From a methodological perspective, evaluating the local structure of large networks involves radically different algorithms that have only recently become feasible with the increase of processing power."
             },
             {
                 "id": "10.5465/ambpp.2014.104",
@@ -260,7 +341,7 @@
                 "venue": "Academy of Management Proceedings",
                 "year": 2014,
                 "url": "https://journals.aom.org/doi/abs/10.5465/ambpp.2014.104",
-                "abstract":"Recent crises as well as the rise of social media have made it especially theoretically and topically important to understand how grassroots actors, i.e. actors who are not institutionally recognized and established, frame a crisis. This research contrasts and relates grassroots actorsí to established actorsí framing (e.g. media and social movement organizations). Building upon framing and social movement literatures as well as upon emerging works on social media affordances, we develop mixed-methods analyses of framing related to the Gulf of Mexico oil spill of 2010 and produced through the popular microblogging platform Twitter. Building upon empirical findings, this research conceptualizes why and how, with microblogging, grassroots actorsí framing of a crisis does not simply diffuse but rather builds upon, reacts to and opposes established actorsí framing. It adds to the literature by showing and conceptualizing how, through microblogging, grassroots actors do not only come together with others who share similar frames, but also provoke others who hold opposite frames. It finally reveals that grassroots framing through microblogging may contribute to exacerbate the crisis."
+                "abstract": "Recent crises as well as the rise of social media have made it especially theoretically and topically important to understand how grassroots actors, i.e. actors who are not institutionally recognized and established, frame a crisis. This research contrasts and relates grassroots actorsí to established actorsí framing (e.g. media and social movement organizations). Building upon framing and social movement literatures as well as upon emerging works on social media affordances, we develop mixed-methods analyses of framing related to the Gulf of Mexico oil spill of 2010 and produced through the popular microblogging platform Twitter. Building upon empirical findings, this research conceptualizes why and how, with microblogging, grassroots actorsí framing of a crisis does not simply diffuse but rather builds upon, reacts to and opposes established actorsí framing. It adds to the literature by showing and conceptualizing how, through microblogging, grassroots actors do not only come together with others who share similar frames, but also provoke others who hold opposite frames. It finally reveals that grassroots framing through microblogging may contribute to exacerbate the crisis."
             },
             {
                 "id": "https://www.semanticscholar.org/paper/Stakeholders'-Use-of-Microblogging-to-Engage-in-a-Vaast-Lapointe/169337b6f7644c41bc93743aa85425fcefa4fad3",
@@ -274,7 +355,7 @@
                 "venue": "International Conference on Information Systems",
                 "year": 2012,
                 "url": "https://www.semanticscholar.org/paper/Stakeholders'-Use-of-Microblogging-to-Engage-in-a-Vaast-Lapointe/169337b6f7644c41bc93743aa85425fcefa4fad3",
-                "abstract":"The rise of microblogging has drastically transformed the ways in which people become aware of, talk about, experience, and respond to crises. Microblogging allows for multiple stakeholders to express and manage emotions that a crisis may trigger. This research examines how multiple stakeholders engage in emotion strategies through microblogging over the course of a crisis. Relying upon and extending emerging literatures on crisis management and the psycho-sociology of emotions, we propose the concept of emotion strategies to explore and elaborate upon the different uses of emotions and their crucial importance in a crisis context. We examine how microblogging features and affordances might enable and shape the emotion strategies of various stakeholders involved in a crisis. We outline the details of an ongoing investigation in the context of the 2010 Gulf of Mexico oil spill and provide illustrative insights. We conclude by highlighting future steps in this research and expected contributions"
+                "abstract": "The rise of microblogging has drastically transformed the ways in which people become aware of, talk about, experience, and respond to crises. Microblogging allows for multiple stakeholders to express and manage emotions that a crisis may trigger. This research examines how multiple stakeholders engage in emotion strategies through microblogging over the course of a crisis. Relying upon and extending emerging literatures on crisis management and the psycho-sociology of emotions, we propose the concept of emotion strategies to explore and elaborate upon the different uses of emotions and their crucial importance in a crisis context. We examine how microblogging features and affordances might enable and shape the emotion strategies of various stakeholders involved in a crisis. We outline the details of an ongoing investigation in the context of the 2010 Gulf of Mexico oil spill and provide illustrative insights. We conclude by highlighting future steps in this research and expected contributions"
             },
             {
                 "id": "https://aisel.aisnet.org/amcis2011_submissions/21",
@@ -286,7 +367,7 @@
                 "venue": "Americas Conference Information System",
                 "year": 2011,
                 "url": "https://aisel.aisnet.org/amcis2011_submissions/21",
-                "abstract":"Research on Healthcare IT is a highly multidisciplinary field. Each stream of research brings a certain focus and contributionsto our understanding of the role of technology in healthcare. However, this high multidisciplinary can be confusing as theresults and implications of the different streams may look incommensurable. This paper looks at various streams of researchon health IT and presents an integrative framework that utilizes organizational change to understand how different researchstreams on health IT interrelate and contradict in terms of their focus, contributions and implications. We argue that such anintegrative understanding is the key to capture the complexity of health IT projects and ensure their success."
+                "abstract": "Research on Healthcare IT is a highly multidisciplinary field. Each stream of research brings a certain focus and contributionsto our understanding of the role of technology in healthcare. However, this high multidisciplinary can be confusing as theresults and implications of the different streams may look incommensurable. This paper looks at various streams of researchon health IT and presents an integrative framework that utilizes organizational change to understand how different researchstreams on health IT interrelate and contradict in terms of their focus, contributions and implications. We argue that such anintegrative understanding is the key to capture the complexity of health IT projects and ensure their success."
             },
             {
                 "id": "https://aisel.aisnet.org/icis2010_submissions/47",
@@ -298,7 +379,7 @@
                 "venue": "International Conference on Information Systems",
                 "year": 2010,
                 "url": "https://aisel.aisnet.org/icis2010_submissions/47/",
-                "abstract":"A significant degree of customization of medical information technology is required to effectively integrate the promise of IT with the diversity and complexity of medical work. In the absence of such customizations, dissatisfaction and resistance toward the system arise. Indeed, the complexity of the medical work and the inability of software to tailor to the diverse medical practices may explain the limited diffusion of health information systems especially in North America. We study the role of workarounds during an open-source Electronic Medical Record System (EMR) implementation at a medium-size urgent care clinic in a major Canadian city. We found that the technology appropriation process involved the evolving of number of non-trivial workarounds in order to match the EMR to medical work. The emergence of workarounds is conceptualized as a knowledge creation and integration process. This perspective allows us to look at the antecedents and the change dynamics of workarounds in the clinic. Furthermore diverging from the negative view toward workarounds, we discuss the importance of incorporating workarounds during and following system development. The workaround perspective shed the light on how usersí behavior can be channeled into a constructive development effort. This paper contributes by examining the workaround of medical practitioners using an open-source electronic medical record system as well as offering a knowledge perspective for the study of EMR appropriation"
+                "abstract": "A significant degree of customization of medical information technology is required to effectively integrate the promise of IT with the diversity and complexity of medical work. In the absence of such customizations, dissatisfaction and resistance toward the system arise. Indeed, the complexity of the medical work and the inability of software to tailor to the diverse medical practices may explain the limited diffusion of health information systems especially in North America. We study the role of workarounds during an open-source Electronic Medical Record System (EMR) implementation at a medium-size urgent care clinic in a major Canadian city. We found that the technology appropriation process involved the evolving of number of non-trivial workarounds in order to match the EMR to medical work. The emergence of workarounds is conceptualized as a knowledge creation and integration process. This perspective allows us to look at the antecedents and the change dynamics of workarounds in the clinic. Furthermore diverging from the negative view toward workarounds, we discuss the importance of incorporating workarounds during and following system development. The workaround perspective shed the light on how usersí behavior can be channeled into a constructive development effort. This paper contributes by examining the workaround of medical practitioners using an open-source electronic medical record system as well as offering a knowledge perspective for the study of EMR appropriation"
             },
             {
                 "id": "http://citeseerx.ist.psu.edu/viewdoc/summary?doi=10.1.1.331.1043",
@@ -313,7 +394,7 @@
                 "venue": "Proceedings of the twelfth Machine Translation Summit",
                 "year": 2009,
                 "url": "http://citeseerx.ist.psu.edu/viewdoc/summary?doi=10.1.1.331.1043",
-                "abstract":"This paper describes methods for integrating source language and target language information for machine aided human translation (MAHT) of text documents. These methods are applied to a language translation task involving a human translator dictating a first draft translation of a source language document. A method is presented which integrates target language automatic speech recognition (ASR) models with source language statistical machine translation (SMT) and named entity recognition (NER) information at the phonetic level. Information extracted from a source language document including translation mode"
+                "abstract": "This paper describes methods for integrating source language and target language information for machine aided human translation (MAHT) of text documents. These methods are applied to a language translation task involving a human translator dictating a first draft translation of a source language document. A method is presented which integrates target language automatic speech recognition (ASR) models with source language statistical machine translation (SMT) and named entity recognition (NER) information at the phonetic level. Information extracted from a source language document including translation mode"
             },
             {
                 "id": "10.1109/ICTTA.2006.1684669",
@@ -325,7 +406,7 @@
                 "venue": "IEEE International Conference on Information & Communication Technologies",
                 "year": 2006,
                 "url": "https://ieeexplore.ieee.org/document/1684669",
-                "abstract":"In this paper we present AraPen, a trainable system we developed to recognize Arabic online handwriting. The system is based on mathematical matching techniques and our testing results show high recognition rate for non-cursive character recognition, and are promising for cursive recognition. The low memory and CPU requirements enable the system to run on low-end devices interactively"
+                "abstract": "In this paper we present AraPen, a trainable system we developed to recognize Arabic online handwriting. The system is based on mathematical matching techniques and our testing results show high recognition rate for non-cursive character recognition, and are promising for cursive recognition. The low memory and CPU requirements enable the system to run on low-end devices interactively"
             },
             {
                 "id": "https://www.w3.org/2006/02/SSML/papers/HIAST/final_Voc2.pdf",
@@ -338,7 +419,7 @@
                 "venue": "Internationalizing SSML",
                 "year": 2006,
                 "url": "https://www.w3.org/2006/02/SSML/papers/HIAST/final_Voc2.pdf",
-                "abstract":"Arabic Language has two kinds of vowels: Long vowels which are written as normal letters; and short vowels which are written as punctuation marks, above or below letters. Those short vowels are normally omitted in Arabic texts because the reader can fill them and guess the meaning based on his knowledge of the language, and the context in which the words are.However, with the widespread usage of computers in linguistics application; Arabic texts need to be supplied with short vowels in order to be analyzed. Search engines, text to speech engines, and text mining tools are just some examples of applications that need Arabic texts to be vocalized before being processed.In this paper, we present a new method to supply those vocals. The approach emphasizes on unsupervised machine methods, because public Arabic corpora are not available. Arabic rich morphology and diverse orthography present serious challenges for this approach. An algorithm is developed and a system is implemented in Java.The techniques presented in this dissertation can be applied to similar Semitic or other languages that have the same problem."
+                "abstract": "Arabic Language has two kinds of vowels: Long vowels which are written as normal letters; and short vowels which are written as punctuation marks, above or below letters. Those short vowels are normally omitted in Arabic texts because the reader can fill them and guess the meaning based on his knowledge of the language, and the context in which the words are.However, with the widespread usage of computers in linguistics application; Arabic texts need to be supplied with short vowels in order to be analyzed. Search engines, text to speech engines, and text mining tools are just some examples of applications that need Arabic texts to be vocalized before being processed.In this paper, we present a new method to supply those vocals. The approach emphasizes on unsupervised machine methods, because public Arabic corpora are not available. Arabic rich morphology and diverse orthography present serious challenges for this approach. An algorithm is developed and a system is implemented in Java.The techniques presented in this dissertation can be applied to similar Semitic or other languages that have the same problem."
             }
         ],
         "conference presentations": [
@@ -370,7 +451,8 @@
                 "url": "",
                 "abstract": ""
             },
-            {  "id": "",
+            {
+                "id": "",
                 "title": "ODIN: Tracing Ideas, Entities, and Relationships from Big Textual Data",
                 "authors": [
                     "Hani Safadi"
@@ -392,7 +474,7 @@
                 "year": 2016,
                 "url": "",
                 "abstract": ""
-            } ,  
+            },
             {
                 "id": "",
                 "title": "The distributed construction of an occupational community with social media",
@@ -405,7 +487,7 @@
                 "year": 2015,
                 "url": ""
             },
-             {
+            {
                 "id": "",
                 "title": "A Local Perspective on Online Collaboration in Open Source Communities",
                 "authors": [
@@ -430,7 +512,6 @@
                 "url": "https://www.hbs.edu/faculty/conferences/2014-oui/Documents/OUI2014_Book_of_Abstracts.pdf",
                 "abstract": ""
             },
-        
             {
                 "id": "",
                 "title": "#BPoilspill: Grassroots Framing In A Crisis Through Microblogging",
@@ -450,7 +531,7 @@
                 "title": "General Laws of IS Use",
                 "authors": [
                     "Hani Safadi"
-                    ],
+                ],
                 "venue": "Conference of the Administrative Sciences Association of Canada",
                 "year": 2013,
                 "url": "",
@@ -462,12 +543,12 @@
                 "authors": [
                     "Hani Safadi",
                     "Samer Faraj"
-                    ],
+                ],
                 "venue": "Open and User Innovation Workshop",
                 "year": 2012,
                 "url": "",
                 "abstract": ""
-            } ,
+            },
             {
                 "id": "",
                 "title": "Symbolic action through microblogging during and after a crisis: Tweeting the oil spill",
@@ -479,7 +560,6 @@
                 "venue": "Academy of Management Meeting",
                 "year": 2012,
                 "url": ""
-                
             },
             {
                 "id": "",
@@ -487,7 +567,7 @@
                 "authors": [
                     "Hani Safadi",
                     "Samer Faraj"
-                    ],
+                ],
                 "venue": "Conference of the Administrative Sciences Association of Canada",
                 "year": 2011,
                 "url": "",
@@ -500,19 +580,19 @@
                     "Hani Safadi",
                     "Samer Faraj",
                     "Steven Johnson"
-                    ],
+                ],
                 "venue": "Conference of the Administrative Sciences Association of Canada",
                 "year": 2011,
                 "url": "",
                 "abstract": ""
-            } ,
+            },
             {
                 "id": "",
                 "title": "Impact of Open-Source Software in Adopting and Implementing Electronic Medical Record Systems",
                 "authors": [
                     "Hani Safadi",
                     "Samer Faraj"
-                    ],
+                ],
                 "venue": "Conference of the Administrative Sciences Association of Canada",
                 "year": 2010,
                 "url": "",
@@ -525,7 +605,7 @@
                     "Hani Safadi",
                     "Richard Rose",
                     "Doina Precup"
-                    ],
+                ],
                 "venue": "Conference of Atlantic Provinces Linguistic Association",
                 "year": 2008,
                 "url": "",
@@ -538,7 +618,7 @@
                 "title": "ODIN: Tracing Ideas, Entities, and Relationships from Big Textual Data",
                 "authors": [
                     "Hani Safadi"
-                    ],
+                ],
                 "venue": "Advancing Informatics in Government and Industry",
                 "year": 2018,
                 "url": "https://gii.uga.edu/wp-content/uploads/2018/10/2018-AIGI-Poster-Session-Abstracts.pdf",
@@ -549,7 +629,7 @@
                 "title": "Extracting Social Network Ontologies from Unstructured Data",
                 "authors": [
                     "Hani Safadi"
-                    ],
+                ],
                 "venue": "Sequences, Traces, & Time: Building a research community",
                 "year": 2017,
                 "url": "http://cbsa.msu.edu/index.php/first-annual-conference-sequences-and-traces/",
@@ -560,7 +640,7 @@
                 "title": "Tracing Ideas, Entities, and Relationships from Big Textual Data",
                 "authors": [
                     "Hani Safadi"
-                    ],
+                ],
                 "venue": "Georgia Informatics Symposium",
                 "year": 2016,
                 "url": "https://news.uga.edu/informatics-symposium-2016/",
@@ -646,7 +726,8 @@
                 "year": 2017,
                 "venue": "University of Georgia Research Foundation",
                 "amount": 9829
-            },            {
+            },
+            {
                 "id": "",
                 "title": "The impact of an open-source electronic medical record (EMR) system on clinical practice in Canadian ambulatory care",
                 "year": 2012,
@@ -677,7 +758,8 @@
                 "title": "Local path planning using virtual potential field",
                 "year": 2007,
                 "authors": [
-                    "Hani Safadi"                ],
+                    "Hani Safadi"
+                ],
                 "venue": "McGill University School of Computer Science",
                 "url": "https://www.cs.mcgill.ca/~hsafad/robotics",
                 "abstract": "In this report we discuss our implementation of  a local path planning algorithm based on virtual potential field described in [1]. The algorithm uses virtual forces to avoid being trapped in a local minimum. Simulation and experiments are performed, and compared to the results presented in the paper. They show good performance and ability to avoid the local minimum problem in most of the cases."
@@ -687,11 +769,12 @@
                 "title": "Geometrical Tools for Classification",
                 "year": 2007,
                 "authors": [
-                    "Hani Safadi"                ],
+                    "Hani Safadi"
+                ],
                 "venue": "McGill University School of Computer Science",
                 "url": "https://www.cs.mcgill.ca/~hsafad/prproject/index.html",
                 "abstract": "In this project we will describe a new methods used to alleviate the problems of non-parametric methods, namely the large training set requirements and the locality problem. Those methods rely on geometry as a tool. The construct that will be used is the \"Convex Hull\"."
-            }               
+            }
         ],
         "software": [
             {
@@ -699,7 +782,7 @@
                 "title": "An online platform to explore the process legislation and law making of the Jumpstart Our Business Act of 2012",
                 "year": 2018,
                 "authors": [
-                    "Hani Safadi"            
+                    "Hani Safadi"
                 ],
                 "venue": "GitHub",
                 "url": "https://github.com/hanisaf/odin-front"
@@ -709,127 +792,152 @@
                 "title": "Scholarly Resume: academic profile frontend web application",
                 "year": 2018,
                 "authors": [
-                    "Hani Safadi"            
+                    "Hani Safadi"
                 ],
                 "venue": "GitHub",
                 "url": "https://github.com/hanisaf/scholarly-resume"
             }
         ]
-    }, 
+    },
     "teaching": {
         "courses": [
             {
+                "id": "MIST 5730",
+                "title": "Advanced Data Management and Analytics",
+                "venue": "University of Georgia",
+                "abstract": "This course provides students with knowledge of emerging technical issues related to data science, along with experience of diverse methods and technologies related to all aspects of data science. The topics in the course are organized around four themes: reproducible analytics, advanced data management, communication and delivery, and advanced data analytics.",
+                "url": "https://github.com/hanisaf/mist5730-fall2019"            },            
+            {
+                "id": "MIST 6380",
+                "title": "Advanced Data Analytics",
+                "venue": "University of Georgia",
+                "abstract": "Provides students with knowledge of emerging technical issues related to data science, along with experience of diverse methods and technologies related to all aspects of data science, from data collection to optimization.",
+                "url": "https://github.com/hanisaf/mist6380-summer2019"
+            },
+            {
                 "id": "BUSN 7990 B3",
                 "title": "Python Bootcamp",
-                "venue":"University of Georgia",
-                "abstract":"A four session workshop introducing students to data management, visualization and analysis using Python", 
+                "venue": "University of Georgia",
+                "abstract": "A four session workshop introducing students to data management, visualization and analysis using Python",
                 "url": "https://github.com/hanisaf/python-bootcamp"
             },
             {
                 "id": "MIST 9000",
                 "title": "Doctoral Research",
-                "venue":"University of Georgia",
-                "abstract":"Research while enrolled for a doctoral degree under the direction of faculty members.",
-                "url":"https://www.terry.uga.edu/courses/MIST/9000/"
-            
+                "venue": "University of Georgia",
+                "abstract": "Research while enrolled for a doctoral degree under the direction of faculty members.",
+                "url": "https://www.terry.uga.edu/courses/MIST/9000/"
             },
             {
                 "id": "MIST 9777",
                 "title": "Big Data Research Methods for Computational Social Science",
-                "venue":"University of Georgia",
+                "venue": "University of Georgia",
                 "abstract": "Approaches for developing, analyzing, and managing large datasets for computational social science. Development topics include acquiring data from the web and log files and managing unstructured data. Analysis approaches overviewed include econometric, social network, text, and sequence analysis. Data management topics cover sharing, protecting, and archiving data.",
                 "url": "https://www.terry.uga.edu/courses/MIST/9777/"
             },
             {
                 "id": "MIST 9750",
                 "title": "Individual Level Theories in Information Systems",
-                "venue":"University of Georgia",
-                "abstract":"An overview of research on individual behavior with specific emphasis on information systems and marketing.",
-                "url":"https://www.terry.uga.edu/courses/MIST/9750/"
+                "venue": "University of Georgia",
+                "abstract": "An overview of research on individual behavior with specific emphasis on information systems and marketing.",
+                "url": "https://www.terry.uga.edu/courses/MIST/9750/"
             },
             {
                 "id": "MIST 9760",
                 "title": "Special Topics in Information Systems Research",
-                "venue":"University of Georgia",
-                "abstract":"Theories, conceptual issues, empirical papers, and research approaches pertaining to Information Systems (IS) research and its application. Topics vary, but examples are IS-enabled value creation, economics of IS, design science, inter-organizational level IS research, group level IS research, critical and qualitative approaches to IS, and addressing the research needs of practice.",
-                "url":"https://www.terry.uga.edu/courses/MIST/9760/"
+                "venue": "University of Georgia",
+                "abstract": "Theories, conceptual issues, empirical papers, and research approaches pertaining to Information Systems (IS) research and its application. Topics vary, but examples are IS-enabled value creation, economics of IS, design science, inter-organizational level IS research, group level IS research, critical and qualitative approaches to IS, and addressing the research needs of practice.",
+                "url": "https://www.terry.uga.edu/courses/MIST/9760/"
             },
             {
                 "id": "MIST 4600",
                 "title": "Computer Programming in Business",
-                "venue":"University of Georgia",
-                "abstract":"Introduction to computer programming using an object-oriented language; top-down design; structured programming; and debugging, testing and implementation",
-                "url":"https://www.terry.uga.edu/courses/MIST/4600/"
+                "venue": "University of Georgia",
+                "abstract": "Introduction to computer programming using an object-oriented language; top-down design; structured programming; and debugging, testing and implementation",
+                "url": "https://github.com/hanisaf/mist4600-spring2019"
             },
             {
                 "id": "FYOS 1001",
                 "title": "iOS App Development and Game Programming Using Swift",
-                "venue":"University of Georgia",
-                "abstract":"A seminar to engage first-year students in the academic culture of the University. Seminars will promote meaningful academic dialogue between students and faculty in a small class setting that encourages reflective thinking and learning to learn. Varied topics based on faculty scholarship. Exploration of the unique learning environment at UGA, including opportunities to engage in research, public service, and varied forms of instruction both on campus and globally.",
-                "url":"http://bulletin.uga.edu/CoursesHome.aspx?Prefix=FYOS"
-            } ,
-            
+                "venue": "University of Georgia",
+                "abstract": "A seminar to engage first-year students in the academic culture of the University. Seminars will promote meaningful academic dialogue between students and faculty in a small class setting that encourages reflective thinking and learning to learn. Varied topics based on faculty scholarship. Exploration of the unique learning environment at UGA, including opportunities to engage in research, public service, and varied forms of instruction both on campus and globally.",
+                "url": "http://bulletin.uga.edu/CoursesHome.aspx?Prefix=FYOS"
+            },
             {
                 "id": "BIA 658",
                 "title": "Social Networks Analytics",
-                "venue":"Stevens Institute of Technology",
+                "venue": "Stevens Institute of Technology",
                 "abstract": "This course introduces concepts and theories of social network and social media analyses. Application areas include customer profiling, community and trend detection, targeting, sentiment analysis, and development of recommendation systems."
             },
             {
                 "id": "MIS 630",
                 "title": "Data and Knowledge Management",
-                "venue":"Stevens Institute of Technology",
-                "abstract":"This course focuses on data and database management, with an emphasis on modeling and design, and their application to decision support. The course is organized around the following general themes: Strategic Data Planning, Data Governance, Enterprise Data Integration, Data Management Approaches, Data Design for Transaction Processing vs. Decision Support, Data Management Functions, Abstraction and Modeling, Data- and Information Modeling (ER, Object-oriented), Database Schemas (Conceptual Schema), Database Design (Functional Dependencies and Normalization), Query languages (SQL, DDL, QBE), Metadata Development and Application, Data Quality Approaches, Master and Reference Data Management (e.g., Customer and Product Data), Temporal Data, Data, Analytics, and Business Performance, Introduction to Data Warehousing, OLAP, OLTP, and Data Mining, Strategic Data Policies and Guidelines (e.g. Enterprise Data and Integration, Governance, Markets, Customers, and Competitors, Leadership, Analysts and Knowledge Worker Skills and Training, Communities of Analysts). There are numerous case studies and modeling projects throughout the course."
-            } ,
-           
+                "venue": "Stevens Institute of Technology",
+                "abstract": "This course focuses on data and database management, with an emphasis on modeling and design, and their application to decision support. The course is organized around the following general themes: Strategic Data Planning, Data Governance, Enterprise Data Integration, Data Management Approaches, Data Design for Transaction Processing vs. Decision Support, Data Management Functions, Abstraction and Modeling, Data- and Information Modeling (ER, Object-oriented), Database Schemas (Conceptual Schema), Database Design (Functional Dependencies and Normalization), Query languages (SQL, DDL, QBE), Metadata Development and Application, Data Quality Approaches, Master and Reference Data Management (e.g., Customer and Product Data), Temporal Data, Data, Analytics, and Business Performance, Introduction to Data Warehousing, OLAP, OLTP, and Data Mining, Strategic Data Policies and Guidelines (e.g. Enterprise Data and Integration, Governance, Markets, Customers, and Competitors, Leadership, Analysts and Knowledge Worker Skills and Training, Communities of Analysts). There are numerous case studies and modeling projects throughout the course."
+            },
             {
                 "id": "INSY 437",
                 "title": "Managing Data & Databases",
-                "venue":"McGill University",
-                "abstract":"Information Systems : Management of organizational data, implementation of database management systems, and the roles and responsibilities of data management personnel. Explores different models of data representation with an emphasis on the relational model; simple and complex SQL queries."
+                "venue": "McGill University",
+                "abstract": "Information Systems : Management of organizational data, implementation of database management systems, and the roles and responsibilities of data management personnel. Explores different models of data representation with an emphasis on the relational model; simple and complex SQL queries."
             },
             {
                 "id": "MGCR 331",
                 "title": "Introduction to Information Systems",
-                "venue":"McGill University",
-                "abstract":"Management Core : Introduction to principles and concepts of information systems in organizations. Topics include information technology, transaction processing systems, decision support systems, database and systems development. Students are required to have background preparation on basic micro computer skills including spreadsheet and word-processing."
+                "venue": "McGill University",
+                "abstract": "Management Core : Introduction to principles and concepts of information systems in organizations. Topics include information technology, transaction processing systems, decision support systems, database and systems development. Students are required to have background preparation on basic micro computer skills including spreadsheet and word-processing."
             },
             {
                 "id": "COMP 250",
                 "title": "Introduction to Algorithms and Data Structures",
-                "venue":"McGill University",
-                "abstract":"Computer Science (Sci) : Mathematical tools (binary numbers, induction, recurrence relations, asymptotic complexity, establishing correctness of programs), Data structures (arrays, stacks, queues, linked lists, trees, binary trees, binary search trees, heaps, hash tables), Recursive and non-recursive algorithms (searching and sorting, tree and graph traversal). Abstract data types, inheritance. Selected topics"
+                "venue": "McGill University",
+                "abstract": "Computer Science (Sci) : Mathematical tools (binary numbers, induction, recurrence relations, asymptotic complexity, establishing correctness of programs), Data structures (arrays, stacks, queues, linked lists, trees, binary trees, binary search trees, heaps, hash tables), Recursive and non-recursive algorithms (searching and sorting, tree and graph traversal). Abstract data types, inheritance. Selected topics"
             },
             {
                 "id": "COMP 202",
                 "title": "Introduction to Programming in Java",
-                "venue":"McGill University",
-                "abstract":"Computer Science (Sci) : Introduction to computer programming in a high level language: variables, expressions, primitive types, methods, conditionals, loops. Introduction to algorithms, data structures (arrays, strings), modular software design, libraries, file input/output, debugging, exception handling. Selected topics."
+                "venue": "McGill University",
+                "abstract": "Computer Science (Sci) : Introduction to computer programming in a high level language: variables, expressions, primitive types, methods, conditionals, loops. Introduction to algorithms, data structures (arrays, strings), modular software design, libraries, file input/output, debugging, exception handling. Selected topics."
             }
         ],
         "pedagogical development": [
             {
                 "id": "2017",
                 "title": "Academic Affairs Faculty Symposium",
-                "venue":"Unicoi Lodge"
+                "venue": "Unicoi Lodge"
             },
             {
                 "id": "2016",
                 "title": "University of Georgia Teaching Academy Fellow",
-                "venue":""
+                "venue": ""
             },
             {
                 "id": "2012",
                 "title": "Harvard Business Publishing, Participant-Centered Learning seminar",
-                "venue":""
+                "venue": ""
             }
         ],
         "students": [
-            {"title": "Kamesh Mallampalli", "id": "Co-supervisor"},
-            {"title": "Tanner Skousen", "id": "Co-supervisor"},
-            {"title": "Carolina Salge", "id": "Committee member"},
-            {"title": "Ken Park", "id": "Committee member"},
-            {"title": "Mazen Shawosh", "id": "Committee member"}
+            {
+                "title": "Tanner Skousen",
+                "id": "Supervisor"
+            },
+            {
+                "title": "Kamesh Mallampalli",
+                "id": "Co-supervisor"
+            },
+            {
+                "title": "Carolina Salge",
+                "id": "Committee member"
+            },
+            {
+                "title": "Ken Park",
+                "id": "Committee member"
+            },
+            {
+                "title": "Mazen Shawosh",
+                "id": "Committee member"
+            }
         ]
     },
     "service": {
@@ -839,7 +947,7 @@
                 "venueshort": "IEEE TEM",
                 "role": "Review Board Member",
                 "startdate": 2016
-           },
+            },
             {
                 "venue": "MIS Quarterly",
                 "venueshort": "MISQ",
@@ -851,6 +959,12 @@
                 "venueshort": "ISR",
                 "role": "Reviewer",
                 "startdate": 2015
+            },
+            {
+                "venue": "Organization Science",
+                "venueshort": "Organization Science",
+                "role": "Reviewer",
+                "startdate": 2019
             },
             {
                 "venue": "Management Science",
@@ -905,7 +1019,7 @@
                 "venueshort": "IEEE TEM",
                 "role": "Reviewer",
                 "startdate": 2019
-           }
+            }
         ],
         "conference editorialship": [
             {
@@ -914,7 +1028,7 @@
                 "role": "Organization Committee Member",
                 "startdate": 2018,
                 "enddate": 2018
-            },            
+            },
             {
                 "venue": "International Conference on Information Systems",
                 "venueshort": "ICIS",
@@ -960,7 +1074,7 @@
                 "year": 2016,
                 "url": "",
                 "abstract": ""
-            },           
+            },
             {
                 "id": "",
                 "title": "Talking about us and them: The formation of a new occupation’s ecosystem with digital technology use",
@@ -1030,7 +1144,7 @@
                 "year": 2015,
                 "url": "",
                 "abstract": ""
-            },            
+            },
             {
                 "id": "",
                 "title": "Best Conference Paper Award: Grassroots versus Established Actors' Framing of a Crisis: Tweeting the Oil Spill",
@@ -1100,7 +1214,7 @@
                 "year": 2018,
                 "url": "https://www.theglobeandmail.com/report-on-business/careers/business-education/what-it-takes-to-create-a-social-media-movement/article38295693/",
                 "abstract": "The Globe's bimonthly report on research from business schools."
-            }           
+            }
         ]
     }
 }
