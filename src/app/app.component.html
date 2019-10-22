@@ -172,6 +172,13 @@
           </li>
         </ol>
   
+        <H2>Papers under review</H2>
+        <ol>
+          <li *ngFor='let paper of data?.research["papers under review"]'>
+            {{paper.title}}, <b>{{paper.venue}}</b>, {{paper.year}} <i>{{paper.authors | coauthors}}</i>
+          </li>
+        </ol>
+
         <H2>Conference proceedings</H2>
         <ol>
           <li *ngFor='let paper of data?.research["conference proceedings"]'>

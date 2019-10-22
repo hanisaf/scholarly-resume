@@ -226,6 +226,48 @@
                 "abstract": "Online patient communities are becoming more prevalent as a resource to help patients take control of their health. However, online patient communities experience challenges that require active moderation. To identify challenges to having a thriving online patient community and moderation practices to manage an online patient community successfully. A qualitative study of Mayo Clinic Connect that draws insights from observations in community meetings, participating in the community, and semi-structured interviews with key stakeholders. We find five types of practices used to moderate the community successfully. These practices include instructive, connective, semantic, administrative, and policing practices. These practices lead to two sets of desired outcomes: community success and member success. Successful moderation requires multiple practices to manage challenges in online patient communities – some from within the community’s discussion threads and some from outside the community’s discussion threads, some from authority figures and some from exemplary members. Different practices can influence different outcomes. Online patient communities can use these practices to effectuate desired outcomes."
             }
         ],
+        "papers under review": [
+            {
+                "id": "",
+                "title": "Core-Periphery Tension in Online Innovation Communities",
+                "authors": [
+                    "Hani Safadi",
+                    "Steven Johnson",
+                    "Samer Faraj"
+                ],
+                "year": "major revision 3rd round",
+                "accepted": "",
+                "venue": "Organization Science",
+                "url": "",
+                "abstract": "Where do valuable contributions originate from in online innovation communities? Prior research provides conflicting answers. One view, consistent with a community of practice perspective, is that valued knowledge contributions are primarily provided by central actors at the core of a community. In contrast, other research—including work adopting an open innovation perspective—predicts that solutions to local problems primarily originate from peripheral actors at the margins of a field of knowledge. We integrate these dual perspectives by considering two distinct forms of network position: social embeddedness (a core position within the social network of participants interacting within the community), and epistemic marginality (a peripheral position within the epistemic network of topics discussed by a community). Analyzing contributions by 88,472 members of 51 Stack Exchange online innovation communities, we find that core contributors who are socially embedded and peripheral contributors who are epistemically marginal provide knowledge contributions that are more highly valued by their communities. Furthermore, social embeddedness and epistemic marginality complement each other: contributors who are not only in the social core but also discuss less common, peripheral topics are far more likely to provide valued knowledge contributions. Thus, we conclude that neither the community of practice perspective that emphasizes core contributors nor the open innovation perspective that emphasizes peripheral contributors can alone explain where valued knowledge contributions originate from in online innovation communities. By showing that both socially core and epistemically peripheral actors can provide valued knowledge contributions we provide a more nuanced understanding of core-periphery tensions in knowledge fields."
+            },
+            {
+                "id": "",
+                "title": "Sustaining Knowledge Collaboration in Online Communities: Aligning Structural Solutions with Generative Dynamics",
+                "authors": [
+                    "Hani Safadi",
+                    "Tanner Skousen",
+                    "Elena Karahanna"
+                ],
+                "year": "under review",
+                "accepted": "",
+                "venue": "MIS Quarterly",
+                "url": "",
+                "abstract": "Online communities bring together members of common interest to generate significant knowledge. To succeed, online communities need to sustain knowledge collaboration and deal with many tensions that accompany it. The current literature suggests that emerging participation dynamics and community structure are predominant in sustaining knowledge collaboration. On the other hand, many thriving online communities employ formal management which suggests that top-down solutions play a role as well. We investigate the question of how does online community management complement its emerging structure and dynamics in sustaining knowledge collaboration? We conduct an inductive field study of Mayo Clinic Connect, a leading online patient community, to gain a grounded understanding of this phenomenon. The findings suggest that formal community management and its emerging dynamics play a complementary role to sustain knowledge collaboration. In particular, a virtuous cycle of moderation and socialization effectively integrates the effort of the formal community management and its emerging leaders. Our theory contributes to the debate about the need for new theories of new forms of organization. It shows that such new theories are needed to explain the effective alignment of structural solutions with the generative dynamics in online communities."
+            },
+            {
+                "id": "",
+                "title": "Knowledge Adding and Knowledge Shaping and their Implications on The Efficiency and Effectiveness of Knowledge Integration",
+                "authors": [
+                    "Hani Safadi"
+                ],
+                "year": "under review",
+                "accepted": "",
+                "venue": "Organization Science",
+                "url": "",
+                "abstract": "The capacity of organizations to integrate their individual members’ knowledge results in a powerful competitive advantage. Knowledge integration is facilitated with the establishment of boundary objects that create a common language for representing knowledge and conventional methods for transforming it. A new wave of knowledge management systems such as wikis, enterprise social media, and digital forges are providing richer affordances for knowledge integration. In this paper, we examine two knowledge integration affordances: knowledge adding, and knowledge shaping. We develop a theoretical model that examines their implications on two knowledge integration outcomes: efficiency and effectiveness, defined respectively as the increased quantity and quality of the digital artifact. Based on the scholarship in knowledge creation in organizations and affordances of knowledge management systems, we theorize that knowledge adding is efficient but not effective, whereas knowledge shaping is effective but not efficient. Further, relying on recent work on the role of attention allocation in problem-solving, we propose that the complexity of the artifact affects knowledge integration outcomes as well as moderates the relationship between knowledge adding, shaping, and knowledge integration outcomes. Longitudinal trace-data of about one thousand open-source projects provide empirical validation for our theoretical model. We discuss how the findings provide new insights in understanding the implications of the novel affordances of knowledge management systems. The findings also provide practical implications for guiding the use of these systems and the design of digital boundary objects for knowledge integration."
+            }
+        ],
         "conference proceedings": [
             {
                 "id": "",
@@ -1022,6 +1064,13 @@
             }
         ],
         "conference editorialship": [
+            {
+                "venue": "Americas Conference on Information Systems",
+                "venueshort": "AMCIS",
+                "role": "Treo Talk Organization Committee Member",
+                "startdate": 2019,
+                "enddate": 2021
+            },
             {
                 "venue": "Advancing Informatics in Government and Industry",
                 "venueshort": "AIGI",
