@@ -1061,6 +1061,12 @@
                 "venueshort": "IEEE TEM",
                 "role": "Reviewer",
                 "startdate": 2019
+            },
+            {
+                "venue": "Information Systems Journal",
+                "venueshort": "ISJ",
+                "role": "Reviewer",
+                "startdate": 2019
             }
         ],
         "conference editorialship": [
