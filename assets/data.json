@@ -240,7 +240,7 @@
                 "abstract": "Online patient communities are becoming more prevalent as a resource to help patients take control of their health. However, online patient communities experience challenges that require active moderation. To identify challenges to having a thriving online patient community and moderation practices to manage an online patient community successfully. A qualitative study of Mayo Clinic Connect that draws insights from observations in community meetings, participating in the community, and semi-structured interviews with key stakeholders. We find five types of practices used to moderate the community successfully. These practices include instructive, connective, semantic, administrative, and policing practices. These practices lead to two sets of desired outcomes: community success and member success. Successful moderation requires multiple practices to manage challenges in online patient communities – some from within the community’s discussion threads and some from outside the community’s discussion threads, some from authority figures and some from exemplary members. Different practices can influence different outcomes. Online patient communities can use these practices to effectuate desired outcomes."
             }
         ],
-        "papers under review": [
+        "-papers under review": [
             {
                 "id": "",
                 "title": "The Evolutionary Consequences of System-of-Systems Modularity",
@@ -317,7 +317,7 @@
                 "abstract": "Despite the ubiquity of open-source software (OSS) and its social and economic impact, little work examined OSS forges, platforms used by developers to collaborate in OSS projects. How do design choices in OSS forges affect developers’ knowledge collaboration practices? To answer this research question, we conducted a two-stage inductive deductive study. In the first stage, we systematically reviewed and compared mainstream OSS forges in order to understand their similarities, differences and the various design choices embedded in them. This first phase led us to uncover developer-centricity as a dominant design characteristic that differentiates modern forges from traditional ones. In the second phase, we conducted a controlled experiment to examine how developer-centricity affects developers’ knowledge collaboration practices. The results show that developer-centricity promotes knowledge contribution, constrains knowledge integration and has no effect on knowledge search practices. We discuss the implications of these results for the theory and practice of OSS development."
             }
         ],
-        "working papers": [
+        "-working papers": [
             {
                 "id": "",
                 "title": "Spinning and Twisting: The Genesis of an Open Online Community",
@@ -330,19 +330,6 @@
                 "venue": "TBD",
                 "url": "",
                 "abstract": "Open online communities have become widespread forms of organizing in which multiple participants communicate, share knowledge, and communicate on the basis of specific commonalities. Yet, we still know little about their genesis. Given the importance of these new forms of organizing, it is crucial to understand their formation. How do they come to be? This study examines how multiple, heterogeneous participants converge around what they shape as shared interests. It engages in computationally-intensive theory development by examining the emergence of the data science open online community on Twitter. It builds theory on the genesis of an open online community as a process of spinning and twisting of discourses reflecting the interests of the members. This study contributes to scholarship on online communities by theorizing the process by which they come to exist as well as the literature on organizational discourse and dialog by elaborating on how dialog leads to self-organization in open communities."
-            },
-            {
-                "id": "",
-                "title": "Does Information Accessibility Substitute Knowledge Sharing Practices? A Study of Medical Teams in Trauma Care",
-                "authors": [
-                    "Hani Safadi",
-                    "Samer Faraj"
-                ],
-                "year": "working paper",
-                "accepted": "",
-                "venue": "TBD",
-                "url": "",
-                "abstract": "For teams engaged in complex and time sensitive work such as trauma care, rapid decision making is the norm. Such teams require not only timely information but also processes that integrate team skills and resources. In this study, we investigate the importance of information accessibility and team knowledge sharing skills for the success of trauma care delivery. Furthermore, we consider the degree to which these two sources of knowledge interrelate. Based on data from 712 clinicians and 183 trauma centers, our findings show that, while both information accessibility and knowledge sharing skills are important, in addition, there is a substitution effect between the two. We discuss the implication of this substitution effect on the implementation of information technology in healthcare."
             },
             {
                 "id": "",
@@ -384,9 +371,24 @@
                 "venue": "TBD",
                 "url": "",
                 "abstract": ""
-            }             
+            },
+            {
+                "id": "",
+                "title": "Evolution and Success of Mobile Applications: The Influence of Users’ Online Feedback on Developers’ Attention",
+                "authors": [
+                    "Shadi Shuraida",
+                    "Hani Safadi",
+                    "Radhika Jain",
+                    "Qiang Gao"
+                ],
+                "year": "working paper",
+                "accepted": "",
+                "venue": "TBD",
+                "url": "",
+                "abstract": "How do users’ online reviews influence mobile application evolution and success? We posit that reviews can potentially provide developers with valuable information that they can use to evolve their apps and in turn gain market success. However, despite the importance of app review feedback for app success, users’ reviews are often inaccurate, unclear, contradictory, and overwhelming. Building on the information attention and decision making literature (van Knippenberg et al. 2015), we propose that the influence of reviews on developer’s design decisions depends on their content. We develop two new constructs to characterize the content of users’ reviews and theorize how they influence developers’ attention to the issues contained in users’ reviews. These constructs are (1) review crowding which is the number of different issues following an app release, and (2) review concurrence which is the level of users’ convergence on the same issues."
+            }               
         ],
-        "Work-in-progress": [
+        "-work-in-progress": [
             {
                 "id": "",
                 "title": "The Use of Psychographics for Fake News Detection",
@@ -554,7 +556,19 @@
                 "venue": "TBD",
                 "url": "",
                 "abstract": ""
-            }                   
+            },
+            {
+                "id": "",
+                "title": "Does Information Accessibility Substitute Knowledge Sharing Practices? A Study of Medical Teams in Trauma Care",
+                "authors": [
+                    "Hani Safadi"
+                ],
+                "year": "work in progress",
+                "accepted": "",
+                "venue": "TBD",
+                "url": "",
+                "abstract": "For teams engaged in complex and time sensitive work such as trauma care, rapid decision making is the norm. Such teams require not only timely information but also processes that integrate team skills and resources. In this study, we investigate the importance of information accessibility and team knowledge sharing skills for the success of trauma care delivery. Furthermore, we consider the degree to which these two sources of knowledge interrelate. Based on data from 712 clinicians and 183 trauma centers, our findings show that, while both information accessibility and knowledge sharing skills are important, in addition, there is a substitution effect between the two. We discuss the implication of this substitution effect on the implementation of information technology in healthcare."
+            }               
         ],
         "conference proceedings": [
             {
