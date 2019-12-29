@@ -13,6 +13,7 @@ import {
   MatListModule,
   MatButtonModule
 } from '@angular/material';
+import { RouterModule } from '@angular/router';
 
 
 @NgModule({
@@ -34,7 +35,8 @@ import {
     MatTabsModule, 
     MatCardModule,
     MatListModule,
-    MatButtonModule
+    MatButtonModule,
+    RouterModule.forRoot([])
   ],
   providers: [],
   bootstrap: [AppComponent]

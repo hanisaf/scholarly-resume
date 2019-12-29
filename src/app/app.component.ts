@@ -1,7 +1,8 @@
 import { Component } from '@angular/core';
 import { HttpClient } from '@angular/common/http';
 import { MatTabChangeEvent } from '@angular/material';
-import {CoAuthorsPipe} from './pipes';
+import {CoAuthorsPipe, KeysPipe} from './pipes';
+import { ActivatedRoute } from "@angular/router";
 
 @Component({
   selector: 'app-root',
@@ -11,8 +12,22 @@ import {CoAuthorsPipe} from './pipes';
 
 export class AppComponent  {
   data: any; 
-  constructor(private http: HttpClient) {
+  
+
+  constructor(private http: HttpClient, private route: ActivatedRoute) {
     this.http.get("assets/data.json").subscribe( res => {  this.data=res; CoAuthorsPipe.me = this.data.about.name; });
+  }
+
+  ngOnInit() {
+
+
+    this.route.queryParamMap.subscribe(params => {
+      let showall = this.route.snapshot.queryParamMap.get("showall");
+      //console.log(showall);
+       if (showall == "true")
+       KeysPipe.showall = true;
+         //console.log(this.showall);
+    })
   }
 
   onLinkClick(event: MatTabChangeEvent) {

@@ -1,4 +1,5 @@
 import { PipeTransform, Pipe } from '@angular/core';
+import {AppComponent} from './app.component';
 
 @Pipe({name: 'length'})
 export class LengthPipe implements PipeTransform {
@@ -16,18 +17,16 @@ export class LengthPipe implements PipeTransform {
 } 
 @Pipe({name: 'keys'})
 export class KeysPipe implements PipeTransform {
-  transform(value, range = false) : any {
+  static showall = false;
+  transform(value) : any {
+    let showall = KeysPipe.showall;
     let keys = [];
     for (let key in value) {
-      keys.push({key: key, value: value[key]});
+      if(showall || key.charAt(0)!="-") {
+        keys.push({key: key.replace("-",""), value: value[key]});
+      }
     }
-    if(range) {
-      let range = Array(keys.length);
-      range = range.fill(0).map((x,i)=>i);
-      return range;
-    }
-    else
-      return keys;
+    return keys;
   }
 } 
 
