@@ -207,7 +207,21 @@
                 "abstract": "Objectives Open-source software OSS has achieved widespread adoption in many domains such as server operating systems, enterprise tools, and databases. We review the status of open-source in healthcare and discuss the potential of open-source to resolve some of the challenges surrounding the wide adoption of Health IT in North America. Specifically, we address aspects that are unique to using open-source in ambulatory care. We present the case of a Canadian open-source electronic medical record system (EMR) named OSCAR that is widely adopted by primary care units and family physicians in Canada.Target audience Health practitioners, health technology managers and policy makers.Methods A case study based on semi-structured interviews with various stakeholders of the EMR including users (medical and staff), developers, and service providers. In addition, we assess arguments presented in the literature for and against open-source software in healthcare in light of the OSCAR EMR.Results and conclusions Open-source development provides a unique platform that enlists contributions from various stakeholders toward creating a common good. As evident from the OSCAR case, the dynamics of OSS development are potential solutions for the low adoption of technology in healthcare. In particular the low cost of acquisition and maintenance, the high degree of customizability, and the community of users are important advantages of OSS EMR. On the other hand, the lack of understanding of OSS model and the unavailability of trusty support providers are unique challenges facing OSS EMR."
             }
         ],
-        "preprints & forthcoming": [
+        "accepted & forthcoming": [
+            {
+                "id": "",
+                "title": "Core-Periphery Tension in Online Innovation Communities",
+                "authors": [
+                    "Hani Safadi",
+                    "Steven Johnson",
+                    "Samer Faraj"
+                ],
+                "year": "2020",
+                "accepted": "2019",
+                "venue": "Organization Science",
+                "url": "https://www.researchgate.net/publication/338223948_Core-Periphery_Tension_in_Online_Innovation_Communities",
+                "abstract": "Where do valuable contributions originate from in online innovation communities? Prior research provides conflicting answers. One view, consistent with a community of practice perspective, is that valued knowledge contributions are primarily provided by central actors at the core of a community. In contrast, other research—including work adopting an open innovation perspective—predicts that solutions to local problems primarily originate from peripheral actors at the margins of a field of knowledge. We integrate these dual perspectives by considering two distinct forms of network position: social embeddedness (a core position within the social network of participants interacting within the community), and epistemic marginality (a peripheral position within the epistemic network of topics discussed by a community). Analyzing contributions by 88,472 members of 51 Stack Exchange online innovation communities, we find that core contributors who are socially embedded and peripheral contributors who are epistemically marginal provide knowledge contributions that are more highly valued by their communities. Furthermore, social embeddedness and epistemic marginality complement each other: contributors who are not only in the social core but also discuss less common, peripheral topics are far more likely to provide valued knowledge contributions. Thus, we conclude that neither the community of practice perspective that emphasizes core contributors nor the open innovation perspective that emphasizes peripheral contributors can alone explain where valued knowledge contributions originate from in online innovation communities. By showing that both socially core and epistemically peripheral actors can provide valued knowledge contributions we provide a more nuanced understanding of core-periphery tensions in knowledge fields."
+            },
             {
                 "id": "10.2196/preprints.15983",
                 "title": "Successful Moderation in Online Patient Communities",
@@ -219,9 +233,9 @@
                     "Sami Safadi",
                     "Fouad Chebib"
                 ],
-                "year": "",
-                "accepted": "",
-                "venue": "Preprints of Journal of Medical Internet Research",
+                "year": "2020",
+                "accepted": "2019",
+                "venue": "Journal of Medical Internet Research",
                 "url": "https://preprints.jmir.org/preprint/15983",
                 "abstract": "Online patient communities are becoming more prevalent as a resource to help patients take control of their health. However, online patient communities experience challenges that require active moderation. To identify challenges to having a thriving online patient community and moderation practices to manage an online patient community successfully. A qualitative study of Mayo Clinic Connect that draws insights from observations in community meetings, participating in the community, and semi-structured interviews with key stakeholders. We find five types of practices used to moderate the community successfully. These practices include instructive, connective, semantic, administrative, and policing practices. These practices lead to two sets of desired outcomes: community success and member success. Successful moderation requires multiple practices to manage challenges in online patient communities – some from within the community’s discussion threads and some from outside the community’s discussion threads, some from authority figures and some from exemplary members. Different practices can influence different outcomes. Online patient communities can use these practices to effectuate desired outcomes."
             }
@@ -229,17 +243,27 @@
         "papers under review": [
             {
                 "id": "",
-                "title": "Core-Periphery Tension in Online Innovation Communities",
+                "title": "The Evolutionary Consequences of System-of-Systems Modularity",
                 "authors": [
-                    "Hani Safadi",
-                    "Steven Johnson",
-                    "Samer Faraj"
+                    "Hani Safadi"
                 ],
-                "year": "major revision 3rd round",
+                "year": "under review",
                 "accepted": "",
-                "venue": "Organization Science",
+                "venue": "MIS Quarterly",
                 "url": "",
-                "abstract": "Where do valuable contributions originate from in online innovation communities? Prior research provides conflicting answers. One view, consistent with a community of practice perspective, is that valued knowledge contributions are primarily provided by central actors at the core of a community. In contrast, other research—including work adopting an open innovation perspective—predicts that solutions to local problems primarily originate from peripheral actors at the margins of a field of knowledge. We integrate these dual perspectives by considering two distinct forms of network position: social embeddedness (a core position within the social network of participants interacting within the community), and epistemic marginality (a peripheral position within the epistemic network of topics discussed by a community). Analyzing contributions by 88,472 members of 51 Stack Exchange online innovation communities, we find that core contributors who are socially embedded and peripheral contributors who are epistemically marginal provide knowledge contributions that are more highly valued by their communities. Furthermore, social embeddedness and epistemic marginality complement each other: contributors who are not only in the social core but also discuss less common, peripheral topics are far more likely to provide valued knowledge contributions. Thus, we conclude that neither the community of practice perspective that emphasizes core contributors nor the open innovation perspective that emphasizes peripheral contributors can alone explain where valued knowledge contributions originate from in online innovation communities. By showing that both socially core and epistemically peripheral actors can provide valued knowledge contributions we provide a more nuanced understanding of core-periphery tensions in knowledge fields."
+                "abstract": "Evolution is not one system’s property as its dependencies with other intertwined, evolving systems grow. We conceptualize system-of-systems modularity that simultaneously considers a system’s internal architecture and that of other interdependent systems. Data from 8,220 information systems’ projects over eight years show how system-of-systems modularity explains evolution above-and-beyond prior conceptualizations. They underscore the migration from standalone information systems to systems-of-systems."
+            },
+            {
+                "id": "",
+                "title": "The Paradox of Ambient Awareness: Does Enterprise Social Media Promote Intraorganizational Knowledge Transfer?",
+                "authors": [
+                    "Hani Safadi"
+                ],
+                "year": "under review",
+                "accepted": "",
+                "venue": "MIS Quarterly",
+                "url": "",
+                "abstract": "Recent research suggests that the adoption of enterprise social media technologies in organizations is associated with better knowledge sharing practices. The theory of ambient awareness proposes that by making communication visible throughout social media, workers learn more about other co-workers’ skills and social relationships. We thoroughly examine how enterprise social media results in better knowledge sharing practices. We center our theoretical argument around the role of organizational networks in promoting internal knowledge transfer. We examine how workers’ metaknowledge networks (knowing who knows whom and who knows what) are associated with internal knowledge transfer. We elicit the assumptions related to using social media at work compared to face-to-face socialization and model them with an agent-based model. The results demonstrate that ambient awareness is not inherently superior to face-to-face socialization in promoting knowledge transfer. The relative advantage of ambient awareness over face-to-face socialization depends on workers’ capacity to internalize the disclosed metaknowledge. Furthermore, ambient awareness results in metaknowledge networks of larger size but lower density creating a contradictory effect on knowledge transfer. The results suggest that the effectiveness of enterprise social media is contingent on the various individual and organizational factors and provide further implications for the implementation of these technologies."
             },
             {
                 "id": "",
@@ -266,7 +290,271 @@
                 "venue": "Organization Science",
                 "url": "",
                 "abstract": "The capacity of organizations to integrate their individual members’ knowledge results in a powerful competitive advantage. Knowledge integration is facilitated with the establishment of boundary objects that create a common language for representing knowledge and conventional methods for transforming it. A new wave of knowledge management systems such as wikis, enterprise social media, and digital forges are providing richer affordances for knowledge integration. In this paper, we examine two knowledge integration affordances: knowledge adding, and knowledge shaping. We develop a theoretical model that examines their implications on two knowledge integration outcomes: efficiency and effectiveness, defined respectively as the increased quantity and quality of the digital artifact. Based on the scholarship in knowledge creation in organizations and affordances of knowledge management systems, we theorize that knowledge adding is efficient but not effective, whereas knowledge shaping is effective but not efficient. Further, relying on recent work on the role of attention allocation in problem-solving, we propose that the complexity of the artifact affects knowledge integration outcomes as well as moderates the relationship between knowledge adding, shaping, and knowledge integration outcomes. Longitudinal trace-data of about one thousand open-source projects provide empirical validation for our theoretical model. We discuss how the findings provide new insights in understanding the implications of the novel affordances of knowledge management systems. The findings also provide practical implications for guiding the use of these systems and the design of digital boundary objects for knowledge integration."
+            },
+            {
+                "id": "",
+                "title": "Unpacking the Role of Architecture Modularity and Expertise Integration in Driving Information Systems Evolution",
+                "authors": [
+                    "Hani Safadi",
+                    "Amrit Tiwana"
+                ],
+                "year": "under review",
+                "accepted": "",
+                "venue": "Journal of Management Information Systems",
+                "url": "",
+                "abstract": "Although information systems’ lifetime costs exceed their initial cost by an order of magnitude, a focus on their initial implementation rather than their subsequent evolution predominates prior IS research. The few recent studies of IS evolution study the quantity of evolution but have yet to unpack its nuanced qualitatively different “modes,” leaving unintegrated two evolution-enhancing strategies---architectural and iterative methods. We unpack how these two strategies independently drive systemwide evolution and module- level evolution. We test these ideas with 4.8 billion lines of raw source-code from over 1,300 projects spanning 7 million modules, 10 million commits, and 1,500 person-years of work over 20 years."
+            },
+            {
+                "id": "",
+                "title": "Does Social Coding Work? Platform Design and Knowledge Collaboration in Open-Source Software Forges",
+                "authors": [
+                    "Hani Safadi"
+                ],
+                "year": "under review",
+                "accepted": "",
+                "venue": "Empirical Software Engineering",
+                "url": "",
+                "abstract": "Despite the ubiquity of open-source software (OSS) and its social and economic impact, little work examined OSS forges, platforms used by developers to collaborate in OSS projects. How do design choices in OSS forges affect developers’ knowledge collaboration practices? To answer this research question, we conducted a two-stage inductive deductive study. In the first stage, we systematically reviewed and compared mainstream OSS forges in order to understand their similarities, differences and the various design choices embedded in them. This first phase led us to uncover developer-centricity as a dominant design characteristic that differentiates modern forges from traditional ones. In the second phase, we conducted a controlled experiment to examine how developer-centricity affects developers’ knowledge collaboration practices. The results show that developer-centricity promotes knowledge contribution, constrains knowledge integration and has no effect on knowledge search practices. We discuss the implications of these results for the theory and practice of OSS development."
             }
+        ],
+        "working papers": [
+            {
+                "id": "",
+                "title": "Spinning and Twisting: The Genesis of an Open Online Community",
+                "authors": [
+                    "Hani Safadi",
+                    "Emmanuelle Vaast"
+                ],
+                "year": "working paper",
+                "accepted": "",
+                "venue": "TBD",
+                "url": "",
+                "abstract": "Open online communities have become widespread forms of organizing in which multiple participants communicate, share knowledge, and communicate on the basis of specific commonalities. Yet, we still know little about their genesis. Given the importance of these new forms of organizing, it is crucial to understand their formation. How do they come to be? This study examines how multiple, heterogeneous participants converge around what they shape as shared interests. It engages in computationally-intensive theory development by examining the emergence of the data science open online community on Twitter. It builds theory on the genesis of an open online community as a process of spinning and twisting of discourses reflecting the interests of the members. This study contributes to scholarship on online communities by theorizing the process by which they come to exist as well as the literature on organizational discourse and dialog by elaborating on how dialog leads to self-organization in open communities."
+            },
+            {
+                "id": "",
+                "title": "Does Information Accessibility Substitute Knowledge Sharing Practices? A Study of Medical Teams in Trauma Care",
+                "authors": [
+                    "Hani Safadi",
+                    "Samer Faraj"
+                ],
+                "year": "working paper",
+                "accepted": "",
+                "venue": "TBD",
+                "url": "",
+                "abstract": "For teams engaged in complex and time sensitive work such as trauma care, rapid decision making is the norm. Such teams require not only timely information but also processes that integrate team skills and resources. In this study, we investigate the importance of information accessibility and team knowledge sharing skills for the success of trauma care delivery. Furthermore, we consider the degree to which these two sources of knowledge interrelate. Based on data from 712 clinicians and 183 trauma centers, our findings show that, while both information accessibility and knowledge sharing skills are important, in addition, there is a substitution effect between the two. We discuss the implication of this substitution effect on the implementation of information technology in healthcare."
+            },
+            {
+                "id": "",
+                "title": "Anchoring and Affordance Reconstitution during Information Systems Implementation and Transition",
+                "authors": [
+                    "Hani Safadi",
+                    "Samer Faraj"
+                ],
+                "year": "working paper",
+                "accepted": "",
+                "venue": "TBD",
+                "url": "",
+                "abstract": "In this study, we set to examine the research question: How are the adoption and use of a new information system influenced by users’ experiences and practices around the incumbent information system? Given the scant empirical work in this area, we conduct an inductive longitudinal case study of an Electronic Medical Record (EMR) implementation. During the implementation and the replacement of the old system in the clinic, we examine how users adopt and use the new system. We find that through the continued use of the new system, two processes of learning and customization enable users to reconstitute their old system work practices and achieve similar outcomes using the new system. Over time, users manage to use the new system in new ways and improve their work practices. Our emergent theory suggests that the process of imbrication is anchored on the affordances of the old system. Early during the implementation, imbrication results in reconstituting the affordances of the old system. However, with time, and throughout the processes of learning and customization, the continuous imbrication of human and material agencies results in the discovery of new affordances. Ultimately, continuous imbrication enables users to improve their work practices and achieve new outcomes with the new system."
+            },
+            {
+                "id": "",
+                "title": "Expertise Coordination in Open-Source Software Development",
+                "authors": [
+                    "Hani Safadi",
+                    "Samer Faraj"
+                ],
+                "year": "working paper",
+                "accepted": "",
+                "venue": "TBD",
+                "url": "",
+                "abstract": "We engage in an in-depth case study of one FOSS project that has undergone a transformation to OSS 2.0 bringing business interests and sponsorship into a community of volunteers. We study the historical context in which this transformation emerged and examine the paradoxes that this transition brings. We focus on how the transition to OSS 2.0 affects coordination and contribution among users and developers. Our findings show that the transition resulted in adopting a traditional in-house development model that relied less on OSS coordination mechanisms. However, in spite of the transition, community members kept contributing actively to the project. In addition, they sought independence from OSS 2.0 sponsored developers. This resulted in decoupling community members’ contributions from the codebase of the project but still enabled them to implement non-trivial and significant features. In what follows, we overview literature on coordination in OSS development, outline our methodology, demonstrate our findings and discuss their implications for the theory and practice of OSS development."
+            },  
+            {
+                "id": "",
+                "title": "Developers’ Multi-Project Involvement and Continued Contribution to Open-Source Software Projects",
+                "authors": [
+                    "Pratyush Sharma",
+                    "Hani Safadi",
+                    "John Hulland",
+                    "Elena Karahanna"
+                ],
+                "year": "working paper",
+                "accepted": "",
+                "venue": "TBD",
+                "url": "",
+                "abstract": ""
+            }             
+        ],
+        "Work-in-progress": [
+            {
+                "id": "",
+                "title": "The Use of Psychographics for Fake News Detection",
+                "authors": [
+                    "Hani Safadi"
+                ],
+                "year": "work in progress",
+                "accepted": "",
+                "venue": "TBD",
+                "url": "",
+                "abstract": ""
+            },
+            {
+                "id": "",
+                "title": "Theorizing from Trace Data as Rational Reconstruction",
+                "authors": [
+                    "Hani Safadi"
+                ],
+                "year": "work in progress",
+                "accepted": "",
+                "venue": "TBD",
+                "url": "",
+                "abstract": ""
+            },
+            {
+                "id": "",
+                "title": "Organizations and Communities: A Symbiosis View",
+                "authors": [
+                    "Hani Safadi"
+                ],
+                "year": "work in progress",
+                "accepted": "",
+                "venue": "TBD",
+                "url": "",
+                "abstract": ""
+            },
+            {
+                "id": "",
+                "title": "Design of a Computational System to Support Grounded Theorizing from Big Textual Data",
+                "authors": [
+                    "Hani Safadi"
+                ],
+                "year": "work in progress",
+                "accepted": "",
+                "venue": "TBD",
+                "url": "",
+                "abstract": ""
+            },
+            {
+                "id": "",
+                "title": "The Implementation of Ambivalent Technology – Examining Police Use of Body-Worn Cameras in the Context of Civilian Complaints",
+                "authors": [
+                    "Hani Safadi"
+                ],
+                "year": "work in progress",
+                "accepted": "",
+                "venue": "TBD",
+                "url": "",
+                "abstract": ""
+            },
+            {
+                "id": "",
+                "title": "Human versus Computer-based Online Social Actors: Attention in Social Breadth and Social Propinquity",
+                "authors": [
+                    "Hani Safadi"
+                ],
+                "year": "work in progress",
+                "accepted": "",
+                "venue": "TBD",
+                "url": "",
+                "abstract": ""
+            },
+            {
+                "id": "",
+                "title": "Legitimate Peripheral Participation and Value Creation in Online Knowledge Sharing Communities",
+                "authors": [
+                    "Hani Safadi"
+                ],
+                "year": "work in progress",
+                "accepted": "",
+                "venue": "TBD",
+                "url": "",
+                "abstract": ""
+            },
+            {
+                "id": "",
+                "title": "Implications of Bounded Rationality for Theorizing from Trace Data",
+                "authors": [
+                    "Hani Safadi"
+                ],
+                "year": "work in progress",
+                "accepted": "",
+                "venue": "TBD",
+                "url": "",
+                "abstract": ""
+            },
+            {
+                "id": "",
+                "title": "Institutional Logics and the Governance of Open-Source Software Online Communities",
+                "authors": [
+                    "Hani Safadi"
+                ],
+                "year": "work in progress",
+                "accepted": "",
+                "venue": "TBD",
+                "url": "",
+                "abstract": ""
+            },
+            {
+                "id": "",
+                "title": "A Journey to the Core: A Process Model of Core/Periphery in Open-Source Software Communities",
+                "authors": [
+                    "Hani Safadi"
+                ],
+                "year": "work in progress",
+                "accepted": "",
+                "venue": "TBD",
+                "url": "",
+                "abstract": ""
+            },
+            {
+                "id": "",
+                "title": "Diffusion of Ideas in The Information Systems Discipline from 1977 to 2007",
+                "authors": [
+                    "Hani Safadi"
+                ],
+                "year": "work in progress",
+                "accepted": "",
+                "venue": "TBD",
+                "url": "",
+                "abstract": ""
+            },
+            {
+                "id": "",
+                "title": "From Exceptions to Rules: Coordinating Technological Change through Workarounds",
+                "authors": [
+                    "Hani Safadi"
+                ],
+                "year": "work in progress",
+                "accepted": "",
+                "venue": "TBD",
+                "url": "",
+                "abstract": ""
+            },
+            {
+                "id": "",
+                "title": "Generic Ad Hoc Defaults as Shadow Systems",
+                "authors": [
+                    "Hani Safadi"
+                ],
+                "year": "work in progress",
+                "accepted": "",
+                "venue": "TBD",
+                "url": "",
+                "abstract": ""
+            },
+            {
+                "id": "",
+                "title": "Does Gender Matter in Crowdfunding Ventures?",
+                "authors": [
+                    "Hani Safadi"
+                ],
+                "year": "work in progress",
+                "accepted": "",
+                "venue": "TBD",
+                "url": "",
+                "abstract": ""
+            }                   
         ],
         "conference proceedings": [
             {
@@ -965,16 +1253,10 @@
                 "id": "Supervisor"
             },
             {
-                "title": "Kamesh Mallampalli",
-                "id": "Co-supervisor"
-            },
-            {
                 "title": "Carolina Salge",
-                "id": "Committee member"
-            },
-            {
-                "title": "Ken Park",
-                "id": "Committee member"
+                "id": "Committee member",
+                "placement": "Wake Forest University, School of Business",
+                "url": "https://business.wfu.edu/directory/carolina-salge"
             },
             {
                 "title": "Mazen Shawosh",
@@ -1116,6 +1398,14 @@
         "talks": [
             {
                 "id": "",
+                "title": " Successful Moderation in Online Patient Communities",
+                "venue": "Mayo Clinic",
+                "year": 2019,
+                "url": "",
+                "abstract": ""
+            },
+            {
+                "id": "",
                 "title": "Cognitive Augmentation of Human Sensemaking of Large Textual Data",
                 "venue": "American University of Beirut Olayan School of Business",
                 "year": 2018,
@@ -1176,6 +1466,22 @@
     },
     "recognition": {
         "awards": [
+            {
+                "id": "",
+                "title": "Best Associate Editor",
+                "venue": "International Conference on Information Systems",
+                "year": 2019,
+                "url": "https://aisnet.org/page/AwardsPage",
+                "abstract": ""
+            },
+            {
+                "id": "",
+                "title": "Best Theory Paper: Tension Resolution and Sustaining Knowledge Flows in Online Communities",
+                "venue": "International Conference on Information Systems",
+                "year": 2019,
+                "url": "https://aisnet.org/page/AwardsPage",
+                "abstract": ""
+            },
             {
                 "id": "",
                 "title": "Best Division Paper Award: Who Contributes Knowledge? Embeddedness and Marginality in Online Communities",

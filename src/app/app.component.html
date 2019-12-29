@@ -165,19 +165,19 @@
           </li>
         </ol>
   
-        <H2>Preprints and forthcoming articles</H2>
+        <H2>Accepted and forthcoming articles</H2>
         <ol>
-          <li *ngFor='let paper of data?.research["preprints & forthcoming"]'>
+          <li *ngFor='let paper of data?.research["accepted & forthcoming"]'>
             {{paper.title}}, <b>{{paper.venue}}</b>, {{paper.year}} <i>{{paper.authors | coauthors}}</i>
           </li>
         </ol>
   
-        <H2>Papers under review</H2>
+        <!-- <H2>Papers under review</H2>
         <ol>
           <li *ngFor='let paper of data?.research["papers under review"]'>
             {{paper.title}}, <b>{{paper.venue}}</b>, {{paper.year}} <i>{{paper.authors | coauthors}}</i>
           </li>
-        </ol>
+        </ol> -->
 
         <H2>Conference proceedings</H2>
         <ol>
