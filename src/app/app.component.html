@@ -161,24 +161,30 @@
         <ol>
           <li *ngFor='let paper of data?.research["journal articles"]'>
             <!-- {{paper.title}}, <b>{{paper.venue}}</b>, {{paper.year}} [accepted in {{paper.accepted}}] <i>{{paper.authors | coauthors}}</i> -->
-            {{paper.title}}, <b>{{paper.venue}}</b>, {{paper.year}} <i>{{paper.authors | coauthors}}</i>
+            {{paper.title}}, <b>{{paper.venue}}</b>, {{paper.year}} 
+            <span *ngIf="accepted">[accepted in {{paper.accepted}}]</span>
+            <i>{{paper.authors | coauthors}}</i>
           </li>
         </ol>
   
         <H2>Accepted and forthcoming articles</H2>
         <ol>
           <li *ngFor='let paper of data?.research["accepted & forthcoming"]'>
-            {{paper.title}}, <b>{{paper.venue}}</b>, {{paper.year}} <i>{{paper.authors | coauthors}}</i>
+            {{paper.title}}, <b>{{paper.venue}}</b>, {{paper.year}}
+            <span *ngIf="accepted">[accepted in {{paper.accepted}}]</span>
+            <i>{{paper.authors | coauthors}}</i>
           </li>
         </ol>
   
-        <!-- <H2>Papers under review</H2>
-        <ol>
-          <li *ngFor='let paper of data?.research["papers under review"]'>
-            {{paper.title}}, <b>{{paper.venue}}</b>, {{paper.year}} <i>{{paper.authors | coauthors}}</i>
-          </li>
-        </ol> -->
-
+        <div *ngIf="showall">
+          <H2>Papers under review</H2>
+          <ol>
+            <li *ngFor='let paper of data?.research["-papers under review"]'>
+              {{paper.title}}, <b>{{paper.venue}}</b>, {{paper.year}} <i>{{paper.authors | coauthors}}</i>
+            </li>
+          </ol>
+        </div>
+        
         <H2>Conference proceedings</H2>
         <ol>
           <li *ngFor='let paper of data?.research["conference proceedings"]'>

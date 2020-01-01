@@ -247,7 +247,7 @@
                 "authors": [
                     "Hani Safadi"
                 ],
-                "year": "under review",
+                "year": "under review 1st round",
                 "accepted": "",
                 "venue": "MIS Quarterly",
                 "url": "",
@@ -259,7 +259,7 @@
                 "authors": [
                     "Hani Safadi"
                 ],
-                "year": "under review",
+                "year": "under review 1st round",
                 "accepted": "",
                 "venue": "MIS Quarterly",
                 "url": "",
@@ -273,7 +273,7 @@
                     "Tanner Skousen",
                     "Elena Karahanna"
                 ],
-                "year": "under review",
+                "year": "under review 1st round",
                 "accepted": "",
                 "venue": "MIS Quarterly",
                 "url": "",
@@ -285,7 +285,7 @@
                 "authors": [
                     "Hani Safadi"
                 ],
-                "year": "under review",
+                "year": "under review 1st round",
                 "accepted": "",
                 "venue": "Organization Science",
                 "url": "",
@@ -298,7 +298,7 @@
                     "Hani Safadi",
                     "Amrit Tiwana"
                 ],
-                "year": "under review",
+                "year": "under review 1st round",
                 "accepted": "",
                 "venue": "Journal of Management Information Systems",
                 "url": "",
@@ -310,14 +310,12 @@
                 "authors": [
                     "Hani Safadi"
                 ],
-                "year": "under review",
+                "year": "under review 1st round",
                 "accepted": "",
                 "venue": "Empirical Software Engineering",
                 "url": "",
                 "abstract": "Despite the ubiquity of open-source software (OSS) and its social and economic impact, little work examined OSS forges, platforms used by developers to collaborate in OSS projects. How do design choices in OSS forges affect developers’ knowledge collaboration practices? To answer this research question, we conducted a two-stage inductive deductive study. In the first stage, we systematically reviewed and compared mainstream OSS forges in order to understand their similarities, differences and the various design choices embedded in them. This first phase led us to uncover developer-centricity as a dominant design characteristic that differentiates modern forges from traditional ones. In the second phase, we conducted a controlled experiment to examine how developer-centricity affects developers’ knowledge collaboration practices. The results show that developer-centricity promotes knowledge contribution, constrains knowledge integration and has no effect on knowledge search practices. We discuss the implications of these results for the theory and practice of OSS development."
-            }
-        ],
-        "-working papers": [
+            },
             {
                 "id": "",
                 "title": "Spinning and Twisting: The Genesis of an Open Online Community",
@@ -325,12 +323,14 @@
                     "Hani Safadi",
                     "Emmanuelle Vaast"
                 ],
-                "year": "working paper",
+                "year": "under review 1st round",
                 "accepted": "",
-                "venue": "TBD",
+                "venue": "MIS Quarterly",
                 "url": "",
                 "abstract": "Open online communities have become widespread forms of organizing in which multiple participants communicate, share knowledge, and communicate on the basis of specific commonalities. Yet, we still know little about their genesis. Given the importance of these new forms of organizing, it is crucial to understand their formation. How do they come to be? This study examines how multiple, heterogeneous participants converge around what they shape as shared interests. It engages in computationally-intensive theory development by examining the emergence of the data science open online community on Twitter. It builds theory on the genesis of an open online community as a process of spinning and twisting of discourses reflecting the interests of the members. This study contributes to scholarship on online communities by theorizing the process by which they come to exist as well as the literature on organizational discourse and dialog by elaborating on how dialog leads to self-organization in open communities."
-            },
+            }
+        ],
+        "-working papers": [
             {
                 "id": "",
                 "title": "Anchoring and Affordance Reconstitution during Information Systems Implementation and Transition",

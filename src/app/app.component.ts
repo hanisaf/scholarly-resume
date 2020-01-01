@@ -12,8 +12,8 @@ import { ActivatedRoute } from "@angular/router";
 
 export class AppComponent  {
   data: any; 
-  
-
+  accepted = false;
+  showall=false;
   constructor(private http: HttpClient, private route: ActivatedRoute) {
     this.http.get("assets/data.json").subscribe( res => {  this.data=res; CoAuthorsPipe.me = this.data.about.name; });
   }
@@ -23,10 +23,11 @@ export class AppComponent  {
 
     this.route.queryParamMap.subscribe(params => {
       let showall = this.route.snapshot.queryParamMap.get("showall");
-      //console.log(showall);
-       if (showall == "true")
-       KeysPipe.showall = true;
-         //console.log(this.showall);
+      let accepted = this.route.snapshot.queryParamMap.get("accepted");
+      if (showall == "true")
+        this.showall = KeysPipe.showall = true;
+      if (accepted == "true")
+        this.accepted = true;
     })
   }
 
