@@ -243,6 +243,20 @@
         "-papers under review": [
             {
                 "id": "",
+                "title": "Sustaining Knowledge Collaboration in Online Communities: Aligning Structural Solutions with Generative Dynamics",
+                "authors": [
+                    "Hani Safadi",
+                    "Tanner Skousen",
+                    "Elena Karahanna"
+                ],
+                "year": "invited to a major revision 2nd round",
+                "accepted": "",
+                "venue": "MIS Quarterly",
+                "url": "",
+                "abstract": "Online communities bring together members of common interest to generate significant knowledge. To succeed, online communities need to sustain knowledge collaboration and deal with many tensions that accompany it. The current literature suggests that emerging participation dynamics and community structure are predominant in sustaining knowledge collaboration. On the other hand, many thriving online communities employ formal management which suggests that top-down solutions play a role as well. We investigate the question of how does online community management complement its emerging structure and dynamics in sustaining knowledge collaboration? We conduct an inductive field study of Mayo Clinic Connect, a leading online patient community, to gain a grounded understanding of this phenomenon. The findings suggest that formal community management and its emerging dynamics play a complementary role to sustain knowledge collaboration. In particular, a virtuous cycle of moderation and socialization effectively integrates the effort of the formal community management and its emerging leaders. Our theory contributes to the debate about the need for new theories of new forms of organization. It shows that such new theories are needed to explain the effective alignment of structural solutions with the generative dynamics in online communities."
+            },
+            {
+                "id": "",
                 "title": "The Evolutionary Consequences of System-of-Systems Modularity",
                 "authors": [
                     "Hani Safadi"
@@ -252,69 +266,6 @@
                 "venue": "MIS Quarterly",
                 "url": "",
                 "abstract": "Evolution is not one system’s property as its dependencies with other intertwined, evolving systems grow. We conceptualize system-of-systems modularity that simultaneously considers a system’s internal architecture and that of other interdependent systems. Data from 8,220 information systems’ projects over eight years show how system-of-systems modularity explains evolution above-and-beyond prior conceptualizations. They underscore the migration from standalone information systems to systems-of-systems."
-            },
-            {
-                "id": "",
-                "title": "The Paradox of Ambient Awareness: Does Enterprise Social Media Promote Intraorganizational Knowledge Transfer?",
-                "authors": [
-                    "Hani Safadi"
-                ],
-                "year": "under review 1st round",
-                "accepted": "",
-                "venue": "MIS Quarterly",
-                "url": "",
-                "abstract": "Recent research suggests that the adoption of enterprise social media technologies in organizations is associated with better knowledge sharing practices. The theory of ambient awareness proposes that by making communication visible throughout social media, workers learn more about other co-workers’ skills and social relationships. We thoroughly examine how enterprise social media results in better knowledge sharing practices. We center our theoretical argument around the role of organizational networks in promoting internal knowledge transfer. We examine how workers’ metaknowledge networks (knowing who knows whom and who knows what) are associated with internal knowledge transfer. We elicit the assumptions related to using social media at work compared to face-to-face socialization and model them with an agent-based model. The results demonstrate that ambient awareness is not inherently superior to face-to-face socialization in promoting knowledge transfer. The relative advantage of ambient awareness over face-to-face socialization depends on workers’ capacity to internalize the disclosed metaknowledge. Furthermore, ambient awareness results in metaknowledge networks of larger size but lower density creating a contradictory effect on knowledge transfer. The results suggest that the effectiveness of enterprise social media is contingent on the various individual and organizational factors and provide further implications for the implementation of these technologies."
-            },
-            {
-                "id": "",
-                "title": "Sustaining Knowledge Collaboration in Online Communities: Aligning Structural Solutions with Generative Dynamics",
-                "authors": [
-                    "Hani Safadi",
-                    "Tanner Skousen",
-                    "Elena Karahanna"
-                ],
-                "year": "under review 1st round",
-                "accepted": "",
-                "venue": "MIS Quarterly",
-                "url": "",
-                "abstract": "Online communities bring together members of common interest to generate significant knowledge. To succeed, online communities need to sustain knowledge collaboration and deal with many tensions that accompany it. The current literature suggests that emerging participation dynamics and community structure are predominant in sustaining knowledge collaboration. On the other hand, many thriving online communities employ formal management which suggests that top-down solutions play a role as well. We investigate the question of how does online community management complement its emerging structure and dynamics in sustaining knowledge collaboration? We conduct an inductive field study of Mayo Clinic Connect, a leading online patient community, to gain a grounded understanding of this phenomenon. The findings suggest that formal community management and its emerging dynamics play a complementary role to sustain knowledge collaboration. In particular, a virtuous cycle of moderation and socialization effectively integrates the effort of the formal community management and its emerging leaders. Our theory contributes to the debate about the need for new theories of new forms of organization. It shows that such new theories are needed to explain the effective alignment of structural solutions with the generative dynamics in online communities."
-            },
-            {
-                "id": "",
-                "title": "Knowledge Adding and Knowledge Shaping and their Implications on The Efficiency and Effectiveness of Knowledge Integration",
-                "authors": [
-                    "Hani Safadi"
-                ],
-                "year": "under review 1st round",
-                "accepted": "",
-                "venue": "Organization Science",
-                "url": "",
-                "abstract": "The capacity of organizations to integrate their individual members’ knowledge results in a powerful competitive advantage. Knowledge integration is facilitated with the establishment of boundary objects that create a common language for representing knowledge and conventional methods for transforming it. A new wave of knowledge management systems such as wikis, enterprise social media, and digital forges are providing richer affordances for knowledge integration. In this paper, we examine two knowledge integration affordances: knowledge adding, and knowledge shaping. We develop a theoretical model that examines their implications on two knowledge integration outcomes: efficiency and effectiveness, defined respectively as the increased quantity and quality of the digital artifact. Based on the scholarship in knowledge creation in organizations and affordances of knowledge management systems, we theorize that knowledge adding is efficient but not effective, whereas knowledge shaping is effective but not efficient. Further, relying on recent work on the role of attention allocation in problem-solving, we propose that the complexity of the artifact affects knowledge integration outcomes as well as moderates the relationship between knowledge adding, shaping, and knowledge integration outcomes. Longitudinal trace-data of about one thousand open-source projects provide empirical validation for our theoretical model. We discuss how the findings provide new insights in understanding the implications of the novel affordances of knowledge management systems. The findings also provide practical implications for guiding the use of these systems and the design of digital boundary objects for knowledge integration."
-            },
-            {
-                "id": "",
-                "title": "Unpacking the Role of Architecture Modularity and Expertise Integration in Driving Information Systems Evolution",
-                "authors": [
-                    "Hani Safadi",
-                    "Amrit Tiwana"
-                ],
-                "year": "under review 1st round",
-                "accepted": "",
-                "venue": "Journal of Management Information Systems",
-                "url": "",
-                "abstract": "Although information systems’ lifetime costs exceed their initial cost by an order of magnitude, a focus on their initial implementation rather than their subsequent evolution predominates prior IS research. The few recent studies of IS evolution study the quantity of evolution but have yet to unpack its nuanced qualitatively different “modes,” leaving unintegrated two evolution-enhancing strategies---architectural and iterative methods. We unpack how these two strategies independently drive systemwide evolution and module- level evolution. We test these ideas with 4.8 billion lines of raw source-code from over 1,300 projects spanning 7 million modules, 10 million commits, and 1,500 person-years of work over 20 years."
-            },
-            {
-                "id": "",
-                "title": "Does Social Coding Work? Platform Design and Knowledge Collaboration in Open-Source Software Forges",
-                "authors": [
-                    "Hani Safadi"
-                ],
-                "year": "under review 1st round",
-                "accepted": "",
-                "venue": "Empirical Software Engineering",
-                "url": "",
-                "abstract": "Despite the ubiquity of open-source software (OSS) and its social and economic impact, little work examined OSS forges, platforms used by developers to collaborate in OSS projects. How do design choices in OSS forges affect developers’ knowledge collaboration practices? To answer this research question, we conducted a two-stage inductive deductive study. In the first stage, we systematically reviewed and compared mainstream OSS forges in order to understand their similarities, differences and the various design choices embedded in them. This first phase led us to uncover developer-centricity as a dominant design characteristic that differentiates modern forges from traditional ones. In the second phase, we conducted a controlled experiment to examine how developer-centricity affects developers’ knowledge collaboration practices. The results show that developer-centricity promotes knowledge contribution, constrains knowledge integration and has no effect on knowledge search practices. We discuss the implications of these results for the theory and practice of OSS development."
             },
             {
                 "id": "",
@@ -328,7 +279,19 @@
                 "venue": "MIS Quarterly",
                 "url": "",
                 "abstract": "Open online communities have become widespread forms of organizing in which multiple participants communicate, share knowledge, and communicate on the basis of specific commonalities. Yet, we still know little about their genesis. Given the importance of these new forms of organizing, it is crucial to understand their formation. How do they come to be? This study examines how multiple, heterogeneous participants converge around what they shape as shared interests. It engages in computationally-intensive theory development by examining the emergence of the data science open online community on Twitter. It builds theory on the genesis of an open online community as a process of spinning and twisting of discourses reflecting the interests of the members. This study contributes to scholarship on online communities by theorizing the process by which they come to exist as well as the literature on organizational discourse and dialog by elaborating on how dialog leads to self-organization in open communities."
-            }
+            },  
+            {
+                "id": "",
+                "title": "The Paradox of Ambient Awareness: Does Enterprise Social Media Promote Intraorganizational Knowledge Transfer?",
+                "authors": [
+                    "Hani Safadi"
+                ],
+                "year": "under review 1st round",
+                "accepted": "",
+                "venue": "MIS Quarterly",
+                "url": "",
+                "abstract": "Recent research suggests that the adoption of enterprise social media technologies in organizations is associated with better knowledge sharing practices. The theory of ambient awareness proposes that by making communication visible throughout social media, workers learn more about other co-workers’ skills and social relationships. We thoroughly examine how enterprise social media results in better knowledge sharing practices. We center our theoretical argument around the role of organizational networks in promoting internal knowledge transfer. We examine how workers’ metaknowledge networks (knowing who knows whom and who knows what) are associated with internal knowledge transfer. We elicit the assumptions related to using social media at work compared to face-to-face socialization and model them with an agent-based model. The results demonstrate that ambient awareness is not inherently superior to face-to-face socialization in promoting knowledge transfer. The relative advantage of ambient awareness over face-to-face socialization depends on workers’ capacity to internalize the disclosed metaknowledge. Furthermore, ambient awareness results in metaknowledge networks of larger size but lower density creating a contradictory effect on knowledge transfer. The results suggest that the effectiveness of enterprise social media is contingent on the various individual and organizational factors and provide further implications for the implementation of these technologies."
+            } 
         ],
         "-working papers": [
             {
@@ -386,7 +349,44 @@
                 "venue": "TBD",
                 "url": "",
                 "abstract": "How do users’ online reviews influence mobile application evolution and success? We posit that reviews can potentially provide developers with valuable information that they can use to evolve their apps and in turn gain market success. However, despite the importance of app review feedback for app success, users’ reviews are often inaccurate, unclear, contradictory, and overwhelming. Building on the information attention and decision making literature (van Knippenberg et al. 2015), we propose that the influence of reviews on developer’s design decisions depends on their content. We develop two new constructs to characterize the content of users’ reviews and theorize how they influence developers’ attention to the issues contained in users’ reviews. These constructs are (1) review crowding which is the number of different issues following an app release, and (2) review concurrence which is the level of users’ convergence on the same issues."
-            }               
+            },
+            {
+                "id": "",
+                "title": "Does Social Coding Work? Platform Design and Knowledge Collaboration in Open-Source Software Forges",
+                "authors": [
+                    "Hani Safadi"
+                ],
+                "year": "working paper",
+                "accepted": "",
+                "venue": "TBD",
+                "url": "",
+                "abstract": "Despite the ubiquity of open-source software (OSS) and its social and economic impact, little work examined OSS forges, platforms used by developers to collaborate in OSS projects. How do design choices in OSS forges affect developers’ knowledge collaboration practices? To answer this research question, we conducted a two-stage inductive deductive study. In the first stage, we systematically reviewed and compared mainstream OSS forges in order to understand their similarities, differences and the various design choices embedded in them. This first phase led us to uncover developer-centricity as a dominant design characteristic that differentiates modern forges from traditional ones. In the second phase, we conducted a controlled experiment to examine how developer-centricity affects developers’ knowledge collaboration practices. The results show that developer-centricity promotes knowledge contribution, constrains knowledge integration and has no effect on knowledge search practices. We discuss the implications of these results for the theory and practice of OSS development."
+            },
+            {
+                "id": "",
+                "title": "Unpacking the Role of Architecture Modularity and Expertise Integration in Driving Information Systems Evolution",
+                "authors": [
+                    "Hani Safadi",
+                    "Amrit Tiwana"
+                ],
+                "year": "working paper",
+                "accepted": "",
+                "venue": "TBD",
+                "url": "",
+                "abstract": "Although information systems’ lifetime costs exceed their initial cost by an order of magnitude, a focus on their initial implementation rather than their subsequent evolution predominates prior IS research. The few recent studies of IS evolution study the quantity of evolution but have yet to unpack its nuanced qualitatively different “modes,” leaving unintegrated two evolution-enhancing strategies---architectural and iterative methods. We unpack how these two strategies independently drive systemwide evolution and module- level evolution. We test these ideas with 4.8 billion lines of raw source-code from over 1,300 projects spanning 7 million modules, 10 million commits, and 1,500 person-years of work over 20 years."
+            }, 
+            {
+                "id": "",
+                "title": "Knowledge Adding and Knowledge Shaping and their Implications on The Efficiency and Effectiveness of Knowledge Integration",
+                "authors": [
+                    "Hani Safadi"
+                ],
+                "year": "working paper",
+                "accepted": "",
+                "venue": "TBD",
+                "url": "",
+                "abstract": "The capacity of organizations to integrate their individual members’ knowledge results in a powerful competitive advantage. Knowledge integration is facilitated with the establishment of boundary objects that create a common language for representing knowledge and conventional methods for transforming it. A new wave of knowledge management systems such as wikis, enterprise social media, and digital forges are providing richer affordances for knowledge integration. In this paper, we examine two knowledge integration affordances: knowledge adding, and knowledge shaping. We develop a theoretical model that examines their implications on two knowledge integration outcomes: efficiency and effectiveness, defined respectively as the increased quantity and quality of the digital artifact. Based on the scholarship in knowledge creation in organizations and affordances of knowledge management systems, we theorize that knowledge adding is efficient but not effective, whereas knowledge shaping is effective but not efficient. Further, relying on recent work on the role of attention allocation in problem-solving, we propose that the complexity of the artifact affects knowledge integration outcomes as well as moderates the relationship between knowledge adding, shaping, and knowledge integration outcomes. Longitudinal trace-data of about one thousand open-source projects provide empirical validation for our theoretical model. We discuss how the findings provide new insights in understanding the implications of the novel affordances of knowledge management systems. The findings also provide practical implications for guiding the use of these systems and the design of digital boundary objects for knowledge integration."
+            }           
         ],
         "-work-in-progress": [
             {
