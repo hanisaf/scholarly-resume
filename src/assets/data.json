@@ -148,6 +148,23 @@
     "research": {
         "journal articles": [
             {
+                "id": "10.2196/15983",
+                "title": "Successful Moderation in Online Patient Communities",
+                "authors": [
+                    "Tanner Skousen",
+                    "Hani Safadi",
+                    "Colleen Young",
+                    "Elena Karahanna",
+                    "Sami Safadi",
+                    "Fouad Chebib"
+                ],
+                "year": "2020",
+                "accepted": "2019",
+                "venue": "Journal of Medical Internet Research",
+                "url": "https://doi.org/10.2196/15983",
+                "abstract": "Online patient communities are becoming more prevalent as a resource to help patients take control of their health. However, online patient communities experience challenges that require active moderation. To identify challenges to having a thriving online patient community and moderation practices to manage an online patient community successfully. A qualitative study of Mayo Clinic Connect that draws insights from observations in community meetings, participating in the community, and semi-structured interviews with key stakeholders. We find five types of practices used to moderate the community successfully. These practices include instructive, connective, semantic, administrative, and policing practices. These practices lead to two sets of desired outcomes: community success and member success. Successful moderation requires multiple practices to manage challenges in online patient communities – some from within the community’s discussion threads and some from outside the community’s discussion threads, some from authority figures and some from exemplary members. Different practices can influence different outcomes. Online patient communities can use these practices to effectuate desired outcomes."
+            },
+            {
                 "id": "10.1287/isre.2018.0774",
                 "title": "Data-Driven Computationally-Intensive Theory Development",
                 "authors": [
@@ -221,23 +238,6 @@
                 "venue": "Organization Science",
                 "url": "https://www.researchgate.net/publication/338223948_Core-Periphery_Tension_in_Online_Innovation_Communities",
                 "abstract": "Where do valuable contributions originate from in online innovation communities? Prior research provides conflicting answers. One view, consistent with a community of practice perspective, is that valued knowledge contributions are primarily provided by central actors at the core of a community. In contrast, other research—including work adopting an open innovation perspective—predicts that solutions to local problems primarily originate from peripheral actors at the margins of a field of knowledge. We integrate these dual perspectives by considering two distinct forms of network position: social embeddedness (a core position within the social network of participants interacting within the community), and epistemic marginality (a peripheral position within the epistemic network of topics discussed by a community). Analyzing contributions by 88,472 members of 51 Stack Exchange online innovation communities, we find that core contributors who are socially embedded and peripheral contributors who are epistemically marginal provide knowledge contributions that are more highly valued by their communities. Furthermore, social embeddedness and epistemic marginality complement each other: contributors who are not only in the social core but also discuss less common, peripheral topics are far more likely to provide valued knowledge contributions. Thus, we conclude that neither the community of practice perspective that emphasizes core contributors nor the open innovation perspective that emphasizes peripheral contributors can alone explain where valued knowledge contributions originate from in online innovation communities. By showing that both socially core and epistemically peripheral actors can provide valued knowledge contributions we provide a more nuanced understanding of core-periphery tensions in knowledge fields."
-            },
-            {
-                "id": "10.2196/preprints.15983",
-                "title": "Successful Moderation in Online Patient Communities",
-                "authors": [
-                    "Tanner Skousen",
-                    "Hani Safadi",
-                    "Colleen Young",
-                    "Elena Karahanna",
-                    "Sami Safadi",
-                    "Fouad Chebib"
-                ],
-                "year": "2020",
-                "accepted": "2019",
-                "venue": "Journal of Medical Internet Research",
-                "url": "https://preprints.jmir.org/preprint/15983",
-                "abstract": "Online patient communities are becoming more prevalent as a resource to help patients take control of their health. However, online patient communities experience challenges that require active moderation. To identify challenges to having a thriving online patient community and moderation practices to manage an online patient community successfully. A qualitative study of Mayo Clinic Connect that draws insights from observations in community meetings, participating in the community, and semi-structured interviews with key stakeholders. We find five types of practices used to moderate the community successfully. These practices include instructive, connective, semantic, administrative, and policing practices. These practices lead to two sets of desired outcomes: community success and member success. Successful moderation requires multiple practices to manage challenges in online patient communities – some from within the community’s discussion threads and some from outside the community’s discussion threads, some from authority figures and some from exemplary members. Different practices can influence different outcomes. Online patient communities can use these practices to effectuate desired outcomes."
             }
         ],
         "-papers under review": [
@@ -255,6 +255,18 @@
                 "url": "",
                 "abstract": "Online communities bring together members of common interest to generate significant knowledge. To succeed, online communities need to sustain knowledge collaboration and deal with many tensions that accompany it. The current literature suggests that emerging participation dynamics and community structure are predominant in sustaining knowledge collaboration. On the other hand, many thriving online communities employ formal management which suggests that top-down solutions play a role as well. We investigate the question of how does online community management complement its emerging structure and dynamics in sustaining knowledge collaboration? We conduct an inductive field study of Mayo Clinic Connect, a leading online patient community, to gain a grounded understanding of this phenomenon. The findings suggest that formal community management and its emerging dynamics play a complementary role to sustain knowledge collaboration. In particular, a virtuous cycle of moderation and socialization effectively integrates the effort of the formal community management and its emerging leaders. Our theory contributes to the debate about the need for new theories of new forms of organization. It shows that such new theories are needed to explain the effective alignment of structural solutions with the generative dynamics in online communities."
             },
+            {
+                "id": "",
+                "title": "The Paradox of Ambient Awareness: Does Enterprise Social Media Promote Intraorganizational Knowledge Transfer?",
+                "authors": [
+                    "Hani Safadi"
+                ],
+                "year": "invited to a major revision 2nd round",
+                "accepted": "",
+                "venue": "MIS Quarterly",
+                "url": "",
+                "abstract": "Recent research suggests that the adoption of enterprise social media technologies in organizations is associated with better knowledge sharing practices. The theory of ambient awareness proposes that by making communication visible throughout social media, workers learn more about other co-workers’ skills and social relationships. We thoroughly examine how enterprise social media results in better knowledge sharing practices. We center our theoretical argument around the role of organizational networks in promoting internal knowledge transfer. We examine how workers’ metaknowledge networks (knowing who knows whom and who knows what) are associated with internal knowledge transfer. We elicit the assumptions related to using social media at work compared to face-to-face socialization and model them with an agent-based model. The results demonstrate that ambient awareness is not inherently superior to face-to-face socialization in promoting knowledge transfer. The relative advantage of ambient awareness over face-to-face socialization depends on workers’ capacity to internalize the disclosed metaknowledge. Furthermore, ambient awareness results in metaknowledge networks of larger size but lower density creating a contradictory effect on knowledge transfer. The results suggest that the effectiveness of enterprise social media is contingent on the various individual and organizational factors and provide further implications for the implementation of these technologies."
+            }, 
             {
                 "id": "",
                 "title": "The Evolutionary Consequences of System-of-Systems Modularity",
@@ -279,19 +291,7 @@
                 "venue": "MIS Quarterly",
                 "url": "",
                 "abstract": "Open online communities have become widespread forms of organizing in which multiple participants communicate, share knowledge, and communicate on the basis of specific commonalities. Yet, we still know little about their genesis. Given the importance of these new forms of organizing, it is crucial to understand their formation. How do they come to be? This study examines how multiple, heterogeneous participants converge around what they shape as shared interests. It engages in computationally-intensive theory development by examining the emergence of the data science open online community on Twitter. It builds theory on the genesis of an open online community as a process of spinning and twisting of discourses reflecting the interests of the members. This study contributes to scholarship on online communities by theorizing the process by which they come to exist as well as the literature on organizational discourse and dialog by elaborating on how dialog leads to self-organization in open communities."
-            },  
-            {
-                "id": "",
-                "title": "The Paradox of Ambient Awareness: Does Enterprise Social Media Promote Intraorganizational Knowledge Transfer?",
-                "authors": [
-                    "Hani Safadi"
-                ],
-                "year": "under review 1st round",
-                "accepted": "",
-                "venue": "MIS Quarterly",
-                "url": "",
-                "abstract": "Recent research suggests that the adoption of enterprise social media technologies in organizations is associated with better knowledge sharing practices. The theory of ambient awareness proposes that by making communication visible throughout social media, workers learn more about other co-workers’ skills and social relationships. We thoroughly examine how enterprise social media results in better knowledge sharing practices. We center our theoretical argument around the role of organizational networks in promoting internal knowledge transfer. We examine how workers’ metaknowledge networks (knowing who knows whom and who knows what) are associated with internal knowledge transfer. We elicit the assumptions related to using social media at work compared to face-to-face socialization and model them with an agent-based model. The results demonstrate that ambient awareness is not inherently superior to face-to-face socialization in promoting knowledge transfer. The relative advantage of ambient awareness over face-to-face socialization depends on workers’ capacity to internalize the disclosed metaknowledge. Furthermore, ambient awareness results in metaknowledge networks of larger size but lower density creating a contradictory effect on knowledge transfer. The results suggest that the effectiveness of enterprise social media is contingent on the various individual and organizational factors and provide further implications for the implementation of these technologies."
-            } 
+            }
         ],
         "-working papers": [
             {
@@ -1405,6 +1405,15 @@
                 "role": "Technical Committee member ",
                 "startdate": 2014,
                 "enddate": 2014
+            }
+        ],
+        "grant reviewer": [
+            {
+                "venue": "Research Grants Council of Hong Kong",
+                "venueshort": "RGC",
+                "role": "Business Studies Panelist",
+                "startdate": 2020,
+                "enddate": 2020
             }
         ]
     },
