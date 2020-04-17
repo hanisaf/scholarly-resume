@@ -278,6 +278,21 @@
                 "venue": "MIS Quarterly",
                 "url": "",
                 "abstract": "Evolution is not one system’s property as its dependencies with other intertwined, evolving systems grow. We conceptualize system-of-systems modularity that simultaneously considers a system’s internal architecture and that of other interdependent systems. Data from 8,220 information systems’ projects over eight years show how system-of-systems modularity explains evolution above-and-beyond prior conceptualizations. They underscore the migration from standalone information systems to systems-of-systems."
+            },
+            {
+                "id": "",
+                "title": "Curtailing Fake News Propagation with Psychographics",
+                "authors": [
+                    "Hani Safadi",
+                    "Saber Soleymani",
+                    "Weifeng Li",
+                    "Pouya Rahmati"
+                ],
+                "year": "under review 1st round",
+                "accepted": "",
+                "venue": "Journal of Management Information Systems",
+                "url": "",
+                "abstract": ""
             }
         ],
         "-working papers": [
@@ -386,57 +401,53 @@
                 "venue": "TBD",
                 "url": "",
                 "abstract": "The capacity of organizations to integrate their individual members’ knowledge results in a powerful competitive advantage. Knowledge integration is facilitated with the establishment of boundary objects that create a common language for representing knowledge and conventional methods for transforming it. A new wave of knowledge management systems such as wikis, enterprise social media, and digital forges are providing richer affordances for knowledge integration. In this paper, we examine two knowledge integration affordances: knowledge adding, and knowledge shaping. We develop a theoretical model that examines their implications on two knowledge integration outcomes: efficiency and effectiveness, defined respectively as the increased quantity and quality of the digital artifact. Based on the scholarship in knowledge creation in organizations and affordances of knowledge management systems, we theorize that knowledge adding is efficient but not effective, whereas knowledge shaping is effective but not efficient. Further, relying on recent work on the role of attention allocation in problem-solving, we propose that the complexity of the artifact affects knowledge integration outcomes as well as moderates the relationship between knowledge adding, shaping, and knowledge integration outcomes. Longitudinal trace-data of about one thousand open-source projects provide empirical validation for our theoretical model. We discuss how the findings provide new insights in understanding the implications of the novel affordances of knowledge management systems. The findings also provide practical implications for guiding the use of these systems and the design of digital boundary objects for knowledge integration."
+            },
+
+            {
+                "id": "",
+                "title": "Building Cumulative Knowledge Traditions through Rational Reconstruction of Digital Traces",
+                "authors": [
+                    "Hani Safadi",
+                    "Nicholas Berente",
+                    "Stefan Seidel",
+                    "Aron Lindberg"
+                ],
+                "year": "working paper",
+                "accepted": "",
+                "venue": "TBD",
+                "url": "",
+                "abstract": ""
+            },
+            {
+                "id": "",
+                "title": "Hirearchical Organizations and Open Communities: A Symbiosis View",
+                "authors": [
+                    "Hani Safadi",
+                    "Richard Watson",
+                    "Tanner Skousen"
+                ],
+                "year": "working paper",
+                "accepted": "",
+                "venue": "MISQE",
+                "url": "",
+                "abstract": ""
+            },
+            {
+                "id": "",
+                "title": "Text-Mining And Visualization to Support Grounded Theorizing from Large Scale Qualitative Data",
+                "authors": [
+                    "Hani Safadi",
+                    "Marie-Claude Boudreau",
+                    "Samer Faraj"
+                ],
+                "year": "working paper",
+                "accepted": "",
+                "venue": "Qualitative Research in the Age of Digitalisation",
+                "url": "",
+                "abstract": "We propose a framework and guidelines of how to incorporate the different available methods (topics models, visualization, etc ...) within the qualitative researcher's toolkit. Specialized tools are needed to take advantage of the opportunities offered by large scale qualitative  data.  A lot has been written about mixed methods from an epistemological point of view but not much about how such research can be feasibly realized. This is especially important in the age of big data where traditional qualitative methods are no longer feasible. We focus on four specific activities are especially challenging if conducted in the context of big textual data: theoretical sampling, coding, constant comparison, and the creation of a chain of evidence. We offer suggestions for how emerging methodological tools  can help facilitate, augment, and transform the grounded theory process."
             }           
         ],
         "-work-in-progress": [
-            {
-                "id": "",
-                "title": "The Use of Psychographics for Fake News Detection",
-                "authors": [
-                    "Hani Safadi"
-                ],
-                "year": "work in progress",
-                "accepted": "",
-                "venue": "TBD",
-                "url": "",
-                "abstract": ""
-            },
-            {
-                "id": "",
-                "title": "Theorizing from Trace Data as Rational Reconstruction",
-                "authors": [
-                    "Hani Safadi"
-                ],
-                "year": "work in progress",
-                "accepted": "",
-                "venue": "TBD",
-                "url": "",
-                "abstract": ""
-            },
-            {
-                "id": "",
-                "title": "Organizations and Communities: A Symbiosis View",
-                "authors": [
-                    "Hani Safadi"
-                ],
-                "year": "work in progress",
-                "accepted": "",
-                "venue": "TBD",
-                "url": "",
-                "abstract": ""
-            },
-            {
-                "id": "",
-                "title": "Design of a Computational System to Support Grounded Theorizing from Big Textual Data",
-                "authors": [
-                    "Hani Safadi"
-                ],
-                "year": "work in progress",
-                "accepted": "",
-                "venue": "TBD",
-                "url": "",
-                "abstract": ""
-            },
             {
                 "id": "",
                 "title": "The Implementation of Ambivalent Technology – Examining Police Use of Body-Worn Cameras in the Context of Civilian Complaints",
@@ -573,12 +584,25 @@
         "conference proceedings": [
             {
                 "id": "",
+                "title": "Bots versus Humans in Online Social Networks: A Study of Reddit Communities",
+                "authors": [
+                    "John Lalor",
+                    "Nicholas Berente",
+                    "Hani Safadi"
+                ],
+                "year": "2020",
+                "accepted": "",
+                "venue": "Sunbelt Conference",
+                "url": "",
+                "abstract": ""
+            },
+            {
+                "id": "",
                 "title": "Organizations and Communities: A Symbiosis View",
                 "authors": [
+                    "Tanner Skousen",
                     "Hani Safadi",
-                    "Richard Watson",
-                    "Tanner Skousen"
-
+                    "Richard Watson"
                 ],
                 "venue": "Americas Conference on Information Systems",
                 "year": 2020,
@@ -793,6 +817,18 @@
             }
         ],
         "conference presentations": [
+            {
+                "id": "",
+                "title": "Communication Visibility: A Double-Edged Sword",
+                "authors": [
+                    "Hani Safadi"
+                ],
+                "year": "2020",
+                "accepted": "",
+                "venue": "International Conference on Computational Social Science",
+                "url": "",
+                "abstract": "We employ agent-based modeling to unpack how communication visibility translates to knowledge transfer."
+            },
             {
                 "id": "",
                 "title": "Effective Moderation of Online Patient Communities",
