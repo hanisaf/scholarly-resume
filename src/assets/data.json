@@ -278,7 +278,9 @@
                 "venue": "MIS Quarterly",
                 "url": "",
                 "abstract": "Evolution is not one system’s property as its dependencies with other intertwined, evolving systems grow. We conceptualize system-of-systems modularity that simultaneously considers a system’s internal architecture and that of other interdependent systems. Data from 8,220 information systems’ projects over eight years show how system-of-systems modularity explains evolution above-and-beyond prior conceptualizations. They underscore the migration from standalone information systems to systems-of-systems."
-            },
+            }
+        ],
+        "-working papers": [
             {
                 "id": "",
                 "title": "Spinning and Twisting: The Genesis of an Open Online Community",
@@ -286,14 +288,12 @@
                     "Hani Safadi",
                     "Emmanuelle Vaast"
                 ],
-                "year": "under review 1st round",
+                "year": "working paper",
                 "accepted": "",
-                "venue": "MIS Quarterly",
+                "venue": "TBD",
                 "url": "",
                 "abstract": "Open online communities have become widespread forms of organizing in which multiple participants communicate, share knowledge, and communicate on the basis of specific commonalities. Yet, we still know little about their genesis. Given the importance of these new forms of organizing, it is crucial to understand their formation. How do they come to be? This study examines how multiple, heterogeneous participants converge around what they shape as shared interests. It engages in computationally-intensive theory development by examining the emergence of the data science open online community on Twitter. It builds theory on the genesis of an open online community as a process of spinning and twisting of discourses reflecting the interests of the members. This study contributes to scholarship on online communities by theorizing the process by which they come to exist as well as the literature on organizational discourse and dialog by elaborating on how dialog leads to self-organization in open communities."
-            }
-        ],
-        "-working papers": [
+            },
             {
                 "id": "",
                 "title": "Anchoring and Affordance Reconstitution during Information Systems Implementation and Transition",
@@ -571,6 +571,32 @@
             }               
         ],
         "conference proceedings": [
+            {
+                "id": "",
+                "title": "Organizations and Communities: A Symbiosis View",
+                "authors": [
+                    "Hani Safadi",
+                    "Richard Watson",
+                    "Tanner Skousen"
+
+                ],
+                "venue": "Americas Conference on Information Systems",
+                "year": 2020,
+                "url": "",
+                "abstract": "How can organizations and communities engage in mutually beneficial relationships? We develop a framework that explains how an open community’s engagement with an organization can be mutually beneficial to both in the long-term. We theorize how a symbiotic relationship between organizations and communities can be achieved by nurturing various forms of capital flow between organizations and communities as well as creating virtuous feedback loops within each other’s capital creation systems."
+            },
+            {
+                "id": "",
+                "title": "The Genesis of an Open Online Community",
+                "authors": [
+                    "Hani Safadi",
+                    "Emmanuelle Vaast"
+                ],
+                "venue": "Academy of Management Proceedings",
+                "year": 2020,
+                "url": "",
+                "abstract": "Open online communities have become widespread forms of organizing in which multiple participants share knowledge, and communicate on the basis of specific commonalities. Yet, we still know little about their genesis. Given the importance of these new forms of organizing, it is crucial to understand their formation. How do they come to be? This study examines how multiple, heterogeneous participants converge around what they shape as shared interests. It engages in computationally-intensive theory development by examining the emergence of the data science open online community on the social media platform Twitter. It builds theory on the genesis of an open online community as a process of spinning and twisting of discourses that coalesce the interests of the members. This study contributes to scholarship on online communities by theorizing the process by which they come to exist as well as the literature on organizational dialog by elaborating on how dialog leads to self-organization in open communities."
+            },
             {
                 "id": "",
                 "title": "Tension Resolution and Sustaining Knowledge Flows in Online Communities",
@@ -1150,13 +1176,13 @@
                 "title": "Advanced Data Management and Analytics",
                 "venue": "University of Georgia",
                 "abstract": "This course provides students with knowledge of emerging technical issues related to data science, along with experience of diverse methods and technologies related to all aspects of data science. The topics in the course are organized around four themes: reproducible analytics, advanced data management, communication and delivery, and advanced data analytics.",
-                "url": "https://github.com/hanisaf/mist5730-fall2019"            },            
+                "url": "https://github.com/hanisaf/advanced-data-management-and-analytics"            },            
             {
                 "id": "MIST 6380",
                 "title": "Advanced Data Analytics",
                 "venue": "University of Georgia",
                 "abstract": "Provides students with knowledge of emerging technical issues related to data science, along with experience of diverse methods and technologies related to all aspects of data science, from data collection to optimization.",
-                "url": "https://github.com/hanisaf/mist6380-summer2019"
+                "url": "https://github.com/hanisaf/advanced-data-management-and-analytics"
             },
             {
                 "id": "BUSN 7990 B3",
