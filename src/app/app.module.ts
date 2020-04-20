@@ -5,7 +5,7 @@ import { HttpClientModule }    from '@angular/common/http';
 import { AppComponent } from './app.component';
 import {NoopAnimationsModule} from '@angular/platform-browser/animations';
 
-import {ListFormat, LengthPipe, KeysPipe, CitesPipe, CoAuthorsPipe, MoneyPipe, TenurePipe, HighlightPipe} from './pipes';
+import {ListFormat, LengthPipe, KeysPipe, CitesPipe, CoAuthorsPipe, MoneyPipe, TenurePipe, HighlightPipe, APAFormatPipe} from './pipes';
 
 import {
   MatTabsModule,
@@ -26,6 +26,7 @@ import { RouterModule } from '@angular/router';
     TenurePipe,
     HighlightPipe,
     LengthPipe,
+    APAFormatPipe,
     ListFormat
   ],
   imports: [

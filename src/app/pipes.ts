@@ -94,6 +94,39 @@ export class ListFormat implements PipeTransform {
     return res;
   }
 }
+@Pipe({name: 'apaformat'})
+export class APAFormatPipe implements PipeTransform {
+  static me = "";
+  format_author(author: string): string {
+    let names = author.split(" ");
+
+    let res = names[names.length-1] + " " + names[0].substr(0, 1) + ".";
+    return res;
+  }
+  format_authors(authors: Array<string>): string {
+    let res = "";
+    for(let person of authors) {
+      res = res + this.format_author(person) + ", ";
+    }
+    res = res.substr(0, res.length-2);
+    let i = res.lastIndexOf(",");
+    res=res.replace(/,([^,]*)$/," &"+'$1');
+    return res;
+  }
+
+  transform(paper) : string {
+    let year = "";
+    if ( ( "" + paper.year).indexOf("work") == -1) {
+      year = " (" + paper.year + ")"
+    }
+    let venue = "";
+    if (paper.venue != "TBD") {
+      venue = " " + paper.venue + ".";
+    }
+    return this.format_authors(paper.authors) + year + ". " 
+      + paper.title  + "." + venue;
+  }
+}
 
 @Pipe({name: 'coauthors'})
 export class CoAuthorsPipe implements PipeTransform {

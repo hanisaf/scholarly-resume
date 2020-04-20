@@ -159,51 +159,132 @@
   
         <H2>Journal articles</H2>
         <ol>
-          <li *ngFor='let paper of data?.research["journal articles"]'>
-            <!-- {{paper.title}}, <b>{{paper.venue}}</b>, {{paper.year}} [accepted in {{paper.accepted}}] <i>{{paper.authors | coauthors}}</i> -->
-            {{paper.title}}, <b>{{paper.venue}}</b>, {{paper.year}} 
-            <span *ngIf="accepted">[accepted in {{paper.accepted}}]</span>
-            <i>{{paper.authors | coauthors}}</i>
-          </li>
+          <div *ngIf="apaformat; else elseBlock1">
+            <li *ngFor='let paper of data?.research["journal articles"]'>
+              {{paper | apaformat}}
+            </li>
+          </div>
+          
+          <ng-template #elseBlock1>
+            <li *ngFor='let paper of data?.research["journal articles"]'>
+              {{paper.title}}, <b>{{paper.venue}}</b>, {{paper.year}} 
+              <span *ngIf="accepted">[accepted in {{paper.accepted}}]</span>
+              <i>{{paper.authors | coauthors}}</i>
+            </li>
+          </ng-template>
+          
+
+
         </ol>
   
         <H2>Accepted and forthcoming articles</H2>
         <ol>
-          <li *ngFor='let paper of data?.research["accepted & forthcoming"]'>
-            {{paper.title}}, <b>{{paper.venue}}</b>, {{paper.year}}
-            <span *ngIf="accepted">[accepted in {{paper.accepted}}]</span>
-            <i>{{paper.authors | coauthors}}</i>
-          </li>
+          <div *ngIf="apaformat; else elseBlock2">
+            <li *ngFor='let paper of data?.research["accepted & forthcoming"]'>
+              {{paper | apaformat}}
+            </li>
+          </div>
+          <ng-template #elseBlock2>
+            <li *ngFor='let paper of data?.research["accepted & forthcoming"]'>
+              {{paper.title}}, <b>{{paper.venue}}</b>, {{paper.year}}
+              <span *ngIf="accepted">[accepted in {{paper.accepted}}]</span>
+              <i>{{paper.authors | coauthors}}</i>
+            </li>
+          </ng-template>
+
         </ol>
   
         <div *ngIf="showall">
           <H2>Papers under review</H2>
           <ol>
+          <div *ngIf="apaformat; else elseBlock3">
             <li *ngFor='let paper of data?.research["-papers under review"]'>
+              {{paper | apaformat}}
+            </li>
+          </div>
+          <ng-template #elseBlock3>
+              <li *ngFor='let paper of data?.research["-papers under review"]'>
+                {{paper.title}}, <b>{{paper.venue}}</b>, {{paper.year}} <i>{{paper.authors | coauthors}}</i>
+              </li>
+            
+          </ng-template>
+        </ol>
+
+        <H2>Working papers</H2>
+        <ol>
+        <div *ngIf="apaformat; else elseBlock0">
+          <li *ngFor='let paper of data?.research["-working papers"]'>
+            {{paper | apaformat}}
+          </li>
+        </div>
+        <ng-template #elseBlock0>
+            <li *ngFor='let paper of data?.research["-working papers"]'>
               {{paper.title}}, <b>{{paper.venue}}</b>, {{paper.year}} <i>{{paper.authors | coauthors}}</i>
             </li>
-          </ol>
+          
+        </ng-template>
+      </ol>
+
+      <H2>Work in Progress</H2>
+      <ol>
+      <div *ngIf="apaformat; else elseBlock00">
+        <li *ngFor='let paper of data?.research["-work-in-progress"]'>
+          {{paper | apaformat}}
+        </li>
+      </div>
+      <ng-template #elseBlock00>
+          <li *ngFor='let paper of data?.research["-work-in-progress"]'>
+            {{paper.title}}, <b>{{paper.venue}}</b>, {{paper.year}} <i>{{paper.authors | coauthors}}</i>
+          </li>
+        
+      </ng-template>
+    </ol>
         </div>
         
         <H2>Conference proceedings</H2>
         <ol>
-          <li *ngFor='let paper of data?.research["conference proceedings"]'>
-            {{paper.title}}, {{paper.venue}}, {{paper.year}} <i>{{paper.authors | coauthors}}</i>
-          </li>
+          <div *ngIf="apaformat; else elseBlock4">
+            <li *ngFor='let paper of data?.research["conference proceedings"]'>
+              {{paper | apaformat}}
+            </li>
+          </div>
+          <ng-template #elseBlock4>
+            <li *ngFor='let paper of data?.research["conference proceedings"]'>
+              {{paper.title}}, {{paper.venue}}, {{paper.year}} <i>{{paper.authors | coauthors}}</i>
+            </li>
+          </ng-template>
+
         </ol>
   
         <H2>Conference presentations</H2>
+
+
         <ol>
-          <li *ngFor='let paper of data?.research["conference presentations"]'>
-            {{paper.title}}, {{paper.venue}}, {{paper.year}} <i>{{paper.authors | coauthors}}</i>
-          </li>
+          <div *ngIf="apaformat; else elseBlock5">
+            <li *ngFor='let paper of data?.research["conference presentations"]'>
+              {{paper | apaformat}}
+            </li>
+          </div>
+          <ng-template #elseBlock5>
+            <li *ngFor='let paper of data?.research["conference presentations"]'>
+              {{paper.title}}, {{paper.venue}}, {{paper.year}} <i>{{paper.authors | coauthors}}</i>
+            </li>          
+          </ng-template>
         </ol>
  
         <H2>Conference posters</H2>
         <ol>
-          <li *ngFor='let paper of data?.research["posters"]'>
-            {{paper.title}}, {{paper.venue}}, {{paper.year}} <i>{{paper.authors | coauthors}}</i>
-          </li>
+          <div *ngIf="apaformat; else elseBlock6">
+            <li *ngFor='let paper of data?.research["posters"]'>
+              {{paper | apaformat}}
+            </li>
+          </div>
+          <ng-template #elseBlock6>
+            <li *ngFor='let paper of data?.research["posters"]'>
+              {{paper.title}}, {{paper.venue}}, {{paper.year}} <i>{{paper.authors | coauthors}}</i>
+            </li>
+          </ng-template>
+
         </ol>
 
         <H2>Grants</H2>

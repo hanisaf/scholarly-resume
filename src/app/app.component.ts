@@ -1,7 +1,7 @@
 import { Component } from '@angular/core';
 import { HttpClient } from '@angular/common/http';
 import { MatTabChangeEvent } from '@angular/material';
-import {CoAuthorsPipe, KeysPipe} from './pipes';
+import {APAFormatPipe, CoAuthorsPipe, KeysPipe} from './pipes';
 import { ActivatedRoute } from "@angular/router";
 
 @Component({
@@ -14,6 +14,7 @@ export class AppComponent  {
   data: any; 
   accepted = false;
   showall=false;
+  apaformat=false;
   constructor(private http: HttpClient, private route: ActivatedRoute) {
     this.http.get("assets/data.json").subscribe( res => {  this.data=res; CoAuthorsPipe.me = this.data.about.name; });
   }
@@ -24,10 +25,13 @@ export class AppComponent  {
     this.route.queryParamMap.subscribe(params => {
       let showall = this.route.snapshot.queryParamMap.get("showall");
       let accepted = this.route.snapshot.queryParamMap.get("accepted");
+      let apaformat = this.route.snapshot.queryParamMap.get("apaformat");
       if (showall == "true")
         this.showall = KeysPipe.showall = true;
       if (accepted == "true")
         this.accepted = true;
+      if (apaformat == "true")
+        this.apaformat = true;
     })
   }
 
