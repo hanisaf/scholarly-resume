@@ -379,7 +379,7 @@
             },
             {
                 "id": "",
-                "title": "Unpacking the Role of Architecture Modularity and Expertise Integration in Driving Information Systems Evolution",
+                "title": "Blobs or Blocks? Evolutionary Complementarities of Systems Modularity with Organizational Monolithicity",
                 "authors": [
                     "Hani Safadi",
                     "Amrit Tiwana"
@@ -817,18 +817,6 @@
             }
         ],
         "conference presentations": [
-            {
-                "id": "",
-                "title": "Communication Visibility: A Double-Edged Sword",
-                "authors": [
-                    "Hani Safadi"
-                ],
-                "year": "2020",
-                "accepted": "",
-                "venue": "International Conference on Computational Social Science",
-                "url": "",
-                "abstract": "We employ agent-based modeling to unpack how communication visibility translates to knowledge transfer."
-            },
             {
                 "id": "",
                 "title": "Effective Moderation of Online Patient Communities",
@@ -1403,6 +1391,12 @@
                 "startdate": 2015
             },
             {
+                "venue": "Journal of Medical Internet Research",
+                "venueshort": "JMIR",
+                "role": "Reviewer",
+                "startdate": 2020
+            },            
+            {
                 "venue": "Health Policy and Technology",
                 "venueshort": "HPT",
                 "role": "Reviewer",
@@ -1425,6 +1419,12 @@
                 "venueshort": "ISJ",
                 "role": "Reviewer",
                 "startdate": 2019
+            },
+            {
+                "venue": "Journal of Information Technology",
+                "venueshort": "JIT",
+                "role": "Reviewer",
+                "startdate": 2020
             }
         ],
         "conference editorialship": [
