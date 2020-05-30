@@ -10,7 +10,7 @@
         "websites": [
             {
                 "title": "University page",
-                "url": "https://www.terry.uga.edu/directory/profile/hanisaf"
+                "url": "https://www.terry.uga.edu/directory/mis/hani-safadi.html"
             },
             {
                 "title": "Google scholar",
@@ -293,6 +293,19 @@
                 "venue": "Journal of Management Information Systems",
                 "url": "",
                 "abstract": ""
+            },
+            {
+                "id": "",
+                "title": "Blobs or Blocks? Evolutionary Complementarities of Systems Modularity with Organizational Monolithicity",
+                "authors": [
+                    "Hani Safadi",
+                    "Amrit Tiwana"
+                ],
+                "year": "under review 1st round",
+                "accepted": "",
+                "venue": "Information Systems Research",
+                "url": "",
+                "abstract": "As IT systems straggle to change, neither their evolvability nor how their technology architecture interplays with that of organizations behind them have received much attention. We develop a theory of how technological and organizational facets of architecture drive distinctly different ways through which systems evolve—by tweaking parts or tweaking linkages among them. Complementarities of blob-like monolithic organizational architectures with block-like modular technology architectures to induce both. Novel living-fossil analyses of source code from over 1,300 systems, spanning about 5 billion lines of code, 7 million modules, and 10 million changes over 20 years support these ideas."
             }
         ],
         "-working papers": [
@@ -377,19 +390,6 @@
                 "url": "",
                 "abstract": "Despite the ubiquity of open-source software (OSS) and its social and economic impact, little work examined OSS forges, platforms used by developers to collaborate in OSS projects. How do design choices in OSS forges affect developers’ knowledge collaboration practices? To answer this research question, we conducted a two-stage inductive deductive study. In the first stage, we systematically reviewed and compared mainstream OSS forges in order to understand their similarities, differences and the various design choices embedded in them. This first phase led us to uncover developer-centricity as a dominant design characteristic that differentiates modern forges from traditional ones. In the second phase, we conducted a controlled experiment to examine how developer-centricity affects developers’ knowledge collaboration practices. The results show that developer-centricity promotes knowledge contribution, constrains knowledge integration and has no effect on knowledge search practices. We discuss the implications of these results for the theory and practice of OSS development."
             },
-            {
-                "id": "",
-                "title": "Blobs or Blocks? Evolutionary Complementarities of Systems Modularity with Organizational Monolithicity",
-                "authors": [
-                    "Hani Safadi",
-                    "Amrit Tiwana"
-                ],
-                "year": "working paper",
-                "accepted": "",
-                "venue": "TBD",
-                "url": "",
-                "abstract": "Although information systems’ lifetime costs exceed their initial cost by an order of magnitude, a focus on their initial implementation rather than their subsequent evolution predominates prior IS research. The few recent studies of IS evolution study the quantity of evolution but have yet to unpack its nuanced qualitatively different “modes,” leaving unintegrated two evolution-enhancing strategies---architectural and iterative methods. We unpack how these two strategies independently drive systemwide evolution and module- level evolution. We test these ideas with 4.8 billion lines of raw source-code from over 1,300 projects spanning 7 million modules, 10 million commits, and 1,500 person-years of work over 20 years."
-            }, 
             {
                 "id": "",
                 "title": "Knowledge Adding and Knowledge Shaping and their Implications on The Efficiency and Effectiveness of Knowledge Integration",
