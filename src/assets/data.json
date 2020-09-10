@@ -243,13 +243,13 @@
         "-papers under review": [
             {
                 "id": "",
-                "title": "Sustaining Knowledge Collaboration in Online Communities: Aligning Structural Solutions with Generative Dynamics",
+                "title": "Governance of Firm-Sponsored Online Communities: Aligning Structural Solutions with Generative Dynamics",
                 "authors": [
                     "Hani Safadi",
                     "Tanner Skousen",
                     "Elena Karahanna"
                 ],
-                "year": "invited to a major revision 2nd round",
+                "year": "major revision 2nd round",
                 "accepted": "",
                 "venue": "MIS Quarterly",
                 "url": "",
@@ -273,7 +273,7 @@
                 "authors": [
                     "Hani Safadi"
                 ],
-                "year": "under review 1st round",
+                "year": "Revise and resubmit",
                 "accepted": "",
                 "venue": "MIS Quarterly",
                 "url": "",
@@ -284,15 +284,18 @@
                 "title": "Curtailing Fake News Propagation with Psychographics",
                 "authors": [
                     "Hani Safadi",
-                    "Saber Soleymani",
                     "Weifeng Li",
-                    "Pouya Rahmati"
+                    "Pouya Rahmati",
+                    "Saber Soleymani",
+                    "Ugur Kursuncu",
+                    "Krzysztof Kochut",
+                    "Amit Sheth"
                 ],
                 "year": "under review 1st round",
                 "accepted": "",
                 "venue": "Journal of Management Information Systems",
-                "url": "",
-                "abstract": ""
+                "url": "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3558236",
+                "abstract": "We develop a system for curtailing the propagation of fake news on social media by identifying users who are susceptible to believing and propagating fake news. We anchor our approach in the debate about the ontological nature of truth, the empirical challenges of classifying fake news content, as well as the psychological and social origins of believing fake news. Second, through interpreting our model using modern explainable machine learning, we deepen our theoretical understanding of why people believe and share fake news, extend the applicability of our system beyond its original context, and provide guidelines for designers and managers of online platforms."
             },
             {
                 "id": "",
@@ -309,6 +312,19 @@
             }
         ],
         "-working papers": [
+            {
+                "id": "",
+                "title": "Bit Rot in Aging Systems: Evidence and its Architectural Antidote",
+                "authors": [
+                    "Amrit Tiwana",
+                    "Hani Safadi"
+                ],
+                "year": "working paper",
+                "accepted": "",
+                "venue": "Information Systems Research",
+                "url": "",
+                "abstract": "This work investigates how system architecture can be one factor that mitigates bit rot of information systems. Building in prior work of information systems design and architecture, we suggest that architecture modularity mitigates future bit rot."
+            },
             {
                 "id": "",
                 "title": "Spinning and Twisting: The Genesis of an Open Online Community",
@@ -584,17 +600,16 @@
         "conference proceedings": [
             {
                 "id": "",
-                "title": "Bots versus Humans in Online Social Networks: A Study of Reddit Communities",
+                "title": "Open Communities and Formal Organizations: A Symbiosis View",
                 "authors": [
-                    "John Lalor",
-                    "Nicholas Berente",
-                    "Hani Safadi"
+                    "Tanner Skousen",
+                    "Hani Safadi",
+                    "Richard Watson"
                 ],
-                "year": "2020",
-                "accepted": "",
-                "venue": "Sunbelt Conference",
+                "venue": "International Conference on Information Systems",
+                "year": 2020,
                 "url": "",
-                "abstract": ""
+                "abstract": "How can formal organizations and open communities engage in mutually beneficial relationships? We develop a framework that explains how an open community’s engagement with a formal organization can be mutually beneficial to both in the long-term. We theorize how a symbiotic relationship between open communities and formal organizations can be forged by nurturing various forms of capital flow between them as well as creating virtuous feedback loops within and across each other’s capital creation systems. The framework has implications for understanding innovation in ecosystems and networked economies."
             },
             {
                 "id": "",
@@ -606,7 +621,7 @@
                 ],
                 "venue": "Americas Conference on Information Systems",
                 "year": 2020,
-                "url": "",
+                "url": "https://aisel.aisnet.org/amcis2020/virtual_communities/virtual_communities/3/",
                 "abstract": "How can organizations and communities engage in mutually beneficial relationships? We develop a framework that explains how an open community’s engagement with an organization can be mutually beneficial to both in the long-term. We theorize how a symbiotic relationship between organizations and communities can be achieved by nurturing various forms of capital flow between organizations and communities as well as creating virtuous feedback loops within each other’s capital creation systems."
             },
             {
@@ -618,7 +633,7 @@
                 ],
                 "venue": "Academy of Management Proceedings",
                 "year": 2020,
-                "url": "",
+                "url": "https://journals.aom.org/doi/abs/10.5465/AMBPP.2020.12051abstract",
                 "abstract": "Open online communities have become widespread forms of organizing in which multiple participants share knowledge, and communicate on the basis of specific commonalities. Yet, we still know little about their genesis. Given the importance of these new forms of organizing, it is crucial to understand their formation. How do they come to be? This study examines how multiple, heterogeneous participants converge around what they shape as shared interests. It engages in computationally-intensive theory development by examining the emergence of the data science open online community on the social media platform Twitter. It builds theory on the genesis of an open online community as a process of spinning and twisting of discourses that coalesce the interests of the members. This study contributes to scholarship on online communities by theorizing the process by which they come to exist as well as the literature on organizational dialog by elaborating on how dialog leads to self-organization in open communities."
             },
             {
@@ -819,6 +834,20 @@
         "conference presentations": [
             {
                 "id": "",
+                "title": "Bots versus Humans in Online Social Networks: A Study of Reddit Communities",
+                "authors": [
+                    "John Lalor",
+                    "Nicholas Berente",
+                    "Hani Safadi"
+                ],
+                "year": "2020",
+                "accepted": "",
+                "venue": "Sunbelt Conference",
+                "url": "http://www.pfeffer.at/sunbelt/posters/283.pdf",
+                "abstract": ""
+            },            
+            {
+                "id": "",
                 "title": "Effective Moderation of Online Patient Communities",
                 "authors": [
                     "Hani Safadi",
@@ -1007,6 +1036,7 @@
             }
         ],
         "posters": [
+            
             {
                 "id": "",
                 "title": "ODIN: Tracing Ideas, Entities, and Relationships from Big Textual Data",
@@ -1330,6 +1360,12 @@
     },
     "service": {
         "journal editorialship": [
+            {
+                "venue": "MIS Quarterly",
+                "venueshort": "MISQ",
+                "role": "Associate Editor (Special Issue on Digital Resillience)",
+                "startdate": 2020
+            },            
             {
                 "venue": "IEEE Transactions on Engineering Management",
                 "venueshort": "IEEE TEM",
