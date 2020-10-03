@@ -261,7 +261,7 @@
                 "authors": [
                     "Hani Safadi"
                 ],
-                "year": "invited to a major revision 2nd round",
+                "year": "major revision 2nd round",
                 "accepted": "",
                 "venue": "MIS Quarterly",
                 "url": "",
@@ -278,37 +278,6 @@
                 "venue": "MIS Quarterly",
                 "url": "",
                 "abstract": "Evolution is not one system’s property as its dependencies with other intertwined, evolving systems grow. We conceptualize system-of-systems modularity that simultaneously considers a system’s internal architecture and that of other interdependent systems. Data from 8,220 information systems’ projects over eight years show how system-of-systems modularity explains evolution above-and-beyond prior conceptualizations. They underscore the migration from standalone information systems to systems-of-systems."
-            },
-            {
-                "id": "",
-                "title": "Curtailing Fake News Propagation with Psychographics",
-                "authors": [
-                    "Hani Safadi",
-                    "Weifeng Li",
-                    "Pouya Rahmati",
-                    "Saber Soleymani",
-                    "Ugur Kursuncu",
-                    "Krzysztof Kochut",
-                    "Amit Sheth"
-                ],
-                "year": "under review 1st round",
-                "accepted": "",
-                "venue": "Journal of Management Information Systems",
-                "url": "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3558236",
-                "abstract": "We develop a system for curtailing the propagation of fake news on social media by identifying users who are susceptible to believing and propagating fake news. We anchor our approach in the debate about the ontological nature of truth, the empirical challenges of classifying fake news content, as well as the psychological and social origins of believing fake news. Second, through interpreting our model using modern explainable machine learning, we deepen our theoretical understanding of why people believe and share fake news, extend the applicability of our system beyond its original context, and provide guidelines for designers and managers of online platforms."
-            },
-            {
-                "id": "",
-                "title": "Blobs or Blocks? Evolutionary Complementarities of Systems Modularity with Organizational Monolithicity",
-                "authors": [
-                    "Hani Safadi",
-                    "Amrit Tiwana"
-                ],
-                "year": "under review 1st round",
-                "accepted": "",
-                "venue": "Information Systems Research",
-                "url": "",
-                "abstract": "As IT systems straggle to change, neither their evolvability nor how their technology architecture interplays with that of organizations behind them have received much attention. We develop a theory of how technological and organizational facets of architecture drive distinctly different ways through which systems evolve—by tweaking parts or tweaking linkages among them. Complementarities of blob-like monolithic organizational architectures with block-like modular technology architectures to induce both. Novel living-fossil analyses of source code from over 1,300 systems, spanning about 5 billion lines of code, 7 million modules, and 10 million changes over 20 years support these ideas."
             }
         ],
         "-working papers": [
@@ -461,6 +430,37 @@
                 "venue": "Qualitative Research in the Age of Digitalisation",
                 "url": "",
                 "abstract": "We propose a framework and guidelines of how to incorporate the different available methods (topics models, visualization, etc ...) within the qualitative researcher's toolkit. Specialized tools are needed to take advantage of the opportunities offered by large scale qualitative  data.  A lot has been written about mixed methods from an epistemological point of view but not much about how such research can be feasibly realized. This is especially important in the age of big data where traditional qualitative methods are no longer feasible. We focus on four specific activities are especially challenging if conducted in the context of big textual data: theoretical sampling, coding, constant comparison, and the creation of a chain of evidence. We offer suggestions for how emerging methodological tools  can help facilitate, augment, and transform the grounded theory process."
+            },
+            {
+                "id": "",
+                "title": "Curtailing Fake News Propagation with Psychographics",
+                "authors": [
+                    "Hani Safadi",
+                    "Weifeng Li",
+                    "Pouya Rahmati",
+                    "Saber Soleymani",
+                    "Ugur Kursuncu",
+                    "Krzysztof Kochut",
+                    "Amit Sheth"
+                ],
+                "year": "working paper",
+                "accepted": "",
+                "venue": "TBD",
+                "url": "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3558236",
+                "abstract": "We develop a system for curtailing the propagation of fake news on social media by identifying users who are susceptible to believing and propagating fake news. We anchor our approach in the debate about the ontological nature of truth, the empirical challenges of classifying fake news content, as well as the psychological and social origins of believing fake news. Second, through interpreting our model using modern explainable machine learning, we deepen our theoretical understanding of why people believe and share fake news, extend the applicability of our system beyond its original context, and provide guidelines for designers and managers of online platforms."
+            },
+            {
+                "id": "",
+                "title": "Blobs or Blocks? Evolutionary Complementarities of Systems Modularity with Organizational Monolithicity",
+                "authors": [
+                    "Hani Safadi",
+                    "Amrit Tiwana"
+                ],
+                "year": "working paper",
+                "accepted": "",
+                "venue": "TBD",
+                "url": "",
+                "abstract": "As IT systems straggle to change, neither their evolvability nor how their technology architecture interplays with that of organizations behind them have received much attention. We develop a theory of how technological and organizational facets of architecture drive distinctly different ways through which systems evolve—by tweaking parts or tweaking linkages among them. Complementarities of blob-like monolithic organizational architectures with block-like modular technology architectures to induce both. Novel living-fossil analyses of source code from over 1,300 systems, spanning about 5 billion lines of code, 7 million modules, and 10 million changes over 20 years support these ideas."
             }           
         ],
         "-work-in-progress": [
