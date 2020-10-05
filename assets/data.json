@@ -257,7 +257,7 @@
             },
             {
                 "id": "",
-                "title": "The Paradox of Ambient Awareness: Does Enterprise Social Media Promote Intraorganizational Knowledge Transfer?",
+                "title": "Digital Transparency and the Privacy-Productivity Paradox. A Study of Enterprise Social Media and Organizational Knowledge Transfer",
                 "authors": [
                     "Hani Safadi"
                 ],
@@ -278,6 +278,19 @@
                 "venue": "MIS Quarterly",
                 "url": "",
                 "abstract": "Evolution is not one system’s property as its dependencies with other intertwined, evolving systems grow. We conceptualize system-of-systems modularity that simultaneously considers a system’s internal architecture and that of other interdependent systems. Data from 8,220 information systems’ projects over eight years show how system-of-systems modularity explains evolution above-and-beyond prior conceptualizations. They underscore the migration from standalone information systems to systems-of-systems."
+            },
+            {
+                "id": "",
+                "title": "The Genesis of an Online Community on Social Media: Perspective Taking and Perspective Making in 140 Characters or Less",
+                "authors": [
+                    "Hani Safadi",
+                    "Emmanuelle Vaast"
+                ],
+                "year": "Revise and resubmit",
+                "accepted": "",
+                "venue": "Academy of Management Discoveries",
+                "url": "",
+                "abstract": "Social media is criticized for harboring superficial, self-promotional, and often anti-social communication. This study explores how social media can support a meaningful conversation around shared interests between distant participants. The study engages in a computationally-intensive exploration and theory development by examining the creation of the data science open online community on the social media platform Twitter. The study uncovers the processes of spinning and twisting of discourses that enable participants to collectively define find, define, and shape common interests, and create and sustain an open online community around them. The study contributes to the scholarship on social media by outlining the boundaries and processes that enable productive and effective use of these platforms."
             }
         ],
         "-working papers": [
@@ -293,19 +306,6 @@
                 "venue": "Information Systems Research",
                 "url": "",
                 "abstract": "This work investigates how system architecture can be one factor that mitigates bit rot of information systems. Building in prior work of information systems design and architecture, we suggest that architecture modularity mitigates future bit rot."
-            },
-            {
-                "id": "",
-                "title": "Spinning and Twisting: The Genesis of an Open Online Community",
-                "authors": [
-                    "Hani Safadi",
-                    "Emmanuelle Vaast"
-                ],
-                "year": "working paper",
-                "accepted": "",
-                "venue": "TBD",
-                "url": "",
-                "abstract": "Open online communities have become widespread forms of organizing in which multiple participants communicate, share knowledge, and communicate on the basis of specific commonalities. Yet, we still know little about their genesis. Given the importance of these new forms of organizing, it is crucial to understand their formation. How do they come to be? This study examines how multiple, heterogeneous participants converge around what they shape as shared interests. It engages in computationally-intensive theory development by examining the emergence of the data science open online community on Twitter. It builds theory on the genesis of an open online community as a process of spinning and twisting of discourses reflecting the interests of the members. This study contributes to scholarship on online communities by theorizing the process by which they come to exist as well as the literature on organizational discourse and dialog by elaborating on how dialog leads to self-organization in open communities."
             },
             {
                 "id": "",
@@ -416,20 +416,6 @@
                 "venue": "MISQE",
                 "url": "",
                 "abstract": ""
-            },
-            {
-                "id": "",
-                "title": "Text-Mining And Visualization to Support Grounded Theorizing from Large Scale Qualitative Data",
-                "authors": [
-                    "Hani Safadi",
-                    "Marie-Claude Boudreau",
-                    "Samer Faraj"
-                ],
-                "year": "working paper",
-                "accepted": "",
-                "venue": "Qualitative Research in the Age of Digitalisation",
-                "url": "",
-                "abstract": "We propose a framework and guidelines of how to incorporate the different available methods (topics models, visualization, etc ...) within the qualitative researcher's toolkit. Specialized tools are needed to take advantage of the opportunities offered by large scale qualitative  data.  A lot has been written about mixed methods from an epistemological point of view but not much about how such research can be feasibly realized. This is especially important in the age of big data where traditional qualitative methods are no longer feasible. We focus on four specific activities are especially challenging if conducted in the context of big textual data: theoretical sampling, coding, constant comparison, and the creation of a chain of evidence. We offer suggestions for how emerging methodological tools  can help facilitate, augment, and transform the grounded theory process."
             },
             {
                 "id": "",
@@ -1095,6 +1081,22 @@
                 "abstract": "This book addresses the problem of creating linguistic taggers for resource-poor languages using existing taggers in resource rich languages. Linguistic taggers are classifiers that map individual words or phrases from a sentence to a set of tags. Linguistic taggers are usually trained using supervised learning algorithms.The proposed approach does not require that the input sentence be translated into the source language. Instead, projection of linguistic tags is accomplished through the use of a parallel corpus, which is a collection of texts that are available in a source language and a target language. The correspondence between words of the source and target language allows to project tags from source to target language words.A parallel corpus of the source and target languages might not be readily available for many language pairs. To deal with this problem, we describe a system for automatic acquisition of aligned, bilingual corpora from pre-specified domains on the World Wide Web."
             }
         ],
+        "book chapters": [
+            {
+                "id": "",
+                "title": "Text-Mining And Visualization to Support Grounded Theorizing from Large Scale Qualitative Data",
+                "authors": [
+                    "Hani Safadi",
+                    "Marie-Claude Boudreau",
+                    "Samer Faraj"
+                ],
+                "year": "forthcoming",
+                "accepted": "",
+                "venue": "CUP Handbook of Qualitative Research in the Age of Digitalisation",
+                "url": "",
+                "abstract": "We propose a framework and guidelines of how to incorporate the different available methods (topics models, visualization, etc ...) within the qualitative researcher's toolkit. Specialized tools are needed to take advantage of the opportunities offered by large scale qualitative  data.  A lot has been written about mixed methods from an epistemological point of view but not much about how such research can be feasibly realized. This is especially important in the age of big data where traditional qualitative methods are no longer feasible. We focus on four specific activities are especially challenging if conducted in the context of big textual data: theoretical sampling, coding, constant comparison, and the creation of a chain of evidence. We offer suggestions for how emerging methodological tools  can help facilitate, augment, and transform the grounded theory process."
+            }
+        ],
         "theses": [
             {
                 "id": "130355",
@@ -1343,6 +1345,10 @@
         ],
         "students": [
             {
+                "title": "Kumar Sachin",
+                "id": "Supervisor"
+            },
+            {
                 "title": "Tanner Skousen",
                 "id": "Supervisor"
             },
@@ -1589,6 +1595,14 @@
         "awards": [
             {
                 "id": "",
+                "title": "Best Information Systems Papers of 2019 (nomination): Data-Driven Computationally-Intensive Theory Development",
+                "venue": "International Conference on Information Systems",
+                "year": 2020,
+                "url": "",
+                "abstract": ""
+            },
+            {
+                "id": "",
                 "title": "Best Associate Editor",
                 "venue": "International Conference on Information Systems",
                 "year": 2019,
@@ -1603,6 +1617,14 @@
                 "url": "https://aisnet.org/page/AwardsPage",
                 "abstract": ""
             },
+            {
+                "id": "",
+                "title": "Terry-Sanford Research Award",
+                "venue": "University of Georgia, Terry College of Business",
+                "year": "2019-2020",
+                "url": "",
+                "abstract": ""
+            },            
             {
                 "id": "",
                 "title": "Best Division Paper Award: Who Contributes Knowledge? Embeddedness and Marginality in Online Communities",
