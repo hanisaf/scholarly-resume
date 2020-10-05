@@ -284,7 +284,34 @@
               {{paper.title}}, {{paper.venue}}, {{paper.year}} <i>{{paper.authors | coauthors}}</i>
             </li>
           </ng-template>
+        </ol>
 
+        <H2>Books</H2>
+        <ol>
+          <div *ngIf="apaformat; else elseBlock7">
+            <li *ngFor='let paper of data?.research["books"]'>
+              {{paper | apaformat}}
+            </li>
+          </div>
+          <ng-template #elseBlock7>
+            <li *ngFor='let paper of data?.research["books"]'>
+              {{paper.title}}, {{paper.venue}}, {{paper.year}} <i>{{paper.authors | coauthors}}</i>
+            </li>
+          </ng-template>
+        </ol>
+
+        <H2>Book chapters</H2>
+        <ol>
+          <div *ngIf="apaformat; else elseBlock8">
+            <li *ngFor='let paper of data?.research["book chapters"]'>
+              {{paper | apaformat}}
+            </li>
+          </div>
+          <ng-template #elseBlock8>
+            <li *ngFor='let paper of data?.research["book chapters"]'>
+              {{paper.title}}, {{paper.venue}}, {{paper.year}} <i>{{paper.authors | coauthors}}</i>
+            </li>
+          </ng-template>
         </ol>
 
         <H2>Grants</H2>
@@ -293,9 +320,6 @@
             {{grant.title}}, {{grant.venue}}, {{grant.year}} ({{grant.amount | currency}})
           </li>
         </ol>
-  
-  
-  
   
         <H2>Teaching</H2>
         <span *ngFor='let course of data?.teaching.courses'>
