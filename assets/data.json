@@ -227,7 +227,7 @@
         "accepted & forthcoming": [
             {
                 "id": "",
-                "title": "Core-Periphery Tension in Online Innovation Communities",
+                "title": "Who Contributes Knowledge? Core-Periphery Tension in Online Innovation Communities",
                 "authors": [
                     "Hani Safadi",
                     "Steven Johnson",
@@ -236,8 +236,8 @@
                 "year": "2020",
                 "accepted": "2019",
                 "venue": "Organization Science",
-                "url": "https://www.researchgate.net/publication/338223948_Core-Periphery_Tension_in_Online_Innovation_Communities",
-                "abstract": "Where do valuable contributions originate from in online innovation communities? Prior research provides conflicting answers. One view, consistent with a community of practice perspective, is that valued knowledge contributions are primarily provided by central actors at the core of a community. In contrast, other research—including work adopting an open innovation perspective—predicts that solutions to local problems primarily originate from peripheral actors at the margins of a field of knowledge. We integrate these dual perspectives by considering two distinct forms of network position: social embeddedness (a core position within the social network of participants interacting within the community), and epistemic marginality (a peripheral position within the epistemic network of topics discussed by a community). Analyzing contributions by 88,472 members of 51 Stack Exchange online innovation communities, we find that core contributors who are socially embedded and peripheral contributors who are epistemically marginal provide knowledge contributions that are more highly valued by their communities. Furthermore, social embeddedness and epistemic marginality complement each other: contributors who are not only in the social core but also discuss less common, peripheral topics are far more likely to provide valued knowledge contributions. Thus, we conclude that neither the community of practice perspective that emphasizes core contributors nor the open innovation perspective that emphasizes peripheral contributors can alone explain where valued knowledge contributions originate from in online innovation communities. By showing that both socially core and epistemically peripheral actors can provide valued knowledge contributions we provide a more nuanced understanding of core-periphery tensions in knowledge fields."
+                "url": "http://pubsonline.informs.org/doi/10.1287/orsc.2020.1364",
+                "abstract": "Where do valuable contributions originate from in online innovation communities? Prior research provides conflicting answers. One view, consistent with a community of practice perspective, is that valued knowledge contributions are primarily provided by central participants at the core of a community. In contrast, other research—including work adopting an open innovation perspective—predicts that valuable ideas primarily emerge from peripheral participants, those at the margins of a field of knowledge who provide novel ideas and viewpoints. We integrate these contrasting perspectives by considering two distinct forms of position: social embeddedness (a core social position within the social network of participants interacting within a community) and epistemic marginality (a peripheral epistemic position based on the network of topics discussed by a community). Analyzing contributions by 697,412 participants of 52 Stack Exchange online innovation communities, we find that both participants who are socially embedded and participants who are epistemically marginal provide knowledge contributions that are highly valued by fellow community participants. Importantly, among epistemically marginal participants, those with high social embeddedness are more likely to provide contributions valued by the community; by virtue of their epistemic marginality, these participants may offer novel ideas while by virtue of their social embeddedness they may be able to more effectively communicate their ideas to the community. Thus, the production of knowledge in an online innovation community involves a complex interaction between the novelty emanating from the epistemic periphery and the social embeddedness required to make ideas congruent with existing social and epistemic norms."
             }
         ],
         "-papers under review": [
@@ -1084,13 +1084,13 @@
         "book chapters": [
             {
                 "id": "",
-                "title": "Text-Mining And Visualization to Support Grounded Theorizing from Large Scale Qualitative Data",
+                "title": "One Picture to Study One Thousand Words: Visualization for Qualitative Research in the Age of Digitalization",
                 "authors": [
                     "Hani Safadi",
                     "Marie-Claude Boudreau",
                     "Samer Faraj"
                 ],
-                "year": "forthcoming",
+                "year": "2021",
                 "accepted": "",
                 "venue": "CUP Handbook of Qualitative Research in the Age of Digitalisation",
                 "url": "",
@@ -1228,18 +1228,19 @@
     "teaching": {
         "courses": [
             {
-                "id": "MIST 5730",
+                "id": "MIST 5757 / MIST 7757",
+                "title": "Data Engineering",
+                "venue": "University of Georgia",
+                "abstract": "This course focuses on the concepts and techniques of architecting data to support data-intensive applications and large-scale data analysis workflows. The course surveys the current landscape of hardware and software for data storage and processing. The course covers architecting scalable data solutions and their deployment into production in the cloud.",
+                "url": "https://github.com/hanisaf/data-engineering"
+            },
+            {
+                "id": "MIST 5730 / MIST 6380",
                 "title": "Advanced Data Management and Analytics",
                 "venue": "University of Georgia",
                 "abstract": "This course provides students with knowledge of emerging technical issues related to data science, along with experience of diverse methods and technologies related to all aspects of data science. The topics in the course are organized around four themes: reproducible analytics, advanced data management, communication and delivery, and advanced data analytics.",
-                "url": "https://github.com/hanisaf/advanced-data-management-and-analytics"            },            
-            {
-                "id": "MIST 6380",
-                "title": "Advanced Data Analytics",
-                "venue": "University of Georgia",
-                "abstract": "Provides students with knowledge of emerging technical issues related to data science, along with experience of diverse methods and technologies related to all aspects of data science, from data collection to optimization.",
-                "url": "https://github.com/hanisaf/advanced-data-management-and-analytics"
-            },
+                "url": "https://github.com/hanisaf/advanced-data-management-and-analytics"            
+            },            
             {
                 "id": "BUSN 7990 B3",
                 "title": "Python Bootcamp",
@@ -1595,12 +1596,36 @@
         "awards": [
             {
                 "id": "",
-                "title": "Best Information Systems Papers of 2019 (nomination): Data-Driven Computationally-Intensive Theory Development",
+                "title": "AIS Distinguished Member, December 2020 Cohort",
+                "venue": "Association for Information Systems",
+                "year": 2020,
+                "url": "https://aisnet.org/page/distinguishedmember",
+                "abstract": ""
+            },            
+            {
+                "id": "",
+                "title": "Best Theory Paper: Open Communities and Formal Organizations: A Symbiosis View",
                 "venue": "International Conference on Information Systems",
                 "year": 2020,
-                "url": "",
+                "url": "https://aisnet.org/page/AwardsPage",
+                "abstract": ""
+            },            
+            {
+                "id": "",
+                "title": "Best Publication of 2019: Data-Driven Computationally-Intensive Theory Development",
+                "venue": "International Conference on Information Systems",
+                "year": 2020,
+                "url": "https://aisnet.org/page/BestPublicationsAwar",
                 "abstract": ""
             },
+            {
+                "id": "",
+                "title": "Best Information Systems Research Paper of 2019: Data-Driven Computationally-Intensive Theory Development",
+                "venue": "Information Systems Research",
+                "year": 2020,
+                "url": "https://pubsonline.informs.org/journal/isre",
+                "abstract": ""
+            },            
             {
                 "id": "",
                 "title": "Best Associate Editor",
