@@ -240,6 +240,22 @@
                 "abstract": "Where do valuable contributions originate from in online innovation communities? Prior research provides conflicting answers. One view, consistent with a community of practice perspective, is that valued knowledge contributions are primarily provided by central participants at the core of a community. In contrast, other research—including work adopting an open innovation perspective—predicts that valuable ideas primarily emerge from peripheral participants, those at the margins of a field of knowledge who provide novel ideas and viewpoints. We integrate these contrasting perspectives by considering two distinct forms of position: social embeddedness (a core social position within the social network of participants interacting within a community) and epistemic marginality (a peripheral epistemic position based on the network of topics discussed by a community). Analyzing contributions by 697,412 participants of 52 Stack Exchange online innovation communities, we find that both participants who are socially embedded and participants who are epistemically marginal provide knowledge contributions that are highly valued by fellow community participants. Importantly, among epistemically marginal participants, those with high social embeddedness are more likely to provide contributions valued by the community; by virtue of their epistemic marginality, these participants may offer novel ideas while by virtue of their social embeddedness they may be able to more effectively communicate their ideas to the community. Thus, the production of knowledge in an online innovation community involves a complex interaction between the novelty emanating from the epistemic periphery and the social embeddedness required to make ideas congruent with existing social and epistemic norms."
             }
         ],
+        "book chapters": [
+            {
+                "id": "",
+                "title": "One Picture to Study One Thousand Words: Visualization for Qualitative Research in the Age of Digitalization",
+                "authors": [
+                    "Hani Safadi",
+                    "Marie-Claude Boudreau",
+                    "Samer Faraj"
+                ],
+                "year": "2021",
+                "accepted": "2020",
+                "venue": "Cambridge University Press Handbook of Qualitative Research in the Age of Digitalisation",
+                "url": "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3760009",
+                "abstract": "We propose a framework and guidelines of how to incorporate the different available methods (topics models, visualization, etc ...) within the qualitative researcher's toolkit. Specialized tools are needed to take advantage of the opportunities offered by large scale qualitative  data.  A lot has been written about mixed methods from an epistemological point of view but not much about how such research can be feasibly realized. This is especially important in the age of big data where traditional qualitative methods are no longer feasible. We focus on four specific activities are especially challenging if conducted in the context of big textual data: theoretical sampling, coding, constant comparison, and the creation of a chain of evidence. We offer suggestions for how emerging methodological tools  can help facilitate, augment, and transform the grounded theory process."
+            }
+        ],        
         "-papers under review": [
             {
                 "id": "",
@@ -249,7 +265,7 @@
                     "Tanner Skousen",
                     "Elena Karahanna"
                 ],
-                "year": "major revision 2nd round",
+                "year": "major revision - 3rd round",
                 "accepted": "",
                 "venue": "MIS Quarterly",
                 "url": "",
@@ -261,7 +277,7 @@
                 "authors": [
                     "Hani Safadi"
                 ],
-                "year": "major revision 2nd round",
+                "year": "major revision - 2nd round",
                 "accepted": "",
                 "venue": "MIS Quarterly",
                 "url": "",
@@ -281,19 +297,17 @@
             },
             {
                 "id": "",
-                "title": "The Genesis of an Online Community on Social Media: Perspective Taking and Perspective Making in 140 Characters or Less",
+                "title": "Building an Occupational Community and its Markets: An Examination of the Emergence of Data Science",
                 "authors": [
                     "Hani Safadi",
                     "Emmanuelle Vaast"
                 ],
-                "year": "Revise and resubmit",
+                "year": "Under review - first submission",
                 "accepted": "",
-                "venue": "Academy of Management Discoveries",
+                "venue": "Big Data and Society",
                 "url": "",
-                "abstract": "Social media is criticized for harboring superficial, self-promotional, and often anti-social communication. This study explores how social media can support a meaningful conversation around shared interests between distant participants. The study engages in a computationally-intensive exploration and theory development by examining the creation of the data science open online community on the social media platform Twitter. The study uncovers the processes of spinning and twisting of discourses that enable participants to collectively define find, define, and shape common interests, and create and sustain an open online community around them. The study contributes to the scholarship on social media by outlining the boundaries and processes that enable productive and effective use of these platforms."
-            }
-        ],
-        "-working papers": [
+                "abstract": "This study examines the role of social media in enabling the formation and growth of a new occupation and its markets. We specifically examine the new occupation of data science and its markets as reflected in its members and other stakeholders using social media application Twitter. Mixed-methods analyses uncover the emergence of an increasingly diversified and fragmented ecosystem associated with the new occupation. This process of co-construction manifests in social media-based communicative practices from heterogeneous actors that elicit dynamically and intricately the occupational community and its markets. This research contributes a middle-range theory that offers a new understanding of the similarities and differences between social media and other forms of communication traditionally associated with occupational work and provides implications for future research on occupational communities."
+            },
             {
                 "id": "",
                 "title": "Bit Rot in Aging Systems: Evidence and its Architectural Antidote",
@@ -301,12 +315,71 @@
                     "Amrit Tiwana",
                     "Hani Safadi"
                 ],
-                "year": "working paper",
+                "year": "Under review - first submission",
                 "accepted": "",
                 "venue": "Information Systems Research",
                 "url": "",
-                "abstract": "This work investigates how system architecture can be one factor that mitigates bit rot of information systems. Building in prior work of information systems design and architecture, we suggest that architecture modularity mitigates future bit rot."
+                "abstract": "We theorize how bit rot of information systems, defined as the degradation of their internal logical coherence, increases as they age but decreases when their architectural modularity increases. We also suggest that the effectiveness of architectural modularity fades as systems age. We test our hypotheses using a unique large-scale and longitudinal trace data set of 1,354 open-source systems over 20 years. We contribute a deeper understanding of the important but understudied phenomenon of bit rot. The overarching novel insight is that architectural modularity slows but cannot stop it. We discuss the impact of these findings on information systems development, information systems design and IT strategy."
             },
+            {
+                "id": "",
+                "title": "Developers’ Multi-Project Involvement and Continued Contribution to Open-Source Software Projects",
+                "authors": [
+                    "Pratyush Sharma",
+                    "Hani Safadi",
+                    "John Hulland",
+                    "Elena Karahanna"
+                ],
+                "year": "Under review - first submission",
+                "accepted": "",
+                "venue": "Information Systems Research",
+                "url": "",
+                "abstract": ""
+            },
+            {
+                "id": "",
+                "title": "Who Shares Fake News? Understanding and Curtailing Fake News Propagation with Psychographics",
+                "authors": [
+                    "Hani Safadi",
+                    "Weifeng Li",
+                    "Saber Soleymani",
+                    "Ugur Kursuncu",
+                    "Amit Sheth"
+                ],
+                "year": "Under review - first submission",
+                "accepted": "",
+                "venue": "Information Systems Research",
+                "url": "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3558236",
+                "abstract": "Fake news is a widespread and concerning phenomenon. The goal of this article is twofold. First, we argue that curtailing fake news is better pursued by identifying its propagators than by classifying its content. Second, to validate our conceptual argument, we develop a system for curtailing the propagation of fake news on social media by identifying users who are susceptible to believing and propagating it. We anchor our approach in the debate about the ontological nature of truth, the empirical challenges of classifying fake news content, as well as the psychological and social origins of believing fake news. Through interpreting our model using modern explainable machine learning, we deepen our theoretical understanding of why people believe and share fake news, extend the applicability of our system beyond its original context, and provide guidelines for mitigating fake news propagation."
+            },
+            {
+                "id": "",
+                "title": "Blobs or Blocks? Evolutionary Complementarities of Systems Architecture with Team Architecture",
+                "authors": [
+                    "Hani Safadi",
+                    "Amrit Tiwana"
+                ],
+                "year": "Under review - first submission",
+                "accepted": "",
+                "venue": "Organization Science",
+                "url": "",
+                "abstract": "As IT systems straggle to change, how the interplay of technology architecture with the organizational architecture of teams behind them shape their evolution has yet to receive much attention. We develop a middle-range theory of how technological and organizational facets of architecture drive two distinctly different ways through which systems evolve—by tweaking parts of a system or tweaking linkages among them. We further theorize how complementarities of blob-like, monolithic team architectures with block-like, modular technology architectures simultaneously induce both types of evolution. We use a novel living-fossil analysis of trace data constructed by analyzing the source code from over 1,300 systems, spanning about 5 billion lines of code, 7 million modules, and 10 million changes over 20 years to test these ideas. Our unique theoretical contribution is in showing how complementarity of coevolving system modularity and team monolithicity influence systems evolution through two distinct pathways. The design of teams therefore compensates for imperfections in technology architecture in fostering the evolution of technological systems. Our results have novel implications for research at the intersection of systems development and team design, which are also discussed."
+            },
+            {
+                "id": "",
+                "title": "Dialogue without Interlocutors? Knowledge Creation with 140 Characters or Less",
+                "authors": [
+                    "Hani Safadi",
+                    "Emmanuelle Vaast"
+                ],
+                "year": "Under review - first submission",
+                "accepted": "",
+                "venue": "Organization Science",
+                "url": "",
+                "abstract": "Microblogging is a novel digital technology increasingly used for both professional and personal communication. Microblogging relies on the exchange of short, de-contextualized, and public messages, and therefore has been widely used for public communication, self-presentation, self-promotion, and marketing. The characteristics of microblogging do not seem to make it amenable for knowledge creation purposes as knowledge creation requires purposeful dialogue and relational engagement among interlocutors. However, and notwithstanding these shortcomings, microblogging is used in knowledge work, which begs the question of if and how can such communication promote knowledge creation. To answer this research question, we investigate how microblogging was used to talk about an emergent area of knowledge, that of data science, from 2010 to 2015. We examine a large corpus of microblogging messages on Twitter posted by a large and diverse number of stakeholders. Employing computationally intensive theory discovery methods, we uncover a process of knowledge creation that does not require the traditional deep and relational dialogue. Instead, it relies on two processes of spinning and twisting discourses by multiple participants enabled by features of the microblogging platform and punctuated by some external events. The repetition of these processes over time results in the emergence of a novel discourse that reflects the new knowledge participants’ created from combining and expanding upon their prior knowledge. We discuss the importance of this new theory for organizational knowledge management as well as the role of new technologies in shaping and organizing society and the workplace."
+            }                                     
+        ],
+        "-working papers": [
             {
                 "id": "",
                 "title": "Anchoring and Affordance Reconstitution during Information Systems Implementation and Transition",
@@ -333,21 +406,6 @@
                 "url": "",
                 "abstract": "We engage in an in-depth case study of one FOSS project that has undergone a transformation to OSS 2.0 bringing business interests and sponsorship into a community of volunteers. We study the historical context in which this transformation emerged and examine the paradoxes that this transition brings. We focus on how the transition to OSS 2.0 affects coordination and contribution among users and developers. Our findings show that the transition resulted in adopting a traditional in-house development model that relied less on OSS coordination mechanisms. However, in spite of the transition, community members kept contributing actively to the project. In addition, they sought independence from OSS 2.0 sponsored developers. This resulted in decoupling community members’ contributions from the codebase of the project but still enabled them to implement non-trivial and significant features. In what follows, we overview literature on coordination in OSS development, outline our methodology, demonstrate our findings and discuss their implications for the theory and practice of OSS development."
             },  
-            {
-                "id": "",
-                "title": "Developers’ Multi-Project Involvement and Continued Contribution to Open-Source Software Projects",
-                "authors": [
-                    "Pratyush Sharma",
-                    "Hani Safadi",
-                    "John Hulland",
-                    "Elena Karahanna"
-                ],
-                "year": "working paper",
-                "accepted": "",
-                "venue": "TBD",
-                "url": "",
-                "abstract": ""
-            },
             {
                 "id": "",
                 "title": "Evolution and Success of Mobile Applications: The Influence of Users’ Online Feedback on Developers’ Attention",
@@ -387,7 +445,6 @@
                 "url": "",
                 "abstract": "The capacity of organizations to integrate their individual members’ knowledge results in a powerful competitive advantage. Knowledge integration is facilitated with the establishment of boundary objects that create a common language for representing knowledge and conventional methods for transforming it. A new wave of knowledge management systems such as wikis, enterprise social media, and digital forges are providing richer affordances for knowledge integration. In this paper, we examine two knowledge integration affordances: knowledge adding, and knowledge shaping. We develop a theoretical model that examines their implications on two knowledge integration outcomes: efficiency and effectiveness, defined respectively as the increased quantity and quality of the digital artifact. Based on the scholarship in knowledge creation in organizations and affordances of knowledge management systems, we theorize that knowledge adding is efficient but not effective, whereas knowledge shaping is effective but not efficient. Further, relying on recent work on the role of attention allocation in problem-solving, we propose that the complexity of the artifact affects knowledge integration outcomes as well as moderates the relationship between knowledge adding, shaping, and knowledge integration outcomes. Longitudinal trace-data of about one thousand open-source projects provide empirical validation for our theoretical model. We discuss how the findings provide new insights in understanding the implications of the novel affordances of knowledge management systems. The findings also provide practical implications for guiding the use of these systems and the design of digital boundary objects for knowledge integration."
             },
-
             {
                 "id": "",
                 "title": "Building Cumulative Knowledge Traditions through Rational Reconstruction of Digital Traces",
@@ -405,66 +462,49 @@
             },
             {
                 "id": "",
-                "title": "Hirearchical Organizations and Open Communities: A Symbiosis View",
+                "title": "Digital Symbiosis",
                 "authors": [
                     "Hani Safadi",
-                    "Richard Watson",
-                    "Tanner Skousen"
+                    "Richard Watson"
                 ],
                 "year": "working paper",
                 "accepted": "",
-                "venue": "MISQE",
+                "venue": "MIS Quarterly Theory and Review",
                 "url": "",
                 "abstract": ""
             },
             {
                 "id": "",
-                "title": "Curtailing Fake News Propagation with Psychographics",
+                "title": "Hirearchical Organizations and Open Communities: A Symbiosis View",
                 "authors": [
                     "Hani Safadi",
-                    "Weifeng Li",
-                    "Pouya Rahmati",
-                    "Saber Soleymani",
-                    "Ugur Kursuncu",
-                    "Krzysztof Kochut",
-                    "Amit Sheth"
+                    "Tanner Skousen"
                 ],
                 "year": "working paper",
                 "accepted": "",
-                "venue": "TBD",
-                "url": "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3558236",
-                "abstract": "We develop a system for curtailing the propagation of fake news on social media by identifying users who are susceptible to believing and propagating fake news. We anchor our approach in the debate about the ontological nature of truth, the empirical challenges of classifying fake news content, as well as the psychological and social origins of believing fake news. Second, through interpreting our model using modern explainable machine learning, we deepen our theoretical understanding of why people believe and share fake news, extend the applicability of our system beyond its original context, and provide guidelines for designers and managers of online platforms."
+                "venue": "MIS Quarterly",
+                "url": "",
+                "abstract": "In this study, we propose a novel analytical framework to study organization-community relationships (OCR). Compared to prior work, we treat the organization and the community as equal partners in a symmetrical relationship. Although such relationships can be beneficial or harmful to either party, we further focus on what makes OCR mutually productive and beneficial to both parties. To realize this goal, we take a broad perspective on the exchanges between organizations and communities and the multiple forms of capital involved in these exchanges including economic, human, intellectual, and symbolic capital."
             },
             {
                 "id": "",
-                "title": "Blobs or Blocks? Evolutionary Complementarities of Systems Modularity with Organizational Monolithicity",
+                "title": "Bots, Humans, and Online Communities",
                 "authors": [
                     "Hani Safadi",
-                    "Amrit Tiwana"
+                    "John Lalor",
+                    "Nicholas Berente"
                 ],
                 "year": "working paper",
                 "accepted": "",
-                "venue": "TBD",
+                "venue": "Information Systems Research",
                 "url": "",
-                "abstract": "As IT systems straggle to change, neither their evolvability nor how their technology architecture interplays with that of organizations behind them have received much attention. We develop a theory of how technological and organizational facets of architecture drive distinctly different ways through which systems evolve—by tweaking parts or tweaking linkages among them. Complementarities of blob-like monolithic organizational architectures with block-like modular technology architectures to induce both. Novel living-fossil analyses of source code from over 1,300 systems, spanning about 5 billion lines of code, 7 million modules, and 10 million changes over 20 years support these ideas."
-            }           
+                "abstract": "Bots are widespread in a variety of online platforms including online communities. Bots perform various useful tasks but little is known about how bots, as new social actors, may alter the nature of human interaction in these platforms. In this study, we take a symbolic interactionist perspective of behavior to highlight the social aspect of human cognition and action. Based on this view, we theorize how bots affect the online social environment and as a result change how people interact with each other. We specifically examine the effects of governance bots, used by community management, and public bots, deployed by individual members, on information exchange and social exchange. We test our hypotheses using data from discussion communities on Reddit. We discuss the implications of these findings on theorizing bots and the design of online communities."
+            }          
         ],
         "-work-in-progress": [
             {
                 "id": "",
                 "title": "The Implementation of Ambivalent Technology – Examining Police Use of Body-Worn Cameras in the Context of Civilian Complaints",
-                "authors": [
-                    "Hani Safadi"
-                ],
-                "year": "work in progress",
-                "accepted": "",
-                "venue": "TBD",
-                "url": "",
-                "abstract": ""
-            },
-            {
-                "id": "",
-                "title": "Human versus Computer-based Online Social Actors: Attention in Social Breadth and Social Propinquity",
                 "authors": [
                     "Hani Safadi"
                 ],
@@ -1081,22 +1121,6 @@
                 "abstract": "This book addresses the problem of creating linguistic taggers for resource-poor languages using existing taggers in resource rich languages. Linguistic taggers are classifiers that map individual words or phrases from a sentence to a set of tags. Linguistic taggers are usually trained using supervised learning algorithms.The proposed approach does not require that the input sentence be translated into the source language. Instead, projection of linguistic tags is accomplished through the use of a parallel corpus, which is a collection of texts that are available in a source language and a target language. The correspondence between words of the source and target language allows to project tags from source to target language words.A parallel corpus of the source and target languages might not be readily available for many language pairs. To deal with this problem, we describe a system for automatic acquisition of aligned, bilingual corpora from pre-specified domains on the World Wide Web."
             }
         ],
-        "book chapters": [
-            {
-                "id": "",
-                "title": "One Picture to Study One Thousand Words: Visualization for Qualitative Research in the Age of Digitalization",
-                "authors": [
-                    "Hani Safadi",
-                    "Marie-Claude Boudreau",
-                    "Samer Faraj"
-                ],
-                "year": "2021",
-                "accepted": "",
-                "venue": "CUP Handbook of Qualitative Research in the Age of Digitalisation",
-                "url": "",
-                "abstract": "We propose a framework and guidelines of how to incorporate the different available methods (topics models, visualization, etc ...) within the qualitative researcher's toolkit. Specialized tools are needed to take advantage of the opportunities offered by large scale qualitative  data.  A lot has been written about mixed methods from an epistemological point of view but not much about how such research can be feasibly realized. This is especially important in the age of big data where traditional qualitative methods are no longer feasible. We focus on four specific activities are especially challenging if conducted in the context of big textual data: theoretical sampling, coding, constant comparison, and the creation of a chain of evidence. We offer suggestions for how emerging methodological tools  can help facilitate, augment, and transform the grounded theory process."
-            }
-        ],
         "theses": [
             {
                 "id": "130355",
@@ -1646,7 +1670,7 @@
                 "id": "",
                 "title": "Terry-Sanford Research Award",
                 "venue": "University of Georgia, Terry College of Business",
-                "year": "2019-2020",
+                "year": "2019-2022",
                 "url": "",
                 "abstract": ""
             },            
