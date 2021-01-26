@@ -297,19 +297,6 @@
             },
             {
                 "id": "",
-                "title": "Building an Occupational Community and its Markets: An Examination of the Emergence of Data Science",
-                "authors": [
-                    "Hani Safadi",
-                    "Emmanuelle Vaast"
-                ],
-                "year": "Under review - first submission",
-                "accepted": "",
-                "venue": "Social Media + Society",
-                "url": "",
-                "abstract": "This study examines the role of social media in enabling the formation and growth of a new occupation and its markets. We specifically examine the new occupation of data science and its markets as reflected in its members and other stakeholders using social media application Twitter. Mixed-methods analyses uncover the emergence of an increasingly diversified and fragmented ecosystem associated with the new occupation. This process of co-construction manifests in social media-based communicative practices from heterogeneous actors that elicit dynamically and intricately the occupational community and its markets. This research contributes a middle-range theory that offers a new understanding of the similarities and differences between social media and other forms of communication traditionally associated with occupational work and provides implications for future research on occupational communities."
-            },
-            {
-                "id": "",
                 "title": "Bit Rot in Aging Systems: Evidence and its Architectural Antidote",
                 "authors": [
                     "Amrit Tiwana",
@@ -320,21 +307,6 @@
                 "venue": "Information Systems Research",
                 "url": "",
                 "abstract": "We theorize how bit rot of information systems, defined as the degradation of their internal logical coherence, increases as they age but decreases when their architectural modularity increases. We also suggest that the effectiveness of architectural modularity fades as systems age. We test our hypotheses using a unique large-scale and longitudinal trace data set of 1,354 open-source systems over 20 years. We contribute a deeper understanding of the important but understudied phenomenon of bit rot. The overarching novel insight is that architectural modularity slows but cannot stop it. We discuss the impact of these findings on information systems development, information systems design and IT strategy."
-            },
-            {
-                "id": "",
-                "title": "Developers’ Multi-Project Involvement and Continued Contribution to Open-Source Software Projects",
-                "authors": [
-                    "Pratyush Sharma",
-                    "Hani Safadi",
-                    "John Hulland",
-                    "Elena Karahanna"
-                ],
-                "year": "Under review - first submission",
-                "accepted": "",
-                "venue": "Information Systems Research",
-                "url": "",
-                "abstract": ""
             },
             {
                 "id": "",
@@ -380,6 +352,34 @@
             }                                     
         ],
         "-working papers": [
+            {
+                "id": "",
+                "title": "Building an Occupational Community and its Markets: An Examination of the Emergence of Data Science",
+                "authors": [
+                    "Hani Safadi",
+                    "Emmanuelle Vaast"
+                ],
+                "year": "working paper",
+                "accepted": "",
+                "venue": "TBD",
+                "url": "",
+                "abstract": "This study examines the role of social media in enabling the formation and growth of a new occupation and its markets. We specifically examine the new occupation of data science and its markets as reflected in its members and other stakeholders using social media application Twitter. Mixed-methods analyses uncover the emergence of an increasingly diversified and fragmented ecosystem associated with the new occupation. This process of co-construction manifests in social media-based communicative practices from heterogeneous actors that elicit dynamically and intricately the occupational community and its markets. This research contributes a middle-range theory that offers a new understanding of the similarities and differences between social media and other forms of communication traditionally associated with occupational work and provides implications for future research on occupational communities."
+            },            
+            {
+                "id": "",
+                "title": "Developers’ Multi-Project Involvement and Continued Contribution to Open-Source Software Projects",
+                "authors": [
+                    "Pratyush Sharma",
+                    "Hani Safadi",
+                    "John Hulland",
+                    "Elena Karahanna"
+                ],
+                "year": "working paper",
+                "accepted": "",
+                "venue": "TBD",
+                "url": "",
+                "abstract": ""
+            },            
             {
                 "id": "",
                 "title": "Anchoring and Affordance Reconstitution during Information Systems Implementation and Transition",
