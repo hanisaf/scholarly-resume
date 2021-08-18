@@ -177,15 +177,15 @@
 
         </ol>
   
-        <H2>Accepted and forthcoming articles</H2>
+        <H2>Preprint</H2>
         <ol>
           <div *ngIf="apaformat; else elseBlock2">
-            <li *ngFor='let paper of data?.research["accepted & forthcoming"]'>
+            <li *ngFor='let paper of data?.research["Preprint"]'>
               {{paper | apaformat}}
             </li>
           </div>
           <ng-template #elseBlock2>
-            <li *ngFor='let paper of data?.research["accepted & forthcoming"]'>
+            <li *ngFor='let paper of data?.research["Preprint"]'>
               {{paper.title}}, <b>{{paper.venue}}</b>, {{paper.year}}
               <span *ngIf="accepted">[accepted in {{paper.accepted}}]</span>
               <i>{{paper.authors | coauthors}}</i>
