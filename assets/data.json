@@ -1,7 +1,7 @@
 {
     "about": {
         "name": "Hani Safadi",
-        "blurb": "I am an assistant professor in the Terry College of Business at the University of Georgia and a research collaborator at Mayo Clinic. I am interested in online communities, social media, healthcare information technology, mixed-methods research and the application of computational linguistics in studying qualitative data.",
+        "blurb": "I am an associate professor in the Terry College of Business at the University of Georgia. I am interested in online communities, social media, healthcare information technology, mixed-methods research and the application of computational linguistics in studying qualitative data.",
         "picture": "/assets/portrait.jpg",
         "address": "Benson C420, 610 South Lumpkin Street, Athens, GA 30602",
         "email": "hanisaf@uga.edu",
@@ -9,16 +9,20 @@
         "fax": "+1-706-542-2784",
         "websites": [
             {
-                "title": "University page",
+                "title": "UGA",
                 "url": "https://www.terry.uga.edu/directory/mis/hani-safadi.html"
             },
             {
-                "title": "Google scholar",
+                "title": "Google Scholar",
                 "url": "https://scholar.google.com/citations?user=OUWTJoMAAAAJ"
             },
             {
                 "title": "ORCID",
                 "url": "https://orcid.org/0000-0003-0609-8005"
+            },
+            {
+                "title": "SSRN",
+                "url": "https://papers.ssrn.com/sol3/cf_dev/AbsByAuth.cfm?per_id=4067702"
             },
             {
                 "title": "GitHub",
@@ -34,7 +38,7 @@
             },
             {
                 "title": "ODIN",
-                "url": "https://open-data.stream/"
+                "url": "https://hanisaf.github.io/odin-front/"
             }
         ],
         "education": [
@@ -62,15 +66,23 @@
         ],
         "work": [
             {
+                "title": "Associate Professor",
+                "venue": "University of Georgia, Terry College of Business",
+                "startdate": 2021,
+                "highlight": "yes"
+            },            
+            {
                 "title": "Assistant Professor",
                 "venue": "University of Georgia, Terry College of Business",
                 "startdate": 2015,
+                "enddate": 2021,
                 "highlight": "yes"
             },
             {
                 "title": "Research Collaborator",
                 "venue": "Mayo Clinic",
                 "startdate": 2016,
+                "enddate": 2021,
                 "highlight": "yes"
             },
             {
@@ -148,6 +160,20 @@
     "research": {
         "journal articles": [
             {
+                "id": "",
+                "title": "Who Contributes Knowledge? Core-Periphery Tension in Online Innovation Communities",
+                "authors": [
+                    "Hani Safadi",
+                    "Steven Johnson",
+                    "Samer Faraj"
+                ],
+                "year": "2020",
+                "accepted": "2019",
+                "venue": "Organization Science",
+                "url": "http://pubsonline.informs.org/doi/10.1287/orsc.2020.1364",
+                "abstract": "Where do valuable contributions originate from in online innovation communities? Prior research provides conflicting answers. One view, consistent with a community of practice perspective, is that valued knowledge contributions are primarily provided by central participants at the core of a community. In contrast, other research—including work adopting an open innovation perspective—predicts that valuable ideas primarily emerge from peripheral participants, those at the margins of a field of knowledge who provide novel ideas and viewpoints. We integrate these contrasting perspectives by considering two distinct forms of position: social embeddedness (a core social position within the social network of participants interacting within a community) and epistemic marginality (a peripheral epistemic position based on the network of topics discussed by a community). Analyzing contributions by 697,412 participants of 52 Stack Exchange online innovation communities, we find that both participants who are socially embedded and participants who are epistemically marginal provide knowledge contributions that are highly valued by fellow community participants. Importantly, among epistemically marginal participants, those with high social embeddedness are more likely to provide contributions valued by the community; by virtue of their epistemic marginality, these participants may offer novel ideas while by virtue of their social embeddedness they may be able to more effectively communicate their ideas to the community. Thus, the production of knowledge in an online innovation community involves a complex interaction between the novelty emanating from the epistemic periphery and the social embeddedness required to make ideas congruent with existing social and epistemic norms."
+            },            
+            {
                 "id": "10.2196/15983",
                 "title": "Successful Moderation in Online Patient Communities",
                 "authors": [
@@ -224,22 +250,6 @@
                 "abstract": "Objectives Open-source software OSS has achieved widespread adoption in many domains such as server operating systems, enterprise tools, and databases. We review the status of open-source in healthcare and discuss the potential of open-source to resolve some of the challenges surrounding the wide adoption of Health IT in North America. Specifically, we address aspects that are unique to using open-source in ambulatory care. We present the case of a Canadian open-source electronic medical record system (EMR) named OSCAR that is widely adopted by primary care units and family physicians in Canada.Target audience Health practitioners, health technology managers and policy makers.Methods A case study based on semi-structured interviews with various stakeholders of the EMR including users (medical and staff), developers, and service providers. In addition, we assess arguments presented in the literature for and against open-source software in healthcare in light of the OSCAR EMR.Results and conclusions Open-source development provides a unique platform that enlists contributions from various stakeholders toward creating a common good. As evident from the OSCAR case, the dynamics of OSS development are potential solutions for the low adoption of technology in healthcare. In particular the low cost of acquisition and maintenance, the high degree of customizability, and the community of users are important advantages of OSS EMR. On the other hand, the lack of understanding of OSS model and the unavailability of trusty support providers are unique challenges facing OSS EMR."
             }
         ],
-        "accepted & forthcoming": [
-            {
-                "id": "",
-                "title": "Who Contributes Knowledge? Core-Periphery Tension in Online Innovation Communities",
-                "authors": [
-                    "Hani Safadi",
-                    "Steven Johnson",
-                    "Samer Faraj"
-                ],
-                "year": "2020",
-                "accepted": "2019",
-                "venue": "Organization Science",
-                "url": "http://pubsonline.informs.org/doi/10.1287/orsc.2020.1364",
-                "abstract": "Where do valuable contributions originate from in online innovation communities? Prior research provides conflicting answers. One view, consistent with a community of practice perspective, is that valued knowledge contributions are primarily provided by central participants at the core of a community. In contrast, other research—including work adopting an open innovation perspective—predicts that valuable ideas primarily emerge from peripheral participants, those at the margins of a field of knowledge who provide novel ideas and viewpoints. We integrate these contrasting perspectives by considering two distinct forms of position: social embeddedness (a core social position within the social network of participants interacting within a community) and epistemic marginality (a peripheral epistemic position based on the network of topics discussed by a community). Analyzing contributions by 697,412 participants of 52 Stack Exchange online innovation communities, we find that both participants who are socially embedded and participants who are epistemically marginal provide knowledge contributions that are highly valued by fellow community participants. Importantly, among epistemically marginal participants, those with high social embeddedness are more likely to provide contributions valued by the community; by virtue of their epistemic marginality, these participants may offer novel ideas while by virtue of their social embeddedness they may be able to more effectively communicate their ideas to the community. Thus, the production of knowledge in an online innovation community involves a complex interaction between the novelty emanating from the epistemic periphery and the social embeddedness required to make ideas congruent with existing social and epistemic norms."
-            }
-        ],
         "book chapters": [
             {
                 "id": "",
@@ -255,6 +265,37 @@
                 "url": "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3760009",
                 "abstract": "We propose a framework and guidelines of how to incorporate the different available methods (topics models, visualization, etc ...) within the qualitative researcher's toolkit. Specialized tools are needed to take advantage of the opportunities offered by large scale qualitative  data.  A lot has been written about mixed methods from an epistemological point of view but not much about how such research can be feasibly realized. This is especially important in the age of big data where traditional qualitative methods are no longer feasible. We focus on four specific activities are especially challenging if conducted in the context of big textual data: theoretical sampling, coding, constant comparison, and the creation of a chain of evidence. We offer suggestions for how emerging methodological tools  can help facilitate, augment, and transform the grounded theory process."
             }
+        ],        
+        "Preprint": [
+            {
+                "id": "",
+                "title": "Curtailing Fake News Propagation with Psychographics",
+                "authors": [
+                    "Hani Safadi",
+                    "Richard Watson"
+                ],
+                "year": "2021",
+                "accepted": "",
+                "venue": "SSRN",
+                "url": "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3858990",
+                "abstract": "The ecosystem is a key adaptive structure that joins hierarchies and markets as the third pillar of modern business theory. While competition has been at the center of economic thinking, cooperation has gained greater attention in recent times. Borrowing from biology, we conceive an ecosystem as symbiotic relationships among participants that span from cooperation to competition. We then use the vocabulary of symbiosis to analyze the relationships observed in ecosystems facilitated by digital technology. We show how biological symbiosis can help us interpret a world of digitally enabled ecosystems, a phenomenon we refer to as digital symbiosis. We build on the key properties of digital technology and resulting data rights and obligations to explain the dynamics and the rise of modern digital ecosystems. Our framework contributes to understanding the extent of the societal implications of digital ecosystems. We further show how this novel theoretical understanding can inform policymaking for mitigating ecosystems’ adverse societal impacts."
+            },             
+            {
+                "id": "",
+                "title": "Curtailing Fake News Propagation with Psychographics",
+                "authors": [
+                    "Hani Safadi",
+                    "Weifeng Li",
+                    "Saber Soleymani",
+                    "Ugur Kursuncu",
+                    "Amit Sheth"
+                ],
+                "year": "2020",
+                "accepted": "",
+                "venue": "SSRN",
+                "url": "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3558236",
+                "abstract": "Fake news is a widespread and concerning phenomenon. The goal of this article is twofold. First, we argue that curtailing fake news is better pursued by identifying its propagators than by classifying its content. Second, to validate our conceptual argument, we develop a system for curtailing the propagation of fake news on social media by identifying users who are susceptible to believing and propagating it. We anchor our approach in the debate about the ontological nature of truth, the empirical challenges of classifying fake news content, as well as the psychological and social origins of believing fake news. Through interpreting our model using modern explainable machine learning, we deepen our theoretical understanding of why people believe and share fake news, extend the applicability of our system beyond its original context, and provide guidelines for mitigating fake news propagation."
+            }  
         ],        
         "-papers under review": [
             {
@@ -624,6 +665,30 @@
             }               
         ],
         "conference proceedings": [
+            {
+                "id": "",
+                "title": "The Effect of Bots on Human Interaction in Online Communities",
+                "authors": [
+                    "Hani Safadi",
+                    "John Lalor",
+                    "Nicholas Berente"
+                ],
+                "venue": "International Conference on Information Systems",
+                "year": 2021,
+                "url": "",
+                "abstract": "Bots are widespread in a variety of online platforms including online communities. Bots perform various useful tasks but little is known about how bots may alter the nature of human interaction, in particular how they interact and exchange information. We draw on social exchange theory and symbolic interactionism to highlight the social aspect of human cognition and action and theorize how bots affect the online social environment and subsequently change how people interact with each other. We examine the effects of two fundamental forms of bots: reflexive and supervisory, and their differential impact on social exchange. With data from discussion communities on Reddit, we show that reflexive bots increase unidirectional exchange, whereas supervisory bots reduce centralization. Further, reflexive bots increase the depth of discourse, whereas supervisory bots reduce the breadth of discourse. We discuss the implications of these findings on theorizing about bots and the design of online communities."
+            },            
+            {
+                "id": "",
+                "title": "Learning in Online Environments: Balancing Cooperation and Competition",
+                "authors": [
+                    "Hani Safadi"
+                ],
+                "venue": "Americas Conference on Information Systems",
+                "year": 2021,
+                "url": "https://aisel.aisnet.org/treos_amcis2021/6/",
+                "abstract": "Learning environments, such as classrooms, can be designed to combine elements of cooperation and competition. Assessing these novel settings is not easy as it requires prolonged observational or experimental data. Today, many online environments are virtual providing transparent settings for assessing the effectiveness of learning strategies. We benefit from Dota 2, an online video game in which players join competing teams fighting in battles. Leveraging data about 3.5 million matches, we operationalize learning using objective data and perform conceptual clustering to uncover the best strategies for learning with cooperation, competition, or both elements. This work contributes to a better understanding of learning and informs the design of virtual learning environments."
+            },            
             {
                 "id": "",
                 "title": "Open Communities and Formal Organizations: A Symbiosis View",
@@ -1061,8 +1126,7 @@
                 "abstract": ""
             }
         ],
-        "posters": [
-            
+        "posters": [           
             {
                 "id": "",
                 "title": "ODIN: Tracing Ideas, Entities, and Relationships from Big Textual Data",
@@ -1163,6 +1227,14 @@
         ],
         "grants": [
             {
+                "id": "",
+                "title": "Data Rights and Data Obligations in Digital Ecosystems and their implications for small businesses in Georgia",
+                "year": 2021,
+                "venue": "Terry College Innovation Seed Grant",
+                "amount": 20000,
+                "url": ""
+            },            
+            {
                 "id": "GR-FP00009170",
                 "title": "Design and Evaluation of a Digital Transparency Platform for Advancing Legislative and Regulatory Transparency",
                 "year": 2017,
@@ -1251,6 +1323,34 @@
     },
     "teaching": {
         "courses": [
+            {
+                "id": "Executive Education",
+                "title": "Essentials of Data Science: Core Skills for Analytics Certification",
+                "venue": "University of Georgia, Terry Executive Education Center",
+                "abstract": "Looking to boost your capabilities — and your career? Offered in collaboration with University of South Carolina and INFORMS (Institute for Operations Research and Management Sciences), this training immerses you in the concepts needed to stimulate your data science and analytics journey. Sharpen your fundamentals and learn test-taking strategies to earn Certified Analytics Professional (CAP®) and other relevant credentials.",
+                "url": "https://www.terry.uga.edu/executive/data-science-and-analytics.php"
+            },               
+            {
+                "id": "Executive Education",
+                "title": "Sense-Making: Using Data for a Competitive Advantage",
+                "venue": "University of Georgia, Terry Executive Education Center",
+                "abstract": "Today’s world is characterized by an ever-increasing influx of data generated at an unparalleled scale and speed. However, the ability to collect and store massive amounts of data does not guarantee that the data will be of any value. Furthermore, understanding and making sense of data are precursors of effectively using it for advanced analytics and creating predictive models. Information visualization is increasingly being used to extract insights from business data. The goal of information visualization is to aid users in the discovery of patterns and relationships in large amounts of information. Visualization enables business analysts and managers to better understand their data and to discover new trends and patterns that can provide critical business insights. This module presents the principles of information visualization and applies them in the context of business decision-making.",
+                "url": ""
+            },                 
+            {
+                "id": "BUSN 4030",
+                "title": "Python Programming II",
+                "venue": "University of Georgia",
+                "abstract": "This course introduces students to advanced data operations using the pandas package in Python. Several data-related topics are covered including data transformation and data wrangling with a focus on ETL (extract, transform, load) operations. The course introduces students to structured data analytics and machine learning.",
+                "url": ""
+            },               
+            {
+                "id": "BUSN 3030",
+                "title": "Python Programming I",
+                "venue": "University of Georgia",
+                "abstract": "This course introduces students to data analytics with the Python programming language. The course covers programming fundamentals and focuses on built-in data structures in Python for storing and manipulating data. It covers statistical analysis and data visualization. The course concludes with a data exercise to put knowledge and skills across topics into practice.",
+                "url": ""
+            },            
             {
                 "id": "MIST 5757 / MIST 7757",
                 "title": "Data Engineering",
@@ -1385,12 +1485,19 @@
             },
             {
                 "title": "Mazen Shawosh",
-                "id": "Committee member"
+                "id": "Committee member",
+                "placement": "King Fahd University of Petroleum & Minerals"
             }
         ]
     },
     "service": {
         "journal editorialship": [
+            {
+                "venue": "MIS Quarterly",
+                "venueshort": "MISQ",
+                "role": "Associate Editor",
+                "startdate": 2021
+            },             
             {
                 "venue": "MIS Quarterly",
                 "venueshort": "MISQ",
@@ -1498,7 +1605,7 @@
             {
                 "venue": "Americas Conference on Information Systems",
                 "venueshort": "AMCIS",
-                "role": "Treo Talk Organization Committee Member",
+                "role": "TREO Track Organization Committee Member",
                 "startdate": 2019,
                 "enddate": 2021
             },
@@ -1538,6 +1645,13 @@
         ],
         "grant reviewer": [
             {
+                "venue": "National Science Foundation",
+                "venueshort": "NSF",
+                "role": "Grant Reviewer",
+                "startdate": 2021,
+                "enddate": 2021
+            },            
+            {
                 "venue": "Research Grants Council of Hong Kong",
                 "venueshort": "RGC",
                 "role": "Business Studies Panelist",
@@ -1547,7 +1661,15 @@
         ]
     },
     "invitations": {
-        "talks": [
+        "talks": [         
+            {
+                "id": "",
+                "title": "The Effect of Bots on Human Interaction in Online Communities",
+                "venue": "Temple University, Global Institute for Artificial Intelligence and Business Analytics",
+                "year": 2021,
+                "url": "",
+                "abstract": ""
+            },            
             {
                 "id": "",
                 "title": " Successful Moderation in Online Patient Communities",
@@ -1598,6 +1720,14 @@
             }
         ],
         "panels": [
+            {
+                "id": "",
+                "title": "Advice from Successful Faculty and Tips for Faculty Productivity Profiles",
+                "venue": "University of Georgia, Office of Faculty Affairs",
+                "year": 2021,
+                "url": "",
+                "abstract": ""
+            },            
             {
                 "id": "",
                 "title": "Jumpstarting your academic career",
