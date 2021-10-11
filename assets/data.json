@@ -300,25 +300,11 @@
         "-papers under review": [
             {
                 "id": "",
-                "title": "Governance of Firm-Sponsored Online Communities: Aligning Structural Solutions with Generative Dynamics",
-                "authors": [
-                    "Hani Safadi",
-                    "Tanner Skousen",
-                    "Elena Karahanna"
-                ],
-                "year": "major revision - 3rd round",
-                "accepted": "",
-                "venue": "MIS Quarterly",
-                "url": "",
-                "abstract": "Online communities bring together members of common interest to generate significant knowledge. To succeed, online communities need to sustain knowledge collaboration and deal with many tensions that accompany it. The current literature suggests that emerging participation dynamics and community structure are predominant in sustaining knowledge collaboration. On the other hand, many thriving online communities employ formal management which suggests that top-down solutions play a role as well. We investigate the question of how does online community management complement its emerging structure and dynamics in sustaining knowledge collaboration? We conduct an inductive field study of Mayo Clinic Connect, a leading online patient community, to gain a grounded understanding of this phenomenon. The findings suggest that formal community management and its emerging dynamics play a complementary role to sustain knowledge collaboration. In particular, a virtuous cycle of moderation and socialization effectively integrates the effort of the formal community management and its emerging leaders. Our theory contributes to the debate about the need for new theories of new forms of organization. It shows that such new theories are needed to explain the effective alignment of structural solutions with the generative dynamics in online communities."
-            },
-            {
-                "id": "",
-                "title": "Digital Transparency and the Privacy-Productivity Paradox. A Study of Enterprise Social Media and Organizational Knowledge Transfer",
+                "title": "Enterprise Social Media and its Affordances for Knowledge Work",
                 "authors": [
                     "Hani Safadi"
                 ],
-                "year": "major revision - 2nd round",
+                "year": "major revision - 3rd round",
                 "accepted": "",
                 "venue": "MIS Quarterly",
                 "url": "",
@@ -330,7 +316,7 @@
                 "authors": [
                     "Hani Safadi"
                 ],
-                "year": "Revise and resubmit",
+                "year": "revise and resubmit",
                 "accepted": "",
                 "venue": "MIS Quarterly",
                 "url": "",
@@ -338,16 +324,71 @@
             },
             {
                 "id": "",
+                "title": "Dialogue without Interlocutors? Knowledge Creation with 140 Characters or Less",
+                "authors": [
+                    "Hani Safadi",
+                    "Emmanuelle Vaast"
+                ],
+                "year": "revise and resubmit",
+                "accepted": "",
+                "venue": "Organization Science",
+                "url": "",
+                "abstract": "Microblogging is a novel digital technology increasingly used for both professional and personal communication. Microblogging relies on the exchange of short, de-contextualized, and public messages, and therefore has been widely used for public communication, self-presentation, self-promotion, and marketing. The characteristics of microblogging do not seem to make it amenable for knowledge creation purposes as knowledge creation requires purposeful dialogue and relational engagement among interlocutors. However, and notwithstanding these shortcomings, microblogging is used in knowledge work, which begs the question of if and how can such communication promote knowledge creation. To answer this research question, we investigate how microblogging was used to talk about an emergent area of knowledge, that of data science, from 2010 to 2015. We examine a large corpus of microblogging messages on Twitter posted by a large and diverse number of stakeholders. Employing computationally intensive theory discovery methods, we uncover a process of knowledge creation that does not require the traditional deep and relational dialogue. Instead, it relies on two processes of spinning and twisting discourses by multiple participants enabled by features of the microblogging platform and punctuated by some external events. The repetition of these processes over time results in the emergence of a novel discourse that reflects the new knowledge participants’ created from combining and expanding upon their prior knowledge. We discuss the importance of this new theory for organizational knowledge management as well as the role of new technologies in shaping and organizing society and the workplace."
+            },  
+            {
+                "id": "",
                 "title": "Bit Rot in Aging Systems: Evidence and its Architectural Antidote",
                 "authors": [
                     "Amrit Tiwana",
                     "Hani Safadi"
                 ],
-                "year": "Under review - first submission",
+                "year": "under review - first submission",
                 "accepted": "",
                 "venue": "Information Systems Research",
                 "url": "",
                 "abstract": "We theorize how bit rot of information systems, defined as the degradation of their internal logical coherence, increases as they age but decreases when their architectural modularity increases. We also suggest that the effectiveness of architectural modularity fades as systems age. We test our hypotheses using a unique large-scale and longitudinal trace data set of 1,354 open-source systems over 20 years. We contribute a deeper understanding of the important but understudied phenomenon of bit rot. The overarching novel insight is that architectural modularity slows but cannot stop it. We discuss the impact of these findings on information systems development, information systems design and IT strategy."
+            },
+            {
+                "id": "",
+                "title": "Fit between Coevolving Architectures of IT Applications and IT Project Teams: Dynamics and Evolutionary Consequences of Architectural Nearly-Decomposability",
+                "authors": [
+                    "Amrit Tiwana",
+                    "Hani Safadi"
+
+                ],
+                "year": "under review - first submission",
+                "accepted": "",
+                "venue": "MIS Quarterly",
+                "url": "",
+                "abstract": "We study how fit between the unfolding architecture of IT applications (“apps”) and IT maintenance teams (“app<-->team fit”) over apps’ post-implementation lifespan drives the evolution of IT apps. Attempts to tweak an IT app often unveil lurking design imperfections, which new generations of technologies exacerbate. Such appteam misfits can derail IT apps’ evolvability. We develop a middle-range theory of how fit between the evolving architecture of IT apps and the architecture of IT maintenance teams induces two nuanced, cardinal mechanisms through which IT apps evolve. These mechanisms—evolution of only an app’s modules and evolution of only links among its modules—parsimoniously explain incremental, radical, modular, and architectural innovation in evolving IT apps. We test these ideas using novel econometric analyses of a bespoke trace dataset constructed by analyzing the source code from over 1,300 open-source IT apps, spanning about 5,000 million lines of code, 7 million modules, 10 million changes, and over 280,000 person-years of work spanning 20 years. Our findings substantively contribute to research on IT evolution and IT architecture. Our novel contribution to research on IT architecture is how fit between the coevolving architectures of IT apps and IT project teams compensate for emergent, residual imperfections in app architecture, reinforcing the evolutionary payoffs from choices about each other. Our novel contributions to research on IT evolution are developing the two cardinal mechanisms that explain how IT apps evolve and tracing them back to app architecture, team architecture, and their interplay."
+            },
+            {
+                "id": "",
+                "title": "Learning from Competition: Evidence from Online Video Games",
+                "authors": [
+                    "Hani Safadi"
+                ],
+                "year": "under review - first submission",
+                "accepted": "",
+                "venue": "Information Systems Research",
+                "url": "",
+                "abstract": "Learning is the process of acquiring knowledge or skill that results in changing behavior. People learn by interacting with others. The design of social environments can thus shape the learning outcomes of participants. Today, social interaction is mediated by information technology. Building on prior work on organizational learning, open innovation, and pedagogy, we advance an argument for competition as an element in online environments to motivate and promote participants’ learning. We benefit from DOTA 2, an online video game in which players join competing teams fighting in battles. Leveraging data about 3.5 million matches, we operationalize learning using objective data and test our research hypotheses. We find that competition has a positive effect on players’ learning but a short-term demotivational effect. These findings suggest that competition has an important but yet unacknowledged role in designing online environments."
+            }                                               
+        ],
+        "-working papers": [
+            {
+                "id": "",
+                "title": "Governance of Firm-Sponsored Online Communities: Aligning Structural Solutions with Generative Dynamics",
+                "authors": [
+                    "Hani Safadi",
+                    "Tanner Skousen",
+                    "Elena Karahanna"
+                ],
+                "year": "working paper",
+                "accepted": "",
+                "venue": "TBD",
+                "url": "",
+                "abstract": "Online communities bring together members of common interest to generate significant knowledge. To succeed, online communities need to sustain knowledge collaboration and deal with many tensions that accompany it. The current literature suggests that emerging participation dynamics and community structure are predominant in sustaining knowledge collaboration. On the other hand, many thriving online communities employ formal management which suggests that top-down solutions play a role as well. We investigate the question of how does online community management complement its emerging structure and dynamics in sustaining knowledge collaboration? We conduct an inductive field study of Mayo Clinic Connect, a leading online patient community, to gain a grounded understanding of this phenomenon. The findings suggest that formal community management and its emerging dynamics play a complementary role to sustain knowledge collaboration. In particular, a virtuous cycle of moderation and socialization effectively integrates the effort of the formal community management and its emerging leaders. Our theory contributes to the debate about the need for new theories of new forms of organization. It shows that such new theories are needed to explain the effective alignment of structural solutions with the generative dynamics in online communities."
             },
             {
                 "id": "",
@@ -359,40 +400,12 @@
                     "Ugur Kursuncu",
                     "Amit Sheth"
                 ],
-                "year": "Under review - first submission",
+                "year": "working paper",
                 "accepted": "",
-                "venue": "Information Systems Research",
+                "venue": "TBD",
                 "url": "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3558236",
                 "abstract": "Fake news is a widespread and concerning phenomenon. The goal of this article is twofold. First, we argue that curtailing fake news is better pursued by identifying its propagators than by classifying its content. Second, to validate our conceptual argument, we develop a system for curtailing the propagation of fake news on social media by identifying users who are susceptible to believing and propagating it. We anchor our approach in the debate about the ontological nature of truth, the empirical challenges of classifying fake news content, as well as the psychological and social origins of believing fake news. Through interpreting our model using modern explainable machine learning, we deepen our theoretical understanding of why people believe and share fake news, extend the applicability of our system beyond its original context, and provide guidelines for mitigating fake news propagation."
-            },
-            {
-                "id": "",
-                "title": "Blobs or Blocks? Evolutionary Complementarities of Systems Architecture with Team Architecture",
-                "authors": [
-                    "Hani Safadi",
-                    "Amrit Tiwana"
-                ],
-                "year": "Under review - first submission",
-                "accepted": "",
-                "venue": "Organization Science",
-                "url": "",
-                "abstract": "As IT systems straggle to change, how the interplay of technology architecture with the organizational architecture of teams behind them shape their evolution has yet to receive much attention. We develop a middle-range theory of how technological and organizational facets of architecture drive two distinctly different ways through which systems evolve—by tweaking parts of a system or tweaking linkages among them. We further theorize how complementarities of blob-like, monolithic team architectures with block-like, modular technology architectures simultaneously induce both types of evolution. We use a novel living-fossil analysis of trace data constructed by analyzing the source code from over 1,300 systems, spanning about 5 billion lines of code, 7 million modules, and 10 million changes over 20 years to test these ideas. Our unique theoretical contribution is in showing how complementarity of coevolving system modularity and team monolithicity influence systems evolution through two distinct pathways. The design of teams therefore compensates for imperfections in technology architecture in fostering the evolution of technological systems. Our results have novel implications for research at the intersection of systems development and team design, which are also discussed."
-            },
-            {
-                "id": "",
-                "title": "Dialogue without Interlocutors? Knowledge Creation with 140 Characters or Less",
-                "authors": [
-                    "Hani Safadi",
-                    "Emmanuelle Vaast"
-                ],
-                "year": "Under review - first submission",
-                "accepted": "",
-                "venue": "Organization Science",
-                "url": "",
-                "abstract": "Microblogging is a novel digital technology increasingly used for both professional and personal communication. Microblogging relies on the exchange of short, de-contextualized, and public messages, and therefore has been widely used for public communication, self-presentation, self-promotion, and marketing. The characteristics of microblogging do not seem to make it amenable for knowledge creation purposes as knowledge creation requires purposeful dialogue and relational engagement among interlocutors. However, and notwithstanding these shortcomings, microblogging is used in knowledge work, which begs the question of if and how can such communication promote knowledge creation. To answer this research question, we investigate how microblogging was used to talk about an emergent area of knowledge, that of data science, from 2010 to 2015. We examine a large corpus of microblogging messages on Twitter posted by a large and diverse number of stakeholders. Employing computationally intensive theory discovery methods, we uncover a process of knowledge creation that does not require the traditional deep and relational dialogue. Instead, it relies on two processes of spinning and twisting discourses by multiple participants enabled by features of the microblogging platform and punctuated by some external events. The repetition of these processes over time results in the emergence of a novel discourse that reflects the new knowledge participants’ created from combining and expanding upon their prior knowledge. We discuss the importance of this new theory for organizational knowledge management as well as the role of new technologies in shaping and organizing society and the workplace."
-            }                                     
-        ],
-        "-working papers": [
+            },                        
             {
                 "id": "",
                 "title": "Building an Occupational Community and its Markets: An Examination of the Emergence of Data Science",
@@ -503,14 +516,14 @@
             },
             {
                 "id": "",
-                "title": "Digital Symbiosis",
+                "title": "Knowledge Monopolies and the Innovation Divide",
                 "authors": [
                     "Hani Safadi",
                     "Richard Watson"
                 ],
                 "year": "working paper",
                 "accepted": "",
-                "venue": "MIS Quarterly Theory and Review",
+                "venue": "TBD",
                 "url": "",
                 "abstract": ""
             },
@@ -523,13 +536,13 @@
                 ],
                 "year": "working paper",
                 "accepted": "",
-                "venue": "MIS Quarterly",
+                "venue": "TBD",
                 "url": "",
                 "abstract": "In this study, we propose a novel analytical framework to study organization-community relationships (OCR). Compared to prior work, we treat the organization and the community as equal partners in a symmetrical relationship. Although such relationships can be beneficial or harmful to either party, we further focus on what makes OCR mutually productive and beneficial to both parties. To realize this goal, we take a broad perspective on the exchanges between organizations and communities and the multiple forms of capital involved in these exchanges including economic, human, intellectual, and symbolic capital."
             },
             {
                 "id": "",
-                "title": "Bots, Humans, and Online Communities",
+                "title": "The Effect of Bots on Human Interaction in Online Communities",
                 "authors": [
                     "Hani Safadi",
                     "John Lalor",
@@ -537,10 +550,36 @@
                 ],
                 "year": "working paper",
                 "accepted": "",
-                "venue": "Information Systems Research",
+                "venue": "TBD",
                 "url": "",
-                "abstract": "Bots are widespread in a variety of online platforms including online communities. Bots perform various useful tasks but little is known about how bots, as new social actors, may alter the nature of human interaction in these platforms. In this study, we take a symbolic interactionist perspective of behavior to highlight the social aspect of human cognition and action. Based on this view, we theorize how bots affect the online social environment and as a result change how people interact with each other. We specifically examine the effects of governance bots, used by community management, and public bots, deployed by individual members, on information exchange and social exchange. We test our hypotheses using data from discussion communities on Reddit. We discuss the implications of these findings on theorizing bots and the design of online communities."
-            }          
+                "abstract": "Bots are becoming widespread in a variety of online platforms including online communities. Bots perform various useful tasks but little is known about how bots may alter the nature of human interaction, in particular how they interact and exchange information. We draw on social exchange theory to highlight the social aspect of human cognition and action and theorize how bots affect the online social environment and subsequently change how people interact with each other. We examine the effects of two fundamental forms of bots: reflexive and supervisory, and their differential impact on social exchange. With data from discussion communities on Reddit, we show that both types of bots increase indirect reciprocity. However, reflexive bots decrease direct reciprocity, whereas supervisory bots reduce preferential attachment. We discuss the implications of these findings on theorizing about bots and the design of online communities."
+            },
+            {
+                "id": "",
+                "title": "Crowdfunding Platform Design and its Effect on Minority Bias",
+                "authors": [
+                    "Hani Safadi",
+                    "Emmanuelle Vaast"
+                ],
+                "year": "work in progress",
+                "accepted": "",
+                "venue": "TBD",
+                "url": "",
+                "abstract": ""
+            },
+            {
+                "id": "",
+                "title": "Epistemic Justice: A New Frontier for Information Systems",
+                "authors": [
+                    "Hani Safadi",
+                    "Nicholas Berente"
+                ],
+                "year": "work in progress",
+                "accepted": "",
+                "venue": "TBD",
+                "url": "",
+                "abstract": ""
+            }                       
         ],
         "-work-in-progress": [
             {
@@ -630,18 +669,6 @@
             {
                 "id": "",
                 "title": "Generic Ad Hoc Defaults as Shadow Systems",
-                "authors": [
-                    "Hani Safadi"
-                ],
-                "year": "work in progress",
-                "accepted": "",
-                "venue": "TBD",
-                "url": "",
-                "abstract": ""
-            },
-            {
-                "id": "",
-                "title": "Does Gender Matter in Crowdfunding Ventures?",
                 "authors": [
                     "Hani Safadi"
                 ],
