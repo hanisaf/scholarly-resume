@@ -269,6 +269,19 @@
         "Preprint": [
             {
                 "id": "",
+                "title": "Knowledge Monopolies and the Innovation Divide",
+                "authors": [
+                    "Hani Safadi",
+                    "Richard Watson"
+                ],
+                "year": "2021",
+                "accepted": "",
+                "venue": "SSRN",
+                "url": "https://ssrn.com/abstract=3956092",
+                "abstract": "The rise of digital ecosystems has created economic knowledge monopolies that are a threat to innovation. National or regional governance structures, such as laws and regulatory authorities, are used to constrain economic monopolies that are deemed not to be in the public interest. The power of knowledge monopolies derives from their imposition of data obligations on ecosystem participation and their usurpation of the rights to data created by the ecosystem. Consequently, knowledge monopolies can use machine learning to develop competitive insights unavailable to any member of their ecosystem. This information asymmetry stifles innovation, stokes the growth of the monopoly, and reinforces its ascendency. We propose that new legislation and an associated regulatory mechanism are needed to curtail coercive data obligations, control, or eliminate the exploitation of data rights, and prevent mergers and acquisitions that could create or extend knowledge monopolies."
+            },  
+            {
+                "id": "",
                 "title": "Digital Symbiosis, Data Obligations, and Data Rights: A New Perspective on Digital Ecosystems for Understanding their Societal Influence",
                 "authors": [
                     "Hani Safadi",
