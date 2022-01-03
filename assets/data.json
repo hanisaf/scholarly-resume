@@ -259,7 +259,7 @@
                     "Marie-Claude Boudreau",
                     "Samer Faraj"
                 ],
-                "year": "2021",
+                "year": "2022",
                 "accepted": "2020",
                 "venue": "Cambridge University Press Handbook of Qualitative Research in the Age of Digitalisation",
                 "url": "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3760009",
@@ -267,6 +267,19 @@
             }
         ],        
         "Preprint": [
+            {
+                "id": "",
+                "title": "Knowledge Monopolies and the Innovation Divide",
+                "authors": [
+                    "Hani Safadi",
+                    "Richard Watson"
+                ],
+                "year": "2021",
+                "accepted": "",
+                "venue": "SSRN",
+                "url": "https://ssrn.com/abstract=3956092",
+                "abstract": "The rise of digital ecosystems has created economic knowledge monopolies that are a threat to innovation. National or regional governance structures, such as laws and regulatory authorities, are used to constrain economic monopolies that are deemed not to be in the public interest. The power of knowledge monopolies derives from their imposition of data obligations on ecosystem participation and their usurpation of the rights to data created by the ecosystem. Consequently, knowledge monopolies can use machine learning to develop competitive insights unavailable to any member of their ecosystem. This information asymmetry stifles innovation, stokes the growth of the monopoly, and reinforces its ascendency. We propose that new legislation and an associated regulatory mechanism are needed to curtail coercive data obligations, control, or eliminate the exploitation of data rights, and prevent mergers and acquisitions that could create or extend knowledge monopolies."
+            },  
             {
                 "id": "",
                 "title": "Digital Symbiosis, Data Obligations, and Data Rights: A New Perspective on Digital Ecosystems for Understanding their Societal Influence",
@@ -337,16 +350,16 @@
             },  
             {
                 "id": "",
-                "title": "Bit Rot in Aging Systems: Evidence and its Architectural Antidote",
+                "title": "Atrophy in Aging IT Systems: Trace Evidence, Dynamics, and Architectural Antidote",
                 "authors": [
                     "Amrit Tiwana",
                     "Hani Safadi"
                 ],
-                "year": "under review - first submission",
+                "year": "major revision - 2nd round",
                 "accepted": "",
                 "venue": "Information Systems Research",
                 "url": "",
-                "abstract": "We theorize how bit rot of information systems, defined as the degradation of their internal logical coherence, increases as they age but decreases when their architectural modularity increases. We also suggest that the effectiveness of architectural modularity fades as systems age. We test our hypotheses using a unique large-scale and longitudinal trace data set of 1,354 open-source systems over 20 years. We contribute a deeper understanding of the important but understudied phenomenon of bit rot. The overarching novel insight is that architectural modularity slows but cannot stop it. We discuss the impact of these findings on information systems development, information systems design and IT strategy."
+                "abstract": "Degradation in IT systems’ internal logical coherence as they age is a pervasive yet underappreciated phenomenon. This phenomenon—conceptualized as system atrophy in this RESEARCH NOTE—can make IT systems inflexible, unmaintainable, meltdown-prone, and exorbitant. It can also obstruct new IT systems and innovations. We theoretically flesh out and empirically corroborate this system atrophy concept to develop two novel ideas. First, small intertemporal increments in codebase modularity as a system evolves (“dynamics of modularity”) slow down system atrophy. Second, this antidote’s potency diminishes as a system ages. We construct a bespoke, massive trace dataset of 190 million evolving lines of code in 1,354 open-source systems spanning over 20 years, and business consequences spanning 25 years to test these ideas. Our first-difference econometric model shows that that the intertemporal dynamics of modularity slow but cannot stop system atrophy. We also show that system atrophy leads to retardation of systems’ evolution, increased bugginess, and attrition of developers’ interest in building on a system’s codebase. Our novel contributions to IS evolution research are expanding with systems’ atrophy the recent conversation on degenerativity in IS, how mutable dynamics of modularity curb it, and their interplay with systems’ age. Our contribution to IS development research is how temporal myopia in systems development aggravates system atrophy. For organizations, we contribute insights into four long-term downstream organizational IS consequences of system atrophy. Our findings also contribute to the adjacent disciplines of software engineering and systems dynamics, and well as to IT practice."
             },
             {
                 "id": "",
@@ -364,48 +377,74 @@
             },
             {
                 "id": "",
-                "title": "Learning from Competition: Evidence from Online Video Games",
+                "title": "Knowledge Monopolies and the Innovation Divide: A Governance Perspective",
                 "authors": [
-                    "Hani Safadi"
+                    "Hani Safadi",
+                    "Richard Watson"
                 ],
                 "year": "under review - first submission",
                 "accepted": "",
-                "venue": "Information Systems Research",
+                "venue": "Information and Organization",
                 "url": "",
-                "abstract": "Learning is the process of acquiring knowledge or skill that results in changing behavior. People learn by interacting with others. The design of social environments can thus shape the learning outcomes of participants. Today, social interaction is mediated by information technology. Building on prior work on organizational learning, open innovation, and pedagogy, we advance an argument for competition as an element in online environments to motivate and promote participants’ learning. We benefit from DOTA 2, an online video game in which players join competing teams fighting in battles. Leveraging data about 3.5 million matches, we operationalize learning using objective data and test our research hypotheses. We find that competition has a positive effect on players’ learning but a short-term demotivational effect. These findings suggest that competition has an important but yet unacknowledged role in designing online environments."
-            }                                               
-        ],
-        "-working papers": [
+                "abstract": "The rise of digital ecosystems has created economic knowledge monopolies that are a threat to innovation. National or regional governance structures, such as laws and regulatory authorities, are used to constrain economic monopolies that are deemed not to be in the public interest. The power of knowledge ecosystems monopolies derives from their imposition of data obligations on ecosystem participation and their usurpation of the rights to data created by the ecosystem.  Consequently, they can use machine learning to develop competitive insights unavailable to any member of their ecosystem. This information asymmetry stifles innovation, stokes the growth of the monopoly, and reinforces its ascendency. We propose that new legislation and an associated regulatory mechanism are needed to curtail coercive data obligations, control or eliminate the exploitation of data rights, and prevent mergers and acquisitions that could create or extend knowledge monopolies."
+            },
             {
                 "id": "",
-                "title": "Governance of Firm-Sponsored Online Communities: Aligning Structural Solutions with Generative Dynamics",
+                "title": "The Impact of Feature Exploration and Exploitation on the Evolution and Survival of Mobile Applications",
+                "authors": [
+                    "Shadi Shuraida",
+                    "Hani Safadi",
+                    "Radhika Jain",
+                    "Qiang Gao"
+                ],
+                "year": "under review - first submission",
+                "accepted": "",
+                "venue": "Journal of the Association for Information Systems",
+                "url": "",
+                "abstract": "Mobile device applications are the largest segment of IS with an estimated 5 billion users. Yet despite their widespread and growing use, there is little research examining how these mobile applications evolve with each new release update. In order to ensure market success, developers need to satisfy their user base by incorporating users’ reviews and feedback on the one hand, and explore new features and content that allows them to stay ahead of their rivals on the other. Drawing on the organizational learning and innovation literature, the findings of the present study suggest that balancing these two activities in the consequent updates is likely to result in the app’s success. In addition, the findings suggest that developers’ exploitation and exploration activities are influenced by the characteristics of users’ online reviews. More specifically, they suggest that users’ convergence on similar issues (review concurrence) is likely to favor exploitation over exploration activities, while the number of different reviews (review volume) has curvilinear relation with the ratio of exploitation to exploration activities."
+            },
+            {
+                "id": "",
+                "title": "Hybrid Governance of Firm-Sponsored Online Communities: Aligning Top-Down and Bottom-Up Approaches",
                 "authors": [
                     "Hani Safadi",
                     "Tanner Skousen",
                     "Elena Karahanna"
                 ],
-                "year": "working paper",
+                "year": "under review - first submission",
                 "accepted": "",
-                "venue": "TBD",
+                "venue": "Information Systems Research",
                 "url": "",
-                "abstract": "Online communities bring together members of common interest to generate significant knowledge. To succeed, online communities need to sustain knowledge collaboration and deal with many tensions that accompany it. The current literature suggests that emerging participation dynamics and community structure are predominant in sustaining knowledge collaboration. On the other hand, many thriving online communities employ formal management which suggests that top-down solutions play a role as well. We investigate the question of how does online community management complement its emerging structure and dynamics in sustaining knowledge collaboration? We conduct an inductive field study of Mayo Clinic Connect, a leading online patient community, to gain a grounded understanding of this phenomenon. The findings suggest that formal community management and its emerging dynamics play a complementary role to sustain knowledge collaboration. In particular, a virtuous cycle of moderation and socialization effectively integrates the effort of the formal community management and its emerging leaders. Our theory contributes to the debate about the need for new theories of new forms of organization. It shows that such new theories are needed to explain the effective alignment of structural solutions with the generative dynamics in online communities."
+                "abstract": "Organizations are increasingly sponsoring online communities to harness the creativity of their members. Prior studies of firm-sponsored online communities highlight the importance of adopting hybrid approaches of governance (top-down and bottom-up). However, governing firmsponsored online communities is challenging because of the different organizing logics between the community and the sponsoring organization. This study focuses on gaining a better understanding of how to integrate and align bottom-up and top-down approaches in firmsponsored online communities to mitigate challenges arising from hybrid governance. Focusing on governance alignment, we conduct an inductive case study of Mayo Clinic Connect, an online patient community sponsored by Mayo Clinic. We find that a key to successful hybrid governance is governance alignment processes that continually integrate top-down and bottom-up modes of governance. Whereas prior work has suggested a tradeoff between effectiveness and legitimacy in balancing top-down and bottom-up governance, our findings suggest that such a trade-off is not a definite outcome of hybrid governance when top-down and bottom-up approaches are properly aligned."
             },
             {
                 "id": "",
-                "title": "Who Shares Fake News? Understanding and Curtailing Fake News Propagation with Psychographics",
+                "title": "The Effect of Bots on Human Interaction in Online Communities",
                 "authors": [
                     "Hani Safadi",
-                    "Weifeng Li",
-                    "Saber Soleymani",
-                    "Ugur Kursuncu",
-                    "Amit Sheth"
+                    "John Lalor",
+                    "Nicholas Berente"
+                ],
+                "year": "under review - first submission",
+                "accepted": "",
+                "venue": "MIS Quarterly",
+                "url": "",
+                "abstract": "In this research note, we draw on social exchange theory to theorize about how bots may influence human-to-human interaction in online communities. In doing so, we distinguish between two forms of bots – reflexive and supervisory bots – and point out two mechanisms that influence human interaction: (1) bots can both substitute and complement human activity, and (2) bots can be perceived anthropomorphically or mechanomorphically. With data from discussion communities on Reddit, we show that supervisory bots decrease direct reciprocity and preferential attachment in communities, whereas reflexive bots increase generalized exchange among community participants. We discuss the implications of these findings on theorizing about bots and the design of online communities."
+            }                                                                                      
+        ],
+        "-working papers": [
+            {
+                "id": "",
+                "title": "Learning from Competition: Evidence from Online Video Games",
+                "authors": [
+                    "Hani Safadi"
                 ],
                 "year": "working paper",
                 "accepted": "",
                 "venue": "TBD",
-                "url": "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3558236",
-                "abstract": "Fake news is a widespread and concerning phenomenon. The goal of this article is twofold. First, we argue that curtailing fake news is better pursued by identifying its propagators than by classifying its content. Second, to validate our conceptual argument, we develop a system for curtailing the propagation of fake news on social media by identifying users who are susceptible to believing and propagating it. We anchor our approach in the debate about the ontological nature of truth, the empirical challenges of classifying fake news content, as well as the psychological and social origins of believing fake news. Through interpreting our model using modern explainable machine learning, we deepen our theoretical understanding of why people believe and share fake news, extend the applicability of our system beyond its original context, and provide guidelines for mitigating fake news propagation."
-            },                        
+                "url": "",
+                "abstract": "Learning is the process of acquiring knowledge or skill that results in changing behavior. People learn by interacting with others. The design of social environments can thus shape the learning outcomes of participants. Today, social interaction is mediated by information technology. Building on prior work on organizational learning, open innovation, and pedagogy, we advance an argument for competition as an element in online environments to motivate and promote participants’ learning. We benefit from DOTA 2, an online video game in which players join competing teams fighting in battles. Leveraging data about 3.5 million matches, we operationalize learning using objective data and test our research hypotheses. We find that competition has a positive effect on players’ learning but a short-term demotivational effect. These findings suggest that competition has an important but yet unacknowledged role in designing online environments."
+            },                                  
             {
                 "id": "",
                 "title": "Building an Occupational Community and its Markets: An Examination of the Emergence of Data Science",
@@ -462,21 +501,6 @@
             },  
             {
                 "id": "",
-                "title": "Evolution and Success of Mobile Applications: The Influence of Users’ Online Feedback on Developers’ Attention",
-                "authors": [
-                    "Shadi Shuraida",
-                    "Hani Safadi",
-                    "Radhika Jain",
-                    "Qiang Gao"
-                ],
-                "year": "working paper",
-                "accepted": "",
-                "venue": "TBD",
-                "url": "",
-                "abstract": "How do users’ online reviews influence mobile application evolution and success? We posit that reviews can potentially provide developers with valuable information that they can use to evolve their apps and in turn gain market success. However, despite the importance of app review feedback for app success, users’ reviews are often inaccurate, unclear, contradictory, and overwhelming. Building on the information attention and decision making literature (van Knippenberg et al. 2015), we propose that the influence of reviews on developer’s design decisions depends on their content. We develop two new constructs to characterize the content of users’ reviews and theorize how they influence developers’ attention to the issues contained in users’ reviews. These constructs are (1) review crowding which is the number of different issues following an app release, and (2) review concurrence which is the level of users’ convergence on the same issues."
-            },
-            {
-                "id": "",
                 "title": "Does Social Coding Work? Platform Design and Knowledge Collaboration in Open-Source Software Forges",
                 "authors": [
                     "Hani Safadi"
@@ -516,20 +540,7 @@
             },
             {
                 "id": "",
-                "title": "Knowledge Monopolies and the Innovation Divide",
-                "authors": [
-                    "Hani Safadi",
-                    "Richard Watson"
-                ],
-                "year": "working paper",
-                "accepted": "",
-                "venue": "TBD",
-                "url": "",
-                "abstract": ""
-            },
-            {
-                "id": "",
-                "title": "Hirearchical Organizations and Open Communities: A Symbiosis View",
+                "title": "Hierarchical Organizations and Open Communities: A Symbiosis View",
                 "authors": [
                     "Hani Safadi",
                     "Tanner Skousen"
@@ -579,7 +590,46 @@
                 "venue": "TBD",
                 "url": "",
                 "abstract": ""
-            }                       
+            },
+            {
+                "id": "",
+                "title": "Resilience in Online Communities: An Embeddedness Perspective",
+                "authors": [
+                    "Tanner Skousen",
+                    "Hani Safadi"
+                ],
+                "year": "work in progress",
+                "accepted": "",
+                "venue": "TBD",
+                "url": "",
+                "abstract": ""
+            },
+            {
+                "id": "",
+                "title": "Resilience in Online Communities: An Embeddedness Perspective",
+                "authors": [
+                    "Tanner Skousen",
+                    "Hani Safadi"
+                ],
+                "year": "work in progress",
+                "accepted": "",
+                "venue": "TBD",
+                "url": "",
+                "abstract": ""
+            },
+            {
+                "id": "",
+                "title": "The Double-Edged Sword of Diversity in Online Communities",
+                "authors": [
+                    "P Kumar Sachin",
+                    "Hani Safadi"
+                ],
+                "year": "work in progress",
+                "accepted": "",
+                "venue": "TBD",
+                "url": "",
+                "abstract": ""
+            }                                                             
         ],
         "-work-in-progress": [
             {
@@ -1505,6 +1555,10 @@
                 "id": "Supervisor"
             },
             {
+                "title": "Yuanyuan (April) Song",
+                "id": "Committee member"
+            },            
+            {
                 "title": "Carolina Salge",
                 "id": "Committee member",
                 "placement": "Wake Forest University, School of Business",
@@ -1775,6 +1829,14 @@
     },
     "recognition": {
         "awards": [
+            {
+                "id": "",
+                "title": "Best Theory Paper: The Effect of Bots on Human Interaction in Online Communities",
+                "venue": "International Conference on Information Systems",
+                "year": 2021,
+                "url": "https://aisnet.org/page/AwardsPage",
+                "abstract": ""
+            },               
             {
                 "id": "",
                 "title": "AIS Distinguished Member, December 2020 Cohort",
