@@ -1750,7 +1750,23 @@
         ]
     },
     "invitations": {
-        "talks": [         
+        "talks": [
+            {
+                "id": "",
+                "title": "Information Technology Beyond Good and Evil: The Case of Crowdfunding and Social Justice",
+                "venue": "Stevens Institute of Technology, School of Business",
+                "year": 2022,
+                "url": "",
+                "abstract": "Societal consequences of information technology are in the foreground of scholarly and practitioner interest. Most technologies are designed with good intentions to deliver the greatest good for the greatest number. However, unintended consequences arise because of the complex environment in which information technology is deployed. In this work, we examine the unintended consequences of crowdfunding on social justice. Academic studies of crowdfunding point to conflicting findings of how crowdfunding platforms contribute to the success of minority founders. On one hand, crowdfunding platforms enable minority founders to reach a wider audience and recruit minority backers rather than relying on a few funders. On the other hand, crowdfunding platforms can amplify and exacerbate biases against minority founders. We identify different factors likely to affect backers’ decisions to contribute to founders’ projects including gender and ethnic homophily, project endorsement, and founder competence signaling. Importantly, based on prior work, we propose that these factors are influenced by the crowdfunding platform design. With data from more than 70,000 projects on Kickstarter, we show how a new platform design aiming to promote information availability affects the performance outcomes of minority founders hurting women founders but helping ethnic minority founders at the same time. Understanding these unintended consequences requires unpacking design implications on users’ actions. We argue that this view promotes a better understanding of the broad societal implications of information technology."
+            },             
+            {
+                "id": "",
+                "title": "Information Technology Beyond Good and Evil: The Case of Crowdfunding and Social Justice",
+                "venue": "University of Notre Dame, Mendoza College of Business",
+                "year": 2022,
+                "url": "",
+                "abstract": "Societal consequences of information technology are in the foreground of scholarly and practitioner interest. Most technologies are designed with good intentions to deliver the greatest good for the greatest number. However, because of the complex environment in which information technology is deployed, unintended consequences arise. In this work, we adopt a multi-level approach to study the implications of crowdfunding on social justice. Academic studies of crowdfunding point to conflicting findings of how crowdfunding platforms contribute to the success of minority founders. On one hand, crowdfunding platforms enable minority founders to reach a wider audience and recruit minority backers rather than relying on a few funders. On the other hand, crowdfunding platforms can amplify and exacerbate biases against minority founders. We identify different mechanisms likely to affect backers’ decisions to contribute to founders’ projects including gender and ethnic homophily, project endorsement, and founder competence signaling. Importantly, these mechanisms are influenced by the crowdfunding platform design. With data from more than 50,000 projects on Kickstarter, we show how a new platform design affects the performance outcomes of minority founders. We argue that a multi-level view of technology with a focus on design implications on users’ actions promotes a better understanding of the broad societal implications of information technology."
+            },                      
             {
                 "id": "",
                 "title": "The Effect of Bots on Human Interaction in Online Communities",
@@ -1761,7 +1777,7 @@
             },            
             {
                 "id": "",
-                "title": " Successful Moderation in Online Patient Communities",
+                "title": "Successful Moderation in Online Patient Communities",
                 "venue": "Mayo Clinic",
                 "year": 2019,
                 "url": "",
@@ -1778,7 +1794,7 @@
             {
                 "id": "",
                 "title": "Text Mining & Natural Language Processing for Management Research",
-                "venue": "Stevens Institute of Technology School of Business",
+                "venue": "Stevens Institute of Technology, School of Business",
                 "year": 2016,
                 "url": "",
                 "abstract": ""
@@ -1809,6 +1825,14 @@
             }
         ],
         "panels": [
+            {
+                "id": "",
+                "title": "Advanced Content Analysis: Techniques and Applications",
+                "venue": "Consortium for the Advancement of Research Methods and Analysis (CARMA)",
+                "year": 2022,
+                "url": "https://carmattu.com/topic-interest-groups/",
+                "abstract": ""
+            },
             {
                 "id": "",
                 "title": "Advice from Successful Faculty and Tips for Faculty Productivity Profiles",
