@@ -161,6 +161,22 @@
         "journal articles": [
             {
                 "id": "",
+                "title": "EDITOR’S COMMENTS. Computationally Intensive Theory Construction: A Primer for Authors and Reviewers",
+                "authors": [
+                    "Shaila Miranda",
+                    "Nicholas Berente",
+                    "Stefan Seidel",
+                    "Hani Safadi",
+                    "Andrew Burton-Jones"
+                ],
+                "year": "2022",
+                "accepted": "2022",
+                "venue": "MIS Quarterly",
+                "url": "",
+                "abstract": ""
+            },            
+            {
+                "id": "",
                 "title": "Who Contributes Knowledge? Core-Periphery Tension in Online Innovation Communities",
                 "authors": [
                     "Hani Safadi",
