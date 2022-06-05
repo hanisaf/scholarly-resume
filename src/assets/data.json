@@ -172,7 +172,7 @@
                 "year": "2022",
                 "accepted": "2022",
                 "venue": "MIS Quarterly",
-                "url": "",
+                "url": "https://misq.umn.edu/misq/downloads/download/editorial/756/",
                 "abstract": ""
             },            
             {
@@ -371,7 +371,7 @@
                     "Amrit Tiwana",
                     "Hani Safadi"
                 ],
-                "year": "major revision - 2nd round",
+                "year": "major revision - 3rd round",
                 "accepted": "",
                 "venue": "Information Systems Research",
                 "url": "",
@@ -398,7 +398,7 @@
                     "Hani Safadi",
                     "Richard Watson"
                 ],
-                "year": "under review - first submission",
+                "year": "major revision - 2nd round",
                 "accepted": "",
                 "venue": "Information and Organization",
                 "url": "",
@@ -413,7 +413,7 @@
                     "Radhika Jain",
                     "Qiang Gao"
                 ],
-                "year": "under review - first submission",
+                "year": "major revision - 2nd round",
                 "accepted": "",
                 "venue": "Journal of the Association for Information Systems",
                 "url": "",
@@ -427,7 +427,7 @@
                     "Tanner Skousen",
                     "Elena Karahanna"
                 ],
-                "year": "under review - first submission",
+                "year": "major revision - 2nd round",
                 "accepted": "",
                 "venue": "Information Systems Research",
                 "url": "",
@@ -441,26 +441,39 @@
                     "John Lalor",
                     "Nicholas Berente"
                 ],
-                "year": "under review - first submission",
+                "year": "major revision - 2nd round",
                 "accepted": "",
                 "venue": "MIS Quarterly",
                 "url": "",
                 "abstract": "In this research note, we draw on social exchange theory to theorize about how bots may influence human-to-human interaction in online communities. In doing so, we distinguish between two forms of bots – reflexive and supervisory bots – and point out two mechanisms that influence human interaction: (1) bots can both substitute and complement human activity, and (2) bots can be perceived anthropomorphically or mechanomorphically. With data from discussion communities on Reddit, we show that supervisory bots decrease direct reciprocity and preferential attachment in communities, whereas reflexive bots increase generalized exchange among community participants. We discuss the implications of these findings on theorizing about bots and the design of online communities."
-            }                                                                                      
-        ],
-        "-working papers": [
+            },
             {
                 "id": "",
                 "title": "Learning from Competition: Evidence from Online Video Games",
                 "authors": [
                     "Hani Safadi"
                 ],
-                "year": "working paper",
+                "year": "under review - first submission",
                 "accepted": "",
-                "venue": "TBD",
+                "venue": "Journal of the Association for Information Systems",
                 "url": "",
                 "abstract": "Learning is the process of acquiring knowledge or skill that results in changing behavior. People learn by interacting with others. The design of social environments can thus shape the learning outcomes of participants. Today, social interaction is mediated by information technology. Building on prior work on organizational learning, open innovation, and pedagogy, we advance an argument for competition as an element in online environments to motivate and promote participants’ learning. We benefit from DOTA 2, an online video game in which players join competing teams fighting in battles. Leveraging data about 3.5 million matches, we operationalize learning using objective data and test our research hypotheses. We find that competition has a positive effect on players’ learning but a short-term demotivational effect. These findings suggest that competition has an important but yet unacknowledged role in designing online environments."
-            },                                  
+            },
+            {
+                "id": "",
+                "title": "Digital Technology Beyond Good and Evil: The Case of Crowdfunding and Social Justice",
+                "authors": [
+                    "Hani Safadi",
+                    "Emmanuelle Vaast"
+                ],
+                "year": "under review - first submission",
+                "accepted": "",
+                "venue": "MIS Quarterly",
+                "url": "",
+                "abstract": ""
+            }
+        ],
+        "-working papers": [                          
             {
                 "id": "",
                 "title": "Building an Occupational Community and its Markets: An Examination of the Emergence of Data Science",
@@ -569,49 +582,8 @@
             },
             {
                 "id": "",
-                "title": "The Effect of Bots on Human Interaction in Online Communities",
-                "authors": [
-                    "Hani Safadi",
-                    "John Lalor",
-                    "Nicholas Berente"
-                ],
-                "year": "working paper",
-                "accepted": "",
-                "venue": "TBD",
-                "url": "",
-                "abstract": "Bots are becoming widespread in a variety of online platforms including online communities. Bots perform various useful tasks but little is known about how bots may alter the nature of human interaction, in particular how they interact and exchange information. We draw on social exchange theory to highlight the social aspect of human cognition and action and theorize how bots affect the online social environment and subsequently change how people interact with each other. We examine the effects of two fundamental forms of bots: reflexive and supervisory, and their differential impact on social exchange. With data from discussion communities on Reddit, we show that both types of bots increase indirect reciprocity. However, reflexive bots decrease direct reciprocity, whereas supervisory bots reduce preferential attachment. We discuss the implications of these findings on theorizing about bots and the design of online communities."
-            },
-            {
-                "id": "",
-                "title": "Crowdfunding Platform Design and its Effect on Minority Bias",
-                "authors": [
-                    "Hani Safadi",
-                    "Emmanuelle Vaast"
-                ],
-                "year": "work in progress",
-                "accepted": "",
-                "venue": "TBD",
-                "url": "",
-                "abstract": ""
-            },
-            {
-                "id": "",
                 "title": "Epistemic Justice: A New Frontier for Information Systems",
                 "authors": [
-                    "Hani Safadi",
-                    "Nicholas Berente"
-                ],
-                "year": "work in progress",
-                "accepted": "",
-                "venue": "TBD",
-                "url": "",
-                "abstract": ""
-            },
-            {
-                "id": "",
-                "title": "Resilience in Online Communities: An Embeddedness Perspective",
-                "authors": [
-                    "Tanner Skousen",
                     "Hani Safadi"
                 ],
                 "year": "work in progress",

@@ -20,8 +20,6 @@ export class AppComponent  {
   }
 
   ngOnInit() {
-
-
     this.route.queryParamMap.subscribe(params => {
       let showall = this.route.snapshot.queryParamMap.get("showall");
       let accepted = this.route.snapshot.queryParamMap.get("accepted");
