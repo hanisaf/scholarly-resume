@@ -345,9 +345,9 @@
                 "authors": [
                     "Hani Safadi"
                 ],
-                "year": "revise and resubmit",
+                "year": "major revision - 2nd round",
                 "accepted": "",
-                "venue": "MIS Quarterly",
+                "venue": "IEEE TSE",
                 "url": "",
                 "abstract": "Evolution is not one system’s property as its dependencies with other intertwined, evolving systems grow. We conceptualize system-of-systems modularity that simultaneously considers a system’s internal architecture and that of other interdependent systems. Data from 8,220 information systems’ projects over eight years show how system-of-systems modularity explains evolution above-and-beyond prior conceptualizations. They underscore the migration from standalone information systems to systems-of-systems."
             },
@@ -358,7 +358,7 @@
                     "Hani Safadi",
                     "Emmanuelle Vaast"
                 ],
-                "year": "revise and resubmit",
+                "year": "under review - revise and resubmit",
                 "accepted": "",
                 "venue": "Organization Science",
                 "url": "",
@@ -446,31 +446,6 @@
                 "venue": "MIS Quarterly",
                 "url": "",
                 "abstract": "In this research note, we draw on social exchange theory to theorize about how bots may influence human-to-human interaction in online communities. In doing so, we distinguish between two forms of bots – reflexive and supervisory bots – and point out two mechanisms that influence human interaction: (1) bots can both substitute and complement human activity, and (2) bots can be perceived anthropomorphically or mechanomorphically. With data from discussion communities on Reddit, we show that supervisory bots decrease direct reciprocity and preferential attachment in communities, whereas reflexive bots increase generalized exchange among community participants. We discuss the implications of these findings on theorizing about bots and the design of online communities."
-            },
-            {
-                "id": "",
-                "title": "Learning from Competition: Evidence from Online Video Games",
-                "authors": [
-                    "Hani Safadi"
-                ],
-                "year": "under review - first submission",
-                "accepted": "",
-                "venue": "Journal of the Association for Information Systems",
-                "url": "",
-                "abstract": "Learning is the process of acquiring knowledge or skill that results in changing behavior. People learn by interacting with others. The design of social environments can thus shape the learning outcomes of participants. Today, social interaction is mediated by information technology. Building on prior work on organizational learning, open innovation, and pedagogy, we advance an argument for competition as an element in online environments to motivate and promote participants’ learning. We benefit from DOTA 2, an online video game in which players join competing teams fighting in battles. Leveraging data about 3.5 million matches, we operationalize learning using objective data and test our research hypotheses. We find that competition has a positive effect on players’ learning but a short-term demotivational effect. These findings suggest that competition has an important but yet unacknowledged role in designing online environments."
-            },
-            {
-                "id": "",
-                "title": "Digital Technology Beyond Good and Evil: The Case of Crowdfunding and Social Justice",
-                "authors": [
-                    "Hani Safadi",
-                    "Emmanuelle Vaast"
-                ],
-                "year": "under review - first submission",
-                "accepted": "",
-                "venue": "MIS Quarterly",
-                "url": "",
-                "abstract": ""
             }
         ],
         "-working papers": [                          
@@ -486,7 +461,32 @@
                 "venue": "TBD",
                 "url": "",
                 "abstract": "This study examines the role of social media in enabling the formation and growth of a new occupation and its markets. We specifically examine the new occupation of data science and its markets as reflected in its members and other stakeholders using social media application Twitter. Mixed-methods analyses uncover the emergence of an increasingly diversified and fragmented ecosystem associated with the new occupation. This process of co-construction manifests in social media-based communicative practices from heterogeneous actors that elicit dynamically and intricately the occupational community and its markets. This research contributes a middle-range theory that offers a new understanding of the similarities and differences between social media and other forms of communication traditionally associated with occupational work and provides implications for future research on occupational communities."
-            },            
+            },
+            {
+                "id": "",
+                "title": "Learning from Competition: Evidence from Online Video Games",
+                "authors": [
+                    "Hani Safadi"
+                ],
+                "year": "working paper",
+                "accepted": "",
+                "venue": "TBD",
+                "url": "",
+                "abstract": "Learning is the process of acquiring knowledge or skill that results in changing behavior. People learn by interacting with others. The design of social environments can thus shape the learning outcomes of participants. Today, social interaction is mediated by information technology. Building on prior work on organizational learning, open innovation, and pedagogy, we advance an argument for competition as an element in online environments to motivate and promote participants’ learning. We benefit from DOTA 2, an online video game in which players join competing teams fighting in battles. Leveraging data about 3.5 million matches, we operationalize learning using objective data and test our research hypotheses. We find that competition has a positive effect on players’ learning but a short-term demotivational effect. These findings suggest that competition has an important but yet unacknowledged role in designing online environments."
+            },
+            {
+                "id": "",
+                "title": "Digital Technology Beyond Good and Evil: The Case of Crowdfunding and Social Justice",
+                "authors": [
+                    "Hani Safadi",
+                    "Emmanuelle Vaast"
+                ],
+                "year": "working paper",
+                "accepted": "",
+                "venue": "TBD",
+                "url": "",
+                "abstract": ""
+            },                        
             {
                 "id": "",
                 "title": "Developers’ Multi-Project Involvement and Continued Contribution to Open-Source Software Projects",
@@ -599,7 +599,7 @@
                     "Tanner Skousen",
                     "Hani Safadi"
                 ],
-                "year": "work in progress",
+                "year": "working paper",
                 "accepted": "",
                 "venue": "TBD",
                 "url": "",
@@ -612,7 +612,7 @@
                     "P Kumar Sachin",
                     "Hani Safadi"
                 ],
-                "year": "work in progress",
+                "year": "working paper",
                 "accepted": "",
                 "venue": "TBD",
                 "url": "",
@@ -662,7 +662,7 @@
                 "authors": [
                     "Hani Safadi"
                 ],
-                "year": "work in progress",
+                "year": "working paper",
                 "accepted": "",
                 "venue": "TBD",
                 "url": "",
@@ -674,7 +674,7 @@
                 "authors": [
                     "Hani Safadi"
                 ],
-                "year": "work in progress",
+                "year": "working paper",
                 "accepted": "",
                 "venue": "TBD",
                 "url": "",
