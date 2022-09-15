@@ -371,7 +371,7 @@
                     "Amrit Tiwana",
                     "Hani Safadi"
                 ],
-                "year": "major revision - 3rd round",
+                "year": "major revision - 4th round",
                 "accepted": "",
                 "venue": "Information Systems Research",
                 "url": "",
@@ -1815,6 +1815,14 @@
         "panels": [
             {
                 "id": "",
+                "title": "Content and Textual Analysis in Organizational Research: Techniques and Applications",
+                "venue": "Academy of Management Meeting",
+                "year": 2022,
+                "url": "https://2022.aom.org/meetings/virtual/BzaRqMzdWCsc9rnPh",
+                "abstract": ""
+            },            
+            {
+                "id": "",
                 "title": "Advanced Content Analysis: Techniques and Applications",
                 "venue": "Consortium for the Advancement of Research Methods and Analysis (CARMA)",
                 "year": 2022,
@@ -1849,6 +1857,14 @@
     },
     "recognition": {
         "awards": [
+            {
+                "id": "",
+                "title": "First Runner-Up Best Published Paper Award: Who Contributes Knowledge? Core-Periphery Tension in Online Innovation Communities",
+                "venue": "Annual Meeting of the Academy of Management",
+                "year": 2022,
+                "url": "https://ocis.aom.org/about-us/award-winners",
+                "abstract": "Communication, Digital Technology, and Organization Division"
+            },            
             {
                 "id": "",
                 "title": "Best Theory Paper: The Effect of Bots on Human Interaction in Online Communities",
