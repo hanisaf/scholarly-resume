@@ -183,7 +183,7 @@
                     "Steven Johnson",
                     "Samer Faraj"
                 ],
-                "year": "2020",
+                "year": "2021",
                 "accepted": "2019",
                 "venue": "Organization Science",
                 "url": "http://pubsonline.informs.org/doi/10.1287/orsc.2020.1364",
@@ -441,7 +441,7 @@
                     "John Lalor",
                     "Nicholas Berente"
                 ],
-                "year": "major revision - 2nd round",
+                "year": "major revision - 3rd round",
                 "accepted": "",
                 "venue": "MIS Quarterly",
                 "url": "",
@@ -1291,6 +1291,14 @@
             }
         ],
         "grants": [
+            {
+                "id": "Supporting Business Analytics Education",
+                "title": "",
+                "year": 2022,
+                "venue": "University of Georgia Teaching Enhancement and Innovation Fund",
+                "amount": 6720,
+                "url": ""
+            },            
             {
                 "id": "",
                 "title": "Development of Online Modules - Business Analytics with Python",
