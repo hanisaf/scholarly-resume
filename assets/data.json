@@ -329,6 +329,19 @@
         "-papers under review": [
             {
                 "id": "",
+                "title": "Atrophy in Aging IT Systems: Trace Evidence, Dynamics, and Architectural Antidote",
+                "authors": [
+                    "Amrit Tiwana",
+                    "Hani Safadi"
+                ],
+                "year": "major revision - 4th round",
+                "accepted": "",
+                "venue": "Information Systems Research",
+                "url": "",
+                "abstract": "Degradation in IT systems’ internal logical coherence as they age is a pervasive yet underappreciated phenomenon. This phenomenon—conceptualized as system atrophy in this RESEARCH NOTE—can make IT systems inflexible, unmaintainable, meltdown-prone, and exorbitant. It can also obstruct new IT systems and innovations. We theoretically flesh out and empirically corroborate this system atrophy concept to develop two novel ideas. First, small intertemporal increments in codebase modularity as a system evolves (“dynamics of modularity”) slow down system atrophy. Second, this antidote’s potency diminishes as a system ages. We construct a bespoke, massive trace dataset of 190 million evolving lines of code in 1,354 open-source systems spanning over 20 years, and business consequences spanning 25 years to test these ideas. Our first-difference econometric model shows that that the intertemporal dynamics of modularity slow but cannot stop system atrophy. We also show that system atrophy leads to retardation of systems’ evolution, increased bugginess, and attrition of developers’ interest in building on a system’s codebase. Our novel contributions to IS evolution research are expanding with systems’ atrophy the recent conversation on degenerativity in IS, how mutable dynamics of modularity curb it, and their interplay with systems’ age. Our contribution to IS development research is how temporal myopia in systems development aggravates system atrophy. For organizations, we contribute insights into four long-term downstream organizational IS consequences of system atrophy. Our findings also contribute to the adjacent disciplines of software engineering and systems dynamics, and well as to IT practice."
+            },
+            {
+                "id": "",
                 "title": "Enterprise Social Media and its Affordances for Knowledge Work",
                 "authors": [
                     "Hani Safadi"
@@ -338,6 +351,35 @@
                 "venue": "MIS Quarterly",
                 "url": "",
                 "abstract": "Recent research suggests that the adoption of enterprise social media technologies in organizations is associated with better knowledge sharing practices. The theory of ambient awareness proposes that by making communication visible throughout social media, workers learn more about other co-workers’ skills and social relationships. We thoroughly examine how enterprise social media results in better knowledge sharing practices. We center our theoretical argument around the role of organizational networks in promoting internal knowledge transfer. We examine how workers’ metaknowledge networks (knowing who knows whom and who knows what) are associated with internal knowledge transfer. We elicit the assumptions related to using social media at work compared to face-to-face socialization and model them with an agent-based model. The results demonstrate that ambient awareness is not inherently superior to face-to-face socialization in promoting knowledge transfer. The relative advantage of ambient awareness over face-to-face socialization depends on workers’ capacity to internalize the disclosed metaknowledge. Furthermore, ambient awareness results in metaknowledge networks of larger size but lower density creating a contradictory effect on knowledge transfer. The results suggest that the effectiveness of enterprise social media is contingent on the various individual and organizational factors and provide further implications for the implementation of these technologies."
+            },
+            {
+                "id": "",
+                "title": "The Effect of Bots on Human Interaction in Online Communities",
+                "authors": [
+                    "Hani Safadi",
+                    "John Lalor",
+                    "Nicholas Berente"
+                ],
+                "year": "major revision - 3rd round",
+                "accepted": "",
+                "venue": "MIS Quarterly",
+                "url": "",
+                "abstract": "In this research note, we draw on social exchange theory to theorize about how bots may influence human-to-human interaction in online communities. In doing so, we distinguish between two forms of bots – reflexive and supervisory bots – and point out two mechanisms that influence human interaction: (1) bots can both substitute and complement human activity, and (2) bots can be perceived anthropomorphically or mechanomorphically. With data from discussion communities on Reddit, we show that supervisory bots decrease direct reciprocity and preferential attachment in communities, whereas reflexive bots increase generalized exchange among community participants. We discuss the implications of these findings on theorizing about bots and the design of online communities."
+            },
+            {
+                "id": "",
+                "title": "The Impact of Feature Exploration and Exploitation on the Evolution and Survival of Mobile Applications",
+                "authors": [
+                    "Shadi Shuraida",
+                    "Hani Safadi",
+                    "Radhika Jain",
+                    "Qiang Gao"
+                ],
+                "year": "major revision - 3rd round",
+                "accepted": "",
+                "venue": "Journal of the Association for Information Systems",
+                "url": "",
+                "abstract": "Mobile device applications are the largest segment of IS with an estimated 5 billion users. Yet despite their widespread and growing use, there is little research examining how these mobile applications evolve with each new release update. In order to ensure market success, developers need to satisfy their user base by incorporating users’ reviews and feedback on the one hand, and explore new features and content that allows them to stay ahead of their rivals on the other. Drawing on the organizational learning and innovation literature, the findings of the present study suggest that balancing these two activities in the consequent updates is likely to result in the app’s success. In addition, the findings suggest that developers’ exploitation and exploration activities are influenced by the characteristics of users’ online reviews. More specifically, they suggest that users’ convergence on similar issues (review concurrence) is likely to favor exploitation over exploration activities, while the number of different reviews (review volume) has curvilinear relation with the ratio of exploitation to exploration activities."
             }, 
             {
                 "id": "",
@@ -353,10 +395,11 @@
             },
             {
                 "id": "",
-                "title": "Dialogue without Interlocutors? Knowledge Creation with 140 Characters or Less",
+                "title": "Tribes or Communities: Collective Sensemaking in Online Communities",
                 "authors": [
                     "Hani Safadi",
-                    "Emmanuelle Vaast"
+                    "Emmanuelle Vaast",
+                    "Weifeng Li"
                 ],
                 "year": "under review - revise and resubmit",
                 "accepted": "",
@@ -364,19 +407,6 @@
                 "url": "",
                 "abstract": "Microblogging is a novel digital technology increasingly used for both professional and personal communication. Microblogging relies on the exchange of short, de-contextualized, and public messages, and therefore has been widely used for public communication, self-presentation, self-promotion, and marketing. The characteristics of microblogging do not seem to make it amenable for knowledge creation purposes as knowledge creation requires purposeful dialogue and relational engagement among interlocutors. However, and notwithstanding these shortcomings, microblogging is used in knowledge work, which begs the question of if and how can such communication promote knowledge creation. To answer this research question, we investigate how microblogging was used to talk about an emergent area of knowledge, that of data science, from 2010 to 2015. We examine a large corpus of microblogging messages on Twitter posted by a large and diverse number of stakeholders. Employing computationally intensive theory discovery methods, we uncover a process of knowledge creation that does not require the traditional deep and relational dialogue. Instead, it relies on two processes of spinning and twisting discourses by multiple participants enabled by features of the microblogging platform and punctuated by some external events. The repetition of these processes over time results in the emergence of a novel discourse that reflects the new knowledge participants’ created from combining and expanding upon their prior knowledge. We discuss the importance of this new theory for organizational knowledge management as well as the role of new technologies in shaping and organizing society and the workplace."
             },  
-            {
-                "id": "",
-                "title": "Atrophy in Aging IT Systems: Trace Evidence, Dynamics, and Architectural Antidote",
-                "authors": [
-                    "Amrit Tiwana",
-                    "Hani Safadi"
-                ],
-                "year": "major revision - 4th round",
-                "accepted": "",
-                "venue": "Information Systems Research",
-                "url": "",
-                "abstract": "Degradation in IT systems’ internal logical coherence as they age is a pervasive yet underappreciated phenomenon. This phenomenon—conceptualized as system atrophy in this RESEARCH NOTE—can make IT systems inflexible, unmaintainable, meltdown-prone, and exorbitant. It can also obstruct new IT systems and innovations. We theoretically flesh out and empirically corroborate this system atrophy concept to develop two novel ideas. First, small intertemporal increments in codebase modularity as a system evolves (“dynamics of modularity”) slow down system atrophy. Second, this antidote’s potency diminishes as a system ages. We construct a bespoke, massive trace dataset of 190 million evolving lines of code in 1,354 open-source systems spanning over 20 years, and business consequences spanning 25 years to test these ideas. Our first-difference econometric model shows that that the intertemporal dynamics of modularity slow but cannot stop system atrophy. We also show that system atrophy leads to retardation of systems’ evolution, increased bugginess, and attrition of developers’ interest in building on a system’s codebase. Our novel contributions to IS evolution research are expanding with systems’ atrophy the recent conversation on degenerativity in IS, how mutable dynamics of modularity curb it, and their interplay with systems’ age. Our contribution to IS development research is how temporal myopia in systems development aggravates system atrophy. For organizations, we contribute insights into four long-term downstream organizational IS consequences of system atrophy. Our findings also contribute to the adjacent disciplines of software engineering and systems dynamics, and well as to IT practice."
-            },
             {
                 "id": "",
                 "title": "Fit between Coevolving Architectures of IT Applications and IT Project Teams: Dynamics and Evolutionary Consequences of Architectural Nearly-Decomposability",
@@ -406,21 +436,6 @@
             },
             {
                 "id": "",
-                "title": "The Impact of Feature Exploration and Exploitation on the Evolution and Survival of Mobile Applications",
-                "authors": [
-                    "Shadi Shuraida",
-                    "Hani Safadi",
-                    "Radhika Jain",
-                    "Qiang Gao"
-                ],
-                "year": "major revision - 2nd round",
-                "accepted": "",
-                "venue": "Journal of the Association for Information Systems",
-                "url": "",
-                "abstract": "Mobile device applications are the largest segment of IS with an estimated 5 billion users. Yet despite their widespread and growing use, there is little research examining how these mobile applications evolve with each new release update. In order to ensure market success, developers need to satisfy their user base by incorporating users’ reviews and feedback on the one hand, and explore new features and content that allows them to stay ahead of their rivals on the other. Drawing on the organizational learning and innovation literature, the findings of the present study suggest that balancing these two activities in the consequent updates is likely to result in the app’s success. In addition, the findings suggest that developers’ exploitation and exploration activities are influenced by the characteristics of users’ online reviews. More specifically, they suggest that users’ convergence on similar issues (review concurrence) is likely to favor exploitation over exploration activities, while the number of different reviews (review volume) has curvilinear relation with the ratio of exploitation to exploration activities."
-            },
-            {
-                "id": "",
                 "title": "Hybrid Governance of Firm-Sponsored Online Communities: Aligning Top-Down and Bottom-Up Approaches",
                 "authors": [
                     "Hani Safadi",
@@ -432,20 +447,6 @@
                 "venue": "Information Systems Research",
                 "url": "",
                 "abstract": "Organizations are increasingly sponsoring online communities to harness the creativity of their members. Prior studies of firm-sponsored online communities highlight the importance of adopting hybrid approaches of governance (top-down and bottom-up). However, governing firmsponsored online communities is challenging because of the different organizing logics between the community and the sponsoring organization. This study focuses on gaining a better understanding of how to integrate and align bottom-up and top-down approaches in firmsponsored online communities to mitigate challenges arising from hybrid governance. Focusing on governance alignment, we conduct an inductive case study of Mayo Clinic Connect, an online patient community sponsored by Mayo Clinic. We find that a key to successful hybrid governance is governance alignment processes that continually integrate top-down and bottom-up modes of governance. Whereas prior work has suggested a tradeoff between effectiveness and legitimacy in balancing top-down and bottom-up governance, our findings suggest that such a trade-off is not a definite outcome of hybrid governance when top-down and bottom-up approaches are properly aligned."
-            },
-            {
-                "id": "",
-                "title": "The Effect of Bots on Human Interaction in Online Communities",
-                "authors": [
-                    "Hani Safadi",
-                    "John Lalor",
-                    "Nicholas Berente"
-                ],
-                "year": "major revision - 3rd round",
-                "accepted": "",
-                "venue": "MIS Quarterly",
-                "url": "",
-                "abstract": "In this research note, we draw on social exchange theory to theorize about how bots may influence human-to-human interaction in online communities. In doing so, we distinguish between two forms of bots – reflexive and supervisory bots – and point out two mechanisms that influence human interaction: (1) bots can both substitute and complement human activity, and (2) bots can be perceived anthropomorphically or mechanomorphically. With data from discussion communities on Reddit, we show that supervisory bots decrease direct reciprocity and preferential attachment in communities, whereas reflexive bots increase generalized exchange among community participants. We discuss the implications of these findings on theorizing about bots and the design of online communities."
             }
         ],
         "-working papers": [                          
@@ -730,6 +731,17 @@
             }               
         ],
         "conference proceedings": [
+            {
+                "id": "",
+                "title": "Are we making Google stupid?",
+                "authors": [
+                    "Hani Safadi"
+                ],
+                "venue": "International Conference on Information Systems",
+                "year": 2022,
+                "url": "https://aisel.aisnet.org/treos_amcis2021/6/",
+                "abstract": "The goal of this study is to test the limit of the automation/augmentation debate in the context of enterprise information systems. Specifically, we plan to design an agent-based model of knowledge worker teams. Actors in these teams can be humans but also AI agents that learn from human decision-making."
+            }, 
             {
                 "id": "",
                 "title": "The Effect of Bots on Human Interaction in Online Communities",
