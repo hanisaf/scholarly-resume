@@ -447,6 +447,20 @@
                 "venue": "Information Systems Research",
                 "url": "",
                 "abstract": "Organizations are increasingly sponsoring online communities to harness the creativity of their members. Prior studies of firm-sponsored online communities highlight the importance of adopting hybrid approaches of governance (top-down and bottom-up). However, governing firmsponsored online communities is challenging because of the different organizing logics between the community and the sponsoring organization. This study focuses on gaining a better understanding of how to integrate and align bottom-up and top-down approaches in firmsponsored online communities to mitigate challenges arising from hybrid governance. Focusing on governance alignment, we conduct an inductive case study of Mayo Clinic Connect, an online patient community sponsored by Mayo Clinic. We find that a key to successful hybrid governance is governance alignment processes that continually integrate top-down and bottom-up modes of governance. Whereas prior work has suggested a tradeoff between effectiveness and legitimacy in balancing top-down and bottom-up governance, our findings suggest that such a trade-off is not a definite outcome of hybrid governance when top-down and bottom-up approaches are properly aligned."
+            },  
+            {
+                "id": "",
+                "title": "Silence in Evolving Systems: Architectural Origins, Mechanisms, and Consequences",
+                "authors": [
+                    "Amrit Tiwana",
+                    "Hani Safadi"
+
+                ],
+                "year": "under review - first round",
+                "accepted": "",
+                "venue": "Information Systems Research",
+                "url": "",
+                "abstract": "Silence within systems has received scant attention in IS evolution studies, where interaction predominates. We develop a middle-range theory of how silence inside a system—by funneling team attention—shapes its evolution. Innovative trace analyses of 19.8 million tweaks spanning 274 million lines of code in over 1,300 systems over 25 years show that such silence fosters IS evolution by dynamically funneling its developers’ attention."
             }
         ],
         "-working papers": [                          
@@ -752,7 +766,7 @@
                 ],
                 "venue": "International Conference on Information Systems",
                 "year": 2021,
-                "url": "",
+                "url": "https://aisel.aisnet.org/icis2021/ai_business/ai_business/1/",
                 "abstract": "Bots are widespread in a variety of online platforms including online communities. Bots perform various useful tasks but little is known about how bots may alter the nature of human interaction, in particular how they interact and exchange information. We draw on social exchange theory and symbolic interactionism to highlight the social aspect of human cognition and action and theorize how bots affect the online social environment and subsequently change how people interact with each other. We examine the effects of two fundamental forms of bots: reflexive and supervisory, and their differential impact on social exchange. With data from discussion communities on Reddit, we show that reflexive bots increase unidirectional exchange, whereas supervisory bots reduce centralization. Further, reflexive bots increase the depth of discourse, whereas supervisory bots reduce the breadth of discourse. We discuss the implications of these findings on theorizing about bots and the design of online communities."
             },            
             {
@@ -776,7 +790,7 @@
                 ],
                 "venue": "International Conference on Information Systems",
                 "year": 2020,
-                "url": "",
+                "url": "https://aisel.aisnet.org/icis2020/digital_innovation/digital_innovation/1/",
                 "abstract": "How can formal organizations and open communities engage in mutually beneficial relationships? We develop a framework that explains how an open community’s engagement with a formal organization can be mutually beneficial to both in the long-term. We theorize how a symbiotic relationship between open communities and formal organizations can be forged by nurturing various forms of capital flow between them as well as creating virtuous feedback loops within and across each other’s capital creation systems. The framework has implications for understanding innovation in ecosystems and networked economies."
             },
             {
@@ -816,7 +830,7 @@
                 ],
                 "venue": "International Conference on Information Systems",
                 "year": 2019,
-                "url": "",
+                "url": "https://aisel.aisnet.org/icis2019/is_health/is_health/27/",
                 "abstract": "Online communities bring together members of common interest and are recognized as generators of significant knowledge. In healthcare, online communities are a medium for patients to share their stories, gain peer support, and learn more about medical conditions. To succeed, these communities need to sustain their knowledge flows and resolve arising tensions. The current literature suggests that participation dynamics and emergent organizational structure are sufficient to resolve tensions in online communities. Based on increased evidence of the need of formal management to sustain online communities, we propose that emergent structure and roles may not always be sufficient when tensions are prevalent and stakes are high such as in online patient communities. We conduct an inductive field study of Mayo Clinic Connect, a leading online patient community. The findings suggest that formal management and emergent leadership play a complementary role to resolve tensions and sustain knowledge flows. We theorize a virtuous cycle of moderation and socialization that effectively integrates the effort of the community formal management and emergent leaders."
             },
             {
