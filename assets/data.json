@@ -383,6 +383,19 @@
             }, 
             {
                 "id": "",
+                "title": "Knowledge Monopolies and the Innovation Divide: A Governance Perspective",
+                "authors": [
+                    "Hani Safadi",
+                    "Richard Watson"
+                ],
+                "year": "major revision - 3rd round",
+                "accepted": "",
+                "venue": "Information and Organization",
+                "url": "",
+                "abstract": "The rise of digital ecosystems has created economic knowledge monopolies that are a threat to innovation. National or regional governance structures, such as laws and regulatory authorities, are used to constrain economic monopolies that are deemed not to be in the public interest. The power of knowledge ecosystems monopolies derives from their imposition of data obligations on ecosystem participation and their usurpation of the rights to data created by the ecosystem.  Consequently, they can use machine learning to develop competitive insights unavailable to any member of their ecosystem. This information asymmetry stifles innovation, stokes the growth of the monopoly, and reinforces its ascendency. We propose that new legislation and an associated regulatory mechanism are needed to curtail coercive data obligations, control or eliminate the exploitation of data rights, and prevent mergers and acquisitions that could create or extend knowledge monopolies."
+            },            
+            {
+                "id": "",
                 "title": "The Evolutionary Consequences of System-of-Systems Modularity",
                 "authors": [
                     "Hani Safadi"
@@ -423,19 +436,6 @@
             },
             {
                 "id": "",
-                "title": "Knowledge Monopolies and the Innovation Divide: A Governance Perspective",
-                "authors": [
-                    "Hani Safadi",
-                    "Richard Watson"
-                ],
-                "year": "major revision - 2nd round",
-                "accepted": "",
-                "venue": "Information and Organization",
-                "url": "",
-                "abstract": "The rise of digital ecosystems has created economic knowledge monopolies that are a threat to innovation. National or regional governance structures, such as laws and regulatory authorities, are used to constrain economic monopolies that are deemed not to be in the public interest. The power of knowledge ecosystems monopolies derives from their imposition of data obligations on ecosystem participation and their usurpation of the rights to data created by the ecosystem.  Consequently, they can use machine learning to develop competitive insights unavailable to any member of their ecosystem. This information asymmetry stifles innovation, stokes the growth of the monopoly, and reinforces its ascendency. We propose that new legislation and an associated regulatory mechanism are needed to curtail coercive data obligations, control or eliminate the exploitation of data rights, and prevent mergers and acquisitions that could create or extend knowledge monopolies."
-            },
-            {
-                "id": "",
                 "title": "Hybrid Governance of Firm-Sponsored Online Communities: Aligning Top-Down and Bottom-Up Approaches",
                 "authors": [
                     "Hani Safadi",
@@ -447,9 +447,64 @@
                 "venue": "Information Systems Research",
                 "url": "",
                 "abstract": "Organizations are increasingly sponsoring online communities to harness the creativity of their members. Prior studies of firm-sponsored online communities highlight the importance of adopting hybrid approaches of governance (top-down and bottom-up). However, governing firmsponsored online communities is challenging because of the different organizing logics between the community and the sponsoring organization. This study focuses on gaining a better understanding of how to integrate and align bottom-up and top-down approaches in firmsponsored online communities to mitigate challenges arising from hybrid governance. Focusing on governance alignment, we conduct an inductive case study of Mayo Clinic Connect, an online patient community sponsored by Mayo Clinic. We find that a key to successful hybrid governance is governance alignment processes that continually integrate top-down and bottom-up modes of governance. Whereas prior work has suggested a tradeoff between effectiveness and legitimacy in balancing top-down and bottom-up governance, our findings suggest that such a trade-off is not a definite outcome of hybrid governance when top-down and bottom-up approaches are properly aligned."
-            }
+            },  
+            {
+                "id": "",
+                "title": "Silence in Evolving Systems: Architectural Origins, Mechanisms, and Consequences",
+                "authors": [
+                    "Amrit Tiwana",
+                    "Hani Safadi"
+
+                ],
+                "year": "under review - first round",
+                "accepted": "",
+                "venue": "Information Systems Research",
+                "url": "",
+                "abstract": "Silence within systems has received scant attention in IS evolution studies, where interaction predominates. We develop a middle-range theory of how silence inside a system—by funneling team attention—shapes its evolution. Innovative trace analyses of 19.8 million tweaks spanning 274 million lines of code in over 1,300 systems over 25 years show that such silence fosters IS evolution by dynamically funneling its developers’ attention."
+            },
+            {
+                "id": "",
+                "title": "Information Availability and Design Justice: The Case of Minority Founders in Crowdfunding",
+                "authors": [
+                    "Hani Safadi",
+                    "Emmanuelle Vaast"
+                ],
+                "year": "under review - first round",
+                "accepted": "",
+                "venue": "Information Systems Research",
+                "url": "",
+                "abstract": ""
+            },
+            {
+                "id": "",
+                "title": "Digital Symbiosis, Data Obligations, and Data Rights: A New Perspective on Digital Ecosystems for Understanding their Societal Influence",
+                "authors": [
+                    "Hani Safadi",
+                    "Richard Watson"
+                ],
+                "year": "under review - first round",
+                "accepted": "",
+                "venue": "Journal of the Association for Information Systems",
+                "url": "",
+                "abstract": ""
+            }                
         ],
-        "-working papers": [                          
+        "-working papers": [    
+            {
+                "id": "",
+                "title": "Building Research Programs in the Computationally Intensive Theory Construction Genre ",
+                "authors": [
+                    "Hani Safadi",
+                    "Stefan Seidel",
+                    "Shaila Miranda",
+                    "Nicholas Berente"
+                ],
+                "year": "working paper",
+                "accepted": "",
+                "venue": "TBD",
+                "url": "",
+                "abstract": ""
+            },                                    
             {
                 "id": "",
                 "title": "Building an Occupational Community and its Markets: An Examination of the Emergence of Data Science",
@@ -474,20 +529,7 @@
                 "venue": "TBD",
                 "url": "",
                 "abstract": "Learning is the process of acquiring knowledge or skill that results in changing behavior. People learn by interacting with others. The design of social environments can thus shape the learning outcomes of participants. Today, social interaction is mediated by information technology. Building on prior work on organizational learning, open innovation, and pedagogy, we advance an argument for competition as an element in online environments to motivate and promote participants’ learning. We benefit from DOTA 2, an online video game in which players join competing teams fighting in battles. Leveraging data about 3.5 million matches, we operationalize learning using objective data and test our research hypotheses. We find that competition has a positive effect on players’ learning but a short-term demotivational effect. These findings suggest that competition has an important but yet unacknowledged role in designing online environments."
-            },
-            {
-                "id": "",
-                "title": "Digital Technology Beyond Good and Evil: The Case of Crowdfunding and Social Justice",
-                "authors": [
-                    "Hani Safadi",
-                    "Emmanuelle Vaast"
-                ],
-                "year": "working paper",
-                "accepted": "",
-                "venue": "TBD",
-                "url": "",
-                "abstract": ""
-            },                        
+            },                       
             {
                 "id": "",
                 "title": "Developers’ Multi-Project Involvement and Continued Contribution to Open-Source Software Projects",
@@ -733,17 +775,6 @@
         "conference proceedings": [
             {
                 "id": "",
-                "title": "Are we making Google stupid?",
-                "authors": [
-                    "Hani Safadi"
-                ],
-                "venue": "International Conference on Information Systems",
-                "year": 2022,
-                "url": "https://aisel.aisnet.org/treos_amcis2021/6/",
-                "abstract": "The goal of this study is to test the limit of the automation/augmentation debate in the context of enterprise information systems. Specifically, we plan to design an agent-based model of knowledge worker teams. Actors in these teams can be humans but also AI agents that learn from human decision-making."
-            }, 
-            {
-                "id": "",
                 "title": "The Effect of Bots on Human Interaction in Online Communities",
                 "authors": [
                     "Hani Safadi",
@@ -752,7 +783,7 @@
                 ],
                 "venue": "International Conference on Information Systems",
                 "year": 2021,
-                "url": "",
+                "url": "https://aisel.aisnet.org/icis2021/ai_business/ai_business/1/",
                 "abstract": "Bots are widespread in a variety of online platforms including online communities. Bots perform various useful tasks but little is known about how bots may alter the nature of human interaction, in particular how they interact and exchange information. We draw on social exchange theory and symbolic interactionism to highlight the social aspect of human cognition and action and theorize how bots affect the online social environment and subsequently change how people interact with each other. We examine the effects of two fundamental forms of bots: reflexive and supervisory, and their differential impact on social exchange. With data from discussion communities on Reddit, we show that reflexive bots increase unidirectional exchange, whereas supervisory bots reduce centralization. Further, reflexive bots increase the depth of discourse, whereas supervisory bots reduce the breadth of discourse. We discuss the implications of these findings on theorizing about bots and the design of online communities."
             },            
             {
@@ -776,7 +807,7 @@
                 ],
                 "venue": "International Conference on Information Systems",
                 "year": 2020,
-                "url": "",
+                "url": "https://aisel.aisnet.org/icis2020/digital_innovation/digital_innovation/1/",
                 "abstract": "How can formal organizations and open communities engage in mutually beneficial relationships? We develop a framework that explains how an open community’s engagement with a formal organization can be mutually beneficial to both in the long-term. We theorize how a symbiotic relationship between open communities and formal organizations can be forged by nurturing various forms of capital flow between them as well as creating virtuous feedback loops within and across each other’s capital creation systems. The framework has implications for understanding innovation in ecosystems and networked economies."
             },
             {
@@ -816,7 +847,7 @@
                 ],
                 "venue": "International Conference on Information Systems",
                 "year": 2019,
-                "url": "",
+                "url": "https://aisel.aisnet.org/icis2019/is_health/is_health/27/",
                 "abstract": "Online communities bring together members of common interest and are recognized as generators of significant knowledge. In healthcare, online communities are a medium for patients to share their stories, gain peer support, and learn more about medical conditions. To succeed, these communities need to sustain their knowledge flows and resolve arising tensions. The current literature suggests that participation dynamics and emergent organizational structure are sufficient to resolve tensions in online communities. Based on increased evidence of the need of formal management to sustain online communities, we propose that emergent structure and roles may not always be sufficient when tensions are prevalent and stakes are high such as in online patient communities. We conduct an inductive field study of Mayo Clinic Connect, a leading online patient community. The findings suggest that formal management and emergent leadership play a complementary role to resolve tensions and sustain knowledge flows. We theorize a virtuous cycle of moderation and socialization that effectively integrates the effort of the community formal management and emergent leaders."
             },
             {
@@ -1304,8 +1335,8 @@
         ],
         "grants": [
             {
-                "id": "Supporting Business Analytics Education",
-                "title": "",
+                "id": "",
+                "title": "Supporting Business Analytics Education",
                 "year": 2022,
                 "venue": "University of Georgia Teaching Enhancement and Innovation Fund",
                 "amount": 6720,
@@ -1392,6 +1423,16 @@
             }
         ],
         "software": [
+            {
+                "id": "",
+                "title": "Safadi Puzzler, a new interactive platform for learning and practicing programming and computer topics",
+                "year": 2022,
+                "authors": [
+                    "Hani Safadi"
+                ],
+                "venue": "Online",
+                "url": "https://www.safadi-puzzler.com/"
+            },            
             {
                 "id": "",
                 "title": "An online platform to explore the process legislation and law making of the Jumpstart Our Business Act of 2012",
