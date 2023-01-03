@@ -400,7 +400,7 @@
                 "authors": [
                     "Hani Safadi"
                 ],
-                "year": "major revision - 2nd round",
+                "year": "major revision - 3rd round",
                 "accepted": "",
                 "venue": "IEEE TSE",
                 "url": "",
@@ -492,7 +492,7 @@
         "-working papers": [    
             {
                 "id": "",
-                "title": "Building Research Programs in the Computationally Intensive Theory Construction Genre ",
+                "title": "Building Research Programs in the Computationally Intensive Theory Construction Genre",
                 "authors": [
                     "Hani Safadi",
                     "Stefan Seidel",
@@ -773,6 +773,17 @@
             }               
         ],
         "conference proceedings": [
+            {
+                "id": "",
+                "title": "Are we making Google stupid?",
+                "authors": [
+                    "Hani Safadi"
+                ],
+                "venue": "International Conference on Information Systems",
+                "year": 2022,
+                "url": "https://aisel.aisnet.org/cgi/viewcontent.cgi?article=1077&context=treos_icis2022",
+                "abstract": ""
+            },                
             {
                 "id": "",
                 "title": "The Effect of Bots on Human Interaction in Online Communities",
@@ -1645,7 +1656,7 @@
             {
                 "venue": "IEEE Transactions on Engineering Management",
                 "venueshort": "IEEE TEM",
-                "role": "Review Board Member",
+                "role": "Editorial Review Board Member",
                 "startdate": 2016
             },
             {
@@ -1741,6 +1752,13 @@
         ],
         "conference editorialship": [
             {
+                "venue": "European Conference on Information Systems",
+                "venueshort": "ECIS",
+                "role": "Track Associate Editor",
+                "startdate": 2022,
+                "enddate":2024
+            },            
+            {
                 "venue": "Americas Conference on Information Systems",
                 "venueshort": "AMCIS",
                 "role": "TREO Track Chair",
@@ -1800,6 +1818,38 @@
     },
     "invitations": {
         "talks": [
+            {
+                "id": "",
+                "title": "Applications of Computational Methods in Qualitative Research",
+                "venue": "Bricolab, McGill University",
+                "year": 2022,
+                "url": "",
+                "abstract": ""
+            }, 
+            {
+                "id": "",
+                "title": "Collective Sensemaking in Online Communities",
+                "venue": "GRESI, HEC Montreal",
+                "year": 2022,
+                "url": "https://gresi.hec.ca/blog/activites-presentations-2022/",
+                "abstract": "Online communities are places where people come together to discuss shared interests. They have become more important as they provide a new way to share information, coordinate action, and create knowledge. Some online communities manage to form strong bonds among members and become true communities, while others fail to find common ground and become fragmented. In this study, we examine the factors that lead to convergence or fragmentation in online communities. We take a discursive approach and rely on the emergence of unified discourse as an indicator of community convergence, and the divergence of discourse into competing topics of interest as an indicator of community fragmentation. We situate our theoretical development within the theory of sensemaking, and hypothesize factors that shape the differing outcome of collective sensemaking in an online community. We test our hypotheses using data from fifteen online communities over more than a decade. We find that community exchanges shape the outcomes of collective sensemaking. Namely, community reciprocity, clustering, and density enable collective sensemaking whereas community transitivity and preferential attachment inhibit it. Our findings contribute a nuanced understanding of how online communities evolve and contribute to the scholarship of collective sensemaking in distributed environments. The study adds to scholarship on online communities by explaining outcomes of convergence and fragmentation and by highlighting the internal dynamics that explain them. It contributes to scholarship on collective sensemaking by documenting what activates and inhibits it in distributed settings where communications unfold over time."
+            },            
+            {
+                "id": "",
+                "title": "Digital Trace Data Research & Computationally Intensive Theorizing",
+                "venue": "Routines.Research.Community Workshop",
+                "year": 2022,
+                "url": "https://drive.google.com/file/d/134VONX2F5bbvBtF_C7zGvtyv4VEcPdsb/view?usp=sharing",
+                "abstract": ""
+            },   
+            {
+                "id": "",
+                "title": "Tribes or Communities: Collective Sensemaking in Online Communities",
+                "venue": "University of Liechtenstein",
+                "year": 2022,
+                "url": "https://gresi.hec.ca/blog/activites-presentations-2022/",
+                "abstract": "Online communities are places where people come together to discuss shared interests. They have become more important as they provide a new way to share information, coordinate action, and create knowledge. Some online communities manage to form strong bonds among members and become true communities, while others fail to find common ground and become fragmented. In this study, we examine the factors that lead to convergence or fragmentation in online communities. We take a discursive approach and rely on the emergence of unified discourse as an indicator of community convergence, and the divergence of discourse into competing topics of interest as an indicator of community fragmentation. We situate our theoretical development within the theory of sensemaking, and hypothesize factors that shape the differing outcome of collective sensemaking in an online community. We test our hypotheses using data from fifteen online communities over more than a decade. We find that community exchanges shape the outcomes of collective sensemaking. Namely, community reciprocity, clustering, and density enable collective sensemaking whereas community transitivity and preferential attachment inhibit it. Our findings contribute a nuanced understanding of how online communities evolve and contribute to the scholarship of collective sensemaking in distributed environments. The study adds to scholarship on online communities by explaining outcomes of convergence and fragmentation and by highlighting the internal dynamics that explain them. It contributes to scholarship on collective sensemaking by documenting what activates and inhibits it in distributed settings where communications unfold over time."
+            },                                                    
             {
                 "id": "",
                 "title": "Information Technology Beyond Good and Evil: The Case of Crowdfunding and Social Justice",
@@ -1874,6 +1924,14 @@
             }
         ],
         "panels": [
+            {
+                "id": "",
+                "title": "Digital Trace Data – What’s in it for Routine Dynamics Research?",
+                "venue": "Routines.Research.Community Workshop",
+                "year": 2022,
+                "url": "https://sites.google.com/view/rrc-workshop-linz/photos-slides/day-2",
+                "abstract": ""
+            },             
             {
                 "id": "",
                 "title": "Content and Textual Analysis in Organizational Research: Techniques and Applications",
