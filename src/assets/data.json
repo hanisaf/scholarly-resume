@@ -158,6 +158,22 @@
         }
     },
     "research": {
+        "accepted and forthcoming":  [
+            {
+                "id": "",
+                "title": "Atrophy in Aging Systems: Evidence, Dynamics, and Antidote",
+                "authors": [
+                    "Amrit Tiwana",
+                    "Hani Safadi"
+                ],
+                "year": "Forthcoming",
+                "accepted": "2023",
+                "venue": "Information Systems Research",
+                "url": "https://github.com/hanisaf/preprint/raw/main/atrophy_ISR.pdf",
+                "abstract": "A pervasive, unbroached phenomenon is how once-modern systems age into unmaintainable albatrosses. We conceptualize this phenomenon from first-principles as system atrophy. We construct a trace dataset from 190 million lines of evolving code in 1,354 systems spanning 25 years to corroborate it. Our middle-range theory introduces system atrophy into the conversation on IS evolution, showing how small increments in modularity slow atrophy but lose potency with age. Atrophy eventually stunts systems, increases bugginess, and disengages developers."
+            }
+        ]
+        ,
         "journal articles": [
             {
                 "id": "",
@@ -329,24 +345,11 @@
         "-papers under review": [
             {
                 "id": "",
-                "title": "Atrophy in Aging IT Systems: Trace Evidence, Dynamics, and Architectural Antidote",
-                "authors": [
-                    "Amrit Tiwana",
-                    "Hani Safadi"
-                ],
-                "year": "major revision - 4th round",
-                "accepted": "",
-                "venue": "Information Systems Research",
-                "url": "",
-                "abstract": "Degradation in IT systems’ internal logical coherence as they age is a pervasive yet underappreciated phenomenon. This phenomenon—conceptualized as system atrophy in this RESEARCH NOTE—can make IT systems inflexible, unmaintainable, meltdown-prone, and exorbitant. It can also obstruct new IT systems and innovations. We theoretically flesh out and empirically corroborate this system atrophy concept to develop two novel ideas. First, small intertemporal increments in codebase modularity as a system evolves (“dynamics of modularity”) slow down system atrophy. Second, this antidote’s potency diminishes as a system ages. We construct a bespoke, massive trace dataset of 190 million evolving lines of code in 1,354 open-source systems spanning over 20 years, and business consequences spanning 25 years to test these ideas. Our first-difference econometric model shows that that the intertemporal dynamics of modularity slow but cannot stop system atrophy. We also show that system atrophy leads to retardation of systems’ evolution, increased bugginess, and attrition of developers’ interest in building on a system’s codebase. Our novel contributions to IS evolution research are expanding with systems’ atrophy the recent conversation on degenerativity in IS, how mutable dynamics of modularity curb it, and their interplay with systems’ age. Our contribution to IS development research is how temporal myopia in systems development aggravates system atrophy. For organizations, we contribute insights into four long-term downstream organizational IS consequences of system atrophy. Our findings also contribute to the adjacent disciplines of software engineering and systems dynamics, and well as to IT practice."
-            },
-            {
-                "id": "",
                 "title": "Enterprise Social Media and its Affordances for Knowledge Work",
                 "authors": [
                     "Hani Safadi"
                 ],
-                "year": "major revision - 3rd round",
+                "year": "major revision - 4th round",
                 "accepted": "",
                 "venue": "MIS Quarterly",
                 "url": "",
@@ -405,21 +408,7 @@
                 "venue": "IEEE TSE",
                 "url": "",
                 "abstract": "Evolution is not one system’s property as its dependencies with other intertwined, evolving systems grow. We conceptualize system-of-systems modularity that simultaneously considers a system’s internal architecture and that of other interdependent systems. Data from 8,220 information systems’ projects over eight years show how system-of-systems modularity explains evolution above-and-beyond prior conceptualizations. They underscore the migration from standalone information systems to systems-of-systems."
-            },
-            {
-                "id": "",
-                "title": "Tribes or Communities: Collective Sensemaking in Online Communities",
-                "authors": [
-                    "Hani Safadi",
-                    "Emmanuelle Vaast",
-                    "Weifeng Li"
-                ],
-                "year": "under review - revise and resubmit",
-                "accepted": "",
-                "venue": "Organization Science",
-                "url": "",
-                "abstract": "Microblogging is a novel digital technology increasingly used for both professional and personal communication. Microblogging relies on the exchange of short, de-contextualized, and public messages, and therefore has been widely used for public communication, self-presentation, self-promotion, and marketing. The characteristics of microblogging do not seem to make it amenable for knowledge creation purposes as knowledge creation requires purposeful dialogue and relational engagement among interlocutors. However, and notwithstanding these shortcomings, microblogging is used in knowledge work, which begs the question of if and how can such communication promote knowledge creation. To answer this research question, we investigate how microblogging was used to talk about an emergent area of knowledge, that of data science, from 2010 to 2015. We examine a large corpus of microblogging messages on Twitter posted by a large and diverse number of stakeholders. Employing computationally intensive theory discovery methods, we uncover a process of knowledge creation that does not require the traditional deep and relational dialogue. Instead, it relies on two processes of spinning and twisting discourses by multiple participants enabled by features of the microblogging platform and punctuated by some external events. The repetition of these processes over time results in the emergence of a novel discourse that reflects the new knowledge participants’ created from combining and expanding upon their prior knowledge. We discuss the importance of this new theory for organizational knowledge management as well as the role of new technologies in shaping and organizing society and the workplace."
-            },  
+            }, 
             {
                 "id": "",
                 "title": "Fit between Coevolving Architectures of IT Applications and IT Project Teams: Dynamics and Evolutionary Consequences of Architectural Nearly-Decomposability",
@@ -461,7 +450,23 @@
                 "venue": "Information Systems Research",
                 "url": "",
                 "abstract": "Silence within systems has received scant attention in IS evolution studies, where interaction predominates. We develop a middle-range theory of how silence inside a system—by funneling team attention—shapes its evolution. Innovative trace analyses of 19.8 million tweaks spanning 274 million lines of code in over 1,300 systems over 25 years show that such silence fosters IS evolution by dynamically funneling its developers’ attention."
-            },
+            }               
+        ],
+        "-working papers": [
+            {
+                "id": "",
+                "title": "Tribes or Communities: Collective Sensemaking in Online Communities",
+                "authors": [
+                    "Hani Safadi",
+                    "Emmanuelle Vaast",
+                    "Weifeng Li"
+                ],
+                "year": "working paper",
+                "accepted": "",
+                "venue": "TBD",
+                "url": "",
+                "abstract": ""
+            },             
             {
                 "id": "",
                 "title": "Information Availability and Design Justice: The Case of Minority Founders in Crowdfunding",
@@ -469,9 +474,9 @@
                     "Hani Safadi",
                     "Emmanuelle Vaast"
                 ],
-                "year": "under review - first round",
+                "year": "working paper",
                 "accepted": "",
-                "venue": "Information Systems Research",
+                "venue": "TBD",
                 "url": "",
                 "abstract": ""
             },
@@ -482,14 +487,12 @@
                     "Hani Safadi",
                     "Richard Watson"
                 ],
-                "year": "under review - first round",
+                "year": "working paper",
                 "accepted": "",
-                "venue": "Journal of the Association for Information Systems",
+                "venue": "TBD",
                 "url": "",
                 "abstract": ""
-            }                
-        ],
-        "-working papers": [    
+            },                 
             {
                 "id": "",
                 "title": "Building Research Programs in the Computationally Intensive Theory Construction Genre",
