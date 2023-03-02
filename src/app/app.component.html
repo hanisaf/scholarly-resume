@@ -164,7 +164,6 @@
               {{paper | apaformat}}
             </li>
           </div>
-          
           <ng-template #elseBlock1>
             <li *ngFor='let paper of data?.research["journal articles"]'>
               {{paper.title}}, <b>{{paper.venue}}</b>, {{paper.year}} 
@@ -172,9 +171,6 @@
               <i>{{paper.authors | coauthors}}</i>
             </li>
           </ng-template>
-          
-
-
         </ol>
   
         <H2>Preprint</H2>
