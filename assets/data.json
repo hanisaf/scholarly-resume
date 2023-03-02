@@ -158,7 +158,7 @@
         }
     },
     "research": {
-        "accepted and forthcoming":  [
+        "journal articles": [
             {
                 "id": "",
                 "title": "Atrophy in Aging Systems: Evidence, Dynamics, and Antidote",
@@ -171,10 +171,7 @@
                 "venue": "Information Systems Research",
                 "url": "https://github.com/hanisaf/preprint/raw/main/atrophy_ISR.pdf",
                 "abstract": "A pervasive, unbroached phenomenon is how once-modern systems age into unmaintainable albatrosses. We conceptualize this phenomenon from first-principles as system atrophy. We construct a trace dataset from 190 million lines of evolving code in 1,354 systems spanning 25 years to corroborate it. Our middle-range theory introduces system atrophy into the conversation on IS evolution, showing how small increments in modularity slow atrophy but lose potency with age. Atrophy eventually stunts systems, increases bugginess, and disengages developers."
-            }
-        ]
-        ,
-        "journal articles": [
+            }, 
             {
                 "id": "",
                 "title": "EDITOR’S COMMENTS. Computationally Intensive Theory Construction: A Primer for Authors and Reviewers",
@@ -190,7 +187,7 @@
                 "venue": "MIS Quarterly",
                 "url": "https://misq.umn.edu/misq/downloads/download/editorial/756/",
                 "abstract": ""
-            },            
+            },          
             {
                 "id": "",
                 "title": "Who Contributes Knowledge? Core-Periphery Tension in Online Innovation Communities",
@@ -204,7 +201,7 @@
                 "venue": "Organization Science",
                 "url": "http://pubsonline.informs.org/doi/10.1287/orsc.2020.1364",
                 "abstract": "Where do valuable contributions originate from in online innovation communities? Prior research provides conflicting answers. One view, consistent with a community of practice perspective, is that valued knowledge contributions are primarily provided by central participants at the core of a community. In contrast, other research—including work adopting an open innovation perspective—predicts that valuable ideas primarily emerge from peripheral participants, those at the margins of a field of knowledge who provide novel ideas and viewpoints. We integrate these contrasting perspectives by considering two distinct forms of position: social embeddedness (a core social position within the social network of participants interacting within a community) and epistemic marginality (a peripheral epistemic position based on the network of topics discussed by a community). Analyzing contributions by 697,412 participants of 52 Stack Exchange online innovation communities, we find that both participants who are socially embedded and participants who are epistemically marginal provide knowledge contributions that are highly valued by fellow community participants. Importantly, among epistemically marginal participants, those with high social embeddedness are more likely to provide contributions valued by the community; by virtue of their epistemic marginality, these participants may offer novel ideas while by virtue of their social embeddedness they may be able to more effectively communicate their ideas to the community. Thus, the production of knowledge in an online innovation community involves a complex interaction between the novelty emanating from the epistemic periphery and the social embeddedness required to make ideas congruent with existing social and epistemic norms."
-            },            
+            },           
             {
                 "id": "10.2196/15983",
                 "title": "Successful Moderation in Online Patient Communities",
