@@ -161,6 +161,31 @@
         "journal articles": [
             {
                 "id": "",
+                "title": "Knowledge Monopolies and the Innovation Divide: A Governance Perspective",
+                "authors": [
+                    "Hani Safadi",
+                    "Richard Watson"
+                ],
+                "year": "Forthcoming",
+                "accepted": "2023",
+                "venue": "Information and Organization",
+                "url": "https://github.com/hanisaf/preprint/raw/main/knowledge_monopolies_InO.pdf",
+                "abstract": "The rise of digital ecosystems has created economic knowledge monopolies that are a threat to innovation. National or regional governance structures, such as laws and regulatory authorities, are used to constrain economic monopolies that are deemed not to be in the public interest. The power of knowledge ecosystems monopolies derives from their imposition of data obligations on ecosystem participation and their usurpation of the rights to data created by the ecosystem.  Consequently, they can use machine learning to develop competitive insights unavailable to any member of their ecosystem. This information asymmetry stifles innovation, stokes the growth of the monopoly, and reinforces its ascendency. We propose that new legislation and an associated regulatory mechanism are needed to curtail coercive data obligations, control or eliminate the exploitation of data rights, and prevent mergers and acquisitions that could create or extend knowledge monopolies."
+            },                
+            {
+                "id": "",
+                "title": "Balancing Affordances and Constraints: Designing Enterprise Social Media for Effective Organizational Knowledge Work",
+                "authors": [
+                    "Hani Safadi"
+                ],
+                "year": "Forthcoming",
+                "accepted": "2023",
+                "venue": "MIS Quarterly",
+                "url": "https://github.com/hanisaf/preprint/raw/main/ESM_MISQ.pdf",
+                "abstract": "Enterprise social media (ESM) is changing how knowledge workers interact and share information; however, a debate persists as to whether ESM is an adequate knowledge management system. ESM provides a rich set of affordances for organizational knowledge work, such as improved organizational memory, but also constrains knowledge work performance because of digital interruptions. Extending and complementing existing scholarship, this study asks the following research question: how can organizations design ESM to realize its knowledge work benefits? Using a computational agent-based model that incorporates the design features of ESM, workers’ attitudes, and resulting ESM-use affordances and constraints, this study shows how ESM-use outcomes are contingent both on the design of and users’ attitudes toward ESM. Specifically, the negative effects of ESM interactivity are mitigated when employees have a low transparency preference and access ESM without posting as much. The study further unpacks asymmetric engagement as the mechanism that leads low transparency configurations to be more resilient to the negative effects of interruptions driven by ESM interactivity. Asymmetric engagement—learning from posted content without interacting often—enables the gradual creation of organizational memory while maintaining a broad user base by minimizing interruptions. These results ultimately contribute a multilevel model of ESM use and knowledge work outcomes, enhancing the theoretical understanding of previously studied mechanisms such as communication visibility and providing implications for organizations designing ESM."
+            },            
+            {
+                "id": "",
                 "title": "Atrophy in Aging Systems: Evidence, Dynamics, and Antidote",
                 "authors": [
                     "Amrit Tiwana",
@@ -288,7 +313,7 @@
                     "Marie-Claude Boudreau",
                     "Samer Faraj"
                 ],
-                "year": "2022",
+                "year": "2023",
                 "accepted": "2020",
                 "venue": "Cambridge University Press Handbook of Qualitative Research in the Age of Digitalisation",
                 "url": "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3760009",
@@ -342,18 +367,6 @@
         "-papers under review": [
             {
                 "id": "",
-                "title": "Enterprise Social Media and its Affordances for Knowledge Work",
-                "authors": [
-                    "Hani Safadi"
-                ],
-                "year": "major revision - 4th round",
-                "accepted": "",
-                "venue": "MIS Quarterly",
-                "url": "",
-                "abstract": "Recent research suggests that the adoption of enterprise social media technologies in organizations is associated with better knowledge sharing practices. The theory of ambient awareness proposes that by making communication visible throughout social media, workers learn more about other co-workers’ skills and social relationships. We thoroughly examine how enterprise social media results in better knowledge sharing practices. We center our theoretical argument around the role of organizational networks in promoting internal knowledge transfer. We examine how workers’ metaknowledge networks (knowing who knows whom and who knows what) are associated with internal knowledge transfer. We elicit the assumptions related to using social media at work compared to face-to-face socialization and model them with an agent-based model. The results demonstrate that ambient awareness is not inherently superior to face-to-face socialization in promoting knowledge transfer. The relative advantage of ambient awareness over face-to-face socialization depends on workers’ capacity to internalize the disclosed metaknowledge. Furthermore, ambient awareness results in metaknowledge networks of larger size but lower density creating a contradictory effect on knowledge transfer. The results suggest that the effectiveness of enterprise social media is contingent on the various individual and organizational factors and provide further implications for the implementation of these technologies."
-            },
-            {
-                "id": "",
                 "title": "The Effect of Bots on Human Interaction in Online Communities",
                 "authors": [
                     "Hani Safadi",
@@ -380,20 +393,7 @@
                 "venue": "Journal of the Association for Information Systems",
                 "url": "",
                 "abstract": "Mobile device applications are the largest segment of IS with an estimated 5 billion users. Yet despite their widespread and growing use, there is little research examining how these mobile applications evolve with each new release update. In order to ensure market success, developers need to satisfy their user base by incorporating users’ reviews and feedback on the one hand, and explore new features and content that allows them to stay ahead of their rivals on the other. Drawing on the organizational learning and innovation literature, the findings of the present study suggest that balancing these two activities in the consequent updates is likely to result in the app’s success. In addition, the findings suggest that developers’ exploitation and exploration activities are influenced by the characteristics of users’ online reviews. More specifically, they suggest that users’ convergence on similar issues (review concurrence) is likely to favor exploitation over exploration activities, while the number of different reviews (review volume) has curvilinear relation with the ratio of exploitation to exploration activities."
-            }, 
-            {
-                "id": "",
-                "title": "Knowledge Monopolies and the Innovation Divide: A Governance Perspective",
-                "authors": [
-                    "Hani Safadi",
-                    "Richard Watson"
-                ],
-                "year": "major revision - 3rd round",
-                "accepted": "",
-                "venue": "Information and Organization",
-                "url": "",
-                "abstract": "The rise of digital ecosystems has created economic knowledge monopolies that are a threat to innovation. National or regional governance structures, such as laws and regulatory authorities, are used to constrain economic monopolies that are deemed not to be in the public interest. The power of knowledge ecosystems monopolies derives from their imposition of data obligations on ecosystem participation and their usurpation of the rights to data created by the ecosystem.  Consequently, they can use machine learning to develop competitive insights unavailable to any member of their ecosystem. This information asymmetry stifles innovation, stokes the growth of the monopoly, and reinforces its ascendency. We propose that new legislation and an associated regulatory mechanism are needed to curtail coercive data obligations, control or eliminate the exploitation of data rights, and prevent mergers and acquisitions that could create or extend knowledge monopolies."
-            },            
+            },         
             {
                 "id": "",
                 "title": "The Evolutionary Consequences of System-of-Systems Modularity",
@@ -442,7 +442,7 @@
                     "Hani Safadi"
 
                 ],
-                "year": "under review - first round",
+                "year": "major revision - 2nd round",
                 "accepted": "",
                 "venue": "Information Systems Research",
                 "url": "",
@@ -1924,6 +1924,22 @@
             }
         ],
         "panels": [
+            {
+                "id": "",
+                "title": "Content and Textual Analysis in Organizational Research: Techniques and Applications",
+                "venue": "Academy of Management Meeting",
+                "year": 2023,
+                "url": "",
+                "abstract": ""
+            }, 
+            {
+                "id": "",
+                "title": "Towards A Craft Of Computational Theory Construction",
+                "venue": "Academy of Management Meeting",
+                "year": 2023,
+                "url": "",
+                "abstract": ""
+            },                         
             {
                 "id": "",
                 "title": "Digital Trace Data – What’s in it for Routine Dynamics Research?",
