@@ -2002,6 +2002,14 @@
         "awards": [
             {
                 "id": "",
+                "title": "Outstanding Teaching Award",
+                "venue": "University of Georgia, Terry College of Business",
+                "year": 2023,
+                "url": "",
+                "abstract": ""
+            },            
+            {
+                "id": "",
                 "title": "First Runner-Up Best Published Paper Award: Who Contributes Knowledge? Core-Periphery Tension in Online Innovation Communities",
                 "venue": "Annual Meeting of the Academy of Management",
                 "year": 2022,
