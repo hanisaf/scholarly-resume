@@ -10,7 +10,7 @@
         "websites": [
             {
                 "title": "UGA",
-                "url": "https://www.terry.uga.edu/directory/mis/hani-safadi.html"
+                "url": "https://www.terry.uga.edu/directory/hani-safadi"
             },
             {
                 "title": "Google Scholar",
@@ -161,17 +161,19 @@
         "journal articles": [
             {
                 "id": "",
-                "title": "Knowledge Monopolies and the Innovation Divide: A Governance Perspective",
+                "title": "The Impact of Feature Exploration and Exploitation on the Evolution and Survival of Mobile Applications",
                 "authors": [
+                    "Shadi Shuraida",
                     "Hani Safadi",
-                    "Richard Watson"
+                    "Radhika Jain",
+                    "Qiang Gao"
                 ],
                 "year": "Forthcoming",
                 "accepted": "2023",
-                "venue": "Information and Organization",
-                "url": "https://github.com/hanisaf/preprint/raw/main/knowledge_monopolies_InO.pdf",
-                "abstract": "The rise of digital ecosystems has created economic knowledge monopolies that are a threat to innovation. National or regional governance structures, such as laws and regulatory authorities, are used to constrain economic monopolies that are deemed not to be in the public interest. The power of knowledge ecosystems monopolies derives from their imposition of data obligations on ecosystem participation and their usurpation of the rights to data created by the ecosystem.  Consequently, they can use machine learning to develop competitive insights unavailable to any member of their ecosystem. This information asymmetry stifles innovation, stokes the growth of the monopoly, and reinforces its ascendency. We propose that new legislation and an associated regulatory mechanism are needed to curtail coercive data obligations, control or eliminate the exploitation of data rights, and prevent mergers and acquisitions that could create or extend knowledge monopolies."
-            },                
+                "venue": "Journal of the Association for Information Systems",
+                "url": "https://github.com/hanisaf/preprint/blob/main/app_reviews_JAIS.pdf",
+                "abstract": "Mobile device applications are the largest segment of IS with an estimated 5 billion users. Yet despite their widespread and growing use, there is little research examining how these mobile applications evolve with each new release update. To ensure market success, developers need to satisfy their user base by incorporating users’ reviews and feedback on the one hand and exploring new features and content that allows them to stay competitive on the other. Drawing on the organizational learning and innovation literature, the findings of the present study suggest that a mix of these two activities of exploitation and exploration in consequent app updates is likely to result in the app’s success. We further contribute to this body of work by examining the influence of users’ online review characteristics on exploitation and exploration activities in app development. The findings suggest that users’ convergence on similar issues (review concurrence) is likely to favor an orientation towards exploitation over exploration activities, while the number of user reviews (review volume) has a curvilinear relationship with it."
+            }, 
             {
                 "id": "",
                 "title": "Balancing Affordances and Constraints: Designing Enterprise Social Media for Effective Organizational Knowledge Work",
@@ -183,7 +185,20 @@
                 "venue": "MIS Quarterly",
                 "url": "https://github.com/hanisaf/preprint/raw/main/ESM_MISQ.pdf",
                 "abstract": "Enterprise social media (ESM) is changing how knowledge workers interact and share information; however, a debate persists as to whether ESM is an adequate knowledge management system. ESM provides a rich set of affordances for organizational knowledge work, such as improved organizational memory, but also constrains knowledge work performance because of digital interruptions. Extending and complementing existing scholarship, this study asks the following research question: how can organizations design ESM to realize its knowledge work benefits? Using a computational agent-based model that incorporates the design features of ESM, workers’ attitudes, and resulting ESM-use affordances and constraints, this study shows how ESM-use outcomes are contingent both on the design of and users’ attitudes toward ESM. Specifically, the negative effects of ESM interactivity are mitigated when employees have a low transparency preference and access ESM without posting as much. The study further unpacks asymmetric engagement as the mechanism that leads low transparency configurations to be more resilient to the negative effects of interruptions driven by ESM interactivity. Asymmetric engagement—learning from posted content without interacting often—enables the gradual creation of organizational memory while maintaining a broad user base by minimizing interruptions. These results ultimately contribute a multilevel model of ESM use and knowledge work outcomes, enhancing the theoretical understanding of previously studied mechanisms such as communication visibility and providing implications for organizations designing ESM."
-            },            
+            }, 
+            {
+                "id": "",
+                "title": "Knowledge Monopolies and the Innovation Divide: A Governance Perspective",
+                "authors": [
+                    "Hani Safadi",
+                    "Richard Watson"
+                ],
+                "year": "2023",
+                "accepted": "2023",
+                "venue": "Information and Organization",
+                "url": "https://github.com/hanisaf/preprint/raw/main/knowledge_monopolies_InO.pdf",
+                "abstract": "The rise of digital ecosystems has created economic knowledge monopolies that are a threat to innovation. National or regional governance structures, such as laws and regulatory authorities, are used to constrain economic monopolies that are deemed not to be in the public interest. The power of knowledge ecosystems monopolies derives from their imposition of data obligations on ecosystem participation and their usurpation of the rights to data created by the ecosystem.  Consequently, they can use machine learning to develop competitive insights unavailable to any member of their ecosystem. This information asymmetry stifles innovation, stokes the growth of the monopoly, and reinforces its ascendency. We propose that new legislation and an associated regulatory mechanism are needed to curtail coercive data obligations, control or eliminate the exploitation of data rights, and prevent mergers and acquisitions that could create or extend knowledge monopolies."
+            },                           
             {
                 "id": "",
                 "title": "Atrophy in Aging Systems: Evidence, Dynamics, and Antidote",
@@ -191,7 +206,7 @@
                     "Amrit Tiwana",
                     "Hani Safadi"
                 ],
-                "year": "Forthcoming",
+                "year": "2023",
                 "accepted": "2023",
                 "venue": "Information Systems Research",
                 "url": "https://github.com/hanisaf/preprint/raw/main/atrophy_ISR.pdf",
@@ -367,6 +382,20 @@
         "-papers under review": [
             {
                 "id": "",
+                "title": "Hybrid Governance of Firm-Sponsored Online Communities: Aligning Top-Down and Bottom-Up Approaches",
+                "authors": [
+                    "Hani Safadi",
+                    "Tanner Skousen",
+                    "Elena Karahanna"
+                ],
+                "year": "conditionally accepted",
+                "accepted": "",
+                "venue": "Information Systems Research",
+                "url": "",
+                "abstract": "Organizations are increasingly sponsoring online communities to harness the creativity of their members. Prior studies of firm-sponsored online communities highlight the importance of adopting hybrid approaches of governance (top-down and bottom-up). However, governing firmsponsored online communities is challenging because of the different organizing logics between the community and the sponsoring organization. This study focuses on gaining a better understanding of how to integrate and align bottom-up and top-down approaches in firmsponsored online communities to mitigate challenges arising from hybrid governance. Focusing on governance alignment, we conduct an inductive case study of Mayo Clinic Connect, an online patient community sponsored by Mayo Clinic. We find that a key to successful hybrid governance is governance alignment processes that continually integrate top-down and bottom-up modes of governance. Whereas prior work has suggested a tradeoff between effectiveness and legitimacy in balancing top-down and bottom-up governance, our findings suggest that such a trade-off is not a definite outcome of hybrid governance when top-down and bottom-up approaches are properly aligned."
+            },
+            {
+                "id": "",
                 "title": "The Effect of Bots on Human Interaction in Online Communities",
                 "authors": [
                     "Hani Safadi",
@@ -378,31 +407,16 @@
                 "venue": "MIS Quarterly",
                 "url": "",
                 "abstract": "In this research note, we draw on social exchange theory to theorize about how bots may influence human-to-human interaction in online communities. In doing so, we distinguish between two forms of bots – reflexive and supervisory bots – and point out two mechanisms that influence human interaction: (1) bots can both substitute and complement human activity, and (2) bots can be perceived anthropomorphically or mechanomorphically. With data from discussion communities on Reddit, we show that supervisory bots decrease direct reciprocity and preferential attachment in communities, whereas reflexive bots increase generalized exchange among community participants. We discuss the implications of these findings on theorizing about bots and the design of online communities."
-            },
-            {
-                "id": "",
-                "title": "The Impact of Feature Exploration and Exploitation on the Evolution and Survival of Mobile Applications",
-                "authors": [
-                    "Shadi Shuraida",
-                    "Hani Safadi",
-                    "Radhika Jain",
-                    "Qiang Gao"
-                ],
-                "year": "major revision - 3rd round",
-                "accepted": "",
-                "venue": "Journal of the Association for Information Systems",
-                "url": "",
-                "abstract": "Mobile device applications are the largest segment of IS with an estimated 5 billion users. Yet despite their widespread and growing use, there is little research examining how these mobile applications evolve with each new release update. In order to ensure market success, developers need to satisfy their user base by incorporating users’ reviews and feedback on the one hand, and explore new features and content that allows them to stay ahead of their rivals on the other. Drawing on the organizational learning and innovation literature, the findings of the present study suggest that balancing these two activities in the consequent updates is likely to result in the app’s success. In addition, the findings suggest that developers’ exploitation and exploration activities are influenced by the characteristics of users’ online reviews. More specifically, they suggest that users’ convergence on similar issues (review concurrence) is likely to favor exploitation over exploration activities, while the number of different reviews (review volume) has curvilinear relation with the ratio of exploitation to exploration activities."
-            },         
+            },        
             {
                 "id": "",
                 "title": "The Evolutionary Consequences of System-of-Systems Modularity",
                 "authors": [
                     "Hani Safadi"
                 ],
-                "year": "major revision - 3rd round",
+                "year": "under review",
                 "accepted": "",
-                "venue": "IEEE TSE",
+                "venue": "ACM TOSEM",
                 "url": "",
                 "abstract": "Evolution is not one system’s property as its dependencies with other intertwined, evolving systems grow. We conceptualize system-of-systems modularity that simultaneously considers a system’s internal architecture and that of other interdependent systems. Data from 8,220 information systems’ projects over eight years show how system-of-systems modularity explains evolution above-and-beyond prior conceptualizations. They underscore the migration from standalone information systems to systems-of-systems."
             }, 
@@ -419,20 +433,6 @@
                 "venue": "MIS Quarterly",
                 "url": "",
                 "abstract": "We study how fit between the unfolding architecture of IT applications (“apps”) and IT maintenance teams (“app<-->team fit”) over apps’ post-implementation lifespan drives the evolution of IT apps. Attempts to tweak an IT app often unveil lurking design imperfections, which new generations of technologies exacerbate. Such appteam misfits can derail IT apps’ evolvability. We develop a middle-range theory of how fit between the evolving architecture of IT apps and the architecture of IT maintenance teams induces two nuanced, cardinal mechanisms through which IT apps evolve. These mechanisms—evolution of only an app’s modules and evolution of only links among its modules—parsimoniously explain incremental, radical, modular, and architectural innovation in evolving IT apps. We test these ideas using novel econometric analyses of a bespoke trace dataset constructed by analyzing the source code from over 1,300 open-source IT apps, spanning about 5,000 million lines of code, 7 million modules, 10 million changes, and over 280,000 person-years of work spanning 20 years. Our findings substantively contribute to research on IT evolution and IT architecture. Our novel contribution to research on IT architecture is how fit between the coevolving architectures of IT apps and IT project teams compensate for emergent, residual imperfections in app architecture, reinforcing the evolutionary payoffs from choices about each other. Our novel contributions to research on IT evolution are developing the two cardinal mechanisms that explain how IT apps evolve and tracing them back to app architecture, team architecture, and their interplay."
-            },
-            {
-                "id": "",
-                "title": "Hybrid Governance of Firm-Sponsored Online Communities: Aligning Top-Down and Bottom-Up Approaches",
-                "authors": [
-                    "Hani Safadi",
-                    "Tanner Skousen",
-                    "Elena Karahanna"
-                ],
-                "year": "major revision - 2nd round",
-                "accepted": "",
-                "venue": "Information Systems Research",
-                "url": "",
-                "abstract": "Organizations are increasingly sponsoring online communities to harness the creativity of their members. Prior studies of firm-sponsored online communities highlight the importance of adopting hybrid approaches of governance (top-down and bottom-up). However, governing firmsponsored online communities is challenging because of the different organizing logics between the community and the sponsoring organization. This study focuses on gaining a better understanding of how to integrate and align bottom-up and top-down approaches in firmsponsored online communities to mitigate challenges arising from hybrid governance. Focusing on governance alignment, we conduct an inductive case study of Mayo Clinic Connect, an online patient community sponsored by Mayo Clinic. We find that a key to successful hybrid governance is governance alignment processes that continually integrate top-down and bottom-up modes of governance. Whereas prior work has suggested a tradeoff between effectiveness and legitimacy in balancing top-down and bottom-up governance, our findings suggest that such a trade-off is not a definite outcome of hybrid governance when top-down and bottom-up approaches are properly aligned."
             },  
             {
                 "id": "",
@@ -440,16 +440,13 @@
                 "authors": [
                     "Amrit Tiwana",
                     "Hani Safadi"
-
                 ],
                 "year": "major revision - 2nd round",
                 "accepted": "",
                 "venue": "Information Systems Research",
                 "url": "",
                 "abstract": "Silence within systems has received scant attention in IS evolution studies, where interaction predominates. We develop a middle-range theory of how silence inside a system—by funneling team attention—shapes its evolution. Innovative trace analyses of 19.8 million tweaks spanning 274 million lines of code in over 1,300 systems over 25 years show that such silence fosters IS evolution by dynamically funneling its developers’ attention."
-            }               
-        ],
-        "-working papers": [
+            },
             {
                 "id": "",
                 "title": "Tribes or Communities: Collective Sensemaking in Online Communities",
@@ -458,12 +455,29 @@
                     "Emmanuelle Vaast",
                     "Weifeng Li"
                 ],
-                "year": "working paper",
+                "year": "under review",
                 "accepted": "",
-                "venue": "TBD",
+                "venue": "Information Systems Research",
                 "url": "",
                 "abstract": ""
-            },             
+            },
+            {
+                "id": "",
+                "title": "Developers’ Multi-Project Involvement and Continued Contribution to Open-Source Software Projects",
+                "authors": [
+                    "Pratyush Sharma",
+                    "Hani Safadi",
+                    "John Hulland",
+                    "Elena Karahanna"
+                ],
+                "year": "under review",
+                "accepted": "",
+                "venue": "Journal of Strategic Information Systems",
+                "url": "",
+                "abstract": ""
+            }               
+        ],
+        "-working papers": [
             {
                 "id": "",
                 "title": "Information Availability and Design Justice: The Case of Minority Founders in Crowdfunding",
@@ -529,22 +543,7 @@
                 "venue": "TBD",
                 "url": "",
                 "abstract": "Learning is the process of acquiring knowledge or skill that results in changing behavior. People learn by interacting with others. The design of social environments can thus shape the learning outcomes of participants. Today, social interaction is mediated by information technology. Building on prior work on organizational learning, open innovation, and pedagogy, we advance an argument for competition as an element in online environments to motivate and promote participants’ learning. We benefit from DOTA 2, an online video game in which players join competing teams fighting in battles. Leveraging data about 3.5 million matches, we operationalize learning using objective data and test our research hypotheses. We find that competition has a positive effect on players’ learning but a short-term demotivational effect. These findings suggest that competition has an important but yet unacknowledged role in designing online environments."
-            },                       
-            {
-                "id": "",
-                "title": "Developers’ Multi-Project Involvement and Continued Contribution to Open-Source Software Projects",
-                "authors": [
-                    "Pratyush Sharma",
-                    "Hani Safadi",
-                    "John Hulland",
-                    "Elena Karahanna"
-                ],
-                "year": "working paper",
-                "accepted": "",
-                "venue": "TBD",
-                "url": "",
-                "abstract": ""
-            },            
+            },                                  
             {
                 "id": "",
                 "title": "Anchoring and Affordance Reconstitution during Information Systems Implementation and Transition",
