@@ -187,7 +187,7 @@
                 "abstract": "Enterprise social media (ESM) is changing how knowledge workers interact and share information; however, a debate persists as to whether ESM is an adequate knowledge management system. ESM provides a rich set of affordances for organizational knowledge work, such as improved organizational memory, but also constrains knowledge work performance because of digital interruptions. Extending and complementing existing scholarship, this study asks the following research question: how can organizations design ESM to realize its knowledge work benefits? Using a computational agent-based model that incorporates the design features of ESM, workers’ attitudes, and resulting ESM-use affordances and constraints, this study shows how ESM-use outcomes are contingent both on the design of and users’ attitudes toward ESM. Specifically, the negative effects of ESM interactivity are mitigated when employees have a low transparency preference and access ESM without posting as much. The study further unpacks asymmetric engagement as the mechanism that leads low transparency configurations to be more resilient to the negative effects of interruptions driven by ESM interactivity. Asymmetric engagement—learning from posted content without interacting often—enables the gradual creation of organizational memory while maintaining a broad user base by minimizing interruptions. These results ultimately contribute a multilevel model of ESM use and knowledge work outcomes, enhancing the theoretical understanding of previously studied mechanisms such as communication visibility and providing implications for organizations designing ESM."
             }, 
             {
-                "id": "",
+                "id": "10.1016/j.infoandorg.2023.100466",
                 "title": "Knowledge Monopolies and the Innovation Divide: A Governance Perspective",
                 "authors": [
                     "Hani Safadi",
@@ -200,7 +200,7 @@
                 "abstract": "The rise of digital ecosystems has created economic knowledge monopolies that are a threat to innovation. National or regional governance structures, such as laws and regulatory authorities, are used to constrain economic monopolies that are deemed not to be in the public interest. The power of knowledge ecosystems monopolies derives from their imposition of data obligations on ecosystem participation and their usurpation of the rights to data created by the ecosystem.  Consequently, they can use machine learning to develop competitive insights unavailable to any member of their ecosystem. This information asymmetry stifles innovation, stokes the growth of the monopoly, and reinforces its ascendency. We propose that new legislation and an associated regulatory mechanism are needed to curtail coercive data obligations, control or eliminate the exploitation of data rights, and prevent mergers and acquisitions that could create or extend knowledge monopolies."
             },                           
             {
-                "id": "",
+                "id": "10.1287/isre.2023.1218",
                 "title": "Atrophy in Aging Systems: Evidence, Dynamics, and Antidote",
                 "authors": [
                     "Amrit Tiwana",
@@ -229,7 +229,7 @@
                 "abstract": ""
             },          
             {
-                "id": "",
+                "id": "10.1287/orsc.2020.1364",
                 "title": "Who Contributes Knowledge? Core-Periphery Tension in Online Innovation Communities",
                 "authors": [
                     "Hani Safadi",
@@ -321,7 +321,7 @@
         ],
         "book chapters": [
             {
-                "id": "",
+                "id": "10.1017/9781009106436.011",
                 "title": "One Picture to Study One Thousand Words: Visualization for Qualitative Research in the Age of Digitalization",
                 "authors": [
                     "Hani Safadi",
@@ -330,9 +330,9 @@
                 ],
                 "year": "2023",
                 "accepted": "2020",
-                "venue": "Cambridge University Press Handbook of Qualitative Research in the Age of Digitalisation",
+                "venue": "Cambridge Handbook of Qualitative Digital Research",
                 "url": "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3760009",
-                "abstract": "We propose a framework and guidelines of how to incorporate the different available methods (topics models, visualization, etc ...) within the qualitative researcher's toolkit. Specialized tools are needed to take advantage of the opportunities offered by large scale qualitative  data.  A lot has been written about mixed methods from an epistemological point of view but not much about how such research can be feasibly realized. This is especially important in the age of big data where traditional qualitative methods are no longer feasible. We focus on four specific activities are especially challenging if conducted in the context of big textual data: theoretical sampling, coding, constant comparison, and the creation of a chain of evidence. We offer suggestions for how emerging methodological tools  can help facilitate, augment, and transform the grounded theory process."
+                "abstract": "This chapter advocates further advancing qualitative research methods by creating tools to investigate digital traces of digital phenomena. It specifically focuses on large-scale textual datasets and shows how interactive visualization can be used to augment qualitative researchers’ capabilities to theorize from trace data. The approach is grounded on prior work in sense-making, visual analytics and interactive visualization, and shows how tasks enabled by visualization systems can be synergistically integrated with the qualitative research process. Finally, these principles are applied with several open-source text mining and interactive visualization systems. The chapter aims to stimulate further interest and provide specific guidelines for developing and expanding the repertoire of open-source systems for qualitative research."
             }
         ],        
         "Preprint": [
@@ -382,7 +382,7 @@
         "-papers under review": [
             {
                 "id": "",
-                "title": "Hybrid Governance of Firm-Sponsored Online Communities: Aligning Top-Down and Bottom-Up Approaches",
+                "title": "Firm-Sponsored Online Communities: Building Alignment Capabilities for Participatory Governance",
                 "authors": [
                     "Hani Safadi",
                     "Tanner Skousen",
@@ -410,19 +410,7 @@
             },        
             {
                 "id": "",
-                "title": "The Evolutionary Consequences of System-of-Systems Modularity",
-                "authors": [
-                    "Hani Safadi"
-                ],
-                "year": "under review",
-                "accepted": "",
-                "venue": "ACM TOSEM",
-                "url": "",
-                "abstract": "Evolution is not one system’s property as its dependencies with other intertwined, evolving systems grow. We conceptualize system-of-systems modularity that simultaneously considers a system’s internal architecture and that of other interdependent systems. Data from 8,220 information systems’ projects over eight years show how system-of-systems modularity explains evolution above-and-beyond prior conceptualizations. They underscore the migration from standalone information systems to systems-of-systems."
-            }, 
-            {
-                "id": "",
-                "title": "Fit between Coevolving Architectures of IT Applications and IT Project Teams: Dynamics and Evolutionary Consequences of Architectural Nearly-Decomposability",
+                "title": "Dynamics of Mirroring in Open-Source Software Projects",
                 "authors": [
                     "Amrit Tiwana",
                     "Hani Safadi"
@@ -455,7 +443,7 @@
                     "Emmanuelle Vaast",
                     "Weifeng Li"
                 ],
-                "year": "under review",
+                "year": "major revision - 2nd round",
                 "accepted": "",
                 "venue": "Information Systems Research",
                 "url": "",
@@ -470,12 +458,24 @@
                     "John Hulland",
                     "Elena Karahanna"
                 ],
-                "year": "under review",
+                "year": "major revision - 2nd round",
                 "accepted": "",
                 "venue": "Journal of Strategic Information Systems",
                 "url": "",
                 "abstract": ""
             },
+            {
+                "id": "",
+                "title": "The Evolutionary Consequences of System-of-Systems Modularity",
+                "authors": [
+                    "Hani Safadi"
+                ],
+                "year": "under review",
+                "accepted": "",
+                "venue": "ACM TOSEM",
+                "url": "",
+                "abstract": "Evolution is not one system’s property as its dependencies with other intertwined, evolving systems grow. We conceptualize system-of-systems modularity that simultaneously considers a system’s internal architecture and that of other interdependent systems. Data from 8,220 information systems’ projects over eight years show how system-of-systems modularity explains evolution above-and-beyond prior conceptualizations. They underscore the migration from standalone information systems to systems-of-systems."
+            }, 
             {
                 "id": "",
                 "title": "Capital Asymmetry",
@@ -501,22 +501,36 @@
                 "venue": "Organization Science",
                 "url": "",
                 "abstract": "We explore the unbroached dynamics of attention allocation in teams engaged in complex knowledge work. We introduce the notions of attention fixation and attention switching, concepts present only implicitly in prior studies, and theorize how their interplay drives team productivity. Attention fixation refers to an intratemporal focus on a single issue, while attention switching refers to the intertemporal shifting of attention between issues. Using multi-decade trace data from 1,356 teams developing open-source software projects, we find that both attention fixation and switching independently enhance team productivity but are mutual substitutes. We then address the paradox of how teams benefit from both strategies even though they’re substitutive. We abductively employ sequence mining and identify two longer-term, dynamic attention allocation strategies: (1) sequential attention allocation, characterized by high fixation and low switching, and (2) vacillating attention allocation, characterized by low fixation and high switching. Our unique contribution is bringing dynamics into the theoretical conversation on attention allocation in knowledge work."
-            }              
-        ],
-        "-working papers": [
+            },
             {
                 "id": "",
-                "title": "Information Availability and Design Justice: The Case of Minority Founders in Crowdfunding",
+                "title": "Information Availability and Design Responsibility: The Case of Minority Founders in Crowdfunding",
                 "authors": [
                     "Hani Safadi",
                     "Emmanuelle Vaast"
                 ],
-                "year": "working paper",
+                "year": "under review",
                 "accepted": "",
-                "venue": "TBD",
+                "venue": "Journal of the Association for Information Systems",
                 "url": "",
                 "abstract": ""
             },
+            {
+                "id": "",
+                "title": "Member Leaders in Online Patient Communities: A Recipe for Resilience",
+                "authors": [
+                    "Tanner Skousen",
+                    "Hani Safadi",
+                    "Colleen Young"
+                ],
+                "year": "under review",
+                "accepted": "",
+                "venue": "",
+                "url": "",
+                "abstract": ""
+            }              
+        ],
+        "-working papers": [
             {
                 "id": "",
                 "title": "Digital Symbiosis, Data Obligations, and Data Rights: A New Perspective on Digital Ecosystems for Understanding their Societal Influence",
