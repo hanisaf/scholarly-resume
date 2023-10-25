@@ -45,7 +45,7 @@ export class AppComponent  {
     popupWin = window.open('', '_blank', 'top=0,left=0,height=100%,width=auto');
     popupWin.document.open();
     let title = this.data.about.name;
-    popupWin.document.write(`
+    let html = `
       <html>
         <head>
           <title>Resume of ${title}</title>
@@ -58,8 +58,9 @@ export class AppComponent  {
           </style>
         </head>
     <body onload="window.print()">${printContents}</body>
-      </html>`
-    );
+      </html>`;
+    console.log(html);
+    popupWin.document.write(html);
     popupWin.document.close();
 }
 
