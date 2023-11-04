@@ -2041,6 +2041,14 @@
         "awards": [
             {
                 "id": "",
+                "title": "Research Excellence Award",
+                "venue": "University of Georgia, Terry College of Business",
+                "year": 2023,
+                "url": "",
+                "abstract": ""
+            },              
+            {
+                "id": "",
                 "title": "Outstanding Teaching Award",
                 "venue": "University of Georgia, Terry College of Business",
                 "year": 2023,
