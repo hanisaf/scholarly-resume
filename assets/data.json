@@ -161,6 +161,20 @@
         "journal articles": [
             {
                 "id": "",
+                "title": "The Effect of Bots on Human Interaction in Online Communities",
+                "authors": [
+                    "Hani Safadi",
+                    "John Lalor",
+                    "Nicholas Berente"
+                ],
+                "year": "Forthcoming",
+                "accepted": "2023",
+                "venue": "MIS Quarterly",
+                "url": "https://github.com/hanisaf/preprint/blob/main/bots_humans_MISQ.pdf",
+                "abstract": "In this research note, we draw on social exchange theory to theorize about how bots may influence human-to-human interaction in online communities. In doing so, we distinguish between two forms of bots – reflexive and supervisory bots – and point out two mechanisms that influence human interaction: (1) bots can both substitute and complement human activity, and (2) bots can be perceived anthropomorphically or mechanomorphically. With data from discussion communities on Reddit, we show that supervisory bots decrease direct reciprocity and preferential attachment in communities, whereas reflexive bots increase generalized exchange among community participants. We discuss the implications of these findings on theorizing about bots and the design of online communities."
+            },
+            {
+                "id": "",
                 "title": "The Impact of Feature Exploration and Exploitation on the Evolution and Survival of Mobile Applications",
                 "authors": [
                     "Shadi Shuraida",
@@ -396,40 +410,12 @@
             },
             {
                 "id": "",
-                "title": "The Effect of Bots on Human Interaction in Online Communities",
-                "authors": [
-                    "Hani Safadi",
-                    "John Lalor",
-                    "Nicholas Berente"
-                ],
-                "year": "major revision - 3rd round",
-                "accepted": "",
-                "venue": "MIS Quarterly",
-                "url": "",
-                "abstract": "In this research note, we draw on social exchange theory to theorize about how bots may influence human-to-human interaction in online communities. In doing so, we distinguish between two forms of bots – reflexive and supervisory bots – and point out two mechanisms that influence human interaction: (1) bots can both substitute and complement human activity, and (2) bots can be perceived anthropomorphically or mechanomorphically. With data from discussion communities on Reddit, we show that supervisory bots decrease direct reciprocity and preferential attachment in communities, whereas reflexive bots increase generalized exchange among community participants. We discuss the implications of these findings on theorizing about bots and the design of online communities."
-            },        
-            {
-                "id": "",
-                "title": "Dynamics of Mirroring in Open-Source Software Projects",
-                "authors": [
-                    "Amrit Tiwana",
-                    "Hani Safadi"
-
-                ],
-                "year": "major revision - 2nd round",
-                "accepted": "",
-                "venue": "MIS Quarterly",
-                "url": "",
-                "abstract": "We study how fit between the unfolding architecture of IT applications (“apps”) and IT maintenance teams (“app<-->team fit”) over apps’ post-implementation lifespan drives the evolution of IT apps. Attempts to tweak an IT app often unveil lurking design imperfections, which new generations of technologies exacerbate. Such appteam misfits can derail IT apps’ evolvability. We develop a middle-range theory of how fit between the evolving architecture of IT apps and the architecture of IT maintenance teams induces two nuanced, cardinal mechanisms through which IT apps evolve. These mechanisms—evolution of only an app’s modules and evolution of only links among its modules—parsimoniously explain incremental, radical, modular, and architectural innovation in evolving IT apps. We test these ideas using novel econometric analyses of a bespoke trace dataset constructed by analyzing the source code from over 1,300 open-source IT apps, spanning about 5,000 million lines of code, 7 million modules, 10 million changes, and over 280,000 person-years of work spanning 20 years. Our findings substantively contribute to research on IT evolution and IT architecture. Our novel contribution to research on IT architecture is how fit between the coevolving architectures of IT apps and IT project teams compensate for emergent, residual imperfections in app architecture, reinforcing the evolutionary payoffs from choices about each other. Our novel contributions to research on IT evolution are developing the two cardinal mechanisms that explain how IT apps evolve and tracing them back to app architecture, team architecture, and their interplay."
-            },  
-            {
-                "id": "",
                 "title": "Silence in Evolving Systems: Architectural Origins, Mechanisms, and Consequences",
                 "authors": [
                     "Amrit Tiwana",
                     "Hani Safadi"
                 ],
-                "year": "major revision - 2nd round",
+                "year": "major revision - 3rd round",
                 "accepted": "",
                 "venue": "Information Systems Research",
                 "url": "",
@@ -478,45 +464,6 @@
             }, 
             {
                 "id": "",
-                "title": "Capital Asymmetry",
-                "authors": [
-                    "Richard Watson",
-                    "Hani Safadi"
-                ],
-                "year": "under review",
-                "accepted": "",
-                "venue": "California Management Review",
-                "url": "",
-                "abstract": "This paper introduces capital asymmetry as a new concept for business strategy. A capital asymmetry exists when an organization has one or more types of capital that give it a competitive advantage (e.g., highly fertile land (natural capital) or a widely recognized and reputable brand (symbolic capital)). Asymmetries can be created by exploiting an exceptional capital or resource form. We use a framework that identifies six types of capital to tabulate the different asymmetries an organization can strive to create to reduce the influence of competitors. Using the automotive industry's evolution, we demonstrate the power of capital asymmetry to disrupt market share and force major strategic adjustments. We introduce the new concept of combinatorial asymmetry to show how organizations can effectively blend different forms of capital. A computational simulation is used to generalize from the six cases and identify the principles of capital asymmetry in competitive markets. The paper concludes with a discussion and implications for business and society."
-            },
-            {
-                "id": "",
-                "title": "Dynamics of Attention Allocation in Knowledge-Intensive Teams",
-                "authors": [
-                    "Hani Safadi",
-                    "Amrit Tiwana"
-                ],
-                "year": "under review",
-                "accepted": "",
-                "venue": "Organization Science",
-                "url": "",
-                "abstract": "We explore the unbroached dynamics of attention allocation in teams engaged in complex knowledge work. We introduce the notions of attention fixation and attention switching, concepts present only implicitly in prior studies, and theorize how their interplay drives team productivity. Attention fixation refers to an intratemporal focus on a single issue, while attention switching refers to the intertemporal shifting of attention between issues. Using multi-decade trace data from 1,356 teams developing open-source software projects, we find that both attention fixation and switching independently enhance team productivity but are mutual substitutes. We then address the paradox of how teams benefit from both strategies even though they’re substitutive. We abductively employ sequence mining and identify two longer-term, dynamic attention allocation strategies: (1) sequential attention allocation, characterized by high fixation and low switching, and (2) vacillating attention allocation, characterized by low fixation and high switching. Our unique contribution is bringing dynamics into the theoretical conversation on attention allocation in knowledge work."
-            },
-            {
-                "id": "",
-                "title": "Information Availability and Design Responsibility: The Case of Minority Founders in Crowdfunding",
-                "authors": [
-                    "Hani Safadi",
-                    "Emmanuelle Vaast"
-                ],
-                "year": "under review",
-                "accepted": "",
-                "venue": "Journal of the Association for Information Systems",
-                "url": "",
-                "abstract": ""
-            },
-            {
-                "id": "",
                 "title": "Member Leaders in Online Patient Communities: A Recipe for Resilience",
                 "authors": [
                     "Tanner Skousen",
@@ -531,6 +478,59 @@
             }              
         ],
         "-working papers": [
+            {
+                "id": "",
+                "title": "Capital Asymmetry",
+                "authors": [
+                    "Richard Watson",
+                    "Hani Safadi"
+                ],
+                "year": "working paper",
+                "accepted": "",
+                "venue": "TBD",
+                "url": "",
+                "abstract": "This paper introduces capital asymmetry as a new concept for business strategy. A capital asymmetry exists when an organization has one or more types of capital that give it a competitive advantage (e.g., highly fertile land (natural capital) or a widely recognized and reputable brand (symbolic capital)). Asymmetries can be created by exploiting an exceptional capital or resource form. We use a framework that identifies six types of capital to tabulate the different asymmetries an organization can strive to create to reduce the influence of competitors. Using the automotive industry's evolution, we demonstrate the power of capital asymmetry to disrupt market share and force major strategic adjustments. We introduce the new concept of combinatorial asymmetry to show how organizations can effectively blend different forms of capital. A computational simulation is used to generalize from the six cases and identify the principles of capital asymmetry in competitive markets. The paper concludes with a discussion and implications for business and society."
+            },
+            {
+                "id": "",
+                "title": "Dynamics of Attention Allocation in Knowledge-Intensive Teams",
+                "authors": [
+                    "Hani Safadi",
+                    "Amrit Tiwana"
+                ],
+                "year": "working paper",
+                "accepted": "",
+                "venue": "TBD",
+                "url": "",
+                "abstract": "We explore the unbroached dynamics of attention allocation in teams engaged in complex knowledge work. We introduce the notions of attention fixation and attention switching, concepts present only implicitly in prior studies, and theorize how their interplay drives team productivity. Attention fixation refers to an intratemporal focus on a single issue, while attention switching refers to the intertemporal shifting of attention between issues. Using multi-decade trace data from 1,356 teams developing open-source software projects, we find that both attention fixation and switching independently enhance team productivity but are mutual substitutes. We then address the paradox of how teams benefit from both strategies even though they’re substitutive. We abductively employ sequence mining and identify two longer-term, dynamic attention allocation strategies: (1) sequential attention allocation, characterized by high fixation and low switching, and (2) vacillating attention allocation, characterized by low fixation and high switching. Our unique contribution is bringing dynamics into the theoretical conversation on attention allocation in knowledge work."
+            },
+            {
+                "id": "",
+                "title": "Information Availability and Design Responsibility: The Case of Minority Founders in Crowdfunding",
+                "authors": [
+                    "Hani Safadi",
+                    "Emmanuelle Vaast"
+                ],
+                "year": "working paper",
+                "accepted": "",
+                "venue": "TBD",
+                "url": "",
+                "abstract": ""
+            },
+            {
+                "id": "",
+                "title": "Dynamics of Mirroring in Open-Source Software Projects",
+                "authors": [
+                    "Amrit Tiwana",
+                    "Hani Safadi"
+
+                ],
+                "year": "working paper",
+                "accepted": "",
+                "venue": "TBD",
+                "url": "",
+                "abstract": "We study how fit between the unfolding architecture of IT applications (“apps”) and IT maintenance teams (“app<-->team fit”) over apps’ post-implementation lifespan drives the evolution of IT apps. Attempts to tweak an IT app often unveil lurking design imperfections, which new generations of technologies exacerbate. Such appteam misfits can derail IT apps’ evolvability. We develop a middle-range theory of how fit between the evolving architecture of IT apps and the architecture of IT maintenance teams induces two nuanced, cardinal mechanisms through which IT apps evolve. These mechanisms—evolution of only an app’s modules and evolution of only links among its modules—parsimoniously explain incremental, radical, modular, and architectural innovation in evolving IT apps. We test these ideas using novel econometric analyses of a bespoke trace dataset constructed by analyzing the source code from over 1,300 open-source IT apps, spanning about 5,000 million lines of code, 7 million modules, 10 million changes, and over 280,000 person-years of work spanning 20 years. Our findings substantively contribute to research on IT evolution and IT architecture. Our novel contribution to research on IT architecture is how fit between the coevolving architectures of IT apps and IT project teams compensate for emergent, residual imperfections in app architecture, reinforcing the evolutionary payoffs from choices about each other. Our novel contributions to research on IT evolution are developing the two cardinal mechanisms that explain how IT apps evolve and tracing them back to app architecture, team architecture, and their interplay."
+            }, 
             {
                 "id": "",
                 "title": "Digital Symbiosis, Data Obligations, and Data Rights: A New Perspective on Digital Ecosystems for Understanding their Societal Influence",
