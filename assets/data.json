@@ -161,6 +161,20 @@
         "journal articles": [
             {
                 "id": "",
+                "title": "Firm-Sponsored Online Communities: Building Alignment Capabilities for Participatory Governance",
+                "authors": [
+                    "Hani Safadi",
+                    "Tanner Skousen",
+                    "Elena Karahanna"
+                ],
+                "year": "Forthcoming",
+                "accepted": "2024",
+                "venue": "Information Systems Research",
+                "url": "https://github.com/hanisaf/preprint/blob/main/community_governance_ISR.pdf",
+                "abstract": "Firm-sponsored online communities face governance challenges due to differences in the goals and values between the community and the sponsor. This study focuses on better understanding how these communities combine firm-based and community-based governance to achieve participatory governance, balancing firm goals with the autonomy and participation of volunteer members. Through a case study of Mayo Clinic Connect, an online patient community sponsored by Mayo Clinic, we uncover how firm and community stakeholders jointly align firm- and community-based governance. We introduce the concept of a governance alignment capability, which helps avoid and resolve governance tensions, contributing to the success of participatory governance. We specifically uncover two governance alignment mechanisms: informalizing the formal and formalizing the informal. These mechanisms adapt firm-based governance to align more closely with community norms and standardize community-based governance within the firm's governance structure. The study contributes to both the nascent literature on firm-sponsored online communities and to the broader literature on governance by highlighting the importance of participatory governance capabilities in balancing effectiveness and legitimacy in firm-sponsored online communities and emphasizing governance as a dynamic rather than a static system."
+            },
+            {
+                "id": "",
                 "title": "The Effect of Bots on Human Interaction in Online Communities",
                 "authors": [
                     "Hani Safadi",
@@ -174,7 +188,7 @@
                 "abstract": "In this research note, we draw on social exchange theory to theorize about how bots may influence human-to-human interaction in online communities. In doing so, we distinguish between two forms of bots – reflexive and supervisory bots – and point out two mechanisms that influence human interaction: (1) bots can both substitute and complement human activity, and (2) bots can be perceived anthropomorphically or mechanomorphically. With data from discussion communities on Reddit, we show that supervisory bots decrease direct reciprocity and preferential attachment in communities, whereas reflexive bots increase generalized exchange among community participants. We discuss the implications of these findings on theorizing about bots and the design of online communities."
             },
             {
-                "id": "",
+                "id": "10.17705/1jais.00844",
                 "title": "The Impact of Feature Exploration and Exploitation on the Evolution and Survival of Mobile Applications",
                 "authors": [
                     "Shadi Shuraida",
@@ -194,7 +208,7 @@
                 "authors": [
                     "Hani Safadi"
                 ],
-                "year": "Forthcoming",
+                "year": "2024",
                 "accepted": "2023",
                 "venue": "MIS Quarterly",
                 "url": "https://github.com/hanisaf/preprint/raw/main/ESM_MISQ.pdf",
@@ -396,20 +410,6 @@
         "-papers under review": [
             {
                 "id": "",
-                "title": "Firm-Sponsored Online Communities: Building Alignment Capabilities for Participatory Governance",
-                "authors": [
-                    "Hani Safadi",
-                    "Tanner Skousen",
-                    "Elena Karahanna"
-                ],
-                "year": "conditionally accepted",
-                "accepted": "",
-                "venue": "Information Systems Research",
-                "url": "",
-                "abstract": "Organizations are increasingly sponsoring online communities to harness the creativity of their members. Prior studies of firm-sponsored online communities highlight the importance of adopting hybrid approaches of governance (top-down and bottom-up). However, governing firmsponsored online communities is challenging because of the different organizing logics between the community and the sponsoring organization. This study focuses on gaining a better understanding of how to integrate and align bottom-up and top-down approaches in firmsponsored online communities to mitigate challenges arising from hybrid governance. Focusing on governance alignment, we conduct an inductive case study of Mayo Clinic Connect, an online patient community sponsored by Mayo Clinic. We find that a key to successful hybrid governance is governance alignment processes that continually integrate top-down and bottom-up modes of governance. Whereas prior work has suggested a tradeoff between effectiveness and legitimacy in balancing top-down and bottom-up governance, our findings suggest that such a trade-off is not a definite outcome of hybrid governance when top-down and bottom-up approaches are properly aligned."
-            },
-            {
-                "id": "",
                 "title": "Silence in Evolving Systems: Architectural Origins, Mechanisms, and Consequences",
                 "authors": [
                     "Amrit Tiwana",
@@ -488,9 +488,7 @@
                 "venue": "Organization Science",
                 "url": "",
                 "abstract": ""
-            }              
-        ],
-        "-working papers": [
+            },
             {
                 "id": "",
                 "title": "Capital Asymmetry",
@@ -498,12 +496,40 @@
                     "Richard Watson",
                     "Hani Safadi"
                 ],
-                "year": "working paper",
+                "year": "under review",
                 "accepted": "",
-                "venue": "TBD",
+                "venue": "Sloan Management Review",
                 "url": "",
                 "abstract": "This paper introduces capital asymmetry as a new concept for business strategy. A capital asymmetry exists when an organization has one or more types of capital that give it a competitive advantage (e.g., highly fertile land (natural capital) or a widely recognized and reputable brand (symbolic capital)). Asymmetries can be created by exploiting an exceptional capital or resource form. We use a framework that identifies six types of capital to tabulate the different asymmetries an organization can strive to create to reduce the influence of competitors. Using the automotive industry's evolution, we demonstrate the power of capital asymmetry to disrupt market share and force major strategic adjustments. We introduce the new concept of combinatorial asymmetry to show how organizations can effectively blend different forms of capital. A computational simulation is used to generalize from the six cases and identify the principles of capital asymmetry in competitive markets. The paper concludes with a discussion and implications for business and society."
             },
+            {
+                "id": "",
+                "title": "Dynamics of Mirroring in Open-Source Software Projects",
+                "authors": [
+                    "Hani Safadi",
+                    "Amrit Tiwana"
+                ],
+                "year": "under review",
+                "accepted": "",
+                "venue": "Information Systems Research",
+                "url": "",
+                "abstract": "We study how fit between the unfolding architecture of IT applications (“apps”) and IT maintenance teams (“app<-->team fit”) over apps’ post-implementation lifespan drives the evolution of IT apps. Attempts to tweak an IT app often unveil lurking design imperfections, which new generations of technologies exacerbate. Such appteam misfits can derail IT apps’ evolvability. We develop a middle-range theory of how fit between the evolving architecture of IT apps and the architecture of IT maintenance teams induces two nuanced, cardinal mechanisms through which IT apps evolve. These mechanisms—evolution of only an app’s modules and evolution of only links among its modules—parsimoniously explain incremental, radical, modular, and architectural innovation in evolving IT apps. We test these ideas using novel econometric analyses of a bespoke trace dataset constructed by analyzing the source code from over 1,300 open-source IT apps, spanning about 5,000 million lines of code, 7 million modules, 10 million changes, and over 280,000 person-years of work spanning 20 years. Our findings substantively contribute to research on IT evolution and IT architecture. Our novel contribution to research on IT architecture is how fit between the coevolving architectures of IT apps and IT project teams compensate for emergent, residual imperfections in app architecture, reinforcing the evolutionary payoffs from choices about each other. Our novel contributions to research on IT evolution are developing the two cardinal mechanisms that explain how IT apps evolve and tracing them back to app architecture, team architecture, and their interplay."
+            },   
+            {
+                "id": "",
+                "title": "Unfolding of Innovation in Evolving IT Applications: A Two-Decade Study of Architectural Dynamics in Github",
+                "authors": [
+                    "Amrit Tiwana",
+                    "Hani Safadi"
+                ],
+                "year": "under review",
+                "accepted": "",
+                "venue": "Journal of Management Information Systems",
+                "url": "",
+                "abstract": ""
+            }           
+        ],
+        "-working papers": [ 
             {
                 "id": "",
                 "title": "Dynamics of Attention Allocation in Knowledge-Intensive Teams",
@@ -523,33 +549,6 @@
                 "authors": [
                     "Hani Safadi",
                     "Emmanuelle Vaast"
-                ],
-                "year": "working paper",
-                "accepted": "",
-                "venue": "TBD",
-                "url": "",
-                "abstract": ""
-            },
-            {
-                "id": "",
-                "title": "Dynamics of Mirroring in Open-Source Software Projects",
-                "authors": [
-                    "Amrit Tiwana",
-                    "Hani Safadi"
-
-                ],
-                "year": "working paper",
-                "accepted": "",
-                "venue": "TBD",
-                "url": "",
-                "abstract": "We study how fit between the unfolding architecture of IT applications (“apps”) and IT maintenance teams (“app<-->team fit”) over apps’ post-implementation lifespan drives the evolution of IT apps. Attempts to tweak an IT app often unveil lurking design imperfections, which new generations of technologies exacerbate. Such appteam misfits can derail IT apps’ evolvability. We develop a middle-range theory of how fit between the evolving architecture of IT apps and the architecture of IT maintenance teams induces two nuanced, cardinal mechanisms through which IT apps evolve. These mechanisms—evolution of only an app’s modules and evolution of only links among its modules—parsimoniously explain incremental, radical, modular, and architectural innovation in evolving IT apps. We test these ideas using novel econometric analyses of a bespoke trace dataset constructed by analyzing the source code from over 1,300 open-source IT apps, spanning about 5,000 million lines of code, 7 million modules, 10 million changes, and over 280,000 person-years of work spanning 20 years. Our findings substantively contribute to research on IT evolution and IT architecture. Our novel contribution to research on IT architecture is how fit between the coevolving architectures of IT apps and IT project teams compensate for emergent, residual imperfections in app architecture, reinforcing the evolutionary payoffs from choices about each other. Our novel contributions to research on IT evolution are developing the two cardinal mechanisms that explain how IT apps evolve and tracing them back to app architecture, team architecture, and their interplay."
-            }, 
-            {
-                "id": "",
-                "title": "Digital Symbiosis, Data Obligations, and Data Rights: A New Perspective on Digital Ecosystems for Understanding their Societal Influence",
-                "authors": [
-                    "Hani Safadi",
-                    "Richard Watson"
                 ],
                 "year": "working paper",
                 "accepted": "",
@@ -825,6 +824,19 @@
             }               
         ],
         "conference proceedings": [
+            {
+                "id": "",
+                "title": "Digital Symbiosis, Data Obligations, and Data Rights: A New Perspective on Digital Ecosystems for Understanding their Influence",
+                "authors": [
+                    "Hani Safadi",
+                    "Richard Watson"
+                ],
+                "year": "2024",
+                "accepted": "",
+                "venue": "European Conference on Information Systems",
+                "url": "",
+                "abstract": "The ecosystem is a key adaptive structure that joins hierarchies and markets as the third pillar of modern business theory. While competition has been at the center of economic thinking, cooperation has recently gained greater attention. Borrowing from biology, we conceive an ecosystem as symbiotic relationships among participants that span cooperation to competition. We then use the vocabulary of symbiosis to analyze the relationships observed in ecosystems facilitated by digital technology. We show how biological symbiosis can help us interpret a world of digitally enabled ecosystems, a phenomenon we refer to as digital symbiosis. We further show how this novel theoretical understanding can inform policymaking for mitigating ecosystems’ adverse societal impacts."
+            },
             {
                 "id": "",
                 "title": "Are we making Google stupid?",
