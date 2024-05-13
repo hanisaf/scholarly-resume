@@ -437,6 +437,19 @@
             },
             {
                 "id": "",
+                "title": "Dynamics of Mirroring in Open-Source Software Projects",
+                "authors": [
+                    "Hani Safadi",
+                    "Amrit Tiwana"
+                ],
+                "year": "major revision - 2nd round",
+                "accepted": "",
+                "venue": "Information Systems Research",
+                "url": "",
+                "abstract": "We study how fit between the unfolding architecture of IT applications (“apps”) and IT maintenance teams (“app<-->team fit”) over apps’ post-implementation lifespan drives the evolution of IT apps. Attempts to tweak an IT app often unveil lurking design imperfections, which new generations of technologies exacerbate. Such appteam misfits can derail IT apps’ evolvability. We develop a middle-range theory of how fit between the evolving architecture of IT apps and the architecture of IT maintenance teams induces two nuanced, cardinal mechanisms through which IT apps evolve. These mechanisms—evolution of only an app’s modules and evolution of only links among its modules—parsimoniously explain incremental, radical, modular, and architectural innovation in evolving IT apps. We test these ideas using novel econometric analyses of a bespoke trace dataset constructed by analyzing the source code from over 1,300 open-source IT apps, spanning about 5,000 million lines of code, 7 million modules, 10 million changes, and over 280,000 person-years of work spanning 20 years. Our findings substantively contribute to research on IT evolution and IT architecture. Our novel contribution to research on IT architecture is how fit between the coevolving architectures of IT apps and IT project teams compensate for emergent, residual imperfections in app architecture, reinforcing the evolutionary payoffs from choices about each other. Our novel contributions to research on IT evolution are developing the two cardinal mechanisms that explain how IT apps evolve and tracing them back to app architecture, team architecture, and their interplay."
+            },             
+            {
+                "id": "",
                 "title": "Developers’ Multi-Project Involvement and Continued Contribution to Open-Source Software Projects",
                 "authors": [
                     "Pratyush Sharma",
@@ -461,7 +474,7 @@
                 "venue": "ACM TOSEM",
                 "url": "",
                 "abstract": "Evolution is not one system’s property as its dependencies with other intertwined, evolving systems grow. We conceptualize system-of-systems modularity that simultaneously considers a system’s internal architecture and that of other interdependent systems. Data from 8,220 information systems’ projects over eight years show how system-of-systems modularity explains evolution above-and-beyond prior conceptualizations. They underscore the migration from standalone information systems to systems-of-systems."
-            }, 
+            },     
             {
                 "id": "",
                 "title": "Member Leaders in Online Patient Communities: A Recipe for Resilience",
@@ -501,20 +514,7 @@
                 "venue": "Sloan Management Review",
                 "url": "",
                 "abstract": "This paper introduces capital asymmetry as a new concept for business strategy. A capital asymmetry exists when an organization has one or more types of capital that give it a competitive advantage (e.g., highly fertile land (natural capital) or a widely recognized and reputable brand (symbolic capital)). Asymmetries can be created by exploiting an exceptional capital or resource form. We use a framework that identifies six types of capital to tabulate the different asymmetries an organization can strive to create to reduce the influence of competitors. Using the automotive industry's evolution, we demonstrate the power of capital asymmetry to disrupt market share and force major strategic adjustments. We introduce the new concept of combinatorial asymmetry to show how organizations can effectively blend different forms of capital. A computational simulation is used to generalize from the six cases and identify the principles of capital asymmetry in competitive markets. The paper concludes with a discussion and implications for business and society."
-            },
-            {
-                "id": "",
-                "title": "Dynamics of Mirroring in Open-Source Software Projects",
-                "authors": [
-                    "Hani Safadi",
-                    "Amrit Tiwana"
-                ],
-                "year": "under review",
-                "accepted": "",
-                "venue": "Information Systems Research",
-                "url": "",
-                "abstract": "We study how fit between the unfolding architecture of IT applications (“apps”) and IT maintenance teams (“app<-->team fit”) over apps’ post-implementation lifespan drives the evolution of IT apps. Attempts to tweak an IT app often unveil lurking design imperfections, which new generations of technologies exacerbate. Such appteam misfits can derail IT apps’ evolvability. We develop a middle-range theory of how fit between the evolving architecture of IT apps and the architecture of IT maintenance teams induces two nuanced, cardinal mechanisms through which IT apps evolve. These mechanisms—evolution of only an app’s modules and evolution of only links among its modules—parsimoniously explain incremental, radical, modular, and architectural innovation in evolving IT apps. We test these ideas using novel econometric analyses of a bespoke trace dataset constructed by analyzing the source code from over 1,300 open-source IT apps, spanning about 5,000 million lines of code, 7 million modules, 10 million changes, and over 280,000 person-years of work spanning 20 years. Our findings substantively contribute to research on IT evolution and IT architecture. Our novel contribution to research on IT architecture is how fit between the coevolving architectures of IT apps and IT project teams compensate for emergent, residual imperfections in app architecture, reinforcing the evolutionary payoffs from choices about each other. Our novel contributions to research on IT evolution are developing the two cardinal mechanisms that explain how IT apps evolve and tracing them back to app architecture, team architecture, and their interplay."
-            },   
+            },  
             {
                 "id": "",
                 "title": "Unfolding of Innovation in Evolving IT Applications: A Two-Decade Study of Architectural Dynamics in Github",
@@ -529,7 +529,7 @@
                 "abstract": ""
             }           
         ],
-        "-working papers": [ 
+        "--working papers": [ 
             {
                 "id": "",
                 "title": "Dynamics of Attention Allocation in Knowledge-Intensive Teams",
@@ -713,7 +713,7 @@
                 "abstract": ""
             }                                                             
         ],
-        "-work-in-progress": [
+        "--work-in-progress": [
             {
                 "id": "",
                 "title": "The Implementation of Ambivalent Technology – Examining Police Use of Body-Worn Cameras in the Context of Civilian Complaints",
@@ -2038,20 +2038,20 @@
         "panels": [
             {
                 "id": "",
-                "title": "Content and Textual Analysis in Organizational Research: Techniques and Applications",
-                "venue": "Academy of Management Meeting",
-                "year": 2023,
-                "url": "",
-                "abstract": ""
-            }, 
-            {
-                "id": "",
                 "title": "Towards A Craft Of Computational Theory Construction",
                 "venue": "Academy of Management Meeting",
-                "year": 2023,
+                "year": "2023-2024",
                 "url": "",
                 "abstract": ""
-            },                         
+            },    
+            {
+                "id": "",
+                "title": "Content and Textual Analysis in Organizational Research: Techniques and Applications",
+                "venue": "Academy of Management Meeting",
+                "year": "2022-2023",
+                "url": "",
+                "abstract": ""
+            },                      
             {
                 "id": "",
                 "title": "Digital Trace Data – What’s in it for Routine Dynamics Research?",
@@ -2059,15 +2059,7 @@
                 "year": 2022,
                 "url": "https://sites.google.com/view/rrc-workshop-linz/photos-slides/day-2",
                 "abstract": ""
-            },             
-            {
-                "id": "",
-                "title": "Content and Textual Analysis in Organizational Research: Techniques and Applications",
-                "venue": "Academy of Management Meeting",
-                "year": 2022,
-                "url": "https://2022.aom.org/meetings/virtual/BzaRqMzdWCsc9rnPh",
-                "abstract": ""
-            },            
+            },                       
             {
                 "id": "",
                 "title": "Advanced Content Analysis: Techniques and Applications",
@@ -2104,6 +2096,14 @@
     },
     "recognition": {
         "awards": [
+            {
+                "id": "",
+                "title": "MSBA Excellence in Teaching Award",
+                "venue": "University of Georgia, Terry College of Business",
+                "year": 2024,
+                "url": "",
+                "abstract": ""
+            },             
             {
                 "id": "",
                 "title": "Research Excellence Award",

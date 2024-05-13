@@ -22,8 +22,10 @@ export class KeysPipe implements PipeTransform {
     let showall = KeysPipe.showall;
     let keys = [];
     for (let key in value) {
-      if(showall || key.charAt(0)!="-") {
-        keys.push({key: key.replace("-",""), value: value[key]});
+      if(showall || key.charAt(0)!="-" ) {
+        if(key.charAt(1) != "-") {
+          keys.push({key: key.replace("-",""), value: value[key]});
+        }
       }
     }
     return keys;
