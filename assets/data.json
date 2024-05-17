@@ -349,6 +349,34 @@
         ],
         "book chapters": [
             {
+                "id": "",
+                "title": "Computationally Intensive Theory Construction",
+                "authors": [
+                    "Nicholas Berente",
+                    "Aron Lindberg",
+                    "Shaila Miranda",
+                    "Hani Safadi",
+                    "Stefan Seidel"
+                ],
+                "year": "Forthcoming",
+                "accepted": "",
+                "venue": "Routledge Companion to Management Information Systems, 2nd Edition",
+                "url": "",
+                "abstract": ""
+            },
+            {
+                "id": "",
+                "title": "Building Research Programs in the Computationally Intensive Theory Construction Genre",
+                "authors": [
+                    "Hani Safadi"
+                ],
+                "year": "Forthcoming",
+                "accepted": "",
+                "venue": "Digital Trace Data Research in Information Systems: Foundations, Methods, and Applications",
+                "url": "",
+                "abstract": ""
+            },
+            {
                 "id": "10.1017/9781009106436.011",
                 "title": "One Picture to Study One Thousand Words: Visualization for Qualitative Research in the Age of Digitalization",
                 "authors": [
