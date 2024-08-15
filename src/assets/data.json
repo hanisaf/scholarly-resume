@@ -134,26 +134,18 @@
             }
         ],
         "interests": {
-            "New Forms of Organization": [
-                "Social media",
-                "Open innovation",
+            "Online collectives and commons": [
                 "Online communities",
-                "Large scale collaboration",
-                "AI and cognitive augmentation"
+                "Social media"
+
             ],
-            "Health Information Technology": [
-                "Open-source health IT",
-                "Health IT workarounds",
-                "Online patient communities",
-                "Open innovation in healthcare",
-                "Impact of IT on medical practice"
+            "Health information technology": [
+                "Open-source health IT",                
+                "Online patient communities"
             ],
-            "Methods": [
-                "Network analysis",
-                "Big data analytics",
-                "Information visualization",
-                "Natural language processing",
-                "Computational social science"
+            "Theory development": [
+                "Mixed methods",
+                "Data-driven and computational theory development"
             ]
         }
     },
@@ -391,20 +383,7 @@
                 "abstract": "This chapter advocates further advancing qualitative research methods by creating tools to investigate digital traces of digital phenomena. It specifically focuses on large-scale textual datasets and shows how interactive visualization can be used to augment qualitative researchers’ capabilities to theorize from trace data. The approach is grounded on prior work in sense-making, visual analytics and interactive visualization, and shows how tasks enabled by visualization systems can be synergistically integrated with the qualitative research process. Finally, these principles are applied with several open-source text mining and interactive visualization systems. The chapter aims to stimulate further interest and provide specific guidelines for developing and expanding the repertoire of open-source systems for qualitative research."
             }
         ],        
-        "Preprint": [
-            {
-                "id": "",
-                "title": "Knowledge Monopolies and the Innovation Divide",
-                "authors": [
-                    "Hani Safadi",
-                    "Richard Watson"
-                ],
-                "year": "2021",
-                "accepted": "",
-                "venue": "SSRN",
-                "url": "https://ssrn.com/abstract=3956092",
-                "abstract": "The rise of digital ecosystems has created economic knowledge monopolies that are a threat to innovation. National or regional governance structures, such as laws and regulatory authorities, are used to constrain economic monopolies that are deemed not to be in the public interest. The power of knowledge monopolies derives from their imposition of data obligations on ecosystem participation and their usurpation of the rights to data created by the ecosystem. Consequently, knowledge monopolies can use machine learning to develop competitive insights unavailable to any member of their ecosystem. This information asymmetry stifles innovation, stokes the growth of the monopoly, and reinforces its ascendency. We propose that new legislation and an associated regulatory mechanism are needed to curtail coercive data obligations, control, or eliminate the exploitation of data rights, and prevent mergers and acquisitions that could create or extend knowledge monopolies."
-            },  
+        "Preprint": [  
             {
                 "id": "",
                 "title": "Digital Symbiosis, Data Obligations, and Data Rights: A New Perspective on Digital Ecosystems for Understanding their Societal Influence",
@@ -2088,7 +2067,15 @@
                 "year": "2023-2024",
                 "url": "",
                 "abstract": ""
-            },    
+            }, 
+            {
+                "id": "",
+                "title": "Next Decade Bot Research",
+                "venue": "Academy of Management Meeting",
+                "year": "2023-2024",
+                "url": "",
+                "abstract": ""
+            },                 
             {
                 "id": "",
                 "title": "Content and Textual Analysis in Organizational Research: Techniques and Applications",
@@ -2141,6 +2128,14 @@
     },
     "recognition": {
         "awards": [
+            {
+                "id": "",
+                "title": "Best Published Paper Award: Atrophy in Aging Systems: Evidence, Dynamics, and Antidote",
+                "venue": "Annual Meeting of the Academy of Management",
+                "year": 2024,
+                "url": "https://cto.aom.org/about-us/award-winners",
+                "abstract": "Communication, Digital Technology, and Organization Division"
+            },               
             {
                 "id": "",
                 "title": "MSBA Excellence in Teaching Award",
