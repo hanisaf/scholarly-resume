@@ -486,6 +486,21 @@
             },
             {
                 "id": "",
+                "title": "Validation Criteria for Computationally Intensive Theory Construction",
+                "authors": [
+                    "Hani Safadi",
+                    "Stefan Seidel",
+                    "Shaila Miranda",
+                    "Nicholas Berente"
+                ],
+                "year": "major revision - 2nd round",
+                "accepted": "",
+                "venue": "MIS Quarterly",
+                "url": "",
+                "abstract": ""
+            },      
+            {
+                "id": "",
                 "title": "The Evolutionary Consequences of System-of-Systems Modularity",
                 "authors": [
                     "Hani Safadi"
@@ -535,22 +550,7 @@
                 "venue": "Academy of Management Journal",
                 "url": "",
                 "abstract": "We explore the unbroached dynamics of attention allocation in teams engaged in complex knowledge work. We introduce the notions of attention fixation and attention switching, concepts present only implicitly in prior studies, and theorize how their interplay drives team productivity. Attention fixation refers to an intratemporal focus on a single issue, while attention switching refers to the intertemporal shifting of attention between issues. Using multi-decade trace data from 1,356 teams developing open-source software projects, we find that both attention fixation and switching independently enhance team productivity but are mutual substitutes. We then address the paradox of how teams benefit from both strategies even though they’re substitutive. We abductively employ sequence mining and identify two longer-term, dynamic attention allocation strategies: (1) sequential attention allocation, characterized by high fixation and low switching, and (2) vacillating attention allocation, characterized by low fixation and high switching. Our unique contribution is bringing dynamics into the theoretical conversation on attention allocation in knowledge work."
-            },
-            {
-                "id": "",
-                "title": "Validation Criteria for Computationally Intensive Theory Construction",
-                "authors": [
-                    "Hani Safadi",
-                    "Stefan Seidel",
-                    "Shaila Miranda",
-                    "Nicholas Berente"
-                ],
-                "year": "under review",
-                "accepted": "",
-                "venue": "MIS Quarterly",
-                "url": "",
-                "abstract": ""
-            }                        
+            }                  
         
         ],
         "--working papers": [ 
@@ -1922,7 +1922,15 @@
                 "year": 2024,
                 "url": "",
                 "abstract": ""
-            },            
+            }, 
+            {
+                "id": "",
+                "title": "Are Large Language Models Systems Inquiry?",
+                "venue": "MSR-AOM Research Colloquium",
+                "year": 2024,
+                "url": "",
+                "abstract": ""
+            },                        
             {
                 "id": "",
                 "title": "Firm-Sponsored Online Communities: Building Alignment Capabilities for Participatory Governance",
