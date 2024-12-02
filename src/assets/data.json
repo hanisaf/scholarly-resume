@@ -423,7 +423,7 @@
                     "Amrit Tiwana",
                     "Hani Safadi"
                 ],
-                "year": "major revision - 3rd round",
+                "year": "conditionally accepted",
                 "accepted": "",
                 "venue": "Information Systems Research",
                 "url": "",
@@ -437,9 +437,38 @@
                     "Emmanuelle Vaast",
                     "Weifeng Li"
                 ],
-                "year": "major revision - 2nd round",
+                "year": "major revision - 3rd round",
                 "accepted": "",
                 "venue": "Information Systems Research",
+                "url": "",
+                "abstract": ""
+            },
+            {
+                "id": "",
+                "title": "Developers’ Multi-Project Involvement and Continued Contribution to Open-Source Software Projects",
+                "authors": [
+                    "Pratyush Sharma",
+                    "Hani Safadi",
+                    "John Hulland",
+                    "Elena Karahanna"
+                ],
+                "year": "major revision - 3rd round",
+                "accepted": "",
+                "venue": "Journal of Strategic Information Systems",
+                "url": "",
+                "abstract": ""
+            },
+            {
+                "id": "",
+                "title": "Member Leaders in Online Patient Communities: A Recipe for Resilience",
+                "authors": [
+                    "Tanner Skousen",
+                    "Hani Safadi",
+                    "Colleen Young"
+                ],
+                "year": "major revision - 3rd round",
+                "accepted": "",
+                "venue": "Journal of Medical Internet Research",
                 "url": "",
                 "abstract": ""
             },
@@ -471,21 +500,6 @@
             },                       
             {
                 "id": "",
-                "title": "Developers’ Multi-Project Involvement and Continued Contribution to Open-Source Software Projects",
-                "authors": [
-                    "Pratyush Sharma",
-                    "Hani Safadi",
-                    "John Hulland",
-                    "Elena Karahanna"
-                ],
-                "year": "major revision - 2nd round",
-                "accepted": "",
-                "venue": "Journal of Strategic Information Systems",
-                "url": "",
-                "abstract": ""
-            },
-            {
-                "id": "",
                 "title": "Validation Criteria for Computationally Intensive Theory Construction",
                 "authors": [
                     "Hani Safadi",
@@ -513,20 +527,6 @@
             },     
             {
                 "id": "",
-                "title": "Member Leaders in Online Patient Communities: A Recipe for Resilience",
-                "authors": [
-                    "Tanner Skousen",
-                    "Hani Safadi",
-                    "Colleen Young"
-                ],
-                "year": "major revision - 2nd round",
-                "accepted": "",
-                "venue": "Journal of Medical Internet Research",
-                "url": "",
-                "abstract": ""
-            },
-            {
-                "id": "",
                 "title": "The Tuning of Human and Material Agencies to Manage Insider-Outsider Tensions in Online Communities",
                 "authors": [
                     "P Kumar Sachin",
@@ -538,19 +538,6 @@
                 "url": "",
                 "abstract": ""
             },              
-            {
-                "id": "",
-                "title": "Dynamics of Attention Allocation in Knowledge-Intensive Teams",
-                "authors": [
-                    "Hani Safadi",
-                    "Amrit Tiwana"
-                ],
-                "year": "under review",
-                "accepted": "",
-                "venue": "Academy of Management Journal",
-                "url": "",
-                "abstract": "We explore the unbroached dynamics of attention allocation in teams engaged in complex knowledge work. We introduce the notions of attention fixation and attention switching, concepts present only implicitly in prior studies, and theorize how their interplay drives team productivity. Attention fixation refers to an intratemporal focus on a single issue, while attention switching refers to the intertemporal shifting of attention between issues. Using multi-decade trace data from 1,356 teams developing open-source software projects, we find that both attention fixation and switching independently enhance team productivity but are mutual substitutes. We then address the paradox of how teams benefit from both strategies even though they’re substitutive. We abductively employ sequence mining and identify two longer-term, dynamic attention allocation strategies: (1) sequential attention allocation, characterized by high fixation and low switching, and (2) vacillating attention allocation, characterized by low fixation and high switching. Our unique contribution is bringing dynamics into the theoretical conversation on attention allocation in knowledge work."
-            },
             {
                 "id": "",
                 "title": "Recognizing Outsider’s Ideas in Online Communities: A Multi-Level Process Model on Core-Periphery Tensions",
@@ -576,10 +563,7 @@
                 "venue": "MIS Quarterly",
                 "url": "",
                 "abstract": ""
-            }                    
-        
-        ],
-        "--working papers": [ 
+            },                    
             {
                 "id": "",
                 "title": "Capital Asymmetry",
@@ -587,12 +571,27 @@
                     "Richard Watson",
                     "Hani Safadi"
                 ],
+                "year": "under review",
+                "accepted": "",
+                "venue": "Journal of Business Research",
+                "url": "",
+                "abstract": "This paper introduces capital asymmetry as a new concept for business strategy. A capital asymmetry exists when an organization has one or more types of capital that give it a competitive advantage (e.g., highly fertile land (natural capital) or a widely recognized and reputable brand (symbolic capital)). Asymmetries can be created by exploiting an exceptional capital or resource form. We use a framework that identifies six types of capital to tabulate the different asymmetries an organization can strive to create to reduce the influence of competitors. Using the automotive industry's evolution, we demonstrate the power of capital asymmetry to disrupt market share and force major strategic adjustments. We introduce the new concept of combinatorial asymmetry to show how organizations can effectively blend different forms of capital. A computational simulation is used to generalize from the six cases and identify the principles of capital asymmetry in competitive markets. The paper concludes with a discussion and implications for business and society."
+            }        
+        ],
+        "--working papers": [ 
+            {
+                "id": "",
+                "title": "Dynamics of Attention Allocation in Knowledge-Intensive Teams",
+                "authors": [
+                    "Hani Safadi",
+                    "Amrit Tiwana"
+                ],
                 "year": "working paper",
                 "accepted": "",
                 "venue": "TBD",
                 "url": "",
-                "abstract": "This paper introduces capital asymmetry as a new concept for business strategy. A capital asymmetry exists when an organization has one or more types of capital that give it a competitive advantage (e.g., highly fertile land (natural capital) or a widely recognized and reputable brand (symbolic capital)). Asymmetries can be created by exploiting an exceptional capital or resource form. We use a framework that identifies six types of capital to tabulate the different asymmetries an organization can strive to create to reduce the influence of competitors. Using the automotive industry's evolution, we demonstrate the power of capital asymmetry to disrupt market share and force major strategic adjustments. We introduce the new concept of combinatorial asymmetry to show how organizations can effectively blend different forms of capital. A computational simulation is used to generalize from the six cases and identify the principles of capital asymmetry in competitive markets. The paper concludes with a discussion and implications for business and society."
-            },
+                "abstract": "We explore the unbroached dynamics of attention allocation in teams engaged in complex knowledge work. We introduce the notions of attention fixation and attention switching, concepts present only implicitly in prior studies, and theorize how their interplay drives team productivity. Attention fixation refers to an intratemporal focus on a single issue, while attention switching refers to the intertemporal shifting of attention between issues. Using multi-decade trace data from 1,356 teams developing open-source software projects, we find that both attention fixation and switching independently enhance team productivity but are mutual substitutes. We then address the paradox of how teams benefit from both strategies even though they’re substitutive. We abductively employ sequence mining and identify two longer-term, dynamic attention allocation strategies: (1) sequential attention allocation, characterized by high fixation and low switching, and (2) vacillating attention allocation, characterized by low fixation and high switching. Our unique contribution is bringing dynamics into the theoretical conversation on attention allocation in knowledge work."
+            },            
             {
                 "id": "",
                 "title": "Information Availability and Design Responsibility: The Case of Minority Founders in Crowdfunding",
@@ -1723,23 +1722,31 @@
     "service": {
         "journal editorialship": [
             {
-                "venue": "MIS Quarterly",
-                "venueshort": "MISQ",
-                "role": "Associate Editor",
-                "startdate": 2021
-            },             
-            {
-                "venue": "MIS Quarterly",
-                "venueshort": "MISQ",
-                "role": "Associate Editor (Special Issue on Digital Resilience)",
-                "startdate": 2020
-            },            
+                "venue": "Journal of the Association for Information Systems",
+                "venueshort": "JAIS",
+                "role": "Senior Editor",
+                "startdate": 2024   
+            },
             {
                 "venue": "IEEE Transactions on Engineering Management",
                 "venueshort": "IEEE TEM",
                 "role": "Editorial Review Board Member",
                 "startdate": 2016
             },
+            {
+                "venue": "MIS Quarterly",
+                "venueshort": "MISQ",
+                "role": "Associate Editor",
+                "startdate": 2021,
+                "enddate": 2024
+            },             
+            {
+                "venue": "MIS Quarterly",
+                "venueshort": "MISQ",
+                "role": "Associate Editor (Special Issue on Digital Resilience)",
+                "startdate": 2020,
+                "enddate": 2021
+            },            
             {
                 "venue": "MIS Quarterly",
                 "venueshort": "MISQ",
@@ -2137,6 +2144,22 @@
     },
     "recognition": {
         "awards": [
+            {
+                "id": "",
+                "title": "AIS Mid-Career Award",
+                "venue": "AIS",
+                "year": 2024,
+                "url": "https://aisnet.org/page/MidCareerAward",
+                "abstract": "The AIS Mid-Career Award recognizes individuals in the middle stages of their careers who have already made outstanding research, teaching, and/or service contributions to the field of information systems. A maximum of six (6) AIS Mid-Career Awards will be granted each year, with at least one (1) per AIS region. It is possible to be less/none if the Committee decides."
+            }, 
+            {
+                "id": "",
+                "title": "2024 INFORMS ISS Sandra A. Slaughter Early Career Award",
+                "venue": "INFORMS",
+                "year": 2024,
+                "url": "https://www.informs.org/Recognizing-Excellence/Award-Recipients/Hani-Safadi",
+                "abstract": "The Information Systems Society (ISS) invites nominations for the ISS Sandy Slaughter Early Career Award. The award will recognize and honor early career individuals who are on a path towards making outstanding intellectual contributions to the information systems discipline."
+            }, 
             {
                 "id": "",
                 "title": "Best Published Paper Award: Atrophy in Aging Systems: Evidence, Dynamics, and Antidote",
