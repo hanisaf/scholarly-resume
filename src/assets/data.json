@@ -160,7 +160,7 @@
                     "Tanner Skousen",
                     "Elena Karahanna"
                 ],
-                "year": "Forthcoming",
+                "year": "2024",
                 "accepted": "2024",
                 "venue": "Information Systems Research",
                 "url": "https://github.com/hanisaf/preprint/blob/main/community_governance_ISR.pdf",
@@ -174,7 +174,7 @@
                     "John Lalor",
                     "Nicholas Berente"
                 ],
-                "year": "Forthcoming",
+                "year": "2024",
                 "accepted": "2023",
                 "venue": "MIS Quarterly",
                 "url": "https://github.com/hanisaf/preprint/blob/main/bots_humans_MISQ.pdf",
@@ -550,20 +550,7 @@
                 "venue": "MIS Quarterly",
                 "url": "",
                 "abstract": ""
-            },
-            {
-                "id": "",
-                "title": "Resilience in Online Communities: An Embeddedness Perspective",
-                "authors": [
-                    "Tanner Skousen",
-                    "Hani Safadi"
-                ],
-                "year": "under review",
-                "accepted": "",
-                "venue": "MIS Quarterly",
-                "url": "",
-                "abstract": ""
-            },                    
+            },                   
             {
                 "id": "",
                 "title": "Capital Asymmetry",
@@ -578,7 +565,20 @@
                 "abstract": "This paper introduces capital asymmetry as a new concept for business strategy. A capital asymmetry exists when an organization has one or more types of capital that give it a competitive advantage (e.g., highly fertile land (natural capital) or a widely recognized and reputable brand (symbolic capital)). Asymmetries can be created by exploiting an exceptional capital or resource form. We use a framework that identifies six types of capital to tabulate the different asymmetries an organization can strive to create to reduce the influence of competitors. Using the automotive industry's evolution, we demonstrate the power of capital asymmetry to disrupt market share and force major strategic adjustments. We introduce the new concept of combinatorial asymmetry to show how organizations can effectively blend different forms of capital. A computational simulation is used to generalize from the six cases and identify the principles of capital asymmetry in competitive markets. The paper concludes with a discussion and implications for business and society."
             }        
         ],
-        "--working papers": [ 
+        "--working papers": [
+            {
+                "id": "",
+                "title": "Resilience in Online Communities: An Embeddedness Perspective",
+                "authors": [
+                    "Tanner Skousen",
+                    "Hani Safadi"
+                ],
+                "year": "under review",
+                "accepted": "",
+                "venue": "MIS Quarterly",
+                "url": "",
+                "abstract": ""
+            },             
             {
                 "id": "",
                 "title": "Dynamics of Attention Allocation in Knowledge-Intensive Teams",

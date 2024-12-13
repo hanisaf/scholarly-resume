@@ -25,6 +25,7 @@
     "@angular/router": "^6.1.7",
     "core-js": "^2.5.7",
     "rxjs": "^6.3.2",
+    "scholarly-resume": "file:",
     "zone.js": "^0.8.26"
   },
   "devDependencies": {
