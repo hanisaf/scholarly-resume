@@ -64,6 +64,22 @@
                 "abstract": "2nd student in the cohort"
             }
         ],
+        "expertise": [
+            {
+                "title": "Certified Analytics Professional - Expert level (CAP-X)",
+                "venue": "INFORMS",
+                "startdate": 2021,
+                "url": "https://app.prolydian.com/organizations/INFORMS",
+                "abstract": ""
+            },
+            {
+                "title": "Certified Java Professional - Programmer",
+                "venue": "Oracle",
+                "startdate": 2006,
+                "url": "https://education.oracle.com/oracle-certification-path/pFamily_48",
+                "abstract": ""
+            }                            
+        ],
         "work": [
             {
                 "title": "Associate Professor",

@@ -52,8 +52,23 @@
                 <mat-list-item [title]="v.abstract || ''" *ngFor="let v of data?.about.work">{{[v.startdate, v.enddate] | tenure}} {{v.title}}, {{v.venue}} </mat-list-item>
             </mat-list>
           </mat-card-content>
-        </mat-card>
+      </mat-card>
+
+
+      <mat-card>
+        <mat-card-header>
+          Industry Expertise
+        </mat-card-header>
+        <mat-card-content>
+          <mat-list>
+              <mat-list-item [title]="v.abstract || ''" *ngFor="let v of data?.about.expertise">{{[v.startdate, v.enddate] | tenure}} {{v.title}}, {{v.venue}} </mat-list-item>
+          </mat-list>
+        </mat-card-content>
+    </mat-card>
+
     </mat-tab>
+
+    
   
     <mat-tab label="Research">
       <span *ngFor="let entry of data?.research | keys">
