@@ -487,20 +487,7 @@
                 "venue": "Journal of Medical Internet Research",
                 "url": "",
                 "abstract": ""
-            },
-            {
-                "id": "",
-                "title": "Dynamics of Mirroring in Open-Source Software Projects",
-                "authors": [
-                    "Hani Safadi",
-                    "Amrit Tiwana"
-                ],
-                "year": "major revision - 2nd round",
-                "accepted": "",
-                "venue": "Information Systems Research",
-                "url": "",
-                "abstract": "We study how fit between the unfolding architecture of IT applications (“apps”) and IT maintenance teams (“app<-->team fit”) over apps’ post-implementation lifespan drives the evolution of IT apps. Attempts to tweak an IT app often unveil lurking design imperfections, which new generations of technologies exacerbate. Such appteam misfits can derail IT apps’ evolvability. We develop a middle-range theory of how fit between the evolving architecture of IT apps and the architecture of IT maintenance teams induces two nuanced, cardinal mechanisms through which IT apps evolve. These mechanisms—evolution of only an app’s modules and evolution of only links among its modules—parsimoniously explain incremental, radical, modular, and architectural innovation in evolving IT apps. We test these ideas using novel econometric analyses of a bespoke trace dataset constructed by analyzing the source code from over 1,300 open-source IT apps, spanning about 5,000 million lines of code, 7 million modules, 10 million changes, and over 280,000 person-years of work spanning 20 years. Our findings substantively contribute to research on IT evolution and IT architecture. Our novel contribution to research on IT architecture is how fit between the coevolving architectures of IT apps and IT project teams compensate for emergent, residual imperfections in app architecture, reinforcing the evolutionary payoffs from choices about each other. Our novel contributions to research on IT evolution are developing the two cardinal mechanisms that explain how IT apps evolve and tracing them back to app architecture, team architecture, and their interplay."
-            },    
+            },   
             {
                 "id": "",
                 "title": "Unfolding of Innovation in Evolving IT Applications: A Two-Decade Study of Architectural Dynamics in Github",
@@ -553,20 +540,21 @@
                 "venue": "Information Systems Research",
                 "url": "",
                 "abstract": ""
-            },              
+            },    
             {
                 "id": "",
-                "title": "Recognizing Outsider’s Ideas in Online Communities: A Multi-Level Process Model on Core-Periphery Tensions",
+                "title": "The Power of Silence: Why Digital Chattiness Is Your Next Major Crisis",
                 "authors": [
-                    "P Kumar Sachin",
+                    "Amrit Tiwana",
                     "Hani Safadi"
                 ],
                 "year": "under review",
                 "accepted": "",
-                "venue": "MIS Quarterly",
+                "venue": "Sloan Management Review",
                 "url": "",
                 "abstract": ""
-            },                   
+            },          
+                  
             {
                 "id": "",
                 "title": "Capital Asymmetry",
@@ -584,14 +572,40 @@
         "--working papers": [
             {
                 "id": "",
+                "title": "Dynamics of Mirroring in Open-Source Software Projects",
+                "authors": [
+                    "Hani Safadi",
+                    "Amrit Tiwana"
+                ],
+                "year": "working paper",
+                "accepted": "",
+                "venue": "TBD",
+                "url": "",
+                "abstract": "We study how fit between the unfolding architecture of IT applications (“apps”) and IT maintenance teams (“app<-->team fit”) over apps’ post-implementation lifespan drives the evolution of IT apps. Attempts to tweak an IT app often unveil lurking design imperfections, which new generations of technologies exacerbate. Such appteam misfits can derail IT apps’ evolvability. We develop a middle-range theory of how fit between the evolving architecture of IT apps and the architecture of IT maintenance teams induces two nuanced, cardinal mechanisms through which IT apps evolve. These mechanisms—evolution of only an app’s modules and evolution of only links among its modules—parsimoniously explain incremental, radical, modular, and architectural innovation in evolving IT apps. We test these ideas using novel econometric analyses of a bespoke trace dataset constructed by analyzing the source code from over 1,300 open-source IT apps, spanning about 5,000 million lines of code, 7 million modules, 10 million changes, and over 280,000 person-years of work spanning 20 years. Our findings substantively contribute to research on IT evolution and IT architecture. Our novel contribution to research on IT architecture is how fit between the coevolving architectures of IT apps and IT project teams compensate for emergent, residual imperfections in app architecture, reinforcing the evolutionary payoffs from choices about each other. Our novel contributions to research on IT evolution are developing the two cardinal mechanisms that explain how IT apps evolve and tracing them back to app architecture, team architecture, and their interplay."
+            },             
+            {
+                "id": "",
+                "title": "Recognizing Outsider’s Ideas in Online Communities: A Multi-Level Process Model on Core-Periphery Tensions",
+                "authors": [
+                    "P Kumar Sachin",
+                    "Hani Safadi"
+                ],
+                "year": "working paper",
+                "accepted": "",
+                "venue": "TBD",
+                "url": "",
+                "abstract": ""
+            },             
+            {
+                "id": "",
                 "title": "Resilience in Online Communities: An Embeddedness Perspective",
                 "authors": [
                     "Tanner Skousen",
                     "Hani Safadi"
                 ],
-                "year": "under review",
+                "year": "working paper",
                 "accepted": "",
-                "venue": "MIS Quarterly",
+                "venue": "TBD",
                 "url": "",
                 "abstract": ""
             },             
