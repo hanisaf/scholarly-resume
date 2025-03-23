@@ -12,7 +12,7 @@
 	// "forwardPorts": [],
 
 	// Use 'postCreateCommand' to run commands after the container is created.
-	"postCreateCommand": "apk add --no-cache nodejs npm && npm install -g @angular/cli angular-cli-ghpages"
+	"postCreateCommand": "sudo ngapk add --no-cache nodejs npm && npm install -g @angular/cli angular-cli-ghpages"
 
 	// Configure tool-specific properties.
 	// "customizations": {},
