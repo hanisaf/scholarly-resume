@@ -2386,7 +2386,15 @@
                 "year": 2018,
                 "url": "https://www.theglobeandmail.com/report-on-business/careers/business-education/what-it-takes-to-create-a-social-media-movement/article38295693/",
                 "abstract": "The Globe's bimonthly report on research from business schools."
-            }
+            },
+            {
+                "id": "",
+                "title": "Helper bots in online communities diminish human interaction",
+                "venue": "The Conversation",
+                "year": 2025,
+                "url": "https://theconversation.com/helper-bots-in-online-communities-diminish-human-interaction-251795",
+                "abstract": "Bots can be helpful in online communities, but they can also come between people."
+            }            
         ]
     }
 }
