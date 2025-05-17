@@ -170,6 +170,32 @@
         "journal articles": [
             {
                 "id": "",
+                "title": "Silence in Evolving Systems: Architectural Origins, Mechanisms, and Consequences",
+                "authors": [
+                    "Amrit Tiwana",
+                    "Hani Safadi"
+                ],
+                "year": "2025",
+                "accepted": "2025",
+                "venue": "Information Systems Research",
+                "url": "https://github.com/hanisaf/preprint/blob/main/silence_ISR.pdf",
+                "abstract": "Silence as a system behavior has evaded attention in IS discourse, where interaction predominates. It merits examination as systems grow brittle, brute-force countermeasures falter, and autonomous systems risk misbehaving. We conceptualize silence as dynamic systemwide behavior, theorizing how it drives IS generativity by coalescing developers’ attention on temporally-shifting slivers of a system’s codebase. Using a supercomputer-scale model, we analyzed nearly 20 million tweaks over a quarter-century in over a thousand systems, constructing 67,000+ evolving human-to-artifact networks to infer such behavioral dynamics. We show silence breeds generativity by dynamically funneling developers’ attention. We make three novel contributions. First, we introduce silence as a dynamic, systemwide behavior, rooted in system architecture. Second, we show silence’s generativity consequences—halving degenerativity, doubling evolution speed, quadrupling releases, and spawning 600 times as many forks. Third, we uncover attention funneling as the mechanism linking silence to generativity."
+            },
+            {
+                "id": "",
+                "title": "Capital Asymmetry",
+                "authors": [
+                    "Richard Watson",
+                    "Hani Safadi"
+                ],
+                "year": "2025",
+                "accepted": "2025",
+                "venue": "Business Horizons",
+                "url": "https://github.com/hanisaf/preprint/blob/main/capital_asymmetry_BH.pdf",
+                "abstract": "This paper introduces capital asymmetry as a new concept for business strategy. A capital asymmetry exists when an organization has one or more types of capital that give it a competitive advantage (e.g., highly fertile land (natural capital) or a widely recognized and reputable brand (symbolic capital)). Asymmetries can be created by exploiting an exceptional capital or resource form. We use a framework that identifies six types of capital to tabulate the different asymmetries an organization can strive to create to reduce the influence of competitors. Using the automotive industry's evolution, we demonstrate the power of capital asymmetry to disrupt market share and force major strategic adjustments. We introduce the new concept of combinatorial asymmetry to show how organizations can effectively blend different forms of capital. A computational simulation is used to generalize from the six cases and identify the principles of capital asymmetry in competitive markets. The paper concludes with a discussion and implications for business and society."
+            },                        
+            {
+                "id": "",
                 "title": "Firm-Sponsored Online Communities: Building Alignment Capabilities for Participatory Governance",
                 "authors": [
                     "Hani Safadi",
@@ -359,6 +385,18 @@
         "book chapters": [
             {
                 "id": "",
+                "title": "Building Research Programs in the Computationally Intensive Theory Construction Genre",
+                "authors": [
+                    "Hani Safadi"
+                ],
+                "year": "Forthcoming",
+                "accepted": "",
+                "venue": "Digital Trace Data Research in Information Systems: Foundations, Methods, and Applications",
+                "url": "https://github.com/hanisaf/preprint/blob/main/CITC_Springer.pdf",
+                "abstract": ""
+            },            
+            {
+                "id": "",
                 "title": "Computationally Intensive Theory Construction",
                 "authors": [
                     "Nicholas Berente",
@@ -367,22 +405,10 @@
                     "Hani Safadi",
                     "Stefan Seidel"
                 ],
-                "year": "Forthcoming",
-                "accepted": "",
+                "year": "2025",
+                "accepted": "2025",
                 "venue": "Routledge Companion to Management Information Systems, 2nd Edition",
-                "url": "",
-                "abstract": ""
-            },
-            {
-                "id": "",
-                "title": "Building Research Programs in the Computationally Intensive Theory Construction Genre",
-                "authors": [
-                    "Hani Safadi"
-                ],
-                "year": "Forthcoming",
-                "accepted": "",
-                "venue": "Digital Trace Data Research in Information Systems: Foundations, Methods, and Applications",
-                "url": "",
+                "url": "https://github.com/hanisaf/preprint/blob/main/CITC_Routeledge.pdf",
                 "abstract": ""
             },
             {
@@ -432,19 +458,6 @@
             }  
         ],        
         "-papers under review": [
-            {
-                "id": "",
-                "title": "Silence in Evolving Systems: Architectural Origins, Mechanisms, and Consequences",
-                "authors": [
-                    "Amrit Tiwana",
-                    "Hani Safadi"
-                ],
-                "year": "conditionally accepted",
-                "accepted": "",
-                "venue": "Information Systems Research",
-                "url": "",
-                "abstract": "Silence within systems has received scant attention in IS evolution studies, where interaction predominates. We develop a middle-range theory of how silence inside a system—by funneling team attention—shapes its evolution. Innovative trace analyses of 19.8 million tweaks spanning 274 million lines of code in over 1,300 systems over 25 years show that such silence fosters IS evolution by dynamically funneling its developers’ attention."
-            },
             {
                 "id": "",
                 "title": "Exploration-Exploitation and Knowledge Creation in Online Communities",
@@ -548,7 +561,7 @@
                     "Hani Safadi",
                     "Amrit Tiwana"
                 ],
-                "year": "under review",
+                "year": "major revision - 2nd round",
                 "accepted": "",
                 "venue": "Journal of the Association for Information Systems",
                 "url": "",
@@ -567,19 +580,6 @@
                 "url": "",
                 "abstract": "We explore the unbroached dynamics of attention allocation in teams engaged in complex knowledge work. We introduce the notions of attention fixation and attention switching, concepts present only implicitly in prior studies, and theorize how their interplay drives team productivity. Attention fixation refers to an intratemporal focus on a single issue, while attention switching refers to the intertemporal shifting of attention between issues. Using multi-decade trace data from 1,356 teams developing open-source software projects, we find that both attention fixation and switching independently enhance team productivity but are mutual substitutes. We then address the paradox of how teams benefit from both strategies even though they’re substitutive. We abductively employ sequence mining and identify two longer-term, dynamic attention allocation strategies: (1) sequential attention allocation, characterized by high fixation and low switching, and (2) vacillating attention allocation, characterized by low fixation and high switching. Our unique contribution is bringing dynamics into the theoretical conversation on attention allocation in knowledge work."
             },                    
-            {
-                "id": "",
-                "title": "Capital Asymmetry",
-                "authors": [
-                    "Richard Watson",
-                    "Hani Safadi"
-                ],
-                "year": "under review",
-                "accepted": "",
-                "venue": "Business Horizons",
-                "url": "",
-                "abstract": "This paper introduces capital asymmetry as a new concept for business strategy. A capital asymmetry exists when an organization has one or more types of capital that give it a competitive advantage (e.g., highly fertile land (natural capital) or a widely recognized and reputable brand (symbolic capital)). Asymmetries can be created by exploiting an exceptional capital or resource form. We use a framework that identifies six types of capital to tabulate the different asymmetries an organization can strive to create to reduce the influence of competitors. Using the automotive industry's evolution, we demonstrate the power of capital asymmetry to disrupt market share and force major strategic adjustments. We introduce the new concept of combinatorial asymmetry to show how organizations can effectively blend different forms of capital. A computational simulation is used to generalize from the six cases and identify the principles of capital asymmetry in competitive markets. The paper concludes with a discussion and implications for business and society."
-            },
             {
                 "id": "",
                 "title": "Epistemic Resilience: A New Frontier for Information Systems",
