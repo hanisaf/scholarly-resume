@@ -474,6 +474,19 @@
             },
             {
                 "id": "",
+                "title": "Separating Novelty from Noise: A Sociotechnical Perspective on Managing Peripheral Contributions in Online Communities",
+                "authors": [
+                    "P Kumar Sachin",
+                    "Hani Safadi"
+                ],
+                "year": "major revision - 3rd round",
+                "accepted": "",
+                "venue": "Information Systems Research",
+                "url": "",
+                "abstract": ""
+            },             
+            {
+                "id": "",
                 "title": "Developers’ Multi-Project Involvement and Continued Contribution to Open-Source Software Projects",
                 "authors": [
                     "Pratyush Sharma",
@@ -527,19 +540,6 @@
                 "url": "",
                 "abstract": "Evolution is not one system’s property as its dependencies with other intertwined, evolving systems grow. We conceptualize system-of-systems modularity that simultaneously considers a system’s internal architecture and that of other interdependent systems. Data from 8,220 information systems’ projects over eight years show how system-of-systems modularity explains evolution above-and-beyond prior conceptualizations. They underscore the migration from standalone information systems to systems-of-systems."
             },     
-            {
-                "id": "",
-                "title": "Separating Novelty from Noise: A Sociotechnical Perspective on Managing Peripheral Contributions in Online Communities",
-                "authors": [
-                    "P Kumar Sachin",
-                    "Hani Safadi"
-                ],
-                "year": "major revision - 3rd round",
-                "accepted": "",
-                "venue": "Information Systems Research",
-                "url": "",
-                "abstract": ""
-            },            
             {
                 "id": "",
                 "title": "Member Leaders in Online Patient Communities: A Recipe for Resilience",
