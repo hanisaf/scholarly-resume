@@ -474,6 +474,19 @@
             },
             {
                 "id": "",
+                "title": "Separating Novelty from Noise: A Sociotechnical Perspective on Managing Peripheral Contributions in Online Communities",
+                "authors": [
+                    "P Kumar Sachin",
+                    "Hani Safadi"
+                ],
+                "year": "major revision - 3rd round",
+                "accepted": "",
+                "venue": "Information Systems Research",
+                "url": "",
+                "abstract": ""
+            },             
+            {
+                "id": "",
                 "title": "Developers’ Multi-Project Involvement and Continued Contribution to Open-Source Software Projects",
                 "authors": [
                     "Pratyush Sharma",
@@ -529,19 +542,6 @@
             },     
             {
                 "id": "",
-                "title": "Separating Novelty from Noise: A Sociotechnical Perspective on Managing Peripheral Contributions in Online Communities",
-                "authors": [
-                    "P Kumar Sachin",
-                    "Hani Safadi"
-                ],
-                "year": "major revision - 3rd round",
-                "accepted": "",
-                "venue": "Information Systems Research",
-                "url": "",
-                "abstract": ""
-            },            
-            {
-                "id": "",
                 "title": "Member Leaders in Online Patient Communities: A Recipe for Resilience",
                 "authors": [
                     "Tanner Skousen",
@@ -573,9 +573,9 @@
                 "authors": [
                     "Hani Safadi"
                 ],
-                "year": "under review",
+                "year": "major revision - 2nd round",
                 "accepted": "",
-                "venue": "Information Systems Journal",
+                "venue": "Policy & Internet",
                 "url": "",
                 "abstract": ""
             },
@@ -594,7 +594,7 @@
                     "Hani Safadi",
                     "Emmanuelle Vaast"
                 ],
-                "year": "under review",
+                "year": "under review - first round",
                 "accepted": "",
                 "venue": "MIS Quarterly",
                 "url": "",
@@ -1781,7 +1781,8 @@
                 "venue": "IEEE Transactions on Engineering Management",
                 "venueshort": "IEEE TEM",
                 "role": "Editorial Review Board Member",
-                "startdate": 2016
+                "startdate": 2016,
+                "enddate": 2024
             },
             {
                 "venue": "MIS Quarterly",
