@@ -566,7 +566,42 @@
                 "venue": "Journal of the Association for Information Systems",
                 "url": "",
                 "abstract": "We study how fit between the unfolding architecture of IT applications (“apps”) and IT maintenance teams (“app<-->team fit”) over apps’ post-implementation lifespan drives the evolution of IT apps. Attempts to tweak an IT app often unveil lurking design imperfections, which new generations of technologies exacerbate. Such appteam misfits can derail IT apps’ evolvability. We develop a middle-range theory of how fit between the evolving architecture of IT apps and the architecture of IT maintenance teams induces two nuanced, cardinal mechanisms through which IT apps evolve. These mechanisms—evolution of only an app’s modules and evolution of only links among its modules—parsimoniously explain incremental, radical, modular, and architectural innovation in evolving IT apps. We test these ideas using novel econometric analyses of a bespoke trace dataset constructed by analyzing the source code from over 1,300 open-source IT apps, spanning about 5,000 million lines of code, 7 million modules, 10 million changes, and over 280,000 person-years of work spanning 20 years. Our findings substantively contribute to research on IT evolution and IT architecture. Our novel contribution to research on IT architecture is how fit between the coevolving architectures of IT apps and IT project teams compensate for emergent, residual imperfections in app architecture, reinforcing the evolutionary payoffs from choices about each other. Our novel contributions to research on IT evolution are developing the two cardinal mechanisms that explain how IT apps evolve and tracing them back to app architecture, team architecture, and their interplay."
-            }, 
+            },                    
+            {
+                "id": "",
+                "title": "Epistemic Resilience: A New Frontier for Information Systems",
+                "authors": [
+                    "Hani Safadi"
+                ],
+                "year": "major revision - 2nd round",
+                "accepted": "",
+                "venue": "Policy & Internet",
+                "url": "",
+                "abstract": ""
+            },
+            {
+                "id": "",
+                "title": "Open Paths of Inquiry: Computational Theory Construction in Information Systems Research",
+                "authors": [
+                    "Brian Pentland",
+                    "Shaila Miranda",
+                    "Stefan Seidel",
+                    "Malmi Amadoru",
+                    "Natalia Levina",
+                    "Hila Lifshitz-Assaf",
+                    "Aron Lindberg",
+                    "Semi Min",
+                    "Hani Safadi",
+                    "Emmanuelle Vaast"
+                ],
+                "year": "under review - first round",
+                "accepted": "",
+                "venue": "MIS Quarterly",
+                "url": "",
+                "abstract": ""
+            }         
+        ],
+        "--working papers": [
             {
                 "id": "",
                 "title": "Dynamics of Attention Allocation in Knowledge-Intensive Teams",
@@ -579,21 +614,7 @@
                 "venue": "Manufacturing & Service Operations Management",
                 "url": "",
                 "abstract": "We explore the unbroached dynamics of attention allocation in teams engaged in complex knowledge work. We introduce the notions of attention fixation and attention switching, concepts present only implicitly in prior studies, and theorize how their interplay drives team productivity. Attention fixation refers to an intratemporal focus on a single issue, while attention switching refers to the intertemporal shifting of attention between issues. Using multi-decade trace data from 1,356 teams developing open-source software projects, we find that both attention fixation and switching independently enhance team productivity but are mutual substitutes. We then address the paradox of how teams benefit from both strategies even though they’re substitutive. We abductively employ sequence mining and identify two longer-term, dynamic attention allocation strategies: (1) sequential attention allocation, characterized by high fixation and low switching, and (2) vacillating attention allocation, characterized by low fixation and high switching. Our unique contribution is bringing dynamics into the theoretical conversation on attention allocation in knowledge work."
-            },                    
-            {
-                "id": "",
-                "title": "Epistemic Resilience: A New Frontier for Information Systems",
-                "authors": [
-                    "Hani Safadi"
-                ],
-                "year": "under review",
-                "accepted": "",
-                "venue": "Information Systems Journal",
-                "url": "",
-                "abstract": ""
-            }         
-        ],
-        "--working papers": [
+            }, 
             {
                 "id": "",
                 "title": "The Power of Silence: Why Digital Chattiness Is Your Next Major Crisis",
@@ -1760,7 +1781,8 @@
                 "venue": "IEEE Transactions on Engineering Management",
                 "venueshort": "IEEE TEM",
                 "role": "Editorial Review Board Member",
-                "startdate": 2016
+                "startdate": 2016,
+                "enddate": 2024
             },
             {
                 "venue": "MIS Quarterly",
