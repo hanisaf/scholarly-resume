@@ -599,9 +599,7 @@
                 "venue": "MIS Quarterly",
                 "url": "",
                 "abstract": ""
-            }         
-        ],
-        "--working papers": [
+            },
             {
                 "id": "",
                 "title": "Dynamics of Attention Allocation in Knowledge-Intensive Teams",
@@ -611,10 +609,12 @@
                 ],
                 "year": "under review",
                 "accepted": "",
-                "venue": "Manufacturing & Service Operations Management",
+                "venue": "Strategic Organization",
                 "url": "",
                 "abstract": "We explore the unbroached dynamics of attention allocation in teams engaged in complex knowledge work. We introduce the notions of attention fixation and attention switching, concepts present only implicitly in prior studies, and theorize how their interplay drives team productivity. Attention fixation refers to an intratemporal focus on a single issue, while attention switching refers to the intertemporal shifting of attention between issues. Using multi-decade trace data from 1,356 teams developing open-source software projects, we find that both attention fixation and switching independently enhance team productivity but are mutual substitutes. We then address the paradox of how teams benefit from both strategies even though they’re substitutive. We abductively employ sequence mining and identify two longer-term, dynamic attention allocation strategies: (1) sequential attention allocation, characterized by high fixation and low switching, and (2) vacillating attention allocation, characterized by low fixation and high switching. Our unique contribution is bringing dynamics into the theoretical conversation on attention allocation in knowledge work."
-            }, 
+            }                     
+        ],
+        "--working papers": [
             {
                 "id": "",
                 "title": "The Power of Silence: Why Digital Chattiness Is Your Next Major Crisis",
