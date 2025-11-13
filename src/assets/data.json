@@ -460,6 +460,19 @@
         "-papers under review": [
             {
                 "id": "",
+                "title": "Unfolding of Innovation in Evolving IT Applications: A Two-Decade Study of Architectural Dynamics in Github",
+                "authors": [
+                    "Amrit Tiwana",
+                    "Hani Safadi"
+                ],
+                "year": "minor revision",
+                "accepted": "",
+                "venue": "Journal of Management Information Systems",
+                "url": "",
+                "abstract": ""
+            },             
+            {
+                "id": "",
                 "title": "Exploration-Exploitation and Knowledge Creation in Online Communities",
                 "authors": [
                     "Hani Safadi",
@@ -497,19 +510,6 @@
                 "year": "major revision - 3rd round",
                 "accepted": "",
                 "venue": "Journal of Strategic Information Systems",
-                "url": "",
-                "abstract": ""
-            }, 
-            {
-                "id": "",
-                "title": "Unfolding of Innovation in Evolving IT Applications: A Two-Decade Study of Architectural Dynamics in Github",
-                "authors": [
-                    "Amrit Tiwana",
-                    "Hani Safadi"
-                ],
-                "year": "major revision - 3rd round",
-                "accepted": "",
-                "venue": "Journal of Management Information Systems",
                 "url": "",
                 "abstract": ""
             },                       
