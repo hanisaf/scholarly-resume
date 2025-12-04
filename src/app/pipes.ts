@@ -137,10 +137,16 @@ export class CoAuthorsPipe implements PipeTransform {
     if(authors) {
       let res = "(joint work with "
       let marker = false; //ensuring at least one author is added to the list
+      let n = 0; //max of 10 authors
       for(let person of authors) {
         if(person != CoAuthorsPipe.me) {
           res = res + person + ", ";
           marker = true;
+          n = n + 1;
+          if(n >= 10) {
+            res = res + "other authors  ";
+            break;
+          }
         }
       }
       res = res.substr(0, res.length-2);
