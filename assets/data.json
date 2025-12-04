@@ -170,6 +170,16 @@
         "journal articles": [
             {
                 "id": "",
+                "title": "Investigating replicability in the Social and Behavioral Sciences",
+                "authors": ["Andrew H. Tyner", "Anna Lou Abatayo", "Mason Daley", "Samuel Field", "Nicholas Fox", "Noah A. Haber", "Krystal M. Hahn", "Melissa Kline Struhl", "Brinna Mawhinney", "Olivia Miske", "Priya Silverstein", "Courtney K. Soderberg", "Theresa Stankov", "Ahmed Abbasi", "Christopher L. Aberson", "Balazs Aczel", "Matúš Adamkovič", "Nihan Albayrak", "Peter J Allen", "Michael Andreychik", "Eli Awtrey", "Erick Axxe", "Flavio Azevedo", "Miles D. Bader", "Bence Bago", "James Bailey", "Marjan Bakker", "Gabriel Banik", "George C. Banks", "Ernest Baskin", "Anatolia Batruch", "Annika Beatteay", "Sophie M. Behr", "Nicholas Berente", "Zachariah Berry", "Jędrzej Białkowski", "Bojana Bodroža", "Laura Boeschoten", "Miklos Bognar", "Christian Bokhove", "Diane Bonfiglio", "Robin Bouwman", "Timothy F. Brady", "Scott Braithwaite", "Gabriel Briceño Jiménez", "Cameron Brick", "Traci Bricka", "Roman Briker", "Annette N. Brown", "Gordon D A Brown", "Robbie C.M. van Aert", "Kathryn Caldwell", "Sara Capitan", "Tabaré Capitán", "Jesse Chandler", "Tessa Charles", "Christopher R. Chartier", "Rahul Chawdhary", "Kent Jason Cheng", "William J. Chopik", "Bruce Clark", "Victoria E. Colvin", "C. Cozette Comer", "Giulio Costantini", "Tom Coupé", "Jamie Cummins", "Aneta Czernatowicz-Kukuczka", "Joshua de Leeuw", "David Dobolyi", "James N. Druckman", "Jianhua Duan", "Marin Dujmović", "Daniel J. Dunleavy", "Patrick K. Durkee", "Cécile Emery", "Kevin M. Esterling", "Thomas R. Evans", "Anna Fedor", "Belén Fernández-Castilla", "Nathan Fiala", "James G. Field", "Nathan Fong", "Miguel A. Fonseca", "Alexandra L.J. Freeman", "Jeremy Freese", "Sandra J. Geiger", "Jing Geng", "Laura M. Getz", "Linda Marjoleine Geven", "Ilka Helene Gleibs", "Donna Pamella Gonzales", "Janaki Gooty", "Amélie Gourdon-Kanhukamwe", "Cristina Greculescu", "Siobhán M. Griffin", "Lusine Grigoryan", "Martina Grunow", "Nicholas Gunby", "Braeden Hall", "Paul H. P. Hanel", "Erin E. Hannon", "Sam Harper", "Marco Jürgen Held", "Louis Hickman", "Nathan C. Higgins", "Svenja Hippel", "Sven Hoeppner", "Sanghyun Hong", "Thomas J. Hostler", "Michael Inzlicht", "Kamil Izydorczak", "Bastian Jaeger", "Kristin Jankowsky", "Johannes Jarke-Neuert", "Matthew Jensen", "Biljana Jokić", "Daniel Jolles", "Phillip Jolly", "Angela M. Jones", "Marie Juanchich", "Pavol Kačmár", "Hansika Kapoor", "Andjela Keljanovic", "Samjhana Koirala", "Marta Kołczyńska", "Dimitra Kouroupaki", "Ulrich Kühnen", "Michelangelo Landgrave", "Michael J. Larson", "Lyonel Laulié", "Alice C E Lawrence", "Joel M. Le Forestier", "Katelin E. Leahy", "Sungmok Lee", "Jared Leslie", "Savannah C. Lewis", "Christopher Limnios", "Hause Lin", "An-Chiao Liu", "John Wills Lloyd", "Elliot A Ludvig", "Dermot Lynott", "Jordan MacDonald", "Peter Mallik", "Daniel J. Mallinson", "Daniele Marinazzo", "Corinna S. Martarelli", "Joshua Matacotta", "Andrew McBride", "Cillian McHugh", "Gail McMillan", "Esteban Méndez", "Mitchell Metzger", "Michalis P. Michaelides", "Johannes Michalak", "Leticia Micheli", "Jeremy K. Miller", "Marina Milyavskaya", "Daniel C. Molden", "Ambar G. Monjaras", "David Moreau", "Audrey Morrow", "Cristóbal Moya", "Liad Mudrik", "Laetitia B. Mulder", "Katie A. Munt", "Arijit Nandi", "Kathryn Nason", "Carolin Nast", "Gideon Nave", "Heinrich H. Nax", "Florian Neubauer", "Phuong Linh L. Nguyen", "Austin Lee Nichols", "Gustav Nilsonne", "Ernest O'Boyle", "Jule Oettinghaus", "Jeewon Oh", "Adoril Oshana", "Thomas Ostermann", "Rachel P. Ostrowski", "Abiola Oyebanjo", "Radoslaw Panczak", "Jamie Patrianakos", "Ignacio Pavez", "Yuri G. Pavlov", "Sofia Persson", "Marco Perugini", "Kim Peters", "Constant Pieters", "Vladimir Ponizovskiy", "Nathaniel D. Porter", "Jason M. Prenoveau", "Danka Purić", "Mariah F. Purol", "Arathy Puthillam", "Kimberly A. Quinn", "Marco Ramljak", "W. Robert Reed", "Michaela Ritchie", "Margaret Ritzau", "Sean Patrick Roche", "Romina Rodela", "Jan Philipp Röer", "Ivan Ropovik", "Jacob Rothschild", "Justine Saal", "Hani Safadi", "Jason Samaha", "Mary Sanchez", "Soorya Sankaran", "David Santos", "Amanda C. Sargent", "Marian Sauter", "Kathleen Schmidt", "Landon Schnabel", "Amber N Schroeder", "Sebastian W. Schuetz", "Brendan A. Schuetze", "Michael Schulte-Mecklenbeck", "Astrid Schütz", "Eric L. Sevigny", "Ellie Shackleton", "Richard M. Shafranek", "Samuel Shaki", "Shishir Shakya", "Miroslav Sirota", "Matthew Ryan Sisco", "Maksim M. Sitnikov", "L. Robert Slevc", "Laura Smalarz", "Colin Tucker Smith", "Joel S. Snyder", "Nicolas Sommet", "Fatih Sonmez", "Barbara A. Spellman", "Natalia Stanulewicz-Buckley", "George Stock", "Chris N. H. Street", "Eirik Strømland", "Tina Sundelin", "Moin Syed", "Anna Szabelska", "Barnabas Szaszi", "Ewa Szumowska", "Anirudh Tagat", "Susanne Täuber", "Louis Tay", "Stuti Thapa", "Jason Thatcher", "Domna Tsaklakidou", "Lars Tummers", "Elise Turkovich", "Melba Verra Tutor", "Karolina Urbanska", "Anna Elisabeth van 't Veer", "Marcel van Assen", "Niels van de Ven", "Elisabeth Julie Vargo", "Leigh Ann Vaughn", "Simine Vazire", "Jentien M. Vermeulen", "Diem Thi Hong Vo", "Victor Volkman", "Eric-Jan Wagenmakers", "Deliah Wagner", "Lukasz Walasek", "Frank Walter", "Lara Warmelink", "Liuqing Wei", "Marie Isabelle Weißflog", "Nicholas Weller", "Aaron L. Wichman", "Jonathan Wilbiks", "Jamal R. Williams", "Kelly Wolfe", "Finnian Wort", "Ryan Wright", "Jesper N. Wulff", "Xindong Xue", "Veronica X. Yan", "Yuzhi Yang", "Sangsuk Yoon", "Iris Žeželj", "Yinxian Zhang", "Ignazio Ziano", "Cristina Zogmaister", "Zorana Zupan", "Rolf A. Zwaan", "Brian A. Nosek", "Timothy M. Errington"],
+                "year": "2025",
+                "accepted": "2025",
+                "venue": "Nature",
+                "url": "",
+                "abstract": "We attempted replications of 274 claims of positive results from 164 quantitative papers published from 2009 to 2018 in 54 journals in the social and behavioral sciences. Replications were high-powered on average to detect the original effect size (Median = 99.6%), used original materials when relevant and available, and were peer-reviewed in advance through a standardized internal protocol. Replications showed statistically significant results in the same pattern as the original study for 151 of 274 claims (55.1% [95% CI 49.2 - 60.9%]) and for 80.8 of 164 papers (49.3% [95% CI 43.8 - 54.7%]) weighed for replicating multiple claims per paper. We observed modest variation in replication rates across disciplines (Range 42.5% to 63.1%) though some estimates had high uncertainty due to small sample size. For claims where effect sizes could be converted to Pearson’s r, the median effect size was 0.25 [95% CI 0.21 - 0.27] for original studies and 0.10 [95% CI 0.09 - 0.13] for replication studies, a 58.1% [95% CI 44.2 - 65.0%] reduction in correlation and a 82.4% [95% CI 67.8 - 88.2%] reduction in shared variance. Thirteen methods for evaluating replication success provided estimates ranging from 28.6% to 74.8% (median = 49.3%), though most methods could only be applied to a subset of the replications conducted (median = 92.1%; range 63.5% to 100.0%). Some decline in effect size and significance is expected based on power to detect original effects and regression to the mean due to replicating only positive results. The conditions that promote or inhibit replicability are worthy of additional investigation."
+            },            
+            {
+                "id": "",
                 "title": "Silence in Evolving Systems: Architectural Origins, Mechanisms, and Consequences",
                 "authors": [
                     "Amrit Tiwana",
@@ -202,7 +212,7 @@
                     "Tanner Skousen",
                     "Elena Karahanna"
                 ],
-                "year": "2024",
+                "year": "2025",
                 "accepted": "2024",
                 "venue": "Information Systems Research",
                 "url": "https://github.com/hanisaf/preprint/blob/main/community_governance_ISR.pdf",
@@ -460,6 +470,19 @@
         "-papers under review": [
             {
                 "id": "",
+                "title": "Synchronizing Development Teams with Drifting Software Systems: A Decomposability-Based Theory of Evolutionary Mechanisms",
+                "authors": [
+                    "Amrit Tiwana",
+                    "Hani Safadi"
+                ],
+                "year": "minor revision",
+                "accepted": "",
+                "venue": "Journal of Management Information Systems",
+                "url": "",
+                "abstract": ""
+            },             
+            {
+                "id": "",
                 "title": "Exploration-Exploitation and Knowledge Creation in Online Communities",
                 "authors": [
                     "Hani Safadi",
@@ -499,19 +522,6 @@
                 "venue": "Journal of Strategic Information Systems",
                 "url": "",
                 "abstract": ""
-            }, 
-            {
-                "id": "",
-                "title": "Unfolding of Innovation in Evolving IT Applications: A Two-Decade Study of Architectural Dynamics in Github",
-                "authors": [
-                    "Amrit Tiwana",
-                    "Hani Safadi"
-                ],
-                "year": "major revision - 2nd round",
-                "accepted": "",
-                "venue": "Journal of Management Information Systems",
-                "url": "",
-                "abstract": ""
             },                       
             {
                 "id": "",
@@ -548,7 +558,7 @@
                     "Hani Safadi",
                     "Colleen Young"
                 ],
-                "year": "under review",
+                "year": "major revision - 2nd round",
                 "accepted": "",
                 "venue": "Journal of the American Medical Informatics Association",
                 "url": "",
@@ -599,9 +609,7 @@
                 "venue": "MIS Quarterly",
                 "url": "",
                 "abstract": ""
-            }         
-        ],
-        "--working papers": [
+            },
             {
                 "id": "",
                 "title": "Dynamics of Attention Allocation in Knowledge-Intensive Teams",
@@ -611,10 +619,12 @@
                 ],
                 "year": "under review",
                 "accepted": "",
-                "venue": "Manufacturing & Service Operations Management",
+                "venue": "Strategic Organization",
                 "url": "",
                 "abstract": "We explore the unbroached dynamics of attention allocation in teams engaged in complex knowledge work. We introduce the notions of attention fixation and attention switching, concepts present only implicitly in prior studies, and theorize how their interplay drives team productivity. Attention fixation refers to an intratemporal focus on a single issue, while attention switching refers to the intertemporal shifting of attention between issues. Using multi-decade trace data from 1,356 teams developing open-source software projects, we find that both attention fixation and switching independently enhance team productivity but are mutual substitutes. We then address the paradox of how teams benefit from both strategies even though they’re substitutive. We abductively employ sequence mining and identify two longer-term, dynamic attention allocation strategies: (1) sequential attention allocation, characterized by high fixation and low switching, and (2) vacillating attention allocation, characterized by low fixation and high switching. Our unique contribution is bringing dynamics into the theoretical conversation on attention allocation in knowledge work."
-            }, 
+            }                     
+        ],
+        "--working papers": [
             {
                 "id": "",
                 "title": "The Power of Silence: Why Digital Chattiness Is Your Next Major Crisis",
