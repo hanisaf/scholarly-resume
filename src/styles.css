@@ -15,14 +15,14 @@ body {
 
   /* Improve tap targets for mobile */
   .mat-button, .mat-list-item {
-    min-height: 44px;
+    min-height: 48px;
   }
 
   /* Make tabs more mobile-friendly */
   .mat-tab-label {
     min-width: 80px !important;
     padding: 0 8px !important;
-    font-size: 12px !important;
+    font-size: 14px !important;
   }
 
   /* Adjust card spacing for mobile */
@@ -70,7 +70,7 @@ body {
   .mat-tab-label {
     min-width: 60px !important;
     padding: 0 4px !important;
-    font-size: 10px !important;
+    font-size: 12px !important;
   }
 
   mat-card {
