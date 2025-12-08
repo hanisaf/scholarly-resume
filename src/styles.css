@@ -94,3 +94,80 @@ body {
     font-size: 16px;
   }
 }
+
+/* Apple Watch and ultra-small devices optimization */
+@media (max-width: 400px) {
+  .mat-tab-label {
+    min-width: 50px !important;
+    padding: 0 2px !important;
+    font-size: 10px !important;
+  }
+
+  mat-card {
+    margin: 2px !important;
+    padding: 4px !important;
+  }
+
+  /* Ultra-small font sizes for watch screens */
+  body {
+    font-size: 12px;
+  }
+
+  .mat-card-title {
+    font-size: medium !important;
+  }
+
+  .mat-card-subtitle {
+    font-size: x-small !important;
+  }
+
+  .mat-card-content {
+    font-size: x-small !important;
+  }
+
+  .mat-card-header {
+    padding: 6px !important;
+  }
+
+  .mat-list-item {
+    font-size: 11px !important;
+    min-height: 40px !important;
+  }
+
+  table {
+    font-size: xx-small;
+  }
+
+  table td {
+    padding: 2px;
+  }
+
+  #print-section {
+    padding: 4px;
+  }
+
+  #print-section h1 {
+    font-size: 16px;
+  }
+
+  #print-section h2 {
+    font-size: 14px;
+  }
+
+  #print-section ol, #print-section ul {
+    padding-left: 10px;
+  }
+
+  /* Hide avatar on ultra-small screens */
+  .example-header-image {
+    width: 30px !important;
+    height: 30px !important;
+  }
+
+  /* Make buttons more compact */
+  .mat-button {
+    min-height: 40px;
+    font-size: 10px !important;
+    padding: 4px 8px !important;
+  }
+}

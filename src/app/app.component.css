@@ -72,3 +72,37 @@
     padding: 8px !important;
   }
 }
+
+/* Apple Watch and ultra-small devices */
+@media (max-width: 400px) {
+  .mat-card-title {
+    font-size: medium;
+  }
+
+  .mat-card-subtitle {
+    font-size: x-small;
+  }
+
+  .mat-card-content {
+    font-size: x-small;
+  }
+
+  .example-header-image {
+    width: 30px !important;
+    height: 30px !important;
+  }
+
+  .mat-card {
+    margin: 2px 0 !important;
+    padding: 4px !important;
+  }
+
+  .mat-list-item {
+    height: auto !important;
+    min-height: 40px;
+  }
+
+  .mat-card-header {
+    padding: 6px !important;
+  }
+}
