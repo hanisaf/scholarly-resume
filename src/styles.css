@@ -68,9 +68,9 @@ body {
 /* Extra small devices optimization */
 @media (max-width: 599px) {
   .mat-tab-label {
-    min-width: 60px !important;
-    padding: 0 4px !important;
-    font-size: 12px !important;
+    min-width: 70px !important;
+    padding: 0 6px !important;
+    font-size: 13px !important;
   }
 
   mat-card {
