@@ -483,20 +483,6 @@
             },             
             {
                 "id": "",
-                "title": "Exploration-Exploitation and Knowledge Creation in Online Communities",
-                "authors": [
-                    "Hani Safadi",
-                    "Emmanuelle Vaast",
-                    "Weifeng Li"
-                ],
-                "year": "major revision - 3rd round",
-                "accepted": "",
-                "venue": "Information Systems Research",
-                "url": "",
-                "abstract": ""
-            },
-            {
-                "id": "",
                 "title": "Separating Novelty from Noise: A Sociotechnical Perspective on Managing Peripheral Contributions in Online Communities",
                 "authors": [
                     "P Kumar Sachin",
@@ -625,6 +611,20 @@
             }                     
         ],
         "--working papers": [
+            {
+                "id": "",
+                "title": "Exploration-Exploitation and Knowledge Creation in Online Communities",
+                "authors": [
+                    "Hani Safadi",
+                    "Emmanuelle Vaast",
+                    "Weifeng Li"
+                ],
+                "year": "major revision - 3rd round",
+                "accepted": "",
+                "venue": "Information Systems Research",
+                "url": "",
+                "abstract": ""
+            },            
             {
                 "id": "",
                 "title": "The Power of Silence: Why Digital Chattiness Is Your Next Major Crisis",
