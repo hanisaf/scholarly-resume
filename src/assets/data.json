@@ -590,7 +590,7 @@
                     "Hani Safadi",
                     "Emmanuelle Vaast"
                 ],
-                "year": "under review - first round",
+                "year": "under review - 1st round",
                 "accepted": "",
                 "venue": "MIS Quarterly",
                 "url": "",
@@ -603,12 +603,25 @@
                     "Hani Safadi",
                     "Amrit Tiwana"
                 ],
-                "year": "under review",
+                "year": "under review - 1st round",
                 "accepted": "",
                 "venue": "Strategic Organization",
                 "url": "",
                 "abstract": "We explore the unbroached dynamics of attention allocation in teams engaged in complex knowledge work. We introduce the notions of attention fixation and attention switching, concepts present only implicitly in prior studies, and theorize how their interplay drives team productivity. Attention fixation refers to an intratemporal focus on a single issue, while attention switching refers to the intertemporal shifting of attention between issues. Using multi-decade trace data from 1,356 teams developing open-source software projects, we find that both attention fixation and switching independently enhance team productivity but are mutual substitutes. We then address the paradox of how teams benefit from both strategies even though they’re substitutive. We abductively employ sequence mining and identify two longer-term, dynamic attention allocation strategies: (1) sequential attention allocation, characterized by high fixation and low switching, and (2) vacillating attention allocation, characterized by low fixation and high switching. Our unique contribution is bringing dynamics into the theoretical conversation on attention allocation in knowledge work."
-            }                     
+            },
+            {
+                "id": "",
+                "title": "The Evolutionary Pathways of Technology Market Commercialization",
+                "authors": [
+                    "Hani Safadi",
+                    "Hossein Arjmandi"
+                ],
+                "year": "under review - 1st round",
+                "accepted": "",
+                "venue": "MIS Quarterly",
+                "url": "",
+                "abstract": "We theorize and test how two technology evolution mechanisms, recombination and structural deepening, shape technology market commercialization, an important and often overlooked outcome of innovation adoption. Using a large data set of US IT patents filed from 2010 to 2019 and patent assignment records to operationalize commercialization, we derive scalable measures of evolution mechanisms from patent text and estimate models of patent lifetime reassignments. Both mechanisms are positively associated with commercialization, but their interaction is negative, indicating substitution when pursued simultaneously. Examining the innovation modes resulting from these mechanisms reveals that architectural innovation outperforms modular innovation, which is on par with radical innovation in driving market commercialization. The findings contribute to a mechanism-level understanding of how IT innovation decisions lead to market outcomes, filling an important gap in IT innovation and adoption."
+            }                      
         ],
         "--working papers": [
             {
@@ -619,9 +632,9 @@
                     "Emmanuelle Vaast",
                     "Weifeng Li"
                 ],
-                "year": "major revision - 3rd round",
+                "year": "working paper",
                 "accepted": "",
-                "venue": "Information Systems Research",
+                "venue": "TBD",
                 "url": "",
                 "abstract": ""
             },            
@@ -632,9 +645,9 @@
                     "Amrit Tiwana",
                     "Hani Safadi"
                 ],
-                "year": "under review",
+                "year": "working paper",
                 "accepted": "",
-                "venue": "Sloan Management Review",
+                "venue": "TBD",
                 "url": "",
                 "abstract": ""
             },                                       
