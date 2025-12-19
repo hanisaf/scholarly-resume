@@ -68,31 +68,43 @@ export class AppComponent implements OnInit {
   }
 
   print(): void {
-    let printContents, popupWin;
-    const printSection = document.getElementById('print-section');
-    if (!printSection) return;
-    printContents = printSection.innerHTML;
-    popupWin = window.open('', '_blank', 'top=0,left=0,height=100%,width=auto');
-    if (!popupWin) return;
-    popupWin.document.open();
-    let title = this.data.about.name;
-    let html = `
-      <html>
-        <head>
-          <title>Resume of ${title}</title>
-          <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/angular-material/1.1.10/angular-material.min.css">
-          <style>
-          ol {
-            list-style-position: outside;
-            padding-left:1.5em;
-          }
-          </style>
-        </head>
-    <body onload="window.print()">${printContents}</body>
-      </html>`;
-    console.log(html);
-    popupWin.document.write(html);
-    popupWin.document.close();
+    // Use setTimeout to ensure the DOM is updated after tab switch
+    setTimeout(() => {
+      let printContents, popupWin;
+      const printSection = document.getElementById('print-section');
+      if (!printSection) {
+        console.error('Print section not found');
+        return;
+      }
+      printContents = printSection.innerHTML;
+      popupWin = window.open('', '_blank', 'top=0,left=0,height=100%,width=auto');
+      if (!popupWin) {
+        console.error('Failed to open print window. Please check your popup blocker settings.');
+        return;
+      }
+      popupWin.document.open();
+      let title = this.data.about.name;
+      let html = `
+        <html>
+          <head>
+            <title>Resume of ${title}</title>
+            <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/angular-material/1.1.10/angular-material.min.css">
+            <style>
+            body {
+              font-family: "Times New Roman", Times, serif;
+            }
+            ol {
+              list-style-position: outside;
+              padding-left:1.5em;
+            }
+            </style>
+          </head>
+      <body onload="window.print();window.close()">${printContents}</body>
+        </html>`;
+      console.log(html);
+      popupWin.document.write(html);
+      popupWin.document.close();
+    }, 100);
 }
 
 test() {
