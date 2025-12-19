@@ -173,8 +173,7 @@ export class CoAuthorsPipe implements PipeTransform {
           }
         }
       }
-      res = res.substr(0, res.length-2);
-      let i = res.lastIndexOf(",");
+      res = res.substring(0, res.length-2);
       res=res.replace(/,([^,]*)$/," &"+'$1'); 
       if(marker)
         return res + ")";
