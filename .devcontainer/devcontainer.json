@@ -6,7 +6,12 @@
 	"image": "mcr.microsoft.com/devcontainers/base:alpine-3.20",
 
 	// Features to add to the dev container. More info: https://containers.dev/features.
-	// "features": {},
+	"features": {
+		"ghcr.io/devcontainers/features/node:1": {
+			"version": "22",               // Gives you a stable LTS >= Angular’s requirement
+			"nodeGypDependencies": true    // Installs build deps needed for native modules
+		}
+	},
 
 	// Use 'forwardPorts' to make a list of ports inside the container available locally.
 	// "forwardPorts": [],
