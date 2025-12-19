@@ -20,3 +20,89 @@
 .mat-card-content {
   font-size: medium;
 }
+
+/* Mobile-specific styles */
+@media (max-width: 768px) {
+  .mat-card-title {
+    font-size: x-large;
+  }
+
+  .mat-card-subtitle {
+    font-size: medium;
+  }
+
+  .mat-card-content {
+    font-size: small;
+  }
+
+  .mat-card {
+    margin: 8px 0 !important;
+  }
+
+  .mat-list-item {
+    height: auto !important;
+    min-height: 48px;
+  }
+
+  .mat-card-header {
+    padding: 12px !important;
+  }
+}
+
+/* Extra small devices (phones, less than 600px) */
+@media (max-width: 599px) {
+  .mat-card-title {
+    font-size: large;
+  }
+
+  .mat-card-subtitle {
+    font-size: small;
+  }
+
+  .mat-card-content {
+    font-size: small;
+  }
+
+  .example-header-image {
+    width: 40px !important;
+    height: 40px !important;
+  }
+
+  mat-card {
+    padding: 8px !important;
+  }
+}
+
+/* Apple Watch and ultra-small devices */
+@media (max-width: 400px) {
+  .mat-card-title {
+    font-size: medium;
+  }
+
+  .mat-card-subtitle {
+    font-size: x-small;
+  }
+
+  .mat-card-content {
+    font-size: x-small;
+  }
+
+  .example-header-image {
+    width: 30px !important;
+    height: 30px !important;
+  }
+
+  .mat-card {
+    margin: 2px 0 !important;
+    padding: 4px !important;
+  }
+
+  .mat-list-item {
+    height: auto !important;
+    min-height: 40px;
+  }
+
+  .mat-card-header {
+    padding: 6px !important;
+  }
+}

@@ -1,2 +1,173 @@
 /* You can add global styles to this file, and also import other style files */
 @import "~@angular/material/prebuilt-themes/indigo-pink.css";
+
+/* Global mobile styles */
+body {
+  margin: 0;
+  padding: 0;
+}
+
+/* Mobile responsive container */
+@media (max-width: 768px) {
+  body {
+    padding: 0;
+  }
+
+  /* Improve tap targets for mobile */
+  .mat-button, .mat-list-item {
+    min-height: 48px;
+  }
+
+  /* Make tabs more mobile-friendly */
+  .mat-tab-label {
+    min-width: 80px !important;
+    padding: 0 8px !important;
+    font-size: 14px !important;
+  }
+
+  /* Adjust card spacing for mobile */
+  mat-card {
+    margin: 8px !important;
+  }
+
+  /* Make tables responsive */
+  table {
+    font-size: small;
+    width: 100%;
+  }
+
+  table td {
+    padding: 4px;
+    word-wrap: break-word;
+  }
+
+  /* Improve list readability on mobile */
+  mat-list-item, .mat-list-item {
+    font-size: 14px !important;
+    line-height: 1.4 !important;
+  }
+
+  /* Print section mobile optimization */
+  #print-section {
+    padding: 8px;
+  }
+
+  #print-section h1 {
+    font-size: 24px;
+  }
+
+  #print-section h2 {
+    font-size: 18px;
+  }
+
+  #print-section ol, #print-section ul {
+    padding-left: 20px;
+  }
+}
+
+/* Extra small devices optimization */
+@media (max-width: 599px) {
+  .mat-tab-label {
+    min-width: 70px !important;
+    padding: 0 6px !important;
+    font-size: 13px !important;
+  }
+
+  mat-card {
+    margin: 4px !important;
+  }
+
+  /* Smaller font sizes for very small screens */
+  body {
+    font-size: 14px;
+  }
+
+  table {
+    font-size: x-small;
+  }
+
+  #print-section h1 {
+    font-size: 20px;
+  }
+
+  #print-section h2 {
+    font-size: 16px;
+  }
+}
+
+/* Apple Watch and ultra-small devices optimization */
+@media (max-width: 400px) {
+  .mat-tab-label {
+    min-width: 50px !important;
+    padding: 0 2px !important;
+    font-size: 10px !important;
+  }
+
+  mat-card {
+    margin: 2px !important;
+    padding: 4px !important;
+  }
+
+  /* Ultra-small font sizes for watch screens */
+  body {
+    font-size: 12px;
+  }
+
+  .mat-card-title {
+    font-size: medium !important;
+  }
+
+  .mat-card-subtitle {
+    font-size: x-small !important;
+  }
+
+  .mat-card-content {
+    font-size: x-small !important;
+  }
+
+  .mat-card-header {
+    padding: 6px !important;
+  }
+
+  .mat-list-item {
+    font-size: 11px !important;
+    min-height: 40px !important;
+  }
+
+  table {
+    font-size: xx-small;
+  }
+
+  table td {
+    padding: 2px;
+  }
+
+  #print-section {
+    padding: 4px;
+  }
+
+  #print-section h1 {
+    font-size: 16px;
+  }
+
+  #print-section h2 {
+    font-size: 14px;
+  }
+
+  #print-section ol, #print-section ul {
+    padding-left: 10px;
+  }
+
+  /* Hide avatar on ultra-small screens */
+  .example-header-image {
+    width: 30px !important;
+    height: 30px !important;
+  }
+
+  /* Make buttons more compact */
+  .mat-button {
+    min-height: 40px;
+    font-size: 10px !important;
+    padding: 4px 8px !important;
+  }
+}
