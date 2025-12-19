@@ -1,6 +1,5 @@
 #! /bin/bash
 # if not installed
 #npm install -g angular-cli-ghpages
-export NODE_OPTIONS=--openssl-legacy-provider
-ng build --prod --base-href /scholarly-resume/
-ngh
+ng build --configuration production --base-href /scholarly-resume/
+npx angular-cli-ghpages --dir=dist/scholarly-resume/browser

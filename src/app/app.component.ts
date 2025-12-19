@@ -1,16 +1,44 @@
-import { Component } from '@angular/core';
+import { Component, OnInit } from '@angular/core';
 import { HttpClient } from '@angular/common/http';
-import { MatTabChangeEvent } from '@angular/material';
-import {APAFormatPipe, CoAuthorsPipe, KeysPipe} from './pipes';
-import { ActivatedRoute } from "@angular/router";
+import { CommonModule } from '@angular/common';
+import { MatTabsModule, MatTabChangeEvent } from '@angular/material/tabs';
+import { MatCardModule } from '@angular/material/card';
+import { MatListModule } from '@angular/material/list';
+import { MatButtonModule } from '@angular/material/button';
+import { ActivatedRoute, RouterModule } from "@angular/router";
+import {
+  APAFormatPipe,
+  CoAuthorsPipe,
+  KeysPipe,
+  LengthPipe,
+  TenurePipe,
+  HighlightPipe,
+  ListFormat
+} from './pipes';
 
 @Component({
   selector: 'app-root',
   templateUrl: './app.component.html',
   styleUrls: ['./app.component.css'],
+  standalone: true,
+  imports: [
+    CommonModule,
+    MatTabsModule,
+    MatCardModule,
+    MatListModule,
+    MatButtonModule,
+    RouterModule,
+    APAFormatPipe,
+    CoAuthorsPipe,
+    KeysPipe,
+    LengthPipe,
+    TenurePipe,
+    HighlightPipe,
+    ListFormat
+  ]
 })
 
-export class AppComponent  {
+export class AppComponent implements OnInit {
   data: any; 
   accepted = false;
   showall=false;
@@ -19,7 +47,7 @@ export class AppComponent  {
     this.http.get("assets/data.json").subscribe( res => {  this.data=res; CoAuthorsPipe.me = this.data.about.name; });
   }
 
-  ngOnInit() {
+  ngOnInit(): void {
     this.route.queryParamMap.subscribe(params => {
       let showall = this.route.snapshot.queryParamMap.get("showall");
       let accepted = this.route.snapshot.queryParamMap.get("accepted");
@@ -33,7 +61,7 @@ export class AppComponent  {
     })
   }
 
-  onLinkClick(event: MatTabChangeEvent) {
+  onLinkClick(event: MatTabChangeEvent): void {
     if(event.tab.textLabel.includes("Print")) {
       this.print();
     }
@@ -41,8 +69,11 @@ export class AppComponent  {
 
   print(): void {
     let printContents, popupWin;
-    printContents = document.getElementById('print-section').innerHTML;
+    const printSection = document.getElementById('print-section');
+    if (!printSection) return;
+    printContents = printSection.innerHTML;
     popupWin = window.open('', '_blank', 'top=0,left=0,height=100%,width=auto');
+    if (!popupWin) return;
     popupWin.document.open();
     let title = this.data.about.name;
     let html = `

@@ -1,24 +1,28 @@
 import { PipeTransform, Pipe } from '@angular/core';
-import {AppComponent} from './app.component';
 
-@Pipe({name: 'length'})
+@Pipe({
+  name: 'length',
+  standalone: true
+})
 export class LengthPipe implements PipeTransform {
-  transform(value:Array<any>, range = false) : number | Array<number> {
+  transform(value:Array<any> | null | undefined, range?: boolean): any {
     if(value) {
       if(range) {
-        let range = Array(value.length);
-        range = range.fill(0).map((x,i)=>i);
-        return range;
+        const rangeArray = Array(value.length);
+        return rangeArray.fill(0).map((x,i)=>i);
       } else
         return value.length;
     }
-    else return 0;
+    else return range ? [] : 0;
   }
 } 
-@Pipe({name: 'keys'})
+@Pipe({
+  name: 'keys',
+  standalone: true
+})
 export class KeysPipe implements PipeTransform {
   static showall = false;
-  transform(value) : any {
+  transform(value: any) : any {
     let showall = KeysPipe.showall;
     let keys = [];
     for (let key in value) {
@@ -32,14 +36,20 @@ export class KeysPipe implements PipeTransform {
   }
 } 
 
-@Pipe({name: 'cites'})
+@Pipe({
+  name: 'cites',
+  standalone: true
+})
 export class CitesPipe implements PipeTransform {
-  transform(value, args:string[]) : any {
+  transform(value: any, args:string[]) : any {
     return `<a href="${value.url}">${value.url}</a>`;
   }
 } 
 
-@Pipe({name: 'money'})
+@Pipe({
+  name: 'money',
+  standalone: true
+})
 export class MoneyPipe implements PipeTransform {
   transform(value:number) : string {
     if(value) {
@@ -49,7 +59,10 @@ export class MoneyPipe implements PipeTransform {
   }
 } 
 
-@Pipe({name: 'tenure'})
+@Pipe({
+  name: 'tenure',
+  standalone: true
+})
 export class TenurePipe implements PipeTransform {
   transform(dates:Array<string|number>) : string {
     if(dates.length == 2) {
@@ -71,7 +84,10 @@ export class TenurePipe implements PipeTransform {
   }
 } 
 
-@Pipe({name: 'highlight'})
+@Pipe({
+  name: 'highlight',
+  standalone: true
+})
 export class HighlightPipe implements PipeTransform {
   transform(items: any[], filterHighlighted = true): any {
     if(!items) return [];
@@ -83,7 +99,10 @@ export class HighlightPipe implements PipeTransform {
       
   }
 }
-@Pipe({name: 'listformat'})
+@Pipe({
+  name: 'listformat',
+  standalone: true
+})
 export class ListFormat implements PipeTransform {
   transform(list: Array<string>): string {
     let res = "";
@@ -96,13 +115,16 @@ export class ListFormat implements PipeTransform {
     return res;
   }
 }
-@Pipe({name: 'apaformat'})
+@Pipe({
+  name: 'apaformat',
+  standalone: true
+})
 export class APAFormatPipe implements PipeTransform {
   static me = "";
   format_author(author: string): string {
     let names = author.split(" ");
 
-    let res = names[names.length-1] + " " + names[0].substr(0, 1) + ".";
+    let res = names[names.length-1] + " " + names[0].substring(0, 1) + ".";
     return res;
   }
   format_authors(authors: Array<string>): string {
@@ -110,13 +132,12 @@ export class APAFormatPipe implements PipeTransform {
     for(let person of authors) {
       res = res + this.format_author(person) + ", ";
     }
-    res = res.substr(0, res.length-2);
-    let i = res.lastIndexOf(",");
+    res = res.substring(0, res.length-2);
     res=res.replace(/,([^,]*)$/," &"+'$1');
     return res;
   }
 
-  transform(paper) : string {
+  transform(paper: any) : string {
     let year = "";
     if ( ( "" + paper.year).indexOf("work") == -1) {
       year = " (" + paper.year + ")"
@@ -130,7 +151,10 @@ export class APAFormatPipe implements PipeTransform {
   }
 }
 
-@Pipe({name: 'coauthors'})
+@Pipe({
+  name: 'coauthors',
+  standalone: true
+})
 export class CoAuthorsPipe implements PipeTransform {
   static me = "";
   transform(authors: Array<string>): string {
