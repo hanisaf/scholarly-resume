@@ -18,7 +18,25 @@ Run `ng generate component component-name` to generate a new component. You can 
 
 ## Build
 
-Run `ng build` to build the project. The build artifacts will be stored in the `dist/` directory. Use the `-prod` flag for a production build.
+Run `npm run build` to build the project with default settings, or use the following command for production with GitHub Pages:
+
+```bash
+npm run build -- --configuration production --base-href /scholarly-resume/
+```
+
+Alternatively, you can run the Angular CLI directly:
+
+```bash
+ng build --configuration production --base-href /scholarly-resume/
+./scripts/postbuild.sh
+```
+
+The build artifacts will be stored in the `dist/` directory. The build process:
+1. Compiles the Angular application with SSR (Server-Side Rendering) enabled
+2. Generates `index.csr.html` (client-side rendered entry point)
+3. Copies `index.csr.html` to `index.html` for GitHub Pages deployment
+
+**Note**: The application has SSR enabled but static prerendering is disabled due to technical limitations with the current app structure. The generated `index.html` file will work correctly for GitHub Pages deployment.
 
 ## Running unit tests
 
