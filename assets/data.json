@@ -1,7 +1,7 @@
 {
     "about": {
         "name": "Hani Safadi",
-        "blurb": "I am an associate professor in the Terry College of Business at the University of Georgia. I am interested in online communities, social media, healthcare information technology, mixed-methods research and the application of computational linguistics in studying qualitative data.",
+        "blurb": "Associate professor in the Terry College of Business at the University of Georgia. Interested in researching and teaching data analytics, online communities, social media, healthcare information technology, and the application of computational methods in management research.",
         "picture": "/assets/portrait.jpg",
         "address": "Benson C420, 610 South Lumpkin Street, Athens, GA 30602",
         "email": "hanisaf@uga.edu",
@@ -150,19 +150,24 @@
             }
         ],
         "interests": {
-            "Online collectives and commons": [
+            "Online collectives": [
                 "Online communities",
                 "Open-source software",
                 "Social media"
 
             ],
-            "Health information technology": [
+            "Health IT": [
                 "Open-source health IT",                
                 "Online patient communities"
             ],
             "Theory development": [
                 "Mixed methods",
-                "Data-driven and computational theory development"
+                "Computational theory development"
+            ],
+            "Data analytics": [
+                "Data science",
+                "Big data analytics",
+                "Data engineering"
             ]
         }
     },
@@ -483,20 +488,6 @@
             },             
             {
                 "id": "",
-                "title": "Exploration-Exploitation and Knowledge Creation in Online Communities",
-                "authors": [
-                    "Hani Safadi",
-                    "Emmanuelle Vaast",
-                    "Weifeng Li"
-                ],
-                "year": "major revision - 3rd round",
-                "accepted": "",
-                "venue": "Information Systems Research",
-                "url": "",
-                "abstract": ""
-            },
-            {
-                "id": "",
                 "title": "Separating Novelty from Noise: A Sociotechnical Perspective on Managing Peripheral Contributions in Online Communities",
                 "authors": [
                     "P Kumar Sachin",
@@ -579,18 +570,6 @@
             },                    
             {
                 "id": "",
-                "title": "Epistemic Resilience: A New Frontier for Information Systems",
-                "authors": [
-                    "Hani Safadi"
-                ],
-                "year": "major revision - 2nd round",
-                "accepted": "",
-                "venue": "Policy & Internet",
-                "url": "",
-                "abstract": ""
-            },
-            {
-                "id": "",
                 "title": "Open Paths of Inquiry: Computational Theory Construction in Information Systems Research",
                 "authors": [
                     "Brian Pentland",
@@ -604,7 +583,7 @@
                     "Hani Safadi",
                     "Emmanuelle Vaast"
                 ],
-                "year": "under review - first round",
+                "year": "under review - 1st round",
                 "accepted": "",
                 "venue": "MIS Quarterly",
                 "url": "",
@@ -617,14 +596,53 @@
                     "Hani Safadi",
                     "Amrit Tiwana"
                 ],
-                "year": "under review",
+                "year": "under review - 1st round",
                 "accepted": "",
                 "venue": "Strategic Organization",
                 "url": "",
                 "abstract": "We explore the unbroached dynamics of attention allocation in teams engaged in complex knowledge work. We introduce the notions of attention fixation and attention switching, concepts present only implicitly in prior studies, and theorize how their interplay drives team productivity. Attention fixation refers to an intratemporal focus on a single issue, while attention switching refers to the intertemporal shifting of attention between issues. Using multi-decade trace data from 1,356 teams developing open-source software projects, we find that both attention fixation and switching independently enhance team productivity but are mutual substitutes. We then address the paradox of how teams benefit from both strategies even though they’re substitutive. We abductively employ sequence mining and identify two longer-term, dynamic attention allocation strategies: (1) sequential attention allocation, characterized by high fixation and low switching, and (2) vacillating attention allocation, characterized by low fixation and high switching. Our unique contribution is bringing dynamics into the theoretical conversation on attention allocation in knowledge work."
-            }                     
+            },
+            {
+                "id": "",
+                "title": "The Evolutionary Pathways of Technology Market Commercialization",
+                "authors": [
+                    "Hani Safadi",
+                    "Hossein Arjmandi"
+                ],
+                "year": "under review - 1st round",
+                "accepted": "",
+                "venue": "MIS Quarterly",
+                "url": "",
+                "abstract": "We theorize and test how two technology evolution mechanisms, recombination and structural deepening, shape technology market commercialization, an important and often overlooked outcome of innovation adoption. Using a large data set of US IT patents filed from 2010 to 2019 and patent assignment records to operationalize commercialization, we derive scalable measures of evolution mechanisms from patent text and estimate models of patent lifetime reassignments. Both mechanisms are positively associated with commercialization, but their interaction is negative, indicating substitution when pursued simultaneously. Examining the innovation modes resulting from these mechanisms reveals that architectural innovation outperforms modular innovation, which is on par with radical innovation in driving market commercialization. The findings contribute to a mechanism-level understanding of how IT innovation decisions lead to market outcomes, filling an important gap in IT innovation and adoption."
+            }                      
         ],
         "--working papers": [
+            {
+                "id": "",
+                "title": "Epistemic Resilience: A New Frontier for Information Systems",
+                "authors": [
+                    "Hani Safadi"
+                ],
+                "year": "working paper",
+                "accepted": "",
+                "venue": "TBD",
+                "url": "",
+                "abstract": ""
+            },            
+            {
+                "id": "",
+                "title": "Exploration-Exploitation and Knowledge Creation in Online Communities",
+                "authors": [
+                    "Hani Safadi",
+                    "Emmanuelle Vaast",
+                    "Weifeng Li"
+                ],
+                "year": "working paper",
+                "accepted": "",
+                "venue": "TBD",
+                "url": "",
+                "abstract": ""
+            },            
             {
                 "id": "",
                 "title": "The Power of Silence: Why Digital Chattiness Is Your Next Major Crisis",
@@ -632,9 +650,9 @@
                     "Amrit Tiwana",
                     "Hani Safadi"
                 ],
-                "year": "under review",
+                "year": "working paper",
                 "accepted": "",
-                "venue": "Sloan Management Review",
+                "venue": "TBD",
                 "url": "",
                 "abstract": ""
             },                                       
