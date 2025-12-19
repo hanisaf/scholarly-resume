@@ -23,7 +23,7 @@
       </mat-card>
       <mat-card>
         <mat-card-header>
-          Research Interests
+          Research and Teaching Interests
         </mat-card-header>
         <mat-card-content>
             <mat-list>
@@ -147,6 +147,7 @@
     <mat-tab label="🖨 Print CV">    
       <div id="print-section">
         <H1>{{data?.about.name}}</H1>
+        <p>{{data?.about.blurb}}</p>        
         {{data?.about.address}}&nbsp;☎{{data?.about.phone}}&nbsp;✉ {{data?.about.email}}
         <H2>Academic Appointments</H2>
         <table>
@@ -162,7 +163,7 @@
           </tr>
         </table>
   
-        <H2>Research Interests</H2>
+        <H2>Research and Teaching Interests</H2>
         <table>
             <tr>
               <td *ngFor="let v of data?.about?.interests | keys"> <b>{{v?.key}}</b></td>

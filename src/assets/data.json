@@ -1,7 +1,7 @@
 {
     "about": {
         "name": "Hani Safadi",
-        "blurb": "I am an associate professor in the Terry College of Business at the University of Georgia. I am interested in online communities, social media, healthcare information technology, mixed-methods research and the application of computational linguistics in studying qualitative data.",
+        "blurb": "Associate professor in the Terry College of Business at the University of Georgia. Interested in researching and teaching data analytics, online communities, social media, healthcare information technology, and the application of computational methods in management research.",
         "picture": "/assets/portrait.jpg",
         "address": "Benson C420, 610 South Lumpkin Street, Athens, GA 30602",
         "email": "hanisaf@uga.edu",
@@ -150,19 +150,24 @@
             }
         ],
         "interests": {
-            "Online collectives and commons": [
+            "Online collectives": [
                 "Online communities",
                 "Open-source software",
                 "Social media"
 
             ],
-            "Health information technology": [
+            "Health IT": [
                 "Open-source health IT",                
                 "Online patient communities"
             ],
             "Theory development": [
                 "Mixed methods",
-                "Data-driven and computational theory development"
+                "Computational theory development"
+            ],
+            "Data analytics": [
+                "Data science",
+                "Big data analytics",
+                "Data engineering"
             ]
         }
     },
@@ -565,18 +570,6 @@
             },                    
             {
                 "id": "",
-                "title": "Epistemic Resilience: A New Frontier for Information Systems",
-                "authors": [
-                    "Hani Safadi"
-                ],
-                "year": "major revision - 2nd round",
-                "accepted": "",
-                "venue": "Policy & Internet",
-                "url": "",
-                "abstract": ""
-            },
-            {
-                "id": "",
                 "title": "Open Paths of Inquiry: Computational Theory Construction in Information Systems Research",
                 "authors": [
                     "Brian Pentland",
@@ -624,6 +617,18 @@
             }                      
         ],
         "--working papers": [
+            {
+                "id": "",
+                "title": "Epistemic Resilience: A New Frontier for Information Systems",
+                "authors": [
+                    "Hani Safadi"
+                ],
+                "year": "working paper",
+                "accepted": "",
+                "venue": "TBD",
+                "url": "",
+                "abstract": ""
+            },            
             {
                 "id": "",
                 "title": "Exploration-Exploitation and Knowledge Creation in Online Communities",
