@@ -5,7 +5,8 @@
   "scripts": {
     "ng": "ng",
     "start": "ng serve",
-    "build": "ng build",
+    "build": "./scripts/build-with-postbuild.sh",
+    "build:prod": "ng build --configuration production && ./scripts/postbuild.sh",
     "build:prerender": "ng build --configuration production && ng run scholarly-resume:prerender",
     "test": "ng test",
     "watch": "ng build --watch --configuration development",
