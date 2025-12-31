@@ -614,21 +614,21 @@
                 "venue": "MIS Quarterly",
                 "url": "",
                 "abstract": "We theorize and test how two technology evolution mechanisms, recombination and structural deepening, shape technology market commercialization, an important and often overlooked outcome of innovation adoption. Using a large data set of US IT patents filed from 2010 to 2019 and patent assignment records to operationalize commercialization, we derive scalable measures of evolution mechanisms from patent text and estimate models of patent lifetime reassignments. Both mechanisms are positively associated with commercialization, but their interaction is negative, indicating substitution when pursued simultaneously. Examining the innovation modes resulting from these mechanisms reveals that architectural innovation outperforms modular innovation, which is on par with radical innovation in driving market commercialization. The findings contribute to a mechanism-level understanding of how IT innovation decisions lead to market outcomes, filling an important gap in IT innovation and adoption."
-            }                      
-        ],
-        "--working papers": [
+            },
             {
                 "id": "",
                 "title": "Epistemic Resilience: A New Frontier for Information Systems",
                 "authors": [
                     "Hani Safadi"
                 ],
-                "year": "working paper",
+                "year": "under review - 1st round",
                 "accepted": "",
-                "venue": "TBD",
+                "venue": "European Journal of Information Systems",
                 "url": "",
-                "abstract": ""
-            },            
+                "abstract": "This paper introduces the concept of epistemic resilience as a necessary attribute for information systems to address the prevalence of misinformation on social media and internet platforms. It describes epistemic resilience's critical role in reducing manipulation and misinformation by examining the philosophical, psychological, and sociological underpinnings of belief formation and information sharing. Drawing on Churchman’s systems of inquiry, the paper proposes design principles for redesigning modern information systems for epistemic resilience."
+            }                                  
+        ],
+        "--working papers": [          
             {
                 "id": "",
                 "title": "Exploration-Exploitation and Knowledge Creation in Online Communities",
@@ -1774,21 +1774,27 @@
         "students": [
             {
                 "title": "Kumar Sachin",
-                "id": "Supervisor"
+                "id": "Supervisor",
+                "placement": "University of Bern, Switzerland"
             },
             {
                 "title": "Tanner Skousen",
-                "id": "Supervisor"
+                "id": "Supervisor",
+                "placement": "Brigham Young University"
             },
             {
-                "title": "Yuanyuan (April) Song",
+                "title": "Hossein Arjmandi",
                 "id": "Committee member"
+            },            
+            {
+                "title": "Yuanyuan (April) Song",
+                "id": "Committee member",
+                "placement": "Marquette University"
             },            
             {
                 "title": "Carolina Salge",
                 "id": "Committee member",
-                "placement": "Wake Forest University, School of Business",
-                "url": "https://business.wfu.edu/directory/carolina-salge"
+                "placement": "Wake Forest University, School of Business"
             },
             {
                 "title": "Mazen Shawosh",
@@ -2155,6 +2161,14 @@
             }
         ],
         "panels": [
+            {
+                "id": "",
+                "title": "Developing and Publishing Computational Theory Construction Research",
+                "venue": "International Conference on Information Systems",
+                "year": "2025",
+                "url": "",
+                "abstract": ""
+            },             
             {
                 "id": "",
                 "title": "Towards A Craft Of Computational Theory Construction",
