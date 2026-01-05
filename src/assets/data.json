@@ -175,6 +175,19 @@
         "journal articles": [
             {
                 "id": "",
+                "title": "Synchronizing Development Teams with Drifting Software Systems: A Decomposability-Based Theory of Evolutionary Mechanisms",
+                "authors": [
+                    "Amrit Tiwana",
+                    "Hani Safadi"
+                ],
+                "year": "minor revision",
+                "accepted": "2026",
+                "venue": "Journal of Management Information Systems",
+                "url": "https://github.com/hanisaf/preprint/blob/main/Synchronizing_JMIS.pdf",
+                "abstract": ""
+            },            
+            {
+                "id": "",
                 "title": "Investigating replicability in the Social and Behavioral Sciences",
                 "authors": ["Andrew H. Tyner", "Anna Lou Abatayo", "Mason Daley", "Samuel Field", "Nicholas Fox", "Noah A. Haber", "Krystal M. Hahn", "Melissa Kline Struhl", "Brinna Mawhinney", "Olivia Miske", "Priya Silverstein", "Courtney K. Soderberg", "Theresa Stankov", "Ahmed Abbasi", "Christopher L. Aberson", "Balazs Aczel", "Matúš Adamkovič", "Nihan Albayrak", "Peter J Allen", "Michael Andreychik", "Eli Awtrey", "Erick Axxe", "Flavio Azevedo", "Miles D. Bader", "Bence Bago", "James Bailey", "Marjan Bakker", "Gabriel Banik", "George C. Banks", "Ernest Baskin", "Anatolia Batruch", "Annika Beatteay", "Sophie M. Behr", "Nicholas Berente", "Zachariah Berry", "Jędrzej Białkowski", "Bojana Bodroža", "Laura Boeschoten", "Miklos Bognar", "Christian Bokhove", "Diane Bonfiglio", "Robin Bouwman", "Timothy F. Brady", "Scott Braithwaite", "Gabriel Briceño Jiménez", "Cameron Brick", "Traci Bricka", "Roman Briker", "Annette N. Brown", "Gordon D A Brown", "Robbie C.M. van Aert", "Kathryn Caldwell", "Sara Capitan", "Tabaré Capitán", "Jesse Chandler", "Tessa Charles", "Christopher R. Chartier", "Rahul Chawdhary", "Kent Jason Cheng", "William J. Chopik", "Bruce Clark", "Victoria E. Colvin", "C. Cozette Comer", "Giulio Costantini", "Tom Coupé", "Jamie Cummins", "Aneta Czernatowicz-Kukuczka", "Joshua de Leeuw", "David Dobolyi", "James N. Druckman", "Jianhua Duan", "Marin Dujmović", "Daniel J. Dunleavy", "Patrick K. Durkee", "Cécile Emery", "Kevin M. Esterling", "Thomas R. Evans", "Anna Fedor", "Belén Fernández-Castilla", "Nathan Fiala", "James G. Field", "Nathan Fong", "Miguel A. Fonseca", "Alexandra L.J. Freeman", "Jeremy Freese", "Sandra J. Geiger", "Jing Geng", "Laura M. Getz", "Linda Marjoleine Geven", "Ilka Helene Gleibs", "Donna Pamella Gonzales", "Janaki Gooty", "Amélie Gourdon-Kanhukamwe", "Cristina Greculescu", "Siobhán M. Griffin", "Lusine Grigoryan", "Martina Grunow", "Nicholas Gunby", "Braeden Hall", "Paul H. P. Hanel", "Erin E. Hannon", "Sam Harper", "Marco Jürgen Held", "Louis Hickman", "Nathan C. Higgins", "Svenja Hippel", "Sven Hoeppner", "Sanghyun Hong", "Thomas J. Hostler", "Michael Inzlicht", "Kamil Izydorczak", "Bastian Jaeger", "Kristin Jankowsky", "Johannes Jarke-Neuert", "Matthew Jensen", "Biljana Jokić", "Daniel Jolles", "Phillip Jolly", "Angela M. Jones", "Marie Juanchich", "Pavol Kačmár", "Hansika Kapoor", "Andjela Keljanovic", "Samjhana Koirala", "Marta Kołczyńska", "Dimitra Kouroupaki", "Ulrich Kühnen", "Michelangelo Landgrave", "Michael J. Larson", "Lyonel Laulié", "Alice C E Lawrence", "Joel M. Le Forestier", "Katelin E. Leahy", "Sungmok Lee", "Jared Leslie", "Savannah C. Lewis", "Christopher Limnios", "Hause Lin", "An-Chiao Liu", "John Wills Lloyd", "Elliot A Ludvig", "Dermot Lynott", "Jordan MacDonald", "Peter Mallik", "Daniel J. Mallinson", "Daniele Marinazzo", "Corinna S. Martarelli", "Joshua Matacotta", "Andrew McBride", "Cillian McHugh", "Gail McMillan", "Esteban Méndez", "Mitchell Metzger", "Michalis P. Michaelides", "Johannes Michalak", "Leticia Micheli", "Jeremy K. Miller", "Marina Milyavskaya", "Daniel C. Molden", "Ambar G. Monjaras", "David Moreau", "Audrey Morrow", "Cristóbal Moya", "Liad Mudrik", "Laetitia B. Mulder", "Katie A. Munt", "Arijit Nandi", "Kathryn Nason", "Carolin Nast", "Gideon Nave", "Heinrich H. Nax", "Florian Neubauer", "Phuong Linh L. Nguyen", "Austin Lee Nichols", "Gustav Nilsonne", "Ernest O'Boyle", "Jule Oettinghaus", "Jeewon Oh", "Adoril Oshana", "Thomas Ostermann", "Rachel P. Ostrowski", "Abiola Oyebanjo", "Radoslaw Panczak", "Jamie Patrianakos", "Ignacio Pavez", "Yuri G. Pavlov", "Sofia Persson", "Marco Perugini", "Kim Peters", "Constant Pieters", "Vladimir Ponizovskiy", "Nathaniel D. Porter", "Jason M. Prenoveau", "Danka Purić", "Mariah F. Purol", "Arathy Puthillam", "Kimberly A. Quinn", "Marco Ramljak", "W. Robert Reed", "Michaela Ritchie", "Margaret Ritzau", "Sean Patrick Roche", "Romina Rodela", "Jan Philipp Röer", "Ivan Ropovik", "Jacob Rothschild", "Justine Saal", "Hani Safadi", "Jason Samaha", "Mary Sanchez", "Soorya Sankaran", "David Santos", "Amanda C. Sargent", "Marian Sauter", "Kathleen Schmidt", "Landon Schnabel", "Amber N Schroeder", "Sebastian W. Schuetz", "Brendan A. Schuetze", "Michael Schulte-Mecklenbeck", "Astrid Schütz", "Eric L. Sevigny", "Ellie Shackleton", "Richard M. Shafranek", "Samuel Shaki", "Shishir Shakya", "Miroslav Sirota", "Matthew Ryan Sisco", "Maksim M. Sitnikov", "L. Robert Slevc", "Laura Smalarz", "Colin Tucker Smith", "Joel S. Snyder", "Nicolas Sommet", "Fatih Sonmez", "Barbara A. Spellman", "Natalia Stanulewicz-Buckley", "George Stock", "Chris N. H. Street", "Eirik Strømland", "Tina Sundelin", "Moin Syed", "Anna Szabelska", "Barnabas Szaszi", "Ewa Szumowska", "Anirudh Tagat", "Susanne Täuber", "Louis Tay", "Stuti Thapa", "Jason Thatcher", "Domna Tsaklakidou", "Lars Tummers", "Elise Turkovich", "Melba Verra Tutor", "Karolina Urbanska", "Anna Elisabeth van 't Veer", "Marcel van Assen", "Niels van de Ven", "Elisabeth Julie Vargo", "Leigh Ann Vaughn", "Simine Vazire", "Jentien M. Vermeulen", "Diem Thi Hong Vo", "Victor Volkman", "Eric-Jan Wagenmakers", "Deliah Wagner", "Lukasz Walasek", "Frank Walter", "Lara Warmelink", "Liuqing Wei", "Marie Isabelle Weißflog", "Nicholas Weller", "Aaron L. Wichman", "Jonathan Wilbiks", "Jamal R. Williams", "Kelly Wolfe", "Finnian Wort", "Ryan Wright", "Jesper N. Wulff", "Xindong Xue", "Veronica X. Yan", "Yuzhi Yang", "Sangsuk Yoon", "Iris Žeželj", "Yinxian Zhang", "Ignazio Ziano", "Cristina Zogmaister", "Zorana Zupan", "Rolf A. Zwaan", "Brian A. Nosek", "Timothy M. Errington"],
                 "year": "2025",
@@ -261,7 +274,7 @@
                 "year": "2024",
                 "accepted": "2023",
                 "venue": "MIS Quarterly",
-                "url": "https://github.com/hanisaf/preprint/raw/main/ESM_MISQ.pdf",
+                "url": "https://github.com/hanisaf/preprint/blob/main/ESM_MISQ.pdf",
                 "abstract": "Enterprise social media (ESM) is changing how knowledge workers interact and share information; however, a debate persists as to whether ESM is an adequate knowledge management system. ESM provides a rich set of affordances for organizational knowledge work, such as improved organizational memory, but also constrains knowledge work performance because of digital interruptions. Extending and complementing existing scholarship, this study asks the following research question: how can organizations design ESM to realize its knowledge work benefits? Using a computational agent-based model that incorporates the design features of ESM, workers’ attitudes, and resulting ESM-use affordances and constraints, this study shows how ESM-use outcomes are contingent both on the design of and users’ attitudes toward ESM. Specifically, the negative effects of ESM interactivity are mitigated when employees have a low transparency preference and access ESM without posting as much. The study further unpacks asymmetric engagement as the mechanism that leads low transparency configurations to be more resilient to the negative effects of interruptions driven by ESM interactivity. Asymmetric engagement—learning from posted content without interacting often—enables the gradual creation of organizational memory while maintaining a broad user base by minimizing interruptions. These results ultimately contribute a multilevel model of ESM use and knowledge work outcomes, enhancing the theoretical understanding of previously studied mechanisms such as communication visibility and providing implications for organizations designing ESM."
             }, 
             {
@@ -274,7 +287,7 @@
                 "year": "2023",
                 "accepted": "2023",
                 "venue": "Information and Organization",
-                "url": "https://github.com/hanisaf/preprint/raw/main/knowledge_monopolies_InO.pdf",
+                "url": "https://github.com/hanisaf/preprint/blob/main/knowledge_monopolies_InO.pdf",
                 "abstract": "The rise of digital ecosystems has created economic knowledge monopolies that are a threat to innovation. National or regional governance structures, such as laws and regulatory authorities, are used to constrain economic monopolies that are deemed not to be in the public interest. The power of knowledge ecosystems monopolies derives from their imposition of data obligations on ecosystem participation and their usurpation of the rights to data created by the ecosystem.  Consequently, they can use machine learning to develop competitive insights unavailable to any member of their ecosystem. This information asymmetry stifles innovation, stokes the growth of the monopoly, and reinforces its ascendency. We propose that new legislation and an associated regulatory mechanism are needed to curtail coercive data obligations, control or eliminate the exploitation of data rights, and prevent mergers and acquisitions that could create or extend knowledge monopolies."
             },                           
             {
@@ -287,7 +300,7 @@
                 "year": "2023",
                 "accepted": "2023",
                 "venue": "Information Systems Research",
-                "url": "https://github.com/hanisaf/preprint/raw/main/atrophy_ISR.pdf",
+                "url": "https://github.com/hanisaf/preprint/blob/main/atrophy_ISR.pdf",
                 "abstract": "A pervasive, unbroached phenomenon is how once-modern systems age into unmaintainable albatrosses. We conceptualize this phenomenon from first-principles as system atrophy. We construct a trace dataset from 190 million lines of evolving code in 1,354 systems spanning 25 years to corroborate it. Our middle-range theory introduces system atrophy into the conversation on IS evolution, showing how small increments in modularity slow atrophy but lose potency with age. Atrophy eventually stunts systems, increases bugginess, and disengages developers."
             }, 
             {
@@ -472,20 +485,7 @@
                 "abstract": "Fake news is a widespread and concerning phenomenon. The goal of this article is twofold. First, we argue that curtailing fake news is better pursued by identifying its propagators than by classifying its content. Second, to validate our conceptual argument, we develop a system for curtailing the propagation of fake news on social media by identifying users who are susceptible to believing and propagating it. We anchor our approach in the debate about the ontological nature of truth, the empirical challenges of classifying fake news content, as well as the psychological and social origins of believing fake news. Through interpreting our model using modern explainable machine learning, we deepen our theoretical understanding of why people believe and share fake news, extend the applicability of our system beyond its original context, and provide guidelines for mitigating fake news propagation."
             }  
         ],        
-        "-papers under review": [
-            {
-                "id": "",
-                "title": "Synchronizing Development Teams with Drifting Software Systems: A Decomposability-Based Theory of Evolutionary Mechanisms",
-                "authors": [
-                    "Amrit Tiwana",
-                    "Hani Safadi"
-                ],
-                "year": "minor revision",
-                "accepted": "",
-                "venue": "Journal of Management Information Systems",
-                "url": "",
-                "abstract": ""
-            },             
+        "-papers under review": [             
             {
                 "id": "",
                 "title": "Separating Novelty from Noise: A Sociotechnical Perspective on Managing Peripheral Contributions in Online Communities",
