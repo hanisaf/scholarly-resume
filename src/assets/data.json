@@ -174,13 +174,13 @@
     "research": {
         "journal articles": [
             {
-                "id": "",
+                "id": "10.1080/07421222.2025.2602394",
                 "title": "Synchronizing Development Teams with Drifting Software Systems: A Decomposability-Based Theory of Evolutionary Mechanisms",
                 "authors": [
                     "Amrit Tiwana",
                     "Hani Safadi"
                 ],
-                "year": "minor revision",
+                "year": "2026",
                 "accepted": "2026",
                 "venue": "Journal of Management Information Systems",
                 "url": "https://github.com/hanisaf/preprint/blob/main/Synchronizing_JMIS.pdf",
@@ -626,7 +626,33 @@
                 "venue": "European Journal of Information Systems",
                 "url": "",
                 "abstract": "This paper introduces the concept of epistemic resilience as a necessary attribute for information systems to address the prevalence of misinformation on social media and internet platforms. It describes epistemic resilience's critical role in reducing manipulation and misinformation by examining the philosophical, psychological, and sociological underpinnings of belief formation and information sharing. Drawing on Churchman’s systems of inquiry, the paper proposes design principles for redesigning modern information systems for epistemic resilience."
-            }                                  
+            },
+            {
+                "id": "",
+                "title": "Generative AI and Qualitative Meta-Studies: The Challenge of the Double Hermeneutic in Theory Construction",
+                "authors": [
+                    "Nicholas Berente",
+                    "Hani Safadi"
+                ],
+                "year": "under review - 1st round",
+                "accepted": "",
+                "venue": "Journal of Management Inquiry",
+                "url": "",
+                "abstract": "Qualitative meta-studies offer a powerful means for generating new theory by synthesizing rich case evidence from multiple studies. The emergence of Generative AI (GenAI) promises to accelerate this labor-intensive process, yet its application remains fraught with epistemological risks. Drawing on Giddens’ concept of the double hermeneutic, we suggest that generative tools can struggle to perform a valid rational reconstruction of qualitative data. Two main issues arise: anchoring, in which the model adopts original study framings without analyzing the evidence, and occlusion, which leads to poor synthesis across cases. Our illustrative analysis of ten digital transformation case studies using a source grounded generative tool shows that standard prompting fails to mitigate these biases. We suggest a workflow for meta-studies with generative AI tools that includes prompt engineering, manual data preprocessing, and dialogic interaction with generative AI as a reflexive thinking partner."
+            },
+            {
+                "id": "",
+                "title": "Generating Knowledge Capital",
+                "authors": [
+                    "Richard Watson",
+                    "Hani Safadi"
+                ],
+                "year": "under review - 1st round",
+                "accepted": "",
+                "venue": "Sloan Management Review",
+                "url": "",
+                "abstract": "Companies can create a competitive advantage by combining high-quality human capital with sophisticated organizational capital. Four organizational types are based on these combinations: creative complexity, breakthrough science, applied science, and operational complexity. Five significant elements of knowledge capital creation capabilities are: know thy capital creation system, knowledgeable leadership, knowledge engineering, systems thinking, and continuous investment in systems of inquiry. This article provides guidance on leveraging the five elements to build knowledge capital for a target archetype."
+            }                                   
         ],
         "--working papers": [          
             {
