@@ -6,6 +6,92 @@ body {
   margin: 0;
   padding: 0;
   font-family: Arial, Helvetica, sans-serif;
+  color: #000000;
+  background-color: #ffffff;
+}
+
+/* ── Black & white high-contrast overrides ──────────────────── */
+
+/* Page background */
+body {
+  background-color: #ffffff;
+}
+
+/* Card: white, black border, no colored shadow */
+mat-card, .mat-mdc-card {
+  background: #ffffff !important;
+  box-shadow: none !important;
+  border: 2px solid #000000 !important;
+  margin-bottom: 16px;
+}
+
+/* Card header: white background, black bold text */
+mat-card-header, .mat-mdc-card-header,
+.mat-card-header {
+  background-color: #ffffff !important;
+  color: #000000 !important;
+  padding: 12px 16px !important;
+  border-radius: 0;
+  border-bottom: 2px solid #000000 !important;
+}
+
+mat-card-header *, .mat-mdc-card-header *,
+.mat-card-header * {
+  color: #000000 !important;
+  font-weight: bold !important;
+}
+
+/* Card content: dark text */
+mat-card-content, .mat-mdc-card-content {
+  padding: 12px 16px !important;
+  color: #000000 !important;
+}
+
+/* Tab bar: white background, black text */
+.mat-mdc-tab-group .mat-mdc-tab-header,
+.mat-tab-group .mat-tab-header {
+  background-color: #ffffff;
+  border-bottom: 2px solid #000000;
+}
+
+.mat-mdc-tab .mdc-tab__text-label,
+.mat-tab-label-content {
+  color: #000000 !important;
+  font-weight: 600;
+}
+
+/* Active-tab ink bar: black */
+.mdc-tab-indicator__content--underline,
+.mat-ink-bar {
+  background-color: #000000 !important;
+  height: 3px !important;
+}
+
+/* Tab ripple and focus/selected highlight: black & white only */
+.mat-mdc-tab .mat-ripple-element,
+.mat-mdc-tab-header .mat-ripple-element {
+  background-color: rgba(0, 0, 0, 0.12) !important;
+}
+.mat-mdc-tab.mdc-tab--active,
+.mat-mdc-tab:hover {
+  background-color: rgba(0, 0, 0, 0.08) !important;
+}
+.mat-mdc-tab .mdc-tab__ripple::before {
+  background-color: #000000 !important;
+}
+
+/* Links: black, underlined */
+a {
+  color: #000000;
+  text-decoration: underline;
+}
+a:hover {
+  text-decoration: none;
+}
+
+/* List items: thin black separator */
+mat-list-item, .mat-mdc-list-item {
+  border-bottom: 1px solid #000000 !important;
 }
 
 /* Print-specific styles */
