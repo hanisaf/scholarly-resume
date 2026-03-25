@@ -1,0 +1,1213 @@
+<?xml version="1.0" ?>
+<resume>
+  <about>
+    <name>Hani Safadi</name>
+    <blurb>Associate professor in the Terry College of Business at the University of Georgia. Interested in researching and teaching data analytics, online communities, social media, healthcare information technology, and the application of computational methods in management research.</blurb>
+    <picture>/assets/portrait.jpg</picture>
+    <address>Benson C420, 610 South Lumpkin Street, Athens, GA 30602</address>
+    <email>hanisaf@uga.edu</email>
+    <phone>+1-706-542-3336</phone>
+    <fax>+1-706-542-2784</fax>
+    <websites>
+      <website title="UGA" url="https://www.terry.uga.edu/directory/hani-safadi"/>
+      <website title="Google Scholar" url="https://scholar.google.com/citations?user=OUWTJoMAAAAJ"/>
+      <website title="ORCID" url="https://orcid.org/0000-0003-0609-8005"/>
+      <website title="SSRN" url="https://papers.ssrn.com/sol3/cf_dev/AbsByAuth.cfm?per_id=4067702"/>
+      <website title="GitHub" url="https://github.com/hanisaf/"/>
+      <website title="LinkedIn" url="https://www.linkedin.com/in/hanisafadi"/>
+      <website title="X" url="https://x.com/hanisaf"/>
+      <website title="ODIN" url="https://hanisaf.github.io/odin-front/"/>
+    </websites>
+    <education>
+      <entry title="Ph.D. in Information Systems Management" venue="McGill University" startdate="2009" enddate="2015" abstract="GPA 3.92/4.0"/>
+      <entry title="M.Sc. in Computer Science" venue="McGill University" startdate="2006" enddate="2008" abstract="GPA 4.0/4.0"/>
+      <entry title="B.Eng. in Computer Engineering" venue="University of Damascus" startdate="2001" enddate="2006" abstract="2nd student in the cohort"/>
+    </education>
+    <expertise>
+      <entry title="Certified Analytics Professional - Expert level (CAP-X)" venue="INFORMS" startdate="2021" url="https://bcert.me/sjixukecg" abstract=""/>
+      <entry title="Certified Java Professional - Programmer" venue="Oracle" startdate="2006" url="https://education.oracle.com/oracle-certification-path/pFamily_48" abstract=""/>
+    </expertise>
+    <work>
+      <entry title="Associate Professor" venue="University of Georgia, Terry College of Business" startdate="2021" highlight="yes"/>
+      <entry title="Assistant Professor" venue="University of Georgia, Terry College of Business" startdate="2015" enddate="2021" highlight="yes"/>
+      <entry title="Research Collaborator" venue="Mayo Clinic" startdate="2016" enddate="2021" highlight="yes"/>
+      <entry title="Visiting Assistant Professor" venue="Stevens Institute of Technology, School of Business" startdate="2014" enddate="2015" highlight="yes"/>
+      <entry title="Software Developer" venue="Queen Elizabeth Health Complex" startdate="2012" enddate="2013" abstract="Supporting and implementing a multi-clinic Open-Source Electronic Medical System "/>
+      <entry title="Instructor" venue="McGill University, Desautels Faculty of Management" startdate="2012" enddate="2011"/>
+      <entry title="Search Engine Optimization Consultant" venue="McGill University" startdate="2009" enddate="2009" abstract="Improving the visibility of the graduate school new website and optimizing it for search engines "/>
+      <entry title="Research Engineer" venue="Yahoo!" startdate="2007" enddate="2007" abstract="Using statistical machine translation technology to enhance user query experience in Yahoo! Answers "/>
+      <entry title="Software Developer" venue="Arexera Information Technology" startdate="2005" enddate="2005" abstract="Adaptation of Arexera's search engine technologies to Arabic"/>
+      <entry title="Software Tester" venue="TeachArabia" startdate="2004" enddate="2005"/>
+    </work>
+    <interests>
+      <category name="Online collectives">
+        <item>Online communities</item>
+        <item>Open-source software</item>
+        <item>Social media</item>
+      </category>
+      <category name="Health IT">
+        <item>Open-source health IT</item>
+        <item>Online patient communities</item>
+      </category>
+      <category name="Theory development">
+        <item>Mixed methods</item>
+        <item>Computational theory development</item>
+      </category>
+      <category name="Data analytics">
+        <item>Data science</item>
+        <item>Big data analytics</item>
+        <item>Data engineering</item>
+      </category>
+    </interests>
+  </about>
+  <research>
+    <section name="journal articles">
+      <paper id="10.1080/07421222.2025.2602394" title="Synchronizing Development Teams with Drifting Software Systems: A Decomposability-Based Theory of Evolutionary Mechanisms" year="2026" accepted="2026" venue="Journal of Management Information Systems" url="https://github.com/hanisaf/preprint/blob/main/Synchronizing_JMIS.pdf">
+        <authors>
+          <author>Amrit Tiwana</author>
+          <author>Hani Safadi</author>
+        </authors>
+      </paper>
+      <paper title="Investigating replicability in the Social and Behavioral Sciences" year="2025" accepted="2025" venue="Nature" abstract="We attempted replications of 274 claims of positive results from 164 quantitative papers published from 2009 to 2018 in 54 journals in the social and behavioral sciences. Replications were high-powered on average to detect the original effect size (Median = 99.6%), used original materials when relevant and available, and were peer-reviewed in advance through a standardized internal protocol. Replications showed statistically significant results in the same pattern as the original study for 151 of 274 claims (55.1% [95% CI 49.2 - 60.9%]) and for 80.8 of 164 papers (49.3% [95% CI 43.8 - 54.7%]) weighed for replicating multiple claims per paper. We observed modest variation in replication rates across disciplines (Range 42.5% to 63.1%) though some estimates had high uncertainty due to small sample size. For claims where effect sizes could be converted to Pearson’s r, the median effect size was 0.25 [95% CI 0.21 - 0.27] for original studies and 0.10 [95% CI 0.09 - 0.13] for replication studies, a 58.1% [95% CI 44.2 - 65.0%] reduction in correlation and a 82.4% [95% CI 67.8 - 88.2%] reduction in shared variance. Thirteen methods for evaluating replication success provided estimates ranging from 28.6% to 74.8% (median = 49.3%), though most methods could only be applied to a subset of the replications conducted (median = 92.1%; range 63.5% to 100.0%). Some decline in effect size and significance is expected based on power to detect original effects and regression to the mean due to replicating only positive results. The conditions that promote or inhibit replicability are worthy of additional investigation.">
+        <authors>
+          <author>Andrew H. Tyner</author>
+          <author>Anna Lou Abatayo</author>
+          <author>Mason Daley</author>
+          <author>Samuel Field</author>
+          <author>Nicholas Fox</author>
+          <author>Noah A. Haber</author>
+          <author>Krystal M. Hahn</author>
+          <author>Melissa Kline Struhl</author>
+          <author>Brinna Mawhinney</author>
+          <author>Olivia Miske</author>
+          <author>Priya Silverstein</author>
+          <author>Courtney K. Soderberg</author>
+          <author>Theresa Stankov</author>
+          <author>Ahmed Abbasi</author>
+          <author>Christopher L. Aberson</author>
+          <author>Balazs Aczel</author>
+          <author>Matúš Adamkovič</author>
+          <author>Nihan Albayrak</author>
+          <author>Peter J Allen</author>
+          <author>Michael Andreychik</author>
+          <author>Eli Awtrey</author>
+          <author>Erick Axxe</author>
+          <author>Flavio Azevedo</author>
+          <author>Miles D. Bader</author>
+          <author>Bence Bago</author>
+          <author>James Bailey</author>
+          <author>Marjan Bakker</author>
+          <author>Gabriel Banik</author>
+          <author>George C. Banks</author>
+          <author>Ernest Baskin</author>
+          <author>Anatolia Batruch</author>
+          <author>Annika Beatteay</author>
+          <author>Sophie M. Behr</author>
+          <author>Nicholas Berente</author>
+          <author>Zachariah Berry</author>
+          <author>Jędrzej Białkowski</author>
+          <author>Bojana Bodroža</author>
+          <author>Laura Boeschoten</author>
+          <author>Miklos Bognar</author>
+          <author>Christian Bokhove</author>
+          <author>Diane Bonfiglio</author>
+          <author>Robin Bouwman</author>
+          <author>Timothy F. Brady</author>
+          <author>Scott Braithwaite</author>
+          <author>Gabriel Briceño Jiménez</author>
+          <author>Cameron Brick</author>
+          <author>Traci Bricka</author>
+          <author>Roman Briker</author>
+          <author>Annette N. Brown</author>
+          <author>Gordon D A Brown</author>
+          <author>Robbie C.M. van Aert</author>
+          <author>Kathryn Caldwell</author>
+          <author>Sara Capitan</author>
+          <author>Tabaré Capitán</author>
+          <author>Jesse Chandler</author>
+          <author>Tessa Charles</author>
+          <author>Christopher R. Chartier</author>
+          <author>Rahul Chawdhary</author>
+          <author>Kent Jason Cheng</author>
+          <author>William J. Chopik</author>
+          <author>Bruce Clark</author>
+          <author>Victoria E. Colvin</author>
+          <author>C. Cozette Comer</author>
+          <author>Giulio Costantini</author>
+          <author>Tom Coupé</author>
+          <author>Jamie Cummins</author>
+          <author>Aneta Czernatowicz-Kukuczka</author>
+          <author>Joshua de Leeuw</author>
+          <author>David Dobolyi</author>
+          <author>James N. Druckman</author>
+          <author>Jianhua Duan</author>
+          <author>Marin Dujmović</author>
+          <author>Daniel J. Dunleavy</author>
+          <author>Patrick K. Durkee</author>
+          <author>Cécile Emery</author>
+          <author>Kevin M. Esterling</author>
+          <author>Thomas R. Evans</author>
+          <author>Anna Fedor</author>
+          <author>Belén Fernández-Castilla</author>
+          <author>Nathan Fiala</author>
+          <author>James G. Field</author>
+          <author>Nathan Fong</author>
+          <author>Miguel A. Fonseca</author>
+          <author>Alexandra L.J. Freeman</author>
+          <author>Jeremy Freese</author>
+          <author>Sandra J. Geiger</author>
+          <author>Jing Geng</author>
+          <author>Laura M. Getz</author>
+          <author>Linda Marjoleine Geven</author>
+          <author>Ilka Helene Gleibs</author>
+          <author>Donna Pamella Gonzales</author>
+          <author>Janaki Gooty</author>
+          <author>Amélie Gourdon-Kanhukamwe</author>
+          <author>Cristina Greculescu</author>
+          <author>Siobhán M. Griffin</author>
+          <author>Lusine Grigoryan</author>
+          <author>Martina Grunow</author>
+          <author>Nicholas Gunby</author>
+          <author>Braeden Hall</author>
+          <author>Paul H. P. Hanel</author>
+          <author>Erin E. Hannon</author>
+          <author>Sam Harper</author>
+          <author>Marco Jürgen Held</author>
+          <author>Louis Hickman</author>
+          <author>Nathan C. Higgins</author>
+          <author>Svenja Hippel</author>
+          <author>Sven Hoeppner</author>
+          <author>Sanghyun Hong</author>
+          <author>Thomas J. Hostler</author>
+          <author>Michael Inzlicht</author>
+          <author>Kamil Izydorczak</author>
+          <author>Bastian Jaeger</author>
+          <author>Kristin Jankowsky</author>
+          <author>Johannes Jarke-Neuert</author>
+          <author>Matthew Jensen</author>
+          <author>Biljana Jokić</author>
+          <author>Daniel Jolles</author>
+          <author>Phillip Jolly</author>
+          <author>Angela M. Jones</author>
+          <author>Marie Juanchich</author>
+          <author>Pavol Kačmár</author>
+          <author>Hansika Kapoor</author>
+          <author>Andjela Keljanovic</author>
+          <author>Samjhana Koirala</author>
+          <author>Marta Kołczyńska</author>
+          <author>Dimitra Kouroupaki</author>
+          <author>Ulrich Kühnen</author>
+          <author>Michelangelo Landgrave</author>
+          <author>Michael J. Larson</author>
+          <author>Lyonel Laulié</author>
+          <author>Alice C E Lawrence</author>
+          <author>Joel M. Le Forestier</author>
+          <author>Katelin E. Leahy</author>
+          <author>Sungmok Lee</author>
+          <author>Jared Leslie</author>
+          <author>Savannah C. Lewis</author>
+          <author>Christopher Limnios</author>
+          <author>Hause Lin</author>
+          <author>An-Chiao Liu</author>
+          <author>John Wills Lloyd</author>
+          <author>Elliot A Ludvig</author>
+          <author>Dermot Lynott</author>
+          <author>Jordan MacDonald</author>
+          <author>Peter Mallik</author>
+          <author>Daniel J. Mallinson</author>
+          <author>Daniele Marinazzo</author>
+          <author>Corinna S. Martarelli</author>
+          <author>Joshua Matacotta</author>
+          <author>Andrew McBride</author>
+          <author>Cillian McHugh</author>
+          <author>Gail McMillan</author>
+          <author>Esteban Méndez</author>
+          <author>Mitchell Metzger</author>
+          <author>Michalis P. Michaelides</author>
+          <author>Johannes Michalak</author>
+          <author>Leticia Micheli</author>
+          <author>Jeremy K. Miller</author>
+          <author>Marina Milyavskaya</author>
+          <author>Daniel C. Molden</author>
+          <author>Ambar G. Monjaras</author>
+          <author>David Moreau</author>
+          <author>Audrey Morrow</author>
+          <author>Cristóbal Moya</author>
+          <author>Liad Mudrik</author>
+          <author>Laetitia B. Mulder</author>
+          <author>Katie A. Munt</author>
+          <author>Arijit Nandi</author>
+          <author>Kathryn Nason</author>
+          <author>Carolin Nast</author>
+          <author>Gideon Nave</author>
+          <author>Heinrich H. Nax</author>
+          <author>Florian Neubauer</author>
+          <author>Phuong Linh L. Nguyen</author>
+          <author>Austin Lee Nichols</author>
+          <author>Gustav Nilsonne</author>
+          <author>Ernest O'Boyle</author>
+          <author>Jule Oettinghaus</author>
+          <author>Jeewon Oh</author>
+          <author>Adoril Oshana</author>
+          <author>Thomas Ostermann</author>
+          <author>Rachel P. Ostrowski</author>
+          <author>Abiola Oyebanjo</author>
+          <author>Radoslaw Panczak</author>
+          <author>Jamie Patrianakos</author>
+          <author>Ignacio Pavez</author>
+          <author>Yuri G. Pavlov</author>
+          <author>Sofia Persson</author>
+          <author>Marco Perugini</author>
+          <author>Kim Peters</author>
+          <author>Constant Pieters</author>
+          <author>Vladimir Ponizovskiy</author>
+          <author>Nathaniel D. Porter</author>
+          <author>Jason M. Prenoveau</author>
+          <author>Danka Purić</author>
+          <author>Mariah F. Purol</author>
+          <author>Arathy Puthillam</author>
+          <author>Kimberly A. Quinn</author>
+          <author>Marco Ramljak</author>
+          <author>W. Robert Reed</author>
+          <author>Michaela Ritchie</author>
+          <author>Margaret Ritzau</author>
+          <author>Sean Patrick Roche</author>
+          <author>Romina Rodela</author>
+          <author>Jan Philipp Röer</author>
+          <author>Ivan Ropovik</author>
+          <author>Jacob Rothschild</author>
+          <author>Justine Saal</author>
+          <author>Hani Safadi</author>
+          <author>Jason Samaha</author>
+          <author>Mary Sanchez</author>
+          <author>Soorya Sankaran</author>
+          <author>David Santos</author>
+          <author>Amanda C. Sargent</author>
+          <author>Marian Sauter</author>
+          <author>Kathleen Schmidt</author>
+          <author>Landon Schnabel</author>
+          <author>Amber N Schroeder</author>
+          <author>Sebastian W. Schuetz</author>
+          <author>Brendan A. Schuetze</author>
+          <author>Michael Schulte-Mecklenbeck</author>
+          <author>Astrid Schütz</author>
+          <author>Eric L. Sevigny</author>
+          <author>Ellie Shackleton</author>
+          <author>Richard M. Shafranek</author>
+          <author>Samuel Shaki</author>
+          <author>Shishir Shakya</author>
+          <author>Miroslav Sirota</author>
+          <author>Matthew Ryan Sisco</author>
+          <author>Maksim M. Sitnikov</author>
+          <author>L. Robert Slevc</author>
+          <author>Laura Smalarz</author>
+          <author>Colin Tucker Smith</author>
+          <author>Joel S. Snyder</author>
+          <author>Nicolas Sommet</author>
+          <author>Fatih Sonmez</author>
+          <author>Barbara A. Spellman</author>
+          <author>Natalia Stanulewicz-Buckley</author>
+          <author>George Stock</author>
+          <author>Chris N. H. Street</author>
+          <author>Eirik Strømland</author>
+          <author>Tina Sundelin</author>
+          <author>Moin Syed</author>
+          <author>Anna Szabelska</author>
+          <author>Barnabas Szaszi</author>
+          <author>Ewa Szumowska</author>
+          <author>Anirudh Tagat</author>
+          <author>Susanne Täuber</author>
+          <author>Louis Tay</author>
+          <author>Stuti Thapa</author>
+          <author>Jason Thatcher</author>
+          <author>Domna Tsaklakidou</author>
+          <author>Lars Tummers</author>
+          <author>Elise Turkovich</author>
+          <author>Melba Verra Tutor</author>
+          <author>Karolina Urbanska</author>
+          <author>Anna Elisabeth van 't Veer</author>
+          <author>Marcel van Assen</author>
+          <author>Niels van de Ven</author>
+          <author>Elisabeth Julie Vargo</author>
+          <author>Leigh Ann Vaughn</author>
+          <author>Simine Vazire</author>
+          <author>Jentien M. Vermeulen</author>
+          <author>Diem Thi Hong Vo</author>
+          <author>Victor Volkman</author>
+          <author>Eric-Jan Wagenmakers</author>
+          <author>Deliah Wagner</author>
+          <author>Lukasz Walasek</author>
+          <author>Frank Walter</author>
+          <author>Lara Warmelink</author>
+          <author>Liuqing Wei</author>
+          <author>Marie Isabelle Weißflog</author>
+          <author>Nicholas Weller</author>
+          <author>Aaron L. Wichman</author>
+          <author>Jonathan Wilbiks</author>
+          <author>Jamal R. Williams</author>
+          <author>Kelly Wolfe</author>
+          <author>Finnian Wort</author>
+          <author>Ryan Wright</author>
+          <author>Jesper N. Wulff</author>
+          <author>Xindong Xue</author>
+          <author>Veronica X. Yan</author>
+          <author>Yuzhi Yang</author>
+          <author>Sangsuk Yoon</author>
+          <author>Iris Žeželj</author>
+          <author>Yinxian Zhang</author>
+          <author>Ignazio Ziano</author>
+          <author>Cristina Zogmaister</author>
+          <author>Zorana Zupan</author>
+          <author>Rolf A. Zwaan</author>
+          <author>Brian A. Nosek</author>
+          <author>Timothy M. Errington</author>
+        </authors>
+      </paper>
+      <paper title="Silence in Evolving Systems: Architectural Origins, Mechanisms, and Consequences" year="2025" accepted="2025" venue="Information Systems Research" url="https://github.com/hanisaf/preprint/blob/main/silence_ISR.pdf" abstract="Silence as a system behavior has evaded attention in IS discourse, where interaction predominates. It merits examination as systems grow brittle, brute-force countermeasures falter, and autonomous systems risk misbehaving. We conceptualize silence as dynamic systemwide behavior, theorizing how it drives IS generativity by coalescing developers’ attention on temporally-shifting slivers of a system’s codebase. Using a supercomputer-scale model, we analyzed nearly 20 million tweaks over a quarter-century in over a thousand systems, constructing 67,000+ evolving human-to-artifact networks to infer such behavioral dynamics. We show silence breeds generativity by dynamically funneling developers’ attention. We make three novel contributions. First, we introduce silence as a dynamic, systemwide behavior, rooted in system architecture. Second, we show silence’s generativity consequences—halving degenerativity, doubling evolution speed, quadrupling releases, and spawning 600 times as many forks. Third, we uncover attention funneling as the mechanism linking silence to generativity.">
+        <authors>
+          <author>Amrit Tiwana</author>
+          <author>Hani Safadi</author>
+        </authors>
+      </paper>
+      <paper title="Capital Asymmetry" year="2025" accepted="2025" venue="Business Horizons" url="https://github.com/hanisaf/preprint/blob/main/capital_asymmetry_BH.pdf" abstract="This paper introduces capital asymmetry as a new concept for business strategy. A capital asymmetry exists when an organization has one or more types of capital that give it a competitive advantage (e.g., highly fertile land (natural capital) or a widely recognized and reputable brand (symbolic capital)). Asymmetries can be created by exploiting an exceptional capital or resource form. We use a framework that identifies six types of capital to tabulate the different asymmetries an organization can strive to create to reduce the influence of competitors. Using the automotive industry's evolution, we demonstrate the power of capital asymmetry to disrupt market share and force major strategic adjustments. We introduce the new concept of combinatorial asymmetry to show how organizations can effectively blend different forms of capital. A computational simulation is used to generalize from the six cases and identify the principles of capital asymmetry in competitive markets. The paper concludes with a discussion and implications for business and society.">
+        <authors>
+          <author>Richard Watson</author>
+          <author>Hani Safadi</author>
+        </authors>
+      </paper>
+      <paper title="Firm-Sponsored Online Communities: Building Alignment Capabilities for Participatory Governance" year="2025" accepted="2024" venue="Information Systems Research" url="https://github.com/hanisaf/preprint/blob/main/community_governance_ISR.pdf" abstract="Firm-sponsored online communities face governance challenges due to differences in the goals and values between the community and the sponsor. This study focuses on better understanding how these communities combine firm-based and community-based governance to achieve participatory governance, balancing firm goals with the autonomy and participation of volunteer members. Through a case study of Mayo Clinic Connect, an online patient community sponsored by Mayo Clinic, we uncover how firm and community stakeholders jointly align firm- and community-based governance. We introduce the concept of a governance alignment capability, which helps avoid and resolve governance tensions, contributing to the success of participatory governance. We specifically uncover two governance alignment mechanisms: informalizing the formal and formalizing the informal. These mechanisms adapt firm-based governance to align more closely with community norms and standardize community-based governance within the firm's governance structure. The study contributes to both the nascent literature on firm-sponsored online communities and to the broader literature on governance by highlighting the importance of participatory governance capabilities in balancing effectiveness and legitimacy in firm-sponsored online communities and emphasizing governance as a dynamic rather than a static system.">
+        <authors>
+          <author>Hani Safadi</author>
+          <author>Tanner Skousen</author>
+          <author>Elena Karahanna</author>
+        </authors>
+      </paper>
+      <paper title="The Effect of Bots on Human Interaction in Online Communities" year="2024" accepted="2023" venue="MIS Quarterly" url="https://github.com/hanisaf/preprint/blob/main/bots_humans_MISQ.pdf" abstract="In this research note, we draw on social exchange theory to theorize about how bots may influence human-to-human interaction in online communities. In doing so, we distinguish between two forms of bots – reflexive and supervisory bots – and point out two mechanisms that influence human interaction: (1) bots can both substitute and complement human activity, and (2) bots can be perceived anthropomorphically or mechanomorphically. With data from discussion communities on Reddit, we show that supervisory bots decrease direct reciprocity and preferential attachment in communities, whereas reflexive bots increase generalized exchange among community participants. We discuss the implications of these findings on theorizing about bots and the design of online communities.">
+        <authors>
+          <author>Hani Safadi</author>
+          <author>John Lalor</author>
+          <author>Nicholas Berente</author>
+        </authors>
+      </paper>
+      <paper id="10.17705/1jais.00844" title="The Impact of Feature Exploration and Exploitation on the Evolution and Survival of Mobile Applications" year="2024" accepted="2023" venue="Journal of the Association for Information Systems" url="https://github.com/hanisaf/preprint/blob/main/app_reviews_JAIS.pdf" abstract="Mobile device applications are the largest segment of IS with an estimated 5 billion users. Yet despite their widespread and growing use, there is little research examining how these mobile applications evolve with each new release update. To ensure market success, developers need to satisfy their user base by incorporating users’ reviews and feedback on the one hand and exploring new features and content that allows them to stay competitive on the other. Drawing on the organizational learning and innovation literature, the findings of the present study suggest that a mix of these two activities of exploitation and exploration in consequent app updates is likely to result in the app’s success. We further contribute to this body of work by examining the influence of users’ online review characteristics on exploitation and exploration activities in app development. The findings suggest that users’ convergence on similar issues (review concurrence) is likely to favor an orientation towards exploitation over exploration activities, while the number of user reviews (review volume) has a curvilinear relationship with it.">
+        <authors>
+          <author>Shadi Shuraida</author>
+          <author>Hani Safadi</author>
+          <author>Radhika Jain</author>
+          <author>Qiang Gao</author>
+        </authors>
+      </paper>
+      <paper title="Balancing Affordances and Constraints: Designing Enterprise Social Media for Effective Organizational Knowledge Work" year="2024" accepted="2023" venue="MIS Quarterly" url="https://github.com/hanisaf/preprint/blob/main/ESM_MISQ.pdf" abstract="Enterprise social media (ESM) is changing how knowledge workers interact and share information; however, a debate persists as to whether ESM is an adequate knowledge management system. ESM provides a rich set of affordances for organizational knowledge work, such as improved organizational memory, but also constrains knowledge work performance because of digital interruptions. Extending and complementing existing scholarship, this study asks the following research question: how can organizations design ESM to realize its knowledge work benefits? Using a computational agent-based model that incorporates the design features of ESM, workers’ attitudes, and resulting ESM-use affordances and constraints, this study shows how ESM-use outcomes are contingent both on the design of and users’ attitudes toward ESM. Specifically, the negative effects of ESM interactivity are mitigated when employees have a low transparency preference and access ESM without posting as much. The study further unpacks asymmetric engagement as the mechanism that leads low transparency configurations to be more resilient to the negative effects of interruptions driven by ESM interactivity. Asymmetric engagement—learning from posted content without interacting often—enables the gradual creation of organizational memory while maintaining a broad user base by minimizing interruptions. These results ultimately contribute a multilevel model of ESM use and knowledge work outcomes, enhancing the theoretical understanding of previously studied mechanisms such as communication visibility and providing implications for organizations designing ESM.">
+        <authors>
+          <author>Hani Safadi</author>
+        </authors>
+      </paper>
+      <paper id="10.1016/j.infoandorg.2023.100466" title="Knowledge Monopolies and the Innovation Divide: A Governance Perspective" year="2023" accepted="2023" venue="Information and Organization" url="https://github.com/hanisaf/preprint/blob/main/knowledge_monopolies_InO.pdf" abstract="The rise of digital ecosystems has created economic knowledge monopolies that are a threat to innovation. National or regional governance structures, such as laws and regulatory authorities, are used to constrain economic monopolies that are deemed not to be in the public interest. The power of knowledge ecosystems monopolies derives from their imposition of data obligations on ecosystem participation and their usurpation of the rights to data created by the ecosystem.  Consequently, they can use machine learning to develop competitive insights unavailable to any member of their ecosystem. This information asymmetry stifles innovation, stokes the growth of the monopoly, and reinforces its ascendency. We propose that new legislation and an associated regulatory mechanism are needed to curtail coercive data obligations, control or eliminate the exploitation of data rights, and prevent mergers and acquisitions that could create or extend knowledge monopolies.">
+        <authors>
+          <author>Hani Safadi</author>
+          <author>Richard Watson</author>
+        </authors>
+      </paper>
+      <paper id="10.1287/isre.2023.1218" title="Atrophy in Aging Systems: Evidence, Dynamics, and Antidote" year="2023" accepted="2023" venue="Information Systems Research" url="https://github.com/hanisaf/preprint/blob/main/atrophy_ISR.pdf" abstract="A pervasive, unbroached phenomenon is how once-modern systems age into unmaintainable albatrosses. We conceptualize this phenomenon from first-principles as system atrophy. We construct a trace dataset from 190 million lines of evolving code in 1,354 systems spanning 25 years to corroborate it. Our middle-range theory introduces system atrophy into the conversation on IS evolution, showing how small increments in modularity slow atrophy but lose potency with age. Atrophy eventually stunts systems, increases bugginess, and disengages developers.">
+        <authors>
+          <author>Amrit Tiwana</author>
+          <author>Hani Safadi</author>
+        </authors>
+      </paper>
+      <paper title="EDITOR’S COMMENTS. Computationally Intensive Theory Construction: A Primer for Authors and Reviewers" year="2022" accepted="2022" venue="MIS Quarterly" url="https://misq.umn.edu/misq/downloads/download/editorial/756/">
+        <authors>
+          <author>Shaila Miranda</author>
+          <author>Nicholas Berente</author>
+          <author>Stefan Seidel</author>
+          <author>Hani Safadi</author>
+          <author>Andrew Burton-Jones</author>
+        </authors>
+      </paper>
+      <paper id="10.1287/orsc.2020.1364" title="Who Contributes Knowledge? Core-Periphery Tension in Online Innovation Communities" year="2021" accepted="2019" venue="Organization Science" url="http://pubsonline.informs.org/doi/10.1287/orsc.2020.1364" abstract="Where do valuable contributions originate from in online innovation communities? Prior research provides conflicting answers. One view, consistent with a community of practice perspective, is that valued knowledge contributions are primarily provided by central participants at the core of a community. In contrast, other research—including work adopting an open innovation perspective—predicts that valuable ideas primarily emerge from peripheral participants, those at the margins of a field of knowledge who provide novel ideas and viewpoints. We integrate these contrasting perspectives by considering two distinct forms of position: social embeddedness (a core social position within the social network of participants interacting within a community) and epistemic marginality (a peripheral epistemic position based on the network of topics discussed by a community). Analyzing contributions by 697,412 participants of 52 Stack Exchange online innovation communities, we find that both participants who are socially embedded and participants who are epistemically marginal provide knowledge contributions that are highly valued by fellow community participants. Importantly, among epistemically marginal participants, those with high social embeddedness are more likely to provide contributions valued by the community; by virtue of their epistemic marginality, these participants may offer novel ideas while by virtue of their social embeddedness they may be able to more effectively communicate their ideas to the community. Thus, the production of knowledge in an online innovation community involves a complex interaction between the novelty emanating from the epistemic periphery and the social embeddedness required to make ideas congruent with existing social and epistemic norms.">
+        <authors>
+          <author>Hani Safadi</author>
+          <author>Steven Johnson</author>
+          <author>Samer Faraj</author>
+        </authors>
+      </paper>
+      <paper id="10.2196/15983" title="Successful Moderation in Online Patient Communities" year="2020" accepted="2019" venue="Journal of Medical Internet Research" url="https://doi.org/10.2196/15983" abstract="Online patient communities are becoming more prevalent as a resource to help patients take control of their health. However, online patient communities experience challenges that require active moderation. To identify challenges to having a thriving online patient community and moderation practices to manage an online patient community successfully. A qualitative study of Mayo Clinic Connect that draws insights from observations in community meetings, participating in the community, and semi-structured interviews with key stakeholders. We find five types of practices used to moderate the community successfully. These practices include instructive, connective, semantic, administrative, and policing practices. These practices lead to two sets of desired outcomes: community success and member success. Successful moderation requires multiple practices to manage challenges in online patient communities – some from within the community’s discussion threads and some from outside the community’s discussion threads, some from authority figures and some from exemplary members. Different practices can influence different outcomes. Online patient communities can use these practices to effectuate desired outcomes.">
+        <authors>
+          <author>Tanner Skousen</author>
+          <author>Hani Safadi</author>
+          <author>Colleen Young</author>
+          <author>Elena Karahanna</author>
+          <author>Sami Safadi</author>
+          <author>Fouad Chebib</author>
+        </authors>
+      </paper>
+      <paper id="10.1287/isre.2018.0774" title="Data-Driven Computationally-Intensive Theory Development" year="2019" accepted="2017" venue="Information Systems Research" url="https://www.researchgate.net/publication/322069351_Data-Driven_Computationally-Intensive_Theory_Development" abstract="Increasingly abundant trace data provides an opportunity for information systems researchers to generate new theory. In this research commentary, we draw on the largely &quot;manual&quot; tradition of the grounded theory methodology (GTM) and the highly &quot;automated&quot; process of computational theory discovery (CTD) in the sciences to develop a general approach to computa-tionally-intensive theory development from trace data. This approach involves the iterative application of four general processes: sampling, synchronic analysis, lexical framing, and dia-chronic analysis. We provide examples from recent research in information systems.">
+        <authors>
+          <author>Nicholas Berente</author>
+          <author>Stefan Seidel</author>
+          <author>Hani Safadi</author>
+        </authors>
+      </paper>
+      <paper id="10.25300/MISQ/2017/41.4.08" title="Social Media Affordances for Connective Action: An Examination of Microblogging Use During the Gulf of Mexico Oil Spill" year="2017" accepted="2017" venue="MIS Quarterly" url="https://misq.org/social-media-affordances-for-connective-action-an-examination-of-microblogging-use-during-the-gulf-of-mexico-oil-spill.html" abstract="This research questions how social media use affords new forms of organizing and collective engagement. The concept of connective action has been introduced to characterize such new forms of collective engagement in which actors coproduce and circulate content based upon an issue of mutual interest. Yet, how the use of social media actually affords connective action still needed to be investigated. Mixed methods analyses of microblogging use during the Gulf of Mexico oil spill bring insights onto this question and reveal in particular how multiple actors enacted emerging and interdependent roles with their distinct patterns of feature use. The findings allow us to elaborate upon the concept of connective affordances as collective level affordances actualized by actors in team interdependent roles. Connective affordances extend research on affordances as a relational concept by considering not only the relationships between technology and users but also the interdependence type among users and the effects of this interdependence onto what users can do with the technology. This study contributes to research on social media use by paying close attention to how distinct patterns of feature use enact emerging roles. Adding to IS scholarship on the collective use of technology, it considers how the patterns of feature use for emerging groups of actors are intricately and mutually related to each other.">
+        <authors>
+          <author>Emmanuelle Vaast</author>
+          <author>Hani Safadi</author>
+          <author>Liette Lapointe</author>
+          <author>Bogdan Negoita</author>
+        </authors>
+      </paper>
+      <paper id="10.1287/isre.2014.0562" title="The Emergence of Online Community Leadership" year="2015" accepted="2015" venue="Information Systems Research" url="https://www.researchgate.net/publication/277553143_The_Emergence_of_Online_Community_Leadership" abstract="Compared to traditional organizations, online community leadership processes and how leaders emerge are not well studied. Previous studies of online leadership have often identified leaders as those who administer forums or have high network centrality scores. Although communication in online communities occurs almost exclusively through written words, little research has addressed how the comparative use of language shapes community dynamics. Using participant surveys to identify leading online community members, this study analyzes a year of communication network history and message content to assess whether language use differentiates leaders from other core community participants. We contribute a novel use of textual analysis to develop a model of language use to evaluate the utterances of all participants in the community. We find that beyond communication network position-in terms of formal role, centrality, membership in the core, and boundary spanning-those viewed as leaders by other participants, post a large number of positive, concise posts with simple language familiar to other participants. This research provides a model to study online language use and points to the emergent and shared nature of online community leadership.">
+        <authors>
+          <author>Steven Johnson</author>
+          <author>Hani Safadi</author>
+          <author>Samer Faraj</author>
+        </authors>
+      </paper>
+      <paper id="10.1016/j.hlpt.2014.10.011" title="Open-source health information technology: A case study of electronic medical records" year="2015" accepted="2015" venue="Health Policy and Technology" url="https://www.sciencedirect.com/science/article/pii/S2211883714000847" abstract="Objectives Open-source software OSS has achieved widespread adoption in many domains such as server operating systems, enterprise tools, and databases. We review the status of open-source in healthcare and discuss the potential of open-source to resolve some of the challenges surrounding the wide adoption of Health IT in North America. Specifically, we address aspects that are unique to using open-source in ambulatory care. We present the case of a Canadian open-source electronic medical record system (EMR) named OSCAR that is widely adopted by primary care units and family physicians in Canada.Target audience Health practitioners, health technology managers and policy makers.Methods A case study based on semi-structured interviews with various stakeholders of the EMR including users (medical and staff), developers, and service providers. In addition, we assess arguments presented in the literature for and against open-source software in healthcare in light of the OSCAR EMR.Results and conclusions Open-source development provides a unique platform that enlists contributions from various stakeholders toward creating a common good. As evident from the OSCAR case, the dynamics of OSS development are potential solutions for the low adoption of technology in healthcare. In particular the low cost of acquisition and maintenance, the high degree of customizability, and the community of users are important advantages of OSS EMR. On the other hand, the lack of understanding of OSS model and the unavailability of trusty support providers are unique challenges facing OSS EMR.">
+        <authors>
+          <author>Hani Safadi</author>
+          <author>David Chan</author>
+          <author>Martin Dawes</author>
+          <author>Mark Roper</author>
+          <author>Samer Faraj</author>
+        </authors>
+      </paper>
+    </section>
+    <section name="book chapters">
+      <paper title="Building Research Programs in the Computationally Intensive Theory Construction Genre" year="Forthcoming" accepted="" venue="Digital Trace Data Research in Information Systems: Foundations, Methods, and Applications" url="https://github.com/hanisaf/preprint/blob/main/CITC_Springer.pdf">
+        <authors>
+          <author>Hani Safadi</author>
+        </authors>
+      </paper>
+      <paper title="Computationally Intensive Theory Construction" year="2025" accepted="2025" venue="Routledge Companion to Management Information Systems, 2nd Edition" url="https://github.com/hanisaf/preprint/blob/main/CITC_Routeledge.pdf">
+        <authors>
+          <author>Nicholas Berente</author>
+          <author>Aron Lindberg</author>
+          <author>Shaila Miranda</author>
+          <author>Hani Safadi</author>
+          <author>Stefan Seidel</author>
+        </authors>
+      </paper>
+      <paper id="10.1017/9781009106436.011" title="One Picture to Study One Thousand Words: Visualization for Qualitative Research in the Age of Digitalization" year="2023" accepted="2020" venue="Cambridge Handbook of Qualitative Digital Research" url="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3760009" abstract="This chapter advocates further advancing qualitative research methods by creating tools to investigate digital traces of digital phenomena. It specifically focuses on large-scale textual datasets and shows how interactive visualization can be used to augment qualitative researchers’ capabilities to theorize from trace data. The approach is grounded on prior work in sense-making, visual analytics and interactive visualization, and shows how tasks enabled by visualization systems can be synergistically integrated with the qualitative research process. Finally, these principles are applied with several open-source text mining and interactive visualization systems. The chapter aims to stimulate further interest and provide specific guidelines for developing and expanding the repertoire of open-source systems for qualitative research.">
+        <authors>
+          <author>Hani Safadi</author>
+          <author>Marie-Claude Boudreau</author>
+          <author>Samer Faraj</author>
+        </authors>
+      </paper>
+    </section>
+    <section name="Preprint">
+      <paper title="Digital Symbiosis, Data Obligations, and Data Rights: A New Perspective on Digital Ecosystems for Understanding their Societal Influence" year="2021" accepted="" venue="SSRN" url="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3858990" abstract="The ecosystem is a key adaptive structure that joins hierarchies and markets as the third pillar of modern business theory. While competition has been at the center of economic thinking, cooperation has gained greater attention in recent times. Borrowing from biology, we conceive an ecosystem as symbiotic relationships among participants that span from cooperation to competition. We then use the vocabulary of symbiosis to analyze the relationships observed in ecosystems facilitated by digital technology. We show how biological symbiosis can help us interpret a world of digitally enabled ecosystems, a phenomenon we refer to as digital symbiosis. We build on the key properties of digital technology and resulting data rights and obligations to explain the dynamics and the rise of modern digital ecosystems. Our framework contributes to understanding the extent of the societal implications of digital ecosystems. We further show how this novel theoretical understanding can inform policymaking for mitigating ecosystems’ adverse societal impacts.">
+        <authors>
+          <author>Hani Safadi</author>
+          <author>Richard Watson</author>
+        </authors>
+      </paper>
+      <paper title="Curtailing Fake News Propagation with Psychographics" year="2020" accepted="" venue="SSRN" url="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3558236" abstract="Fake news is a widespread and concerning phenomenon. The goal of this article is twofold. First, we argue that curtailing fake news is better pursued by identifying its propagators than by classifying its content. Second, to validate our conceptual argument, we develop a system for curtailing the propagation of fake news on social media by identifying users who are susceptible to believing and propagating it. We anchor our approach in the debate about the ontological nature of truth, the empirical challenges of classifying fake news content, as well as the psychological and social origins of believing fake news. Through interpreting our model using modern explainable machine learning, we deepen our theoretical understanding of why people believe and share fake news, extend the applicability of our system beyond its original context, and provide guidelines for mitigating fake news propagation.">
+        <authors>
+          <author>Hani Safadi</author>
+          <author>Weifeng Li</author>
+          <author>Saber Soleymani</author>
+          <author>Ugur Kursuncu</author>
+          <author>Amit Sheth</author>
+        </authors>
+      </paper>
+    </section>
+    <section name="papers under review" hidden="true">
+      <paper title="Separating Novelty from Noise: A Sociotechnical Perspective on Managing Peripheral Contributions in Online Communities" year="major revision - 3rd round" accepted="" venue="Information Systems Research">
+        <authors>
+          <author>P Kumar Sachin</author>
+          <author>Hani Safadi</author>
+        </authors>
+      </paper>
+      <paper title="Developers’ Multi-Project Involvement and Continued Contribution to Open-Source Software Projects" year="major revision - 3rd round" accepted="" venue="Journal of Strategic Information Systems">
+        <authors>
+          <author>Pratyush Sharma</author>
+          <author>Hani Safadi</author>
+          <author>John Hulland</author>
+          <author>Elena Karahanna</author>
+        </authors>
+      </paper>
+      <paper title="Validation Criteria for Computationally Intensive Theory Construction" year="major revision - 2nd round" accepted="" venue="MIS Quarterly">
+        <authors>
+          <author>Hani Safadi</author>
+          <author>Stefan Seidel</author>
+          <author>Shaila Miranda</author>
+          <author>Nicholas Berente</author>
+        </authors>
+      </paper>
+      <paper title="The Evolutionary Consequences of System-of-Systems Modularity" year="major revision - 2nd round" accepted="" venue="ACM TOSEM" abstract="Evolution is not one system’s property as its dependencies with other intertwined, evolving systems grow. We conceptualize system-of-systems modularity that simultaneously considers a system’s internal architecture and that of other interdependent systems. Data from 8,220 information systems’ projects over eight years show how system-of-systems modularity explains evolution above-and-beyond prior conceptualizations. They underscore the migration from standalone information systems to systems-of-systems.">
+        <authors>
+          <author>Hani Safadi</author>
+        </authors>
+      </paper>
+      <paper title="Member Leaders in Online Patient Communities: A Recipe for Resilience" year="major revision - 2nd round" accepted="" venue="Journal of the American Medical Informatics Association">
+        <authors>
+          <author>Tanner Skousen</author>
+          <author>Hani Safadi</author>
+          <author>Colleen Young</author>
+        </authors>
+      </paper>
+      <paper title="Dynamics of Mirroring in Open-Source Software Projects" year="major revision - 2nd round" accepted="" venue="Journal of the Association for Information Systems" abstract="We study how fit between the unfolding architecture of IT applications (“apps”) and IT maintenance teams (“app&lt;--&gt;team fit”) over apps’ post-implementation lifespan drives the evolution of IT apps. Attempts to tweak an IT app often unveil lurking design imperfections, which new generations of technologies exacerbate. Such appteam misfits can derail IT apps’ evolvability. We develop a middle-range theory of how fit between the evolving architecture of IT apps and the architecture of IT maintenance teams induces two nuanced, cardinal mechanisms through which IT apps evolve. These mechanisms—evolution of only an app’s modules and evolution of only links among its modules—parsimoniously explain incremental, radical, modular, and architectural innovation in evolving IT apps. We test these ideas using novel econometric analyses of a bespoke trace dataset constructed by analyzing the source code from over 1,300 open-source IT apps, spanning about 5,000 million lines of code, 7 million modules, 10 million changes, and over 280,000 person-years of work spanning 20 years. Our findings substantively contribute to research on IT evolution and IT architecture. Our novel contribution to research on IT architecture is how fit between the coevolving architectures of IT apps and IT project teams compensate for emergent, residual imperfections in app architecture, reinforcing the evolutionary payoffs from choices about each other. Our novel contributions to research on IT evolution are developing the two cardinal mechanisms that explain how IT apps evolve and tracing them back to app architecture, team architecture, and their interplay.">
+        <authors>
+          <author>Hani Safadi</author>
+          <author>Amrit Tiwana</author>
+        </authors>
+      </paper>
+      <paper title="Open Paths of Inquiry: Computational Theory Construction in Information Systems Research" year="under review - 1st round" accepted="" venue="MIS Quarterly">
+        <authors>
+          <author>Brian Pentland</author>
+          <author>Shaila Miranda</author>
+          <author>Stefan Seidel</author>
+          <author>Malmi Amadoru</author>
+          <author>Natalia Levina</author>
+          <author>Hila Lifshitz-Assaf</author>
+          <author>Aron Lindberg</author>
+          <author>Semi Min</author>
+          <author>Hani Safadi</author>
+          <author>Emmanuelle Vaast</author>
+        </authors>
+      </paper>
+      <paper title="Dynamics of Attention Allocation in Knowledge-Intensive Teams" year="under review - 1st round" accepted="" venue="Strategic Organization" abstract="We explore the unbroached dynamics of attention allocation in teams engaged in complex knowledge work. We introduce the notions of attention fixation and attention switching, concepts present only implicitly in prior studies, and theorize how their interplay drives team productivity. Attention fixation refers to an intratemporal focus on a single issue, while attention switching refers to the intertemporal shifting of attention between issues. Using multi-decade trace data from 1,356 teams developing open-source software projects, we find that both attention fixation and switching independently enhance team productivity but are mutual substitutes. We then address the paradox of how teams benefit from both strategies even though they’re substitutive. We abductively employ sequence mining and identify two longer-term, dynamic attention allocation strategies: (1) sequential attention allocation, characterized by high fixation and low switching, and (2) vacillating attention allocation, characterized by low fixation and high switching. Our unique contribution is bringing dynamics into the theoretical conversation on attention allocation in knowledge work.">
+        <authors>
+          <author>Hani Safadi</author>
+          <author>Amrit Tiwana</author>
+        </authors>
+      </paper>
+      <paper title="The Evolutionary Pathways of Technology Market Commercialization" year="under review - 1st round" accepted="" venue="MIS Quarterly" abstract="We theorize and test how two technology evolution mechanisms, recombination and structural deepening, shape technology market commercialization, an important and often overlooked outcome of innovation adoption. Using a large data set of US IT patents filed from 2010 to 2019 and patent assignment records to operationalize commercialization, we derive scalable measures of evolution mechanisms from patent text and estimate models of patent lifetime reassignments. Both mechanisms are positively associated with commercialization, but their interaction is negative, indicating substitution when pursued simultaneously. Examining the innovation modes resulting from these mechanisms reveals that architectural innovation outperforms modular innovation, which is on par with radical innovation in driving market commercialization. The findings contribute to a mechanism-level understanding of how IT innovation decisions lead to market outcomes, filling an important gap in IT innovation and adoption.">
+        <authors>
+          <author>Hani Safadi</author>
+          <author>Hossein Arjmandi</author>
+        </authors>
+      </paper>
+      <paper title="Epistemic Resilience: A New Frontier for Information Systems" year="under review - 1st round" accepted="" venue="European Journal of Information Systems" abstract="This paper introduces the concept of epistemic resilience as a necessary attribute for information systems to address the prevalence of misinformation on social media and internet platforms. It describes epistemic resilience's critical role in reducing manipulation and misinformation by examining the philosophical, psychological, and sociological underpinnings of belief formation and information sharing. Drawing on Churchman’s systems of inquiry, the paper proposes design principles for redesigning modern information systems for epistemic resilience.">
+        <authors>
+          <author>Hani Safadi</author>
+        </authors>
+      </paper>
+      <paper title="Generative AI and Qualitative Meta-Studies: The Challenge of the Double Hermeneutic in Theory Construction" year="under review - 1st round" accepted="" venue="Journal of Management Inquiry" abstract="Qualitative meta-studies offer a powerful means for generating new theory by synthesizing rich case evidence from multiple studies. The emergence of Generative AI (GenAI) promises to accelerate this labor-intensive process, yet its application remains fraught with epistemological risks. Drawing on Giddens’ concept of the double hermeneutic, we suggest that generative tools can struggle to perform a valid rational reconstruction of qualitative data. Two main issues arise: anchoring, in which the model adopts original study framings without analyzing the evidence, and occlusion, which leads to poor synthesis across cases. Our illustrative analysis of ten digital transformation case studies using a source grounded generative tool shows that standard prompting fails to mitigate these biases. We suggest a workflow for meta-studies with generative AI tools that includes prompt engineering, manual data preprocessing, and dialogic interaction with generative AI as a reflexive thinking partner.">
+        <authors>
+          <author>Nicholas Berente</author>
+          <author>Hani Safadi</author>
+        </authors>
+      </paper>
+      <paper title="Generating Knowledge Capital" year="under review - 1st round" accepted="" venue="Sloan Management Review" abstract="Companies can create a competitive advantage by combining high-quality human capital with sophisticated organizational capital. Four organizational types are based on these combinations: creative complexity, breakthrough science, applied science, and operational complexity. Five significant elements of knowledge capital creation capabilities are: know thy capital creation system, knowledgeable leadership, knowledge engineering, systems thinking, and continuous investment in systems of inquiry. This article provides guidance on leveraging the five elements to build knowledge capital for a target archetype.">
+        <authors>
+          <author>Richard Watson</author>
+          <author>Hani Safadi</author>
+        </authors>
+      </paper>
+    </section>
+    <section name="working papers">
+      <paper title="Exploration-Exploitation and Knowledge Creation in Online Communities" year="working paper" accepted="" venue="TBD">
+        <authors>
+          <author>Hani Safadi</author>
+          <author>Emmanuelle Vaast</author>
+          <author>Weifeng Li</author>
+        </authors>
+      </paper>
+      <paper title="The Power of Silence: Why Digital Chattiness Is Your Next Major Crisis" year="working paper" accepted="" venue="TBD">
+        <authors>
+          <author>Amrit Tiwana</author>
+          <author>Hani Safadi</author>
+        </authors>
+      </paper>
+      <paper title="Recognizing Outsider’s Ideas in Online Communities: A Multi-Level Process Model on Core-Periphery Tensions" year="working paper" accepted="" venue="TBD">
+        <authors>
+          <author>P Kumar Sachin</author>
+          <author>Hani Safadi</author>
+        </authors>
+      </paper>
+      <paper title="Resilience in Online Communities: An Embeddedness Perspective" year="working paper" accepted="" venue="TBD">
+        <authors>
+          <author>Tanner Skousen</author>
+          <author>Hani Safadi</author>
+        </authors>
+      </paper>
+      <paper title="Information Availability and Design Responsibility: The Case of Minority Founders in Crowdfunding" year="working paper" accepted="" venue="TBD">
+        <authors>
+          <author>Hani Safadi</author>
+          <author>Emmanuelle Vaast</author>
+        </authors>
+      </paper>
+      <paper title="Building an Occupational Community and its Markets: An Examination of the Emergence of Data Science" year="working paper" accepted="" venue="TBD" abstract="This study examines the role of social media in enabling the formation and growth of a new occupation and its markets. We specifically examine the new occupation of data science and its markets as reflected in its members and other stakeholders using social media application Twitter. Mixed-methods analyses uncover the emergence of an increasingly diversified and fragmented ecosystem associated with the new occupation. This process of co-construction manifests in social media-based communicative practices from heterogeneous actors that elicit dynamically and intricately the occupational community and its markets. This research contributes a middle-range theory that offers a new understanding of the similarities and differences between social media and other forms of communication traditionally associated with occupational work and provides implications for future research on occupational communities.">
+        <authors>
+          <author>Hani Safadi</author>
+          <author>Emmanuelle Vaast</author>
+        </authors>
+      </paper>
+      <paper title="Learning from Competition: Evidence from Online Video Games" year="working paper" accepted="" venue="TBD" abstract="Learning is the process of acquiring knowledge or skill that results in changing behavior. People learn by interacting with others. The design of social environments can thus shape the learning outcomes of participants. Today, social interaction is mediated by information technology. Building on prior work on organizational learning, open innovation, and pedagogy, we advance an argument for competition as an element in online environments to motivate and promote participants’ learning. We benefit from DOTA 2, an online video game in which players join competing teams fighting in battles. Leveraging data about 3.5 million matches, we operationalize learning using objective data and test our research hypotheses. We find that competition has a positive effect on players’ learning but a short-term demotivational effect. These findings suggest that competition has an important but yet unacknowledged role in designing online environments.">
+        <authors>
+          <author>Hani Safadi</author>
+        </authors>
+      </paper>
+      <paper title="Anchoring and Affordance Reconstitution during Information Systems Implementation and Transition" year="working paper" accepted="" venue="TBD" abstract="In this study, we set to examine the research question: How are the adoption and use of a new information system influenced by users’ experiences and practices around the incumbent information system? Given the scant empirical work in this area, we conduct an inductive longitudinal case study of an Electronic Medical Record (EMR) implementation. During the implementation and the replacement of the old system in the clinic, we examine how users adopt and use the new system. We find that through the continued use of the new system, two processes of learning and customization enable users to reconstitute their old system work practices and achieve similar outcomes using the new system. Over time, users manage to use the new system in new ways and improve their work practices. Our emergent theory suggests that the process of imbrication is anchored on the affordances of the old system. Early during the implementation, imbrication results in reconstituting the affordances of the old system. However, with time, and throughout the processes of learning and customization, the continuous imbrication of human and material agencies results in the discovery of new affordances. Ultimately, continuous imbrication enables users to improve their work practices and achieve new outcomes with the new system.">
+        <authors>
+          <author>Hani Safadi</author>
+          <author>Samer Faraj</author>
+        </authors>
+      </paper>
+      <paper title="Expertise Coordination in Open-Source Software Development" year="working paper" accepted="" venue="TBD" abstract="We engage in an in-depth case study of one FOSS project that has undergone a transformation to OSS 2.0 bringing business interests and sponsorship into a community of volunteers. We study the historical context in which this transformation emerged and examine the paradoxes that this transition brings. We focus on how the transition to OSS 2.0 affects coordination and contribution among users and developers. Our findings show that the transition resulted in adopting a traditional in-house development model that relied less on OSS coordination mechanisms. However, in spite of the transition, community members kept contributing actively to the project. In addition, they sought independence from OSS 2.0 sponsored developers. This resulted in decoupling community members’ contributions from the codebase of the project but still enabled them to implement non-trivial and significant features. In what follows, we overview literature on coordination in OSS development, outline our methodology, demonstrate our findings and discuss their implications for the theory and practice of OSS development.">
+        <authors>
+          <author>Hani Safadi</author>
+          <author>Samer Faraj</author>
+        </authors>
+      </paper>
+      <paper title="Does Social Coding Work? Platform Design and Knowledge Collaboration in Open-Source Software Forges" year="working paper" accepted="" venue="TBD" abstract="Despite the ubiquity of open-source software (OSS) and its social and economic impact, little work examined OSS forges, platforms used by developers to collaborate in OSS projects. How do design choices in OSS forges affect developers’ knowledge collaboration practices? To answer this research question, we conducted a two-stage inductive deductive study. In the first stage, we systematically reviewed and compared mainstream OSS forges in order to understand their similarities, differences and the various design choices embedded in them. This first phase led us to uncover developer-centricity as a dominant design characteristic that differentiates modern forges from traditional ones. In the second phase, we conducted a controlled experiment to examine how developer-centricity affects developers’ knowledge collaboration practices. The results show that developer-centricity promotes knowledge contribution, constrains knowledge integration and has no effect on knowledge search practices. We discuss the implications of these results for the theory and practice of OSS development.">
+        <authors>
+          <author>Hani Safadi</author>
+        </authors>
+      </paper>
+      <paper title="Knowledge Adding and Knowledge Shaping and their Implications on The Efficiency and Effectiveness of Knowledge Integration" year="working paper" accepted="" venue="TBD" abstract="The capacity of organizations to integrate their individual members’ knowledge results in a powerful competitive advantage. Knowledge integration is facilitated with the establishment of boundary objects that create a common language for representing knowledge and conventional methods for transforming it. A new wave of knowledge management systems such as wikis, enterprise social media, and digital forges are providing richer affordances for knowledge integration. In this paper, we examine two knowledge integration affordances: knowledge adding, and knowledge shaping. We develop a theoretical model that examines their implications on two knowledge integration outcomes: efficiency and effectiveness, defined respectively as the increased quantity and quality of the digital artifact. Based on the scholarship in knowledge creation in organizations and affordances of knowledge management systems, we theorize that knowledge adding is efficient but not effective, whereas knowledge shaping is effective but not efficient. Further, relying on recent work on the role of attention allocation in problem-solving, we propose that the complexity of the artifact affects knowledge integration outcomes as well as moderates the relationship between knowledge adding, shaping, and knowledge integration outcomes. Longitudinal trace-data of about one thousand open-source projects provide empirical validation for our theoretical model. We discuss how the findings provide new insights in understanding the implications of the novel affordances of knowledge management systems. The findings also provide practical implications for guiding the use of these systems and the design of digital boundary objects for knowledge integration.">
+        <authors>
+          <author>Hani Safadi</author>
+        </authors>
+      </paper>
+      <paper title="Building Cumulative Knowledge Traditions through Rational Reconstruction of Digital Traces" year="working paper" accepted="" venue="TBD">
+        <authors>
+          <author>Hani Safadi</author>
+          <author>Nicholas Berente</author>
+          <author>Stefan Seidel</author>
+          <author>Aron Lindberg</author>
+        </authors>
+      </paper>
+      <paper title="Hierarchical Organizations and Open Communities: A Symbiosis View" year="working paper" accepted="" venue="TBD" abstract="In this study, we propose a novel analytical framework to study organization-community relationships (OCR). Compared to prior work, we treat the organization and the community as equal partners in a symmetrical relationship. Although such relationships can be beneficial or harmful to either party, we further focus on what makes OCR mutually productive and beneficial to both parties. To realize this goal, we take a broad perspective on the exchanges between organizations and communities and the multiple forms of capital involved in these exchanges including economic, human, intellectual, and symbolic capital.">
+        <authors>
+          <author>Hani Safadi</author>
+          <author>Tanner Skousen</author>
+        </authors>
+      </paper>
+    </section>
+    <section name="work-in-progress">
+      <paper title="The Implementation of Ambivalent Technology – Examining Police Use of Body-Worn Cameras in the Context of Civilian Complaints" year="work in progress" accepted="" venue="TBD">
+        <authors>
+          <author>Hani Safadi</author>
+        </authors>
+      </paper>
+      <paper title="Legitimate Peripheral Participation and Value Creation in Online Knowledge Sharing Communities" year="work in progress" accepted="" venue="TBD">
+        <authors>
+          <author>Hani Safadi</author>
+        </authors>
+      </paper>
+      <paper title="Implications of Bounded Rationality for Theorizing from Trace Data" year="work in progress" accepted="" venue="TBD">
+        <authors>
+          <author>Hani Safadi</author>
+        </authors>
+      </paper>
+      <paper title="Institutional Logics and the Governance of Open-Source Software Online Communities" year="working paper" accepted="" venue="TBD">
+        <authors>
+          <author>Hani Safadi</author>
+        </authors>
+      </paper>
+      <paper title="A Journey to the Core: A Process Model of Core/Periphery in Open-Source Software Communities" year="working paper" accepted="" venue="TBD">
+        <authors>
+          <author>Hani Safadi</author>
+        </authors>
+      </paper>
+      <paper title="Diffusion of Ideas in The Information Systems Discipline from 1977 to 2007" year="work in progress" accepted="" venue="TBD">
+        <authors>
+          <author>Hani Safadi</author>
+        </authors>
+      </paper>
+      <paper title="From Exceptions to Rules: Coordinating Technological Change through Workarounds" year="work in progress" accepted="" venue="TBD">
+        <authors>
+          <author>Hani Safadi</author>
+        </authors>
+      </paper>
+      <paper title="Generic Ad Hoc Defaults as Shadow Systems" year="work in progress" accepted="" venue="TBD">
+        <authors>
+          <author>Hani Safadi</author>
+        </authors>
+      </paper>
+      <paper title="Does Information Accessibility Substitute Knowledge Sharing Practices? A Study of Medical Teams in Trauma Care" year="work in progress" accepted="" venue="TBD" abstract="For teams engaged in complex and time sensitive work such as trauma care, rapid decision making is the norm. Such teams require not only timely information but also processes that integrate team skills and resources. In this study, we investigate the importance of information accessibility and team knowledge sharing skills for the success of trauma care delivery. Furthermore, we consider the degree to which these two sources of knowledge interrelate. Based on data from 712 clinicians and 183 trauma centers, our findings show that, while both information accessibility and knowledge sharing skills are important, in addition, there is a substitution effect between the two. We discuss the implication of this substitution effect on the implementation of information technology in healthcare.">
+        <authors>
+          <author>Hani Safadi</author>
+        </authors>
+      </paper>
+    </section>
+    <section name="conference proceedings">
+      <paper title="Digital Symbiosis, Data Obligations, and Data Rights: A New Perspective on Digital Ecosystems for Understanding their Influence" year="2024" accepted="" venue="European Conference on Information Systems" abstract="The ecosystem is a key adaptive structure that joins hierarchies and markets as the third pillar of modern business theory. While competition has been at the center of economic thinking, cooperation has recently gained greater attention. Borrowing from biology, we conceive an ecosystem as symbiotic relationships among participants that span cooperation to competition. We then use the vocabulary of symbiosis to analyze the relationships observed in ecosystems facilitated by digital technology. We show how biological symbiosis can help us interpret a world of digitally enabled ecosystems, a phenomenon we refer to as digital symbiosis. We further show how this novel theoretical understanding can inform policymaking for mitigating ecosystems’ adverse societal impacts.">
+        <authors>
+          <author>Hani Safadi</author>
+          <author>Richard Watson</author>
+        </authors>
+      </paper>
+      <paper title="Are we making Google stupid?" year="2022" venue="International Conference on Information Systems" url="https://aisel.aisnet.org/cgi/viewcontent.cgi?article=1077&amp;context=treos_icis2022">
+        <authors>
+          <author>Hani Safadi</author>
+        </authors>
+      </paper>
+      <paper title="The Effect of Bots on Human Interaction in Online Communities" year="2021" venue="International Conference on Information Systems" url="https://aisel.aisnet.org/icis2021/ai_business/ai_business/1/" abstract="Bots are widespread in a variety of online platforms including online communities. Bots perform various useful tasks but little is known about how bots may alter the nature of human interaction, in particular how they interact and exchange information. We draw on social exchange theory and symbolic interactionism to highlight the social aspect of human cognition and action and theorize how bots affect the online social environment and subsequently change how people interact with each other. We examine the effects of two fundamental forms of bots: reflexive and supervisory, and their differential impact on social exchange. With data from discussion communities on Reddit, we show that reflexive bots increase unidirectional exchange, whereas supervisory bots reduce centralization. Further, reflexive bots increase the depth of discourse, whereas supervisory bots reduce the breadth of discourse. We discuss the implications of these findings on theorizing about bots and the design of online communities.">
+        <authors>
+          <author>Hani Safadi</author>
+          <author>John Lalor</author>
+          <author>Nicholas Berente</author>
+        </authors>
+      </paper>
+      <paper title="Learning in Online Environments: Balancing Cooperation and Competition" year="2021" venue="Americas Conference on Information Systems" url="https://aisel.aisnet.org/treos_amcis2021/6/" abstract="Learning environments, such as classrooms, can be designed to combine elements of cooperation and competition. Assessing these novel settings is not easy as it requires prolonged observational or experimental data. Today, many online environments are virtual providing transparent settings for assessing the effectiveness of learning strategies. We benefit from Dota 2, an online video game in which players join competing teams fighting in battles. Leveraging data about 3.5 million matches, we operationalize learning using objective data and perform conceptual clustering to uncover the best strategies for learning with cooperation, competition, or both elements. This work contributes to a better understanding of learning and informs the design of virtual learning environments.">
+        <authors>
+          <author>Hani Safadi</author>
+        </authors>
+      </paper>
+      <paper title="Open Communities and Formal Organizations: A Symbiosis View" year="2020" venue="International Conference on Information Systems" url="https://aisel.aisnet.org/icis2020/digital_innovation/digital_innovation/1/" abstract="How can formal organizations and open communities engage in mutually beneficial relationships? We develop a framework that explains how an open community’s engagement with a formal organization can be mutually beneficial to both in the long-term. We theorize how a symbiotic relationship between open communities and formal organizations can be forged by nurturing various forms of capital flow between them as well as creating virtuous feedback loops within and across each other’s capital creation systems. The framework has implications for understanding innovation in ecosystems and networked economies.">
+        <authors>
+          <author>Tanner Skousen</author>
+          <author>Hani Safadi</author>
+          <author>Richard Watson</author>
+        </authors>
+      </paper>
+      <paper title="Organizations and Communities: A Symbiosis View" year="2020" venue="Americas Conference on Information Systems" url="https://aisel.aisnet.org/amcis2020/virtual_communities/virtual_communities/3/" abstract="How can organizations and communities engage in mutually beneficial relationships? We develop a framework that explains how an open community’s engagement with an organization can be mutually beneficial to both in the long-term. We theorize how a symbiotic relationship between organizations and communities can be achieved by nurturing various forms of capital flow between organizations and communities as well as creating virtuous feedback loops within each other’s capital creation systems.">
+        <authors>
+          <author>Hani Safadi</author>
+          <author>Richard Watson</author>
+          <author>Tanner Skousen</author>
+        </authors>
+      </paper>
+      <paper title="The Genesis of an Open Online Community" year="2020" venue="Academy of Management Proceedings" url="https://journals.aom.org/doi/abs/10.5465/AMBPP.2020.12051abstract" abstract="Open online communities have become widespread forms of organizing in which multiple participants share knowledge, and communicate on the basis of specific commonalities. Yet, we still know little about their genesis. Given the importance of these new forms of organizing, it is crucial to understand their formation. How do they come to be? This study examines how multiple, heterogeneous participants converge around what they shape as shared interests. It engages in computationally-intensive theory development by examining the emergence of the data science open online community on the social media platform Twitter. It builds theory on the genesis of an open online community as a process of spinning and twisting of discourses that coalesce the interests of the members. This study contributes to scholarship on online communities by theorizing the process by which they come to exist as well as the literature on organizational dialog by elaborating on how dialog leads to self-organization in open communities.">
+        <authors>
+          <author>Hani Safadi</author>
+          <author>Emmanuelle Vaast</author>
+        </authors>
+      </paper>
+      <paper title="Tension Resolution and Sustaining Knowledge Flows in Online Communities" year="2019" venue="International Conference on Information Systems" url="https://aisel.aisnet.org/icis2019/is_health/is_health/27/" abstract="Online communities bring together members of common interest and are recognized as generators of significant knowledge. In healthcare, online communities are a medium for patients to share their stories, gain peer support, and learn more about medical conditions. To succeed, these communities need to sustain their knowledge flows and resolve arising tensions. The current literature suggests that participation dynamics and emergent organizational structure are sufficient to resolve tensions in online communities. Based on increased evidence of the need of formal management to sustain online communities, we propose that emergent structure and roles may not always be sufficient when tensions are prevalent and stakes are high such as in online patient communities. We conduct an inductive field study of Mayo Clinic Connect, a leading online patient community. The findings suggest that formal management and emergent leadership play a complementary role to resolve tensions and sustain knowledge flows. We theorize a virtuous cycle of moderation and socialization that effectively integrates the effort of the community formal management and emergent leaders.">
+        <authors>
+          <author>Tanner Skousen</author>
+          <author>Hani Safadi</author>
+          <author>Elena Karahanna</author>
+          <author>Fouad Chebib</author>
+          <author>Colleen Young</author>
+        </authors>
+      </paper>
+      <paper id="https://aisel.aisnet.org/amcis2019/enterprise_systems/enterprise_systems/6" title="Remixing Generic Defaults with Specialized Software: The Case of Enterprise Collaboration Systems" year="2019" venue="Americas Conference on Information Systems" url="https://aisel.aisnet.org/amcis2019/enterprise_systems/enterprise_systems/6" abstract="Extant literature emphasizes the fit between tasks and technology features to impact performance. Specialized information systems such as Enterprise Collaboration Systems (ECSs) are designed to align with the tasks of collaboration, coordination, and communication in organizations. Despite this fit, users often continue to use generic default technologies (i.e., general purpose software such as an Excel spreadsheet) to perform the tasks that are supported by the specialized systems. We investigate this phenomenon using a multiple case study approach. We present our initial findings and elaborate on the emerging theme of remixing of generic defaults with specialized software as a new perspective in exploring this phenomenon.">
+        <authors>
+          <author>Mazen Shawosh</author>
+          <author>Hani Safadi</author>
+          <author>Nicholas Berente</author>
+        </authors>
+      </paper>
+      <paper id="hdl.handle.net/10125/59995" title="Legitimate Peripheral Participation and Value Creation in Online Knowledge Sharing Communities" year="2019" venue="Hawaii International Conference on System Sciences" url="https://scholarspace.manoa.hawaii.edu/bitstream/10125/59995/1/0555.pdf" abstract="Online knowledge sharing communities require contributions and active participation to thrive, yet all participation is not equal. Community members well-socialized in the community are more likely to make stronger contributions. In this paper, we theorize about how legitimate peripheral participation of new online knowledge sharing community members can drive different types of contributions and potentially generate value for the community. We conduct an agent-based simulation analysis of different configurations of legitimate peripheral participation to explore our theoretical arguments. We find, in general, that increased requirements for legitimate peripheral participation of new members drive quality contributions and generates value for the community. However, we also find that there is an inflection point where too many such demands may stifle contributions and impede value creation in these communities.">
+        <authors>
+          <author>Hani Safadi</author>
+          <author>Nicholas Berente</author>
+        </authors>
+      </paper>
+      <paper id="10.5465/AMBPP.2018.35" title="Who Contributes Knowledge? Embeddedness and Marginality in Online Communities" year="2018" venue="Academy of Management Proceedings" url="https://journals.aom.org/doi/10.5465/AMBPP.2018.35" abstract="This paper applies a multiple embeddedness perspective to better understand individual knowledge contribution in online communities. The community of practice and open innovation perspectives suggest different answers to the question: who is most likely to contribute knowledge in online communities? Viewed from a community of practice perspective, the most deeply embedded members of an online community are most likely to contribute knowledge. Conversely, from an open innovation perspective, solutions to local problems are more likely to be provided by peripheral participants from the marginsñcontributors who are not embeddeded in the community. By extending the conceptualization of embeddedness to encompass not only social embeddedness, but also epistemic embeddedness, we resolve these conflicting predictions. Neither the community of practice nor the open innovation perspective individually explains knowledge contribution in online communities. Instead, using data regarding 88,472 participants at 51 Stack Exchange problem-solving online communities, we find that individuals who are socially embedded and epistemically marginal are more likely to make valuable knowledge contributions. We develop a novel approach to measuring epistemic embeddedness, using topic models, and also demonstrate that social embeddedness and epistemic marginality exhibit a considerable complementary interaction.">
+        <authors>
+          <author>Hani Safadi</author>
+          <author>Steven Lawrence Johnson</author>
+          <author>Samer Faraj</author>
+        </authors>
+      </paper>
+      <paper id="10.24251/HICSS.2018.380" title="The Role of Anchoring in Actualizing IT Affordances in EMR Implementations" year="2018" venue="Hawaii International Conference on System Sciences" url="https://www.researchgate.net/publication/323379738_The_Role_of_Anchoring_in_Actualizing_IT_Affordances_in_EMR_Implementations" abstract="Affordances are useful theoretical tools to study IT mediated organizational change. Affordance actualization process provides a temporal structure to build a model that lays out a non-deterministic sequence to understand the changes that happen in organizations on the introduction of new IS. Affordances and affordance actualization have been studied in many contexts with the focus on material agency of the new IS or human agency of the user groups. Using the case of an EMR implementation in a family and urgent care clinic in Canada observed over 5 years, we discovered that anchoring on legacy systems in place before the EMR implementation has a significant influence in the actualization of affordances of the new IS. We present an affordance actualization process model including the anchoring influence observed, to provide a richer explanation of affordance actualization in EMR implementations.">
+        <authors>
+          <author>Venkata Mallampalli</author>
+          <author>Hani Safadi</author>
+          <author>Samer Faraj</author>
+        </authors>
+      </paper>
+      <paper id="10.5465/ambpp.2017.11597abstract" title="Design of an Interactive Visual System to Support Grounded Process Theorizing from Qualitative Data" year="2017" venue="Academy of Management Proceedings" url="https://journals.aom.org/doi/abs/10.5465/ambpp.2017.11597abstract" abstract="Todayís world is characterized with an ever-increasing influx of data generated at an unparalleled scale. Big data provide unprecedented opportunities for social scientists to apply computational techniques to understand patterns of individual and group behavior that used to be beyond the reach of scientific method. At the same time, big data pose challenges for exploration and inductive understanding of social phenomena. This is in particular more prevalent when questions are not well defined and data is unstructured, making it less amenable to quantification and computation. In this conceptual paper, we review some of the key challenges that big data raise for qualitative researchers trained in the grounded theory methods (GTM) tradition, and then outline guiding principles for designing a system to respond to these challenges. Paying attention to the particularities of qualitative data analysis, we suggest several design patterns suiting the tasks involved and matching them to challenges of applying GTM to big data sets. We are in the process of developing a system which, as an initial prototype, incorporates these design patterns and addresses the aforementioned key challenges.">
+        <authors>
+          <author>Hani Safadi</author>
+          <author>Marie-Claude Bourdeau</author>
+        </authors>
+      </paper>
+      <paper id="10.5465/ambpp.2017.11597abstract" title="The Power of Words Online: Explaining Tie Formation of New Members in Open-Source Online Communities" year="2014" venue="Academy of Management Proceedings" url="https://journals.aom.org/doi/abs/10.5465/ambpp.2014.12549abstract" abstract="This paper proposes a new mechanism that explains how new members in online communities establish ties with existing members. Contrary to mainstream tie formation mechanisms (e.g. preferential attachment and small world clustering) that rely solely on structural properties to predict new relationships, we propose that members interests represented by the content of messages exchanged among members are a key factor in forming future relationships. Using statistical language modeling, we show that a new member chooses to link to other existing members based on shared interests implied by their previous communication. We validate the model using longitudinal data from an open-source online community in the context of healthcare IT.">
+        <authors>
+          <author>Hani Safadi</author>
+          <author>Samer Faraj</author>
+        </authors>
+      </paper>
+      <paper id="https://arxiv.org/ftp/arxiv/papers/1406/1406.2977.pdf" title="Toward a Local Perspective on Online Collaboration" year="2014" venue="Collective Intelligence" url="https://arxiv.org/ftp/arxiv/papers/1406/1406.2977.pdf" abstract="In this paper, we focus on how the position/embeddedness of members in an online community of innovation relates to their knowledge contribution to the community. We depart from previous research by bringing a different perspective to examine position within a network: we focus on the local position of members rather than the traditionally considered global position. This differentiation has significant theoretical and methodological implications. On the theoretical front, a local view of position implies a more confined and local organization of work in online communities than previously thought. From a methodological perspective, evaluating the local structure of large networks involves radically different algorithms that have only recently become feasible with the increase of processing power.">
+        <authors>
+          <author>Hani Safadi</author>
+          <author>Samer Faraj</author>
+        </authors>
+      </paper>
+      <paper id="10.5465/ambpp.2014.104" title="Grassroots versus Established Actors' Framing of a Crisis: Tweeting the Oil Spill" year="2014" venue="Academy of Management Proceedings" url="https://journals.aom.org/doi/abs/10.5465/ambpp.2014.104" abstract="Recent crises as well as the rise of social media have made it especially theoretically and topically important to understand how grassroots actors, i.e. actors who are not institutionally recognized and established, frame a crisis. This research contrasts and relates grassroots actorsí to established actorsí framing (e.g. media and social movement organizations). Building upon framing and social movement literatures as well as upon emerging works on social media affordances, we develop mixed-methods analyses of framing related to the Gulf of Mexico oil spill of 2010 and produced through the popular microblogging platform Twitter. Building upon empirical findings, this research conceptualizes why and how, with microblogging, grassroots actorsí framing of a crisis does not simply diffuse but rather builds upon, reacts to and opposes established actorsí framing. It adds to the literature by showing and conceptualizing how, through microblogging, grassroots actors do not only come together with others who share similar frames, but also provoke others who hold opposite frames. It finally reveals that grassroots framing through microblogging may contribute to exacerbate the crisis.">
+        <authors>
+          <author>Hani Safadi</author>
+          <author>Liette Lapointe</author>
+          <author>Emmanuelle Vaast</author>
+          <author>Bogdan Negoita</author>
+        </authors>
+      </paper>
+      <paper id="https://www.semanticscholar.org/paper/Stakeholders'-Use-of-Microblogging-to-Engage-in-a-Vaast-Lapointe/169337b6f7644c41bc93743aa85425fcefa4fad3" title="Stakeholders' Use of Microblogging to Engage in Emotion Strategies During a Crisis" year="2012" venue="International Conference on Information Systems" url="https://www.semanticscholar.org/paper/Stakeholders'-Use-of-Microblogging-to-Engage-in-a-Vaast-Lapointe/169337b6f7644c41bc93743aa85425fcefa4fad3" abstract="The rise of microblogging has drastically transformed the ways in which people become aware of, talk about, experience, and respond to crises. Microblogging allows for multiple stakeholders to express and manage emotions that a crisis may trigger. This research examines how multiple stakeholders engage in emotion strategies through microblogging over the course of a crisis. Relying upon and extending emerging literatures on crisis management and the psycho-sociology of emotions, we propose the concept of emotion strategies to explore and elaborate upon the different uses of emotions and their crucial importance in a crisis context. We examine how microblogging features and affordances might enable and shape the emotion strategies of various stakeholders involved in a crisis. We outline the details of an ongoing investigation in the context of the 2010 Gulf of Mexico oil spill and provide illustrative insights. We conclude by highlighting future steps in this research and expected contributions">
+        <authors>
+          <author>Hani Safadi</author>
+          <author>Liette Lapointe</author>
+          <author>Bogdan Negoita</author>
+          <author>Emmanuelle Vaast</author>
+        </authors>
+      </paper>
+      <paper id="https://aisel.aisnet.org/amcis2011_submissions/21" title="IT in Healthcare: an Integrative Study of Organizational Change" year="2011" venue="Americas Conference Information System" url="https://aisel.aisnet.org/amcis2011_submissions/21" abstract="Research on Healthcare IT is a highly multidisciplinary field. Each stream of research brings a certain focus and contributionsto our understanding of the role of technology in healthcare. However, this high multidisciplinary can be confusing as theresults and implications of the different streams may look incommensurable. This paper looks at various streams of researchon health IT and presents an integrative framework that utilizes organizational change to understand how different researchstreams on health IT interrelate and contradict in terms of their focus, contributions and implications. We argue that such anintegrative understanding is the key to capture the complexity of health IT projects and ensure their success.">
+        <authors>
+          <author>Hani Safadi</author>
+          <author>Samer Faraj</author>
+        </authors>
+      </paper>
+      <paper id="https://aisel.aisnet.org/icis2010_submissions/47" title="The Role of Workarounds during an Opensource Electronic Medical Record System Implementation" year="2010" venue="International Conference on Information Systems" url="https://aisel.aisnet.org/icis2010_submissions/47/" abstract="A significant degree of customization of medical information technology is required to effectively integrate the promise of IT with the diversity and complexity of medical work. In the absence of such customizations, dissatisfaction and resistance toward the system arise. Indeed, the complexity of the medical work and the inability of software to tailor to the diverse medical practices may explain the limited diffusion of health information systems especially in North America. We study the role of workarounds during an open-source Electronic Medical Record System (EMR) implementation at a medium-size urgent care clinic in a major Canadian city. We found that the technology appropriation process involved the evolving of number of non-trivial workarounds in order to match the EMR to medical work. The emergence of workarounds is conceptualized as a knowledge creation and integration process. This perspective allows us to look at the antecedents and the change dynamics of workarounds in the clinic. Furthermore diverging from the negative view toward workarounds, we discuss the importance of incorporating workarounds during and following system development. The workaround perspective shed the light on how usersí behavior can be channeled into a constructive development effort. This paper contributes by examining the workaround of medical practitioners using an open-source electronic medical record system as well as offering a knowledge perspective for the study of EMR appropriation">
+        <authors>
+          <author>Hani Safadi</author>
+          <author>Samer Faraj</author>
+        </authors>
+      </paper>
+      <paper id="http://citeseerx.ist.psu.edu/viewdoc/summary?doi=10.1.1.331.1043" title="Incorporating Knowledge of Source Language Text in a System for Dictation of Document Translations" year="2009" venue="Proceedings of the twelfth Machine Translation Summit" url="http://citeseerx.ist.psu.edu/viewdoc/summary?doi=10.1.1.331.1043" abstract="This paper describes methods for integrating source language and target language information for machine aided human translation (MAHT) of text documents. These methods are applied to a language translation task involving a human translator dictating a first draft translation of a source language document. A method is presented which integrates target language automatic speech recognition (ASR) models with source language statistical machine translation (SMT) and named entity recognition (NER) information at the phonetic level. Information extracted from a source language document including translation mode">
+        <authors>
+          <author>Hani Safadi</author>
+          <author>Aarthi Reddy</author>
+          <author>Richard Rose</author>
+          <author>Samuel Larkin</author>
+          <author>Gilles Boulianne</author>
+        </authors>
+      </paper>
+      <paper id="10.1109/ICTTA.2006.1684669" title="AraPen: An Arabic Online Handwriting Recognition System" year="2006" venue="IEEE International Conference on Information &amp; Communication Technologies" url="https://ieeexplore.ieee.org/document/1684669" abstract="In this paper we present AraPen, a trainable system we developed to recognize Arabic online handwriting. The system is based on mathematical matching techniques and our testing results show high recognition rate for non-cursive character recognition, and are promising for cursive recognition. The low memory and CPU requirements enable the system to run on low-end devices interactively">
+        <authors>
+          <author>Hani Safadi</author>
+          <author>Bilal Alsallakh</author>
+        </authors>
+      </paper>
+      <paper id="https://www.w3.org/2006/02/SSML/papers/HIAST/final_Voc2.pdf" title="Computational Methods to Vocalize Arabic Texts" year="2006" venue="Internationalizing SSML" url="https://www.w3.org/2006/02/SSML/papers/HIAST/final_Voc2.pdf" abstract="Arabic Language has two kinds of vowels: Long vowels which are written as normal letters; and short vowels which are written as punctuation marks, above or below letters. Those short vowels are normally omitted in Arabic texts because the reader can fill them and guess the meaning based on his knowledge of the language, and the context in which the words are.However, with the widespread usage of computers in linguistics application; Arabic texts need to be supplied with short vowels in order to be analyzed. Search engines, text to speech engines, and text mining tools are just some examples of applications that need Arabic texts to be vocalized before being processed.In this paper, we present a new method to supply those vocals. The approach emphasizes on unsupervised machine methods, because public Arabic corpora are not available. Arabic rich morphology and diverse orthography present serious challenges for this approach. An algorithm is developed and a system is implemented in Java.The techniques presented in this dissertation can be applied to similar Semitic or other languages that have the same problem.">
+        <authors>
+          <author>Hani Safadi</author>
+          <author>Oumayma Dakkak</author>
+          <author>Nada Ghneim</author>
+        </authors>
+      </paper>
+    </section>
+    <section name="conference presentations">
+      <paper title="Bots versus Humans in Online Social Networks: A Study of Reddit Communities" year="2020" accepted="" venue="Sunbelt Conference" url="http://www.pfeffer.at/sunbelt/posters/283.pdf">
+        <authors>
+          <author>John Lalor</author>
+          <author>Nicholas Berente</author>
+          <author>Hani Safadi</author>
+        </authors>
+      </paper>
+      <paper title="Effective Moderation of Online Patient Communities" year="2018" venue="Pre-ICIS Paper-a-Thon Workshop" abstract="Online patient communities are becoming a mainstream medium for patients to share their stories, gain peer support and search for medical information. Online patient communities face unique challenges in sustaining their membership and dealing with specific issues that arise in the healthcare domain such as privacy, misinformation and trust. Moreover, these communities are commonly sponsored by health organizations that are keen on moderating information on these sites. We focus on moderation practices and the role of moderators to understand how they contribute to the success of an online patient community. We conduct an inductive case study to uncover best practices employed in a thriving online patient community to manage volunteer workforce, moderate an increasing volume of content contributed by members, resolve issues and achieve desired outcomes. We find four categories of practices: connective, syntactic, semantic and pragmatic that are used by both staff moderators and volunteer mentors. These findings offer a deeper understanding of how online patient communities effectively moderate contributions and resolve issues which has important implications for managers and designers of online patient communities and contribute to literature on organization-sponsored online communities in healthcare.">
+        <authors>
+          <author>Hani Safadi</author>
+          <author>Elena Karahanna</author>
+          <author>Tanner Skousen</author>
+          <author>Colleen Young</author>
+          <author>Sami Safadi</author>
+        </authors>
+      </paper>
+      <paper title="Design of a Computational System to Support Grounded Theorizing from Big Textual Data" year="2016" venue="Pre-ICIS Workshop on Advances in Qualitative IS Research Methodologies">
+        <authors>
+          <author>Hani Safadi</author>
+          <author>Marie-Claude Boudreau</author>
+          <author>Emmanuelle Vaast</author>
+        </authors>
+      </paper>
+      <paper title="ODIN: Tracing Ideas, Entities, and Relationships from Big Textual Data" year="2016" venue="Pre-ICIS Workshop on Text Mining as a Strategy of Inquiry in Information Systems Research">
+        <authors>
+          <author>Hani Safadi</author>
+        </authors>
+      </paper>
+      <paper title="GTM and Trace Data" year="2016" venue="International Workshop on GTM Research: The Richness of the Grounded Theory Method in IS Research">
+        <authors>
+          <author>Hani Safadi</author>
+          <author>Nicholas Berente</author>
+          <author>Stefan Seidel</author>
+        </authors>
+      </paper>
+      <paper title="The distributed construction of an occupational community with social media" year="2015" venue="International Conference on Information Systems">
+        <authors>
+          <author>Emmanuelle Vaast</author>
+          <author>Hani Safadi</author>
+          <author>Lisa Cohen</author>
+        </authors>
+      </paper>
+      <paper title="A Local Perspective on Online Collaboration in Open Source Communities" year="2014" venue="IFIP Working Group 8.2 Workshop on Information Systems and Organization">
+        <authors>
+          <author>Hani Safadi</author>
+          <author>Samer Faraj</author>
+        </authors>
+      </paper>
+      <paper title="Knowledge Creation Practices in a Healthcare Collaborative Work Community" year="2014" venue="Open and User Innovation Workshop" url="https://www.hbs.edu/faculty/conferences/2014-oui/Documents/OUI2014_Book_of_Abstracts.pdf">
+        <authors>
+          <author>Hani Safadi</author>
+          <author>Samer Faraj</author>
+          <author>Diego Mastroianni</author>
+        </authors>
+      </paper>
+      <paper title="#BPoilspill: Grassroots Framing In A Crisis Through Microblogging" year="2013" venue="Colloquium of the European Group for Organizational Studies">
+        <authors>
+          <author>Hani Safadi</author>
+          <author>Emmanuelle Vaast</author>
+          <author>Liette Lapointe</author>
+          <author>Bogdan Negoita</author>
+        </authors>
+      </paper>
+      <paper title="General Laws of IS Use" year="2013" venue="Conference of the Administrative Sciences Association of Canada">
+        <authors>
+          <author>Hani Safadi</author>
+        </authors>
+      </paper>
+      <paper title="Rethinking IS Workarounds: Lessons from Open-Source Healthcare IT" year="2012" venue="Open and User Innovation Workshop">
+        <authors>
+          <author>Hani Safadi</author>
+          <author>Samer Faraj</author>
+        </authors>
+      </paper>
+      <paper title="Symbolic action through microblogging during and after a crisis: Tweeting the oil spill" year="2012" venue="Academy of Management Meeting">
+        <authors>
+          <author>Emmanuelle Vaast</author>
+          <author>Bogdan Negoita</author>
+          <author>Hani Safadi</author>
+        </authors>
+      </paper>
+      <paper title="Customizations and Workarounds during the Implementation of an Open-Source Electronic Medical Record System" year="2011" venue="Conference of the Administrative Sciences Association of Canada">
+        <authors>
+          <author>Hani Safadi</author>
+          <author>Samer Faraj</author>
+        </authors>
+      </paper>
+      <paper title="Organizational Identification in Online Communities" year="2011" venue="Conference of the Administrative Sciences Association of Canada">
+        <authors>
+          <author>Hani Safadi</author>
+          <author>Samer Faraj</author>
+          <author>Steven Johnson</author>
+        </authors>
+      </paper>
+      <paper title="Impact of Open-Source Software in Adopting and Implementing Electronic Medical Record Systems" year="2010" venue="Conference of the Administrative Sciences Association of Canada">
+        <authors>
+          <author>Hani Safadi</author>
+          <author>Samer Faraj</author>
+        </authors>
+      </paper>
+      <paper title="Crosslingual Implementation of Linguistic Resources and Tools" year="2008" venue="Conference of Atlantic Provinces Linguistic Association">
+        <authors>
+          <author>Hani Safadi</author>
+          <author>Richard Rose</author>
+          <author>Doina Precup</author>
+        </authors>
+      </paper>
+    </section>
+    <section name="posters">
+      <paper title="ODIN: Tracing Ideas, Entities, and Relationships from Big Textual Data" year="2018" venue="Advancing Informatics in Government and Industry" url="https://gii.uga.edu/wp-content/uploads/2018/10/2018-AIGI-Poster-Session-Abstracts.pdf" abstract="at University of Georgia">
+        <authors>
+          <author>Hani Safadi</author>
+        </authors>
+      </paper>
+      <paper title="Extracting Social Network Ontologies from Unstructured Data" year="2017" venue="Sequences, Traces, &amp; Time: Building a research community" url="http://cbsa.msu.edu/index.php/first-annual-conference-sequences-and-traces/" abstract="at Michigan State University">
+        <authors>
+          <author>Hani Safadi</author>
+        </authors>
+      </paper>
+      <paper title="Tracing Ideas, Entities, and Relationships from Big Textual Data" year="2016" venue="Georgia Informatics Symposium" url="https://news.uga.edu/informatics-symposium-2016/" abstract="at University of Georgia">
+        <authors>
+          <author>Hani Safadi</author>
+        </authors>
+      </paper>
+    </section>
+    <section name="books">
+      <paper id="9783838326771" title="Open-Source Software and Health Information Technology: The Impact of Open-Source Software in Adopting and Implementing Electronic Medical Record Systems" year="2010" venue="LAP Lambert Academic Publishing" url="https://www.amazon.com/Open-Source-Software-Health-Information-Technology/dp/3838326776" abstract="The open-source software development model emerged as a serious competitor to proprietary software development models. Open-source development relies on the efforts of voluntary individuals and organizations to develop, test and use the software. This first essay, focuses on understanding the development process of open-source systems by looking at the communication between the two groups as an important indicator of the sophistication of the system. We argue that this continuous feedback loop is a determining factor of the system evolution. The essay presents a theory regarding it, develops its constructs and suggests a methodology to test the theory. The second essay focuses on the adoption of open-source Health Information Technology (HIT) in the delivery of health care. More specifically, it looks into the challenges that face the adoption and the implementation of Electronic Medical Record (EMR) systems. Open-Source software is an alternative to proprietary software. The study examines the specifics of open-source EMR systems in order to see how such systems may alleviate some of the challenges of the adoption and the implementation of traditional proprietary EMR systems.">
+        <authors>
+          <author>Hani Safadi</author>
+        </authors>
+      </paper>
+      <paper id="9780557448098" title="Crosslingual Implementation of Linguistic Taggers using Parallel Corpora" year="2010" venue="Self-Published Master Dissertation, Lulu Press" url="https://www.amazon.com/Crosslingual-Implementation-Linguistic-Taggers-Parallel/dp/0557448093" abstract="This book addresses the problem of creating linguistic taggers for resource-poor languages using existing taggers in resource rich languages. Linguistic taggers are classifiers that map individual words or phrases from a sentence to a set of tags. Linguistic taggers are usually trained using supervised learning algorithms.The proposed approach does not require that the input sentence be translated into the source language. Instead, projection of linguistic tags is accomplished through the use of a parallel corpus, which is a collection of texts that are available in a source language and a target language. The correspondence between words of the source and target language allows to project tags from source to target language words.A parallel corpus of the source and target languages might not be readily available for many language pairs. To deal with this problem, we describe a system for automatic acquisition of aligned, bilingual corpora from pre-specified domains on the World Wide Web.">
+        <authors>
+          <author>Hani Safadi</author>
+        </authors>
+      </paper>
+    </section>
+    <section name="theses">
+      <paper id="130355" title="Knowledge creation in health IT online communities" year="2015" venue="Doctor of Philosophy Thesis" url="http://digitool.Library.McGill.CA:80/R/-?func=dbin-jump-full&amp;object_id=130355&amp;silo_library=GEN01" abstract="Research on knowledge and digital production in Communities of Innovation is still in its early stages. The most sustained research has focused on open-source software development as it has emerged as a serious competitor to the traditional proprietary software. The Linux operating system, the Apache web server, and the Firefox browser are all successful open-source products that achieved wide commercial success over their proprietary competitors. It has been argued that open-source software combines aspects of private investment and common action production models. This new combination requires fundamental revisions to theories of innovation. With the objective of gaining a deeper understanding of open innovation in healthcare, this research focuses on how online communities focused on innovation create, share, and evolve knowledge artifacts.Specifically, I explore the development, evolution, and knowledge creation in a community of innovation centered on an open-source Electronic Medical Record (EMR) named OSCAR. This community is primarily Canadian, has been in existence for a decade, and has developed an EMR that is rapidly diffusing (currently used by over 1,500 Canadian doctors to follow over a million patients). The OSCAR EMR is freely available open-source software and is gaining market share against commercial products typically costing $25,000 per year. Given the complexity of such software, the mission-critical nature of patient records for solving Canadian and world health issues, and the fact that the vast majority of users (family doctors) are not computer savvy, this success is unusual and significant. Contrary to other open-source projects, this software is embedded in a community of doctors rather than a community of programmers. The community is active both face to face via user meetings and online via discussion forums.Focusing on knowledge creation and software evolution, I take on three interrelated studies of this healthcare community of innovation to answer the following research questions: (1) What determines individual members' contributions in the community? (2) How does the community integrate individual contributions into the digital artifact? (3) How does the community grow and evolve overtime creating and sustaining its collaborative structure? Taken together, the studies contribute theoretically by exploring the knowledge exchanges and innovation dynamics in a community of innovation that involves diverse groups of participants (e.g., doctors, programmers, nurses, administrators). They will also help shed light on an important class of innovation communities, one where Canada is a leader and where the innovation outcomes are helping computerize healthcare in Canada.">
+        <authors>
+          <author>Hani Safadi</author>
+          <author>Samer Faraj (Supervisor)</author>
+        </authors>
+      </paper>
+      <paper id="22000" title="Crosslingual implementation of linguistic taggers using parallel corpora" year="2008" venue="Master of Science Thesis" url="http://digitool.Library.McGill.CA:80/R/-?func=dbin-jump-full&amp;object_id=22000&amp;silo_library=GEN01" abstract="This thesis addresses the problem of creating linguistic taggers for resource-poor languages using existing taggers in resource rich languages. Linguistic taggers are classifiers that map individual words or phrases from a sentence to a set of tags. Part of speech tagging and named entity extraction are two examples of linguistic tagging. Linguistic taggers are usually trained using supervised learning algorithms. This requires the existence of labeled training data, which is not available for many languages. We describe an approach for assigning linguistic tags to sentences in a target (resource-poor) language by exploiting a linguistic tagger that has been configured in a source (resource-rich) language. The approach does not require that the input sentence be translated into the source language. Instead, projection of linguistic tags is accomplished through the use of a parallel corpus, which is a collection of texts that are available in a source language and a target language. The correspondence between words of the source and target language allows us to project tags from source to target language words. The projected tags are further processed to compute the final tags of the target language words. A system for part of speech (POS) tagging of French language sentences using an English language POS tagger and an English/French parallel corpus has been implemented and evaluated using this approach. A parallel corpus of the source and target languages might not be readily available for many language pairs. To deal with this problem, we describe a system for automatic acquisition of aligned, bilingual corpora from pre-specified domains on the World Wide Web. The system involves automatic indexing of a given domain using a web crawler, identifying pairs of pages that are translations of one another, and aligning bilingual texts at the sentence level. Using this approach we create a 40,000,000 word English-French parallel corpus from the Government of Canada domain. The quality of this corpus is evaluated and compared to other parallel corpora.">
+        <authors>
+          <author>Hani Safadi</author>
+          <author>Doina Precup (Supervisor)</author>
+          <author>Richard Rose (Co-Supervisor)</author>
+        </authors>
+      </paper>
+      <paper title="Computational Methods to Vocalize Arabic Texts" year="2006" venue="Bachelor of Engineering Thesis" abstract="Arabic Language has two kinds of vowels: Long vowels which are written as normal letters; and short vowels which are written as punctuation marks, above or below letters. Those short vowels are normally omitted in Arabic texts because the reader can fill them and guess the meaning based on his knowledge of the language, and the context in which the words are. However, with the widespread usage of computers in linguistics application; Arabic texts need to be supplied with short vowels in order to be analyzed. Search engines, text to speech engines, and text mining tools are just some examples of applications that need Arabic texts to be vocalized before being processed. In this paper, we present a new method to supply those vocals. The approach emphasizes on unsupervised machine methods, because public Arabic corpora are not available. Arabic rich morphology and diverse orthography present serious challenges for this approach. An algorithm is developed and a system is implemented in Java.">
+        <authors>
+          <author>Hani Safadi</author>
+          <author>Oumayma Dakkak (Supervisor)</author>
+          <author>Nada Ghneim (Co-Supervisor)</author>
+        </authors>
+      </paper>
+    </section>
+    <section name="grants">
+      <paper title="Developing a Multiple-Choice Question Bank for Take-Home Biweekly Quizzes" year="2022" venue="Terry College Teaching Innovation Grants"/>
+      <paper title="Supporting Business Analytics Education" year="2022" venue="University of Georgia Teaching Enhancement and Innovation Fund"/>
+      <paper title="Development of Online Modules - Business Analytics with Python" year="2021" venue="Terry College Teaching Innovation Grants"/>
+      <paper title="Data Rights and Data Obligations in Digital Ecosystems and their implications for small businesses in Georgia" year="2021" venue="Terry College Innovation Seed Grant"/>
+      <paper id="GR-FP00009170" title="Design and Evaluation of a Digital Transparency Platform for Advancing Legislative and Regulatory Transparency" year="2017" venue="Institute of Museum and Library Services" url="https://www.imls.gov/grants/awarded/lg-72-17-0078-17"/>
+      <paper id="34A55206-4A6D-4618-B945-AC7FC4FD4B74" title="Effective Moderation of Online Patient Communities" year="2017" venue="University of Georgia Research Foundation"/>
+      <paper title="The impact of an open-source electronic medical record (EMR) system on clinical practice in Canadian ambulatory care" year="2012" venue="Fonds Québécois de la recherche sur la société et la culture"/>
+      <paper title="The impact of an open-source electronic medical record (EMR) system on clinical practice in Canadian ambulatory care" year="2011" venue="Social Sciences and Humanities Research Council of Canada"/>
+    </section>
+    <section name="reports">
+      <paper title="Query Reformulation with Query Logs and Statistical Machine Translation" year="2007" venue="Yahoo! Research Internal Report">
+        <authors>
+          <author>Hani Safadi</author>
+          <author>Jean-François Crespo</author>
+        </authors>
+      </paper>
+      <paper title="Local path planning using virtual potential field" year="2007" venue="McGill University School of Computer Science" url="https://www.cs.mcgill.ca/~hsafad/robotics" abstract="In this report we discuss our implementation of  a local path planning algorithm based on virtual potential field described in [1]. The algorithm uses virtual forces to avoid being trapped in a local minimum. Simulation and experiments are performed, and compared to the results presented in the paper. They show good performance and ability to avoid the local minimum problem in most of the cases.">
+        <authors>
+          <author>Hani Safadi</author>
+        </authors>
+      </paper>
+      <paper title="Geometrical Tools for Classification" year="2007" venue="McGill University School of Computer Science" url="https://www.cs.mcgill.ca/~hsafad/prproject/index.html" abstract="In this project we will describe a new methods used to alleviate the problems of non-parametric methods, namely the large training set requirements and the locality problem. Those methods rely on geometry as a tool. The construct that will be used is the &quot;Convex Hull&quot;.">
+        <authors>
+          <author>Hani Safadi</author>
+        </authors>
+      </paper>
+    </section>
+    <section name="software">
+      <paper title="Safadi Puzzler, a new interactive platform for learning and practicing programming and computer topics" year="2022" venue="Online" url="https://www.safadi-puzzler.com/">
+        <authors>
+          <author>Hani Safadi</author>
+        </authors>
+      </paper>
+      <paper title="An online platform to explore the process legislation and law making of the Jumpstart Our Business Act of 2012" year="2018" venue="GitHub" url="https://github.com/hanisaf/odin-front">
+        <authors>
+          <author>Hani Safadi</author>
+        </authors>
+      </paper>
+      <paper title="Scholarly Resume: academic profile frontend web application" year="2018" venue="GitHub" url="https://github.com/hanisaf/scholarly-resume">
+        <authors>
+          <author>Hani Safadi</author>
+        </authors>
+      </paper>
+    </section>
+  </research>
+  <teaching>
+    <courses>
+      <course id="Executive Education" title="Essentials of Data Science: Core Skills for Analytics Certification" url="https://www.terry.uga.edu/executive/data-science-and-analytics.php" abstract="Looking to boost your capabilities — and your career? Offered in collaboration with University of South Carolina and INFORMS (Institute for Operations Research and Management Sciences), this training immerses you in the concepts needed to stimulate your data science and analytics journey. Sharpen your fundamentals and learn test-taking strategies to earn Certified Analytics Professional (CAP®) and other relevant credentials."/>
+      <course id="Executive Education" title="Sense-Making: Using Data for a Competitive Advantage" abstract="Today’s world is characterized by an ever-increasing influx of data generated at an unparalleled scale and speed. However, the ability to collect and store massive amounts of data does not guarantee that the data will be of any value. Furthermore, understanding and making sense of data are precursors of effectively using it for advanced analytics and creating predictive models. Information visualization is increasingly being used to extract insights from business data. The goal of information visualization is to aid users in the discovery of patterns and relationships in large amounts of information. Visualization enables business analysts and managers to better understand their data and to discover new trends and patterns that can provide critical business insights. This module presents the principles of information visualization and applies them in the context of business decision-making."/>
+      <course id="BUSN 4030" title="Python Programming II" abstract="This course introduces students to advanced data operations using the pandas package in Python. Several data-related topics are covered including data transformation and data wrangling with a focus on ETL (extract, transform, load) operations. The course introduces students to structured data analytics and machine learning."/>
+      <course id="BUSN 3030" title="Python Programming I" abstract="This course introduces students to data analytics with the Python programming language. The course covers programming fundamentals and focuses on built-in data structures in Python for storing and manipulating data. It covers statistical analysis and data visualization. The course concludes with a data exercise to put knowledge and skills across topics into practice."/>
+      <course id="MIST 5757 / MIST 7757" title="Data Engineering" url="https://github.com/hanisaf/data-engineering" abstract="This course focuses on the concepts and techniques of architecting data to support data-intensive applications and large-scale data analysis workflows. The course surveys the current landscape of hardware and software for data storage and processing. The course covers architecting scalable data solutions and their deployment into production in the cloud."/>
+      <course id="MIST 5730 / MIST 6380" title="Advanced Data Management and Analytics" url="https://github.com/hanisaf/advanced-data-management-and-analytics" abstract="This course provides students with knowledge of emerging technical issues related to data science, along with experience of diverse methods and technologies related to all aspects of data science. The topics in the course are organized around four themes: reproducible analytics, advanced data management, communication and delivery, and advanced data analytics."/>
+      <course id="BUSN 7990 B3" title="Python Bootcamp" url="https://github.com/hanisaf/python-bootcamp" abstract="A four session workshop introducing students to data management, visualization and analysis using Python"/>
+      <course id="MIST 9000" title="Doctoral Research" url="https://www.terry.uga.edu/courses/MIST/9000/" abstract="Research while enrolled for a doctoral degree under the direction of faculty members."/>
+      <course id="MIST 9777" title="Big Data Research Methods for Computational Social Science" url="https://www.terry.uga.edu/courses/MIST/9777/" abstract="Approaches for developing, analyzing, and managing large datasets for computational social science. Development topics include acquiring data from the web and log files and managing unstructured data. Analysis approaches overviewed include econometric, social network, text, and sequence analysis. Data management topics cover sharing, protecting, and archiving data."/>
+      <course id="MIST 9750" title="Individual Level Theories in Information Systems" url="https://www.terry.uga.edu/courses/MIST/9750/" abstract="An overview of research on individual behavior with specific emphasis on information systems and marketing."/>
+      <course id="MIST 9760" title="Special Topics in Information Systems Research" url="https://www.terry.uga.edu/courses/MIST/9760/" abstract="Theories, conceptual issues, empirical papers, and research approaches pertaining to Information Systems (IS) research and its application. Topics vary, but examples are IS-enabled value creation, economics of IS, design science, inter-organizational level IS research, group level IS research, critical and qualitative approaches to IS, and addressing the research needs of practice."/>
+      <course id="MIST 4600" title="Computer Programming in Business" url="https://github.com/hanisaf/mist4600-spring2019" abstract="Introduction to computer programming using an object-oriented language; top-down design; structured programming; and debugging, testing and implementation"/>
+      <course id="FYOS 1001" title="iOS App Development and Game Programming Using Swift" url="http://bulletin.uga.edu/CoursesHome.aspx?Prefix=FYOS" abstract="A seminar to engage first-year students in the academic culture of the University. Seminars will promote meaningful academic dialogue between students and faculty in a small class setting that encourages reflective thinking and learning to learn. Varied topics based on faculty scholarship. Exploration of the unique learning environment at UGA, including opportunities to engage in research, public service, and varied forms of instruction both on campus and globally."/>
+      <course id="BIA 658" title="Social Networks Analytics" abstract="This course introduces concepts and theories of social network and social media analyses. Application areas include customer profiling, community and trend detection, targeting, sentiment analysis, and development of recommendation systems."/>
+      <course id="MIS 630" title="Data and Knowledge Management" abstract="This course focuses on data and database management, with an emphasis on modeling and design, and their application to decision support. The course is organized around the following general themes: Strategic Data Planning, Data Governance, Enterprise Data Integration, Data Management Approaches, Data Design for Transaction Processing vs. Decision Support, Data Management Functions, Abstraction and Modeling, Data- and Information Modeling (ER, Object-oriented), Database Schemas (Conceptual Schema), Database Design (Functional Dependencies and Normalization), Query languages (SQL, DDL, QBE), Metadata Development and Application, Data Quality Approaches, Master and Reference Data Management (e.g., Customer and Product Data), Temporal Data, Data, Analytics, and Business Performance, Introduction to Data Warehousing, OLAP, OLTP, and Data Mining, Strategic Data Policies and Guidelines (e.g. Enterprise Data and Integration, Governance, Markets, Customers, and Competitors, Leadership, Analysts and Knowledge Worker Skills and Training, Communities of Analysts). There are numerous case studies and modeling projects throughout the course."/>
+      <course id="INSY 437" title="Managing Data &amp; Databases" abstract="Information Systems : Management of organizational data, implementation of database management systems, and the roles and responsibilities of data management personnel. Explores different models of data representation with an emphasis on the relational model; simple and complex SQL queries."/>
+      <course id="MGCR 331" title="Introduction to Information Systems" abstract="Management Core : Introduction to principles and concepts of information systems in organizations. Topics include information technology, transaction processing systems, decision support systems, database and systems development. Students are required to have background preparation on basic micro computer skills including spreadsheet and word-processing."/>
+      <course id="COMP 250" title="Introduction to Algorithms and Data Structures" abstract="Computer Science (Sci) : Mathematical tools (binary numbers, induction, recurrence relations, asymptotic complexity, establishing correctness of programs), Data structures (arrays, stacks, queues, linked lists, trees, binary trees, binary search trees, heaps, hash tables), Recursive and non-recursive algorithms (searching and sorting, tree and graph traversal). Abstract data types, inheritance. Selected topics"/>
+      <course id="COMP 202" title="Introduction to Programming in Java" abstract="Computer Science (Sci) : Introduction to computer programming in a high level language: variables, expressions, primitive types, methods, conditionals, loops. Introduction to algorithms, data structures (arrays, strings), modular software design, libraries, file input/output, debugging, exception handling. Selected topics."/>
+    </courses>
+  </teaching>
+  <service>
+    <section name="journal editorialship">
+      <entry role="Senior Editor" venue="Journal of the Association for Information Systems" venueshort="JAIS" startdate="2024"/>
+      <entry role="Editorial Review Board Member" venue="IEEE Transactions on Engineering Management" venueshort="IEEE TEM" startdate="2016" enddate="2024"/>
+      <entry role="Associate Editor" venue="MIS Quarterly" venueshort="MISQ" startdate="2021" enddate="2024"/>
+      <entry role="Associate Editor (Special Issue on Digital Resilience)" venue="MIS Quarterly" venueshort="MISQ" startdate="2020" enddate="2021"/>
+      <entry role="Reviewer" venue="MIS Quarterly" venueshort="MISQ" startdate="2015"/>
+      <entry role="Reviewer" venue="Information Systems Research" venueshort="ISR" startdate="2015"/>
+      <entry role="Reviewer" venue="Organization Science" venueshort="Organization Science" startdate="2019"/>
+      <entry role="Reviewer" venue="Management Science" venueshort="Management Science" startdate="2017"/>
+      <entry role="Reviewer" venue="Journal of the Association for Information Systems" venueshort="JAIS" startdate="2016"/>
+      <entry role="Reviewer" venue="ACM Transactions on Management Information Systems" venueshort="TMIS" startdate="2018"/>
+      <entry role="Reviewer" venue="European Journal of Information Systems" venueshort="EJIS" startdate="2018"/>
+      <entry role="Reviewer" venue="Communications of the Association for Information Systems" venueshort="CAIS" startdate="2017"/>
+      <entry role="Reviewer" venue="Information and Organization" venueshort="I&amp;O" startdate="2015"/>
+      <entry role="Reviewer" venue="Journal of Medical Internet Research" venueshort="JMIR" startdate="2020"/>
+      <entry role="Reviewer" venue="Health Policy and Technology" venueshort="HPT" startdate="2014"/>
+      <entry role="Reviewer" venue="Big Data &amp; Society" venueshort="BDS" startdate="2018"/>
+      <entry role="Reviewer" venue="IEEE Transactions on Engineering Management" venueshort="IEEE TEM" startdate="2019"/>
+      <entry role="Reviewer" venue="Information Systems Journal" venueshort="ISJ" startdate="2019"/>
+      <entry role="Reviewer" venue="Journal of Information Technology" venueshort="JIT" startdate="2020"/>
+    </section>
+    <section name="conference editorialship">
+      <entry role="Track Associate Editor" venue="European Conference on Information Systems" venueshort="ECIS" startdate="2022" enddate="2024"/>
+      <entry role="TREO Track Chair" venue="Americas Conference on Information Systems" venueshort="AMCIS" startdate="2019" enddate="2021"/>
+      <entry role="Organization Committee Member" venue="Advancing Informatics in Government and Industry" venueshort="AIGI" startdate="2018" enddate="2018"/>
+      <entry role="Track Associate Editor" venue="International Conference on Information Systems" venueshort="ICIS" startdate="2016"/>
+      <entry role="OCIS Division Associate Editor" venue="Organizational Communication and Information Systems" venueshort="OCIS" startdate="2016"/>
+      <entry role="Conference Chair" venue="International Federation for Information Processing" venueshort="IFIP" startdate="2015" enddate="2015"/>
+      <entry role="Technical Committee member " venue="The First International Workshop on Privacy and Security in HealthCare" venueshort="IWPS" startdate="2014" enddate="2014"/>
+    </section>
+    <section name="grant reviewer">
+      <entry role="Grant Reviewer" venue="National Science Foundation" venueshort="NSF" startdate="2021" enddate="2021"/>
+      <entry role="Business Studies Panelist" venue="Research Grants Council of Hong Kong" venueshort="RGC" startdate="2020" enddate="2020"/>
+    </section>
+  </service>
+  <invitations>
+    <section name="talks">
+      <entry title="Validation Criteria for Computationally Intensive Theory Construction" venue="Ludwig Maximilian University of Munich" year="2024" url="" abstract=""/>
+      <entry title="Validation Criteria for Computationally Intensive Theory Construction" venue="University of Lausanne" year="2024" url="https://wp.unil.ch/aail/desi-seminar-validation-criteria-for-computationally-intensive-theory-construction/" abstract=""/>
+      <entry title="Validation Criteria for Computationally Intensive Theory Construction" venue="University of Bern" year="2024" url="" abstract=""/>
+      <entry title="Are Large Language Models Systems Inquiry?" venue="MSR-AOM Research Colloquium" year="2024" url="" abstract=""/>
+      <entry title="Firm-Sponsored Online Communities: Building Alignment Capabilities for Participatory Governance" venue="New York University" year="2024" url="" abstract=""/>
+      <entry title="Participatory Governance of Firm-Sponsored Online Communities" venue="Erasmus University Rotterdam" year="2024" url="" abstract=""/>
+      <entry title="Hybrid Governance of Online Communities: Aligning Top-Down and Bottom-Up Approaches" venue="Arizona State University" year="2023" url="" abstract=""/>
+      <entry title="Sustaining Knowledge Collaboration in Online Communities: Aligning Structural Solutions with Generative Dynamics" venue="Indiana University" year="2023" url="" abstract=""/>
+      <entry title="Applications of Computational Methods in Qualitative Research" venue="Bricolab, McGill University" year="2022" url="" abstract=""/>
+      <entry title="Collective Sensemaking in Online Communities" venue="GRESI, HEC Montreal" year="2022" url="https://gresi.hec.ca/blog/activites-presentations-2022/" abstract="Online communities are places where people come together to discuss shared interests. They have become more important as they provide a new way to share information, coordinate action, and create knowledge. Some online communities manage to form strong bonds among members and become true communities, while others fail to find common ground and become fragmented. In this study, we examine the factors that lead to convergence or fragmentation in online communities. We take a discursive approach and rely on the emergence of unified discourse as an indicator of community convergence, and the divergence of discourse into competing topics of interest as an indicator of community fragmentation. We situate our theoretical development within the theory of sensemaking, and hypothesize factors that shape the differing outcome of collective sensemaking in an online community. We test our hypotheses using data from fifteen online communities over more than a decade. We find that community exchanges shape the outcomes of collective sensemaking. Namely, community reciprocity, clustering, and density enable collective sensemaking whereas community transitivity and preferential attachment inhibit it. Our findings contribute a nuanced understanding of how online communities evolve and contribute to the scholarship of collective sensemaking in distributed environments. The study adds to scholarship on online communities by explaining outcomes of convergence and fragmentation and by highlighting the internal dynamics that explain them. It contributes to scholarship on collective sensemaking by documenting what activates and inhibits it in distributed settings where communications unfold over time."/>
+      <entry title="Digital Trace Data Research &amp; Computationally Intensive Theorizing" venue="Routines.Research.Community Workshop" year="2022" url="https://drive.google.com/file/d/134VONX2F5bbvBtF_C7zGvtyv4VEcPdsb/view?usp=sharing" abstract=""/>
+      <entry title="Tribes or Communities: Collective Sensemaking in Online Communities" venue="University of Liechtenstein" year="2022" url="https://gresi.hec.ca/blog/activites-presentations-2022/" abstract="Online communities are places where people come together to discuss shared interests. They have become more important as they provide a new way to share information, coordinate action, and create knowledge. Some online communities manage to form strong bonds among members and become true communities, while others fail to find common ground and become fragmented. In this study, we examine the factors that lead to convergence or fragmentation in online communities. We take a discursive approach and rely on the emergence of unified discourse as an indicator of community convergence, and the divergence of discourse into competing topics of interest as an indicator of community fragmentation. We situate our theoretical development within the theory of sensemaking, and hypothesize factors that shape the differing outcome of collective sensemaking in an online community. We test our hypotheses using data from fifteen online communities over more than a decade. We find that community exchanges shape the outcomes of collective sensemaking. Namely, community reciprocity, clustering, and density enable collective sensemaking whereas community transitivity and preferential attachment inhibit it. Our findings contribute a nuanced understanding of how online communities evolve and contribute to the scholarship of collective sensemaking in distributed environments. The study adds to scholarship on online communities by explaining outcomes of convergence and fragmentation and by highlighting the internal dynamics that explain them. It contributes to scholarship on collective sensemaking by documenting what activates and inhibits it in distributed settings where communications unfold over time."/>
+      <entry title="Information Technology Beyond Good and Evil: The Case of Crowdfunding and Social Justice" venue="Stevens Institute of Technology, School of Business" year="2022" url="" abstract="Societal consequences of information technology are in the foreground of scholarly and practitioner interest. Most technologies are designed with good intentions to deliver the greatest good for the greatest number. However, unintended consequences arise because of the complex environment in which information technology is deployed. In this work, we examine the unintended consequences of crowdfunding on social justice. Academic studies of crowdfunding point to conflicting findings of how crowdfunding platforms contribute to the success of minority founders. On one hand, crowdfunding platforms enable minority founders to reach a wider audience and recruit minority backers rather than relying on a few funders. On the other hand, crowdfunding platforms can amplify and exacerbate biases against minority founders. We identify different factors likely to affect backers’ decisions to contribute to founders’ projects including gender and ethnic homophily, project endorsement, and founder competence signaling. Importantly, based on prior work, we propose that these factors are influenced by the crowdfunding platform design. With data from more than 70,000 projects on Kickstarter, we show how a new platform design aiming to promote information availability affects the performance outcomes of minority founders hurting women founders but helping ethnic minority founders at the same time. Understanding these unintended consequences requires unpacking design implications on users’ actions. We argue that this view promotes a better understanding of the broad societal implications of information technology."/>
+      <entry title="Information Technology Beyond Good and Evil: The Case of Crowdfunding and Social Justice" venue="University of Notre Dame, Mendoza College of Business" year="2022" url="" abstract="Societal consequences of information technology are in the foreground of scholarly and practitioner interest. Most technologies are designed with good intentions to deliver the greatest good for the greatest number. However, because of the complex environment in which information technology is deployed, unintended consequences arise. In this work, we adopt a multi-level approach to study the implications of crowdfunding on social justice. Academic studies of crowdfunding point to conflicting findings of how crowdfunding platforms contribute to the success of minority founders. On one hand, crowdfunding platforms enable minority founders to reach a wider audience and recruit minority backers rather than relying on a few funders. On the other hand, crowdfunding platforms can amplify and exacerbate biases against minority founders. We identify different mechanisms likely to affect backers’ decisions to contribute to founders’ projects including gender and ethnic homophily, project endorsement, and founder competence signaling. Importantly, these mechanisms are influenced by the crowdfunding platform design. With data from more than 50,000 projects on Kickstarter, we show how a new platform design affects the performance outcomes of minority founders. We argue that a multi-level view of technology with a focus on design implications on users’ actions promotes a better understanding of the broad societal implications of information technology."/>
+      <entry title="The Effect of Bots on Human Interaction in Online Communities" venue="Temple University, Global Institute for Artificial Intelligence and Business Analytics" year="2021" url="" abstract=""/>
+      <entry title="Successful Moderation in Online Patient Communities" venue="Mayo Clinic" year="2019" url="" abstract=""/>
+      <entry title="Cognitive Augmentation of Human Sensemaking of Large Textual Data" venue="American University of Beirut Olayan School of Business" year="2018" url="" abstract="Five decades ago, Herbert Simon identified the challenge of extracting useful patterns from data, rather than storing larger amounts of data. This predicament is much more salient today, particularly for decision makers overloaded by information. The language and cognitive schemas that humans have evolved over thousands of years are now encountering a new kind of environment in which people are increasingly blinded to the limits of thought and action. Overwhelmed by the sheer volume of information associated with complex problems and highly ambiguous circumstances, decision makers face a variety of challenges that at times can seem insurmountable. Knowledge workers in many professions depend on reading and making sense of textual data. Journalists, lawyers and investigative analysts all need to read through many documents, categorize events and concepts, and connect threads of evidence in order to reach conclusions. As the number of documents grows, sensemaking becomes more challenging. One recent example is the Panama Papers leak. Journalists spent three years analyzing 3TB of text before they reached a conclusion about illegal offshoring activities. Today, there are many tools for content analysis and discovery. However, most of these tools are designed for specific information retrieval tasks. We lack the understanding of how these technologies augment human cognition to serve sensemaking. The future of knowledge work will involve technologies that augment human sensemaking of large amounts of text data. The Open Data Innovation Project (ODIN) has two key elements. First, we build a tool that integrates and extends methods for unifying and visualizing text data in the domain problem of legislative law. Then we design and conduct a set of experiments centered on human sensemaking to elicit general principles for human cognitive augmentation. This presentation will focus on the first part. I will overview the theoretical and design principles of the ODIN project. I will then present some applications of ODIN. I am hoping that I can stir some interest in ODIN and that scholars and practitioners will be interested in using it for new applications and in new domains."/>
+      <entry title="Text Mining &amp; Natural Language Processing for Management Research" venue="Stevens Institute of Technology, School of Business" year="2016" url="" abstract=""/>
+      <entry title="Talking about us and them: The formation of a new occupation’s ecosystem with digital technology use" venue="University of Minnesota Carlson School of Management" year="2016" url="" abstract=""/>
+      <entry title="Don’t Pretend to Test Hypotheses: Lexicon and the Legitimization of Empirically-Grounded Computationally-Intensive Theory Development" venue="American University of Beirut Olayan School of Business" year="2016" url="" abstract="The unprecedented availability of digital traces of human activity is already revolutionizing IS research. In this research commentary, we draw on Habermas’s “rational reconstruction” as a legitimizing epistemological foundation for how trace data can be used to develop novel and important theory. We leverage lessons learned from Grounded Theory Method (GTM) and articulate a general process for computationally-intensive, empirically-grounded theory generation. This view emphasizes the importance of a lexicon and of emergence in the process of building theory. We focus on four pivotal activities as a framework for this computationally-intensive approach: sampling, synchronic analysis, lexicon reference, and diachronic analysis. In constructing this framework, we hope to arm researchers with a legitimate approach for inductively generating theory from computationally-intensive analysis of empirical data, and thus avoid recasting exploratory analyses in terms of hypothesis testing."/>
+      <entry title="From Exceptions to Rules: Achieving Quality of Care &amp; Coordinating Technological Change during Electronic Medical Record Implementation" venue="Georgia State University  Robinson College of Business" year="2015" url="" abstract="The high rate of failure of information systems (IS) implementation has intrigued researchers to investigate its causes (Bostrom and Heinen 1977; Lucas 1975). It has been acknowledged from early on that IS implementation faces organizational and social challenges in addition to technical ones (Lyytinen and Hirschheim 1988). Users’ resistance to information systems use is an enduring phenomenon that was studied comprehensively in the IS field (Hirschheim and Newman 1988). In the early days of computing, not complying with the prescribed use of an information system was a serious threat to its success. Thus early scholarship focused its attention on the mental models of IS users that lead them to accept or reject its use (Davis Jr 1986; DeSanctis 1983). Research then shifted towards understanding users’ roles in IS implementation. Users’ involvement in IS development is an essential factor of its success (Baroudi et al. 1986; Ives and Olson 1984). Technology implementation is a continuous process. While the traditional waterfall model assumes users’ involvement in requirement analysis (Royce 1970), users engage in complex behaviors in order to integrate computing into their work post its implementation (Gasser 1986). For example, users intentionally use the systems in ways for which it was not designed or rely on alternative means to achieve the same task is a strategy for accommodating to the misfit between the system and their work practices (p. 216). We study the roles of users over a five-year episode of technological change following the implementation of an Electronic Medical Record (EMR) system in a large clinic. Using computer-assisted qualitative data analysis, we find that users built incremental solutions with increasing degree of formalization overtime. Initial solutions were shaped by the EMR technical limitations and lead to negotiating work practices in the clinic. Further iterations evolved to first-order solutions that extended the EMR capabilities giving room for further improvement. These findings demonstrate the prevalence of continuous user involvement during IS implementation and challenge the black taint of users’ second-order problem solving in healthcare."/>
+    </section>
+    <section name="panels">
+      <entry title="Developing and Publishing Computational Theory Construction Research" venue="International Conference on Information Systems" year="2025" url="" abstract=""/>
+      <entry title="Towards A Craft Of Computational Theory Construction" venue="Academy of Management Meeting" year="2023-2024" url="" abstract=""/>
+      <entry title="Next Decade Bot Research" venue="Academy of Management Meeting" year="2023-2024" url="" abstract=""/>
+      <entry title="Content and Textual Analysis in Organizational Research: Techniques and Applications" venue="Academy of Management Meeting" year="2022-2023" url="" abstract=""/>
+      <entry title="Digital Trace Data – What’s in it for Routine Dynamics Research?" venue="Routines.Research.Community Workshop" year="2022" url="https://sites.google.com/view/rrc-workshop-linz/photos-slides/day-2" abstract=""/>
+      <entry title="Advanced Content Analysis: Techniques and Applications" venue="Consortium for the Advancement of Research Methods and Analysis (CARMA)" year="2022" url="https://carmattu.com/topic-interest-groups/" abstract=""/>
+      <entry title="Advice from Successful Faculty and Tips for Faculty Productivity Profiles" venue="University of Georgia, Office of Faculty Affairs" year="2021" url="" abstract=""/>
+      <entry title="Jumpstarting your academic career" venue="Concordia University John Molson School of Business" year="2016" url="https://www.mcgill.ca/desautels/fr/node/66728" abstract=""/>
+      <entry title="The Role of Information Technology and Work Practices in Relational Coordination: Technological change and the continuity of care" venue="Academy of Management All-Academy Symposium" year="2015" url="https://journals.aom.org/doi/10.5465/ambpp.2015.12911symposium" abstract="Information and communication technologies (ICTs) play an increasingly important role in the facilitation of complex, non- routine knowledge work that relies on rapid assessments of uncertain situations and tight coordination among professional workers. In contrast to routinized or transactional work settings, the influences of technology on professionals’ communication and coordination in this type of work are not clear. In this symposium, four empirical presentations examine how technology enables, constrains and changes work practices and coordination in multi-disciplinary health care organizations, which are prototypical examples of contemporary, complex organizations undergoing remarkable digital transformations. Following the presentations, Wanda Orlikowski and Jody Hoffer Gittell will serve as discussants to provide both theoretical and practical insights and lead an interactive group discussion that focuses on how information technology influences relational coordination processes and outcomes in professional work settings."/>
+    </section>
+  </invitations>
+  <recognition>
+    <section name="awards">
+      <entry title="AIS Mid-Career Award" venue="AIS" year="2024" url="https://aisnet.org/page/MidCareerAward" abstract="The AIS Mid-Career Award recognizes individuals in the middle stages of their careers who have already made outstanding research, teaching, and/or service contributions to the field of information systems. A maximum of six (6) AIS Mid-Career Awards will be granted each year, with at least one (1) per AIS region. It is possible to be less/none if the Committee decides."/>
+      <entry title="2024 INFORMS ISS Sandra A. Slaughter Early Career Award" venue="INFORMS" year="2024" url="https://www.informs.org/Recognizing-Excellence/Award-Recipients/Hani-Safadi" abstract="The Information Systems Society (ISS) invites nominations for the ISS Sandy Slaughter Early Career Award. The award will recognize and honor early career individuals who are on a path towards making outstanding intellectual contributions to the information systems discipline."/>
+      <entry title="Best Published Paper Award: Atrophy in Aging Systems: Evidence, Dynamics, and Antidote" venue="Annual Meeting of the Academy of Management" year="2024" url="https://cto.aom.org/about-us/award-winners" abstract="Communication, Digital Technology, and Organization Division"/>
+      <entry title="MSBA Excellence in Teaching Award" venue="University of Georgia, Terry College of Business" year="2024" url="" abstract=""/>
+      <entry title="Research Excellence Award" venue="University of Georgia, Terry College of Business" year="2023" url="" abstract=""/>
+      <entry title="Outstanding Teaching Award" venue="University of Georgia, Terry College of Business" year="2023" url="" abstract=""/>
+      <entry title="First Runner-Up Best Published Paper Award: Who Contributes Knowledge? Core-Periphery Tension in Online Innovation Communities" venue="Annual Meeting of the Academy of Management" year="2022" url="https://ocis.aom.org/about-us/award-winners" abstract="Communication, Digital Technology, and Organization Division"/>
+      <entry title="Best Theory Paper: The Effect of Bots on Human Interaction in Online Communities" venue="International Conference on Information Systems" year="2021" url="https://aisnet.org/page/AwardsPage" abstract=""/>
+      <entry title="AIS Distinguished Member, December 2020 Cohort" venue="Association for Information Systems" year="2020" url="https://aisnet.org/page/distinguishedmember" abstract=""/>
+      <entry title="Best Theory Paper: Open Communities and Formal Organizations: A Symbiosis View" venue="International Conference on Information Systems" year="2020" url="https://aisnet.org/page/AwardsPage" abstract=""/>
+      <entry title="Best Publication of 2019: Data-Driven Computationally-Intensive Theory Development" venue="International Conference on Information Systems" year="2020" url="https://aisnet.org/page/BestPublicationsAwar" abstract=""/>
+      <entry title="Best Information Systems Research Paper of 2019: Data-Driven Computationally-Intensive Theory Development" venue="Information Systems Research" year="2020" url="https://pubsonline.informs.org/journal/isre" abstract=""/>
+      <entry title="Best Associate Editor" venue="International Conference on Information Systems" year="2019" url="https://aisnet.org/page/AwardsPage" abstract=""/>
+      <entry title="Best Theory Paper: Tension Resolution and Sustaining Knowledge Flows in Online Communities" venue="International Conference on Information Systems" year="2019" url="https://aisnet.org/page/AwardsPage" abstract=""/>
+      <entry title="Terry-Sanford Research Award" venue="University of Georgia, Terry College of Business" year="2019-2022" url="" abstract=""/>
+      <entry title="Best Division Paper Award: Who Contributes Knowledge? Embeddedness and Marginality in Online Communities" venue="Annual Meeting of the Academy of Management" year="2018" url="https://ocis.aom.org/awards/2018-award-winners" abstract="Organizational Communication &amp; Information Systems Division"/>
+      <entry title="Best Published 2015 Paper Award: The Emergence of Online Community Leadership" venue="Annual Meeting of the Academy of Management" year="2016" url="https://ocis.aom.org/awards/2016-award-winners" abstract="Organizational Communication &amp; Information Systems Division"/>
+      <entry title="Second Runner-Up Best Dissertation Award" venue="International Conference on Information Systems" year="2015" url="" abstract=""/>
+      <entry title="Best Conference Paper Award: Grassroots versus Established Actors' Framing of a Crisis: Tweeting the Oil Spill" venue="Annual Meeting of the Academy of Management" year="2014" url="" abstract=""/>
+      <entry title="Excellence in Teaching Award" venue="Desautels Faculty of Management" year="2013" url="" abstract=""/>
+    </section>
+    <section name="student awards">
+      <entry title="PHD Fellowship" venue="Rathlyn Foundation" year="2014"/>
+      <entry title="PHD Fellowship" venue="Hian Siang Chan" year="2013"/>
+      <entry title="Provost's Graduate Fellowship" venue="McGill University" year="2010"/>
+      <entry title="Recruitment Excellence Fellowship" venue="McGill University" year="2009"/>
+      <entry title="Doctoral Program Entrance Fellowship" venue="McGill University" year="2009"/>
+      <entry title="Alma Mater Student Travel Grant" venue="McGill University" year="2008"/>
+    </section>
+    <section name="press">
+      <entry title="What it takes to create a social media movement" venue="The Globe and Mail Business School Research" year="2018" url="https://www.theglobeandmail.com/report-on-business/careers/business-education/what-it-takes-to-create-a-social-media-movement/article38295693/" abstract="The Globe's bimonthly report on research from business schools."/>
+      <entry title="Helper bots in online communities diminish human interaction" venue="The Conversation" year="2025" url="https://theconversation.com/helper-bots-in-online-communities-diminish-human-interaction-251795" abstract="Bots can be helpful in online communities, but they can also come between people."/>
+    </section>
+  </recognition>
+</resume>
