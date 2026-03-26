@@ -485,20 +485,20 @@
                 "abstract": "Fake news is a widespread and concerning phenomenon. The goal of this article is twofold. First, we argue that curtailing fake news is better pursued by identifying its propagators than by classifying its content. Second, to validate our conceptual argument, we develop a system for curtailing the propagation of fake news on social media by identifying users who are susceptible to believing and propagating it. We anchor our approach in the debate about the ontological nature of truth, the empirical challenges of classifying fake news content, as well as the psychological and social origins of believing fake news. Through interpreting our model using modern explainable machine learning, we deepen our theoretical understanding of why people believe and share fake news, extend the applicability of our system beyond its original context, and provide guidelines for mitigating fake news propagation."
             }  
         ],        
-        "-papers under review": [             
+        "-papers under review": [
             {
                 "id": "",
-                "title": "Separating Novelty from Noise: A Sociotechnical Perspective on Managing Peripheral Contributions in Online Communities",
+                "title": "Dynamics of Mirroring in Open-Source Software Projects",
                 "authors": [
-                    "P Kumar Sachin",
-                    "Hani Safadi"
+                    "Hani Safadi",
+                    "Amrit Tiwana"
                 ],
-                "year": "major revision - 3rd round",
+                "year": "minor revision",
                 "accepted": "",
-                "venue": "Information Systems Research",
+                "venue": "Journal of the Association for Information Systems",
                 "url": "",
-                "abstract": ""
-            },             
+                "abstract": "We study how fit between the unfolding architecture of IT applications (“apps”) and IT maintenance teams (“app<-->team fit”) over apps’ post-implementation lifespan drives the evolution of IT apps. Attempts to tweak an IT app often unveil lurking design imperfections, which new generations of technologies exacerbate. Such appteam misfits can derail IT apps’ evolvability. We develop a middle-range theory of how fit between the evolving architecture of IT apps and the architecture of IT maintenance teams induces two nuanced, cardinal mechanisms through which IT apps evolve. These mechanisms—evolution of only an app’s modules and evolution of only links among its modules—parsimoniously explain incremental, radical, modular, and architectural innovation in evolving IT apps. We test these ideas using novel econometric analyses of a bespoke trace dataset constructed by analyzing the source code from over 1,300 open-source IT apps, spanning about 5,000 million lines of code, 7 million modules, 10 million changes, and over 280,000 person-years of work spanning 20 years. Our findings substantively contribute to research on IT evolution and IT architecture. Our novel contribution to research on IT architecture is how fit between the coevolving architectures of IT apps and IT project teams compensate for emergent, residual imperfections in app architecture, reinforcing the evolutionary payoffs from choices about each other. Our novel contributions to research on IT evolution are developing the two cardinal mechanisms that explain how IT apps evolve and tracing them back to app architecture, team architecture, and their interplay."
+            },                           
             {
                 "id": "",
                 "title": "Developers’ Multi-Project Involvement and Continued Contribution to Open-Source Software Projects",
@@ -508,7 +508,7 @@
                     "John Hulland",
                     "Elena Karahanna"
                 ],
-                "year": "major revision - 3rd round",
+                "year": "major revision - 4th round",
                 "accepted": "",
                 "venue": "Journal of Strategic Information Systems",
                 "url": "",
@@ -549,25 +549,13 @@
                     "Hani Safadi",
                     "Colleen Young"
                 ],
-                "year": "major revision - 2nd round",
+                "year": "major revision - 3rd round",
                 "accepted": "",
                 "venue": "Journal of the American Medical Informatics Association",
                 "url": "",
                 "abstract": ""
             },
-            {
-                "id": "",
-                "title": "Dynamics of Mirroring in Open-Source Software Projects",
-                "authors": [
-                    "Hani Safadi",
-                    "Amrit Tiwana"
-                ],
-                "year": "major revision - 2nd round",
-                "accepted": "",
-                "venue": "Journal of the Association for Information Systems",
-                "url": "",
-                "abstract": "We study how fit between the unfolding architecture of IT applications (“apps”) and IT maintenance teams (“app<-->team fit”) over apps’ post-implementation lifespan drives the evolution of IT apps. Attempts to tweak an IT app often unveil lurking design imperfections, which new generations of technologies exacerbate. Such appteam misfits can derail IT apps’ evolvability. We develop a middle-range theory of how fit between the evolving architecture of IT apps and the architecture of IT maintenance teams induces two nuanced, cardinal mechanisms through which IT apps evolve. These mechanisms—evolution of only an app’s modules and evolution of only links among its modules—parsimoniously explain incremental, radical, modular, and architectural innovation in evolving IT apps. We test these ideas using novel econometric analyses of a bespoke trace dataset constructed by analyzing the source code from over 1,300 open-source IT apps, spanning about 5,000 million lines of code, 7 million modules, 10 million changes, and over 280,000 person-years of work spanning 20 years. Our findings substantively contribute to research on IT evolution and IT architecture. Our novel contribution to research on IT architecture is how fit between the coevolving architectures of IT apps and IT project teams compensate for emergent, residual imperfections in app architecture, reinforcing the evolutionary payoffs from choices about each other. Our novel contributions to research on IT evolution are developing the two cardinal mechanisms that explain how IT apps evolve and tracing them back to app architecture, team architecture, and their interplay."
-            },                    
+                   
             {
                 "id": "",
                 "title": "Open Paths of Inquiry: Computational Theory Construction in Information Systems Research",
@@ -583,7 +571,7 @@
                     "Hani Safadi",
                     "Emmanuelle Vaast"
                 ],
-                "year": "under review - 1st round",
+                "year": "major revision - 2nd round",
                 "accepted": "",
                 "venue": "MIS Quarterly",
                 "url": "",
@@ -596,7 +584,7 @@
                     "Hani Safadi",
                     "Amrit Tiwana"
                 ],
-                "year": "under review - 1st round",
+                "year": "major revision - 2nd round",
                 "accepted": "",
                 "venue": "Strategic Organization",
                 "url": "",
@@ -609,23 +597,11 @@
                     "Hani Safadi",
                     "Hossein Arjmandi"
                 ],
-                "year": "under review - 1st round",
+                "year": "major revision - 2nd round",
                 "accepted": "",
                 "venue": "MIS Quarterly",
                 "url": "",
                 "abstract": "We theorize and test how two technology evolution mechanisms, recombination and structural deepening, shape technology market commercialization, an important and often overlooked outcome of innovation adoption. Using a large data set of US IT patents filed from 2010 to 2019 and patent assignment records to operationalize commercialization, we derive scalable measures of evolution mechanisms from patent text and estimate models of patent lifetime reassignments. Both mechanisms are positively associated with commercialization, but their interaction is negative, indicating substitution when pursued simultaneously. Examining the innovation modes resulting from these mechanisms reveals that architectural innovation outperforms modular innovation, which is on par with radical innovation in driving market commercialization. The findings contribute to a mechanism-level understanding of how IT innovation decisions lead to market outcomes, filling an important gap in IT innovation and adoption."
-            },
-            {
-                "id": "",
-                "title": "Epistemic Resilience: A New Frontier for Information Systems",
-                "authors": [
-                    "Hani Safadi"
-                ],
-                "year": "under review - 1st round",
-                "accepted": "",
-                "venue": "European Journal of Information Systems",
-                "url": "",
-                "abstract": "This paper introduces the concept of epistemic resilience as a necessary attribute for information systems to address the prevalence of misinformation on social media and internet platforms. It describes epistemic resilience's critical role in reducing manipulation and misinformation by examining the philosophical, psychological, and sociological underpinnings of belief formation and information sharing. Drawing on Churchman’s systems of inquiry, the paper proposes design principles for redesigning modern information systems for epistemic resilience."
             },
             {
                 "id": "",
@@ -649,12 +625,37 @@
                 ],
                 "year": "under review - 1st round",
                 "accepted": "",
-                "venue": "Sloan Management Review",
+                "venue": "Business Horizons",
                 "url": "",
                 "abstract": "Companies can create a competitive advantage by combining high-quality human capital with sophisticated organizational capital. Four organizational types are based on these combinations: creative complexity, breakthrough science, applied science, and operational complexity. Five significant elements of knowledge capital creation capabilities are: know thy capital creation system, knowledgeable leadership, knowledge engineering, systems thinking, and continuous investment in systems of inquiry. This article provides guidance on leveraging the five elements to build knowledge capital for a target archetype."
             }                                   
         ],
-        "--working papers": [          
+        "--working papers": [ 
+            {
+                "id": "",
+                "title": "Epistemic Resilience: A New Frontier for Information Systems",
+                "authors": [
+                    "Hani Safadi"
+                ],
+                "year": "under review - 1st round",
+                "accepted": "",
+                "venue": "European Journal of Information Systems",
+                "url": "",
+                "abstract": "This paper introduces the concept of epistemic resilience as a necessary attribute for information systems to address the prevalence of misinformation on social media and internet platforms. It describes epistemic resilience's critical role in reducing manipulation and misinformation by examining the philosophical, psychological, and sociological underpinnings of belief formation and information sharing. Drawing on Churchman’s systems of inquiry, the paper proposes design principles for redesigning modern information systems for epistemic resilience."
+            },
+            {
+                "id": "",
+                "title": "Separating Novelty from Noise: A Sociotechnical Perspective on Managing Peripheral Contributions in Online Communities",
+                "authors": [
+                    "P Kumar Sachin",
+                    "Hani Safadi"
+                ],
+                "year": "major revision - 3rd round",
+                "accepted": "",
+                "venue": "Information Systems Research",
+                "url": "",
+                "abstract": ""
+            },         
             {
                 "id": "",
                 "title": "Exploration-Exploitation and Knowledge Creation in Online Communities",
