@@ -199,8 +199,8 @@ def main():
     output_lines = []
     for line in lines:
         output_lines.append(line)
-        # if line.startswith("<?xml "):
-        #     output_lines.append(f'<?xml-stylesheet type="text/xsl" href="{XSL_FILE}"?>')
+        if line.startswith("<?xml "):
+            output_lines.append(f'<?xml-stylesheet type="text/xsl" href="{XSL_FILE}"?>')
 
     with open(OUTPUT_FILE, "w", encoding="utf-8") as f:
         f.write("\n".join(output_lines) + "\n")

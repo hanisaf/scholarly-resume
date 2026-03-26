@@ -1,4 +1,5 @@
 <?xml version="1.0" ?>
+<?xml-stylesheet type="text/xsl" href="resume.xsl"?>
 <resume>
   <about>
     <name>Hani Safadi</name>
@@ -513,13 +514,13 @@
       </paper>
     </section>
     <section name="papers under review" hidden="true">
-      <paper title="Separating Novelty from Noise: A Sociotechnical Perspective on Managing Peripheral Contributions in Online Communities" year="major revision - 3rd round" accepted="" venue="Information Systems Research">
+      <paper title="Dynamics of Mirroring in Open-Source Software Projects" year="minor revision" accepted="" venue="Journal of the Association for Information Systems" abstract="We study how fit between the unfolding architecture of IT applications (“apps”) and IT maintenance teams (“app&lt;--&gt;team fit”) over apps’ post-implementation lifespan drives the evolution of IT apps. Attempts to tweak an IT app often unveil lurking design imperfections, which new generations of technologies exacerbate. Such appteam misfits can derail IT apps’ evolvability. We develop a middle-range theory of how fit between the evolving architecture of IT apps and the architecture of IT maintenance teams induces two nuanced, cardinal mechanisms through which IT apps evolve. These mechanisms—evolution of only an app’s modules and evolution of only links among its modules—parsimoniously explain incremental, radical, modular, and architectural innovation in evolving IT apps. We test these ideas using novel econometric analyses of a bespoke trace dataset constructed by analyzing the source code from over 1,300 open-source IT apps, spanning about 5,000 million lines of code, 7 million modules, 10 million changes, and over 280,000 person-years of work spanning 20 years. Our findings substantively contribute to research on IT evolution and IT architecture. Our novel contribution to research on IT architecture is how fit between the coevolving architectures of IT apps and IT project teams compensate for emergent, residual imperfections in app architecture, reinforcing the evolutionary payoffs from choices about each other. Our novel contributions to research on IT evolution are developing the two cardinal mechanisms that explain how IT apps evolve and tracing them back to app architecture, team architecture, and their interplay.">
         <authors>
-          <author>P Kumar Sachin</author>
           <author>Hani Safadi</author>
+          <author>Amrit Tiwana</author>
         </authors>
       </paper>
-      <paper title="Developers’ Multi-Project Involvement and Continued Contribution to Open-Source Software Projects" year="major revision - 3rd round" accepted="" venue="Journal of Strategic Information Systems">
+      <paper title="Developers’ Multi-Project Involvement and Continued Contribution to Open-Source Software Projects" year="major revision - 4th round" accepted="" venue="Journal of Strategic Information Systems">
         <authors>
           <author>Pratyush Sharma</author>
           <author>Hani Safadi</author>
@@ -540,20 +541,14 @@
           <author>Hani Safadi</author>
         </authors>
       </paper>
-      <paper title="Member Leaders in Online Patient Communities: A Recipe for Resilience" year="major revision - 2nd round" accepted="" venue="Journal of the American Medical Informatics Association">
+      <paper title="Member Leaders in Online Patient Communities: A Recipe for Resilience" year="major revision - 3rd round" accepted="" venue="Journal of the American Medical Informatics Association">
         <authors>
           <author>Tanner Skousen</author>
           <author>Hani Safadi</author>
           <author>Colleen Young</author>
         </authors>
       </paper>
-      <paper title="Dynamics of Mirroring in Open-Source Software Projects" year="major revision - 2nd round" accepted="" venue="Journal of the Association for Information Systems" abstract="We study how fit between the unfolding architecture of IT applications (“apps”) and IT maintenance teams (“app&lt;--&gt;team fit”) over apps’ post-implementation lifespan drives the evolution of IT apps. Attempts to tweak an IT app often unveil lurking design imperfections, which new generations of technologies exacerbate. Such appteam misfits can derail IT apps’ evolvability. We develop a middle-range theory of how fit between the evolving architecture of IT apps and the architecture of IT maintenance teams induces two nuanced, cardinal mechanisms through which IT apps evolve. These mechanisms—evolution of only an app’s modules and evolution of only links among its modules—parsimoniously explain incremental, radical, modular, and architectural innovation in evolving IT apps. We test these ideas using novel econometric analyses of a bespoke trace dataset constructed by analyzing the source code from over 1,300 open-source IT apps, spanning about 5,000 million lines of code, 7 million modules, 10 million changes, and over 280,000 person-years of work spanning 20 years. Our findings substantively contribute to research on IT evolution and IT architecture. Our novel contribution to research on IT architecture is how fit between the coevolving architectures of IT apps and IT project teams compensate for emergent, residual imperfections in app architecture, reinforcing the evolutionary payoffs from choices about each other. Our novel contributions to research on IT evolution are developing the two cardinal mechanisms that explain how IT apps evolve and tracing them back to app architecture, team architecture, and their interplay.">
-        <authors>
-          <author>Hani Safadi</author>
-          <author>Amrit Tiwana</author>
-        </authors>
-      </paper>
-      <paper title="Open Paths of Inquiry: Computational Theory Construction in Information Systems Research" year="under review - 1st round" accepted="" venue="MIS Quarterly">
+      <paper title="Open Paths of Inquiry: Computational Theory Construction in Information Systems Research" year="major revision - 2nd round" accepted="" venue="MIS Quarterly">
         <authors>
           <author>Brian Pentland</author>
           <author>Shaila Miranda</author>
@@ -567,21 +562,16 @@
           <author>Emmanuelle Vaast</author>
         </authors>
       </paper>
-      <paper title="Dynamics of Attention Allocation in Knowledge-Intensive Teams" year="under review - 1st round" accepted="" venue="Strategic Organization" abstract="We explore the unbroached dynamics of attention allocation in teams engaged in complex knowledge work. We introduce the notions of attention fixation and attention switching, concepts present only implicitly in prior studies, and theorize how their interplay drives team productivity. Attention fixation refers to an intratemporal focus on a single issue, while attention switching refers to the intertemporal shifting of attention between issues. Using multi-decade trace data from 1,356 teams developing open-source software projects, we find that both attention fixation and switching independently enhance team productivity but are mutual substitutes. We then address the paradox of how teams benefit from both strategies even though they’re substitutive. We abductively employ sequence mining and identify two longer-term, dynamic attention allocation strategies: (1) sequential attention allocation, characterized by high fixation and low switching, and (2) vacillating attention allocation, characterized by low fixation and high switching. Our unique contribution is bringing dynamics into the theoretical conversation on attention allocation in knowledge work.">
+      <paper title="Dynamics of Attention Allocation in Knowledge-Intensive Teams" year="major revision - 2nd round" accepted="" venue="Strategic Organization" abstract="We explore the unbroached dynamics of attention allocation in teams engaged in complex knowledge work. We introduce the notions of attention fixation and attention switching, concepts present only implicitly in prior studies, and theorize how their interplay drives team productivity. Attention fixation refers to an intratemporal focus on a single issue, while attention switching refers to the intertemporal shifting of attention between issues. Using multi-decade trace data from 1,356 teams developing open-source software projects, we find that both attention fixation and switching independently enhance team productivity but are mutual substitutes. We then address the paradox of how teams benefit from both strategies even though they’re substitutive. We abductively employ sequence mining and identify two longer-term, dynamic attention allocation strategies: (1) sequential attention allocation, characterized by high fixation and low switching, and (2) vacillating attention allocation, characterized by low fixation and high switching. Our unique contribution is bringing dynamics into the theoretical conversation on attention allocation in knowledge work.">
         <authors>
           <author>Hani Safadi</author>
           <author>Amrit Tiwana</author>
         </authors>
       </paper>
-      <paper title="The Evolutionary Pathways of Technology Market Commercialization" year="under review - 1st round" accepted="" venue="MIS Quarterly" abstract="We theorize and test how two technology evolution mechanisms, recombination and structural deepening, shape technology market commercialization, an important and often overlooked outcome of innovation adoption. Using a large data set of US IT patents filed from 2010 to 2019 and patent assignment records to operationalize commercialization, we derive scalable measures of evolution mechanisms from patent text and estimate models of patent lifetime reassignments. Both mechanisms are positively associated with commercialization, but their interaction is negative, indicating substitution when pursued simultaneously. Examining the innovation modes resulting from these mechanisms reveals that architectural innovation outperforms modular innovation, which is on par with radical innovation in driving market commercialization. The findings contribute to a mechanism-level understanding of how IT innovation decisions lead to market outcomes, filling an important gap in IT innovation and adoption.">
+      <paper title="The Evolutionary Pathways of Technology Market Commercialization" year="major revision - 2nd round" accepted="" venue="MIS Quarterly" abstract="We theorize and test how two technology evolution mechanisms, recombination and structural deepening, shape technology market commercialization, an important and often overlooked outcome of innovation adoption. Using a large data set of US IT patents filed from 2010 to 2019 and patent assignment records to operationalize commercialization, we derive scalable measures of evolution mechanisms from patent text and estimate models of patent lifetime reassignments. Both mechanisms are positively associated with commercialization, but their interaction is negative, indicating substitution when pursued simultaneously. Examining the innovation modes resulting from these mechanisms reveals that architectural innovation outperforms modular innovation, which is on par with radical innovation in driving market commercialization. The findings contribute to a mechanism-level understanding of how IT innovation decisions lead to market outcomes, filling an important gap in IT innovation and adoption.">
         <authors>
           <author>Hani Safadi</author>
           <author>Hossein Arjmandi</author>
-        </authors>
-      </paper>
-      <paper title="Epistemic Resilience: A New Frontier for Information Systems" year="under review - 1st round" accepted="" venue="European Journal of Information Systems" abstract="This paper introduces the concept of epistemic resilience as a necessary attribute for information systems to address the prevalence of misinformation on social media and internet platforms. It describes epistemic resilience's critical role in reducing manipulation and misinformation by examining the philosophical, psychological, and sociological underpinnings of belief formation and information sharing. Drawing on Churchman’s systems of inquiry, the paper proposes design principles for redesigning modern information systems for epistemic resilience.">
-        <authors>
-          <author>Hani Safadi</author>
         </authors>
       </paper>
       <paper title="Generative AI and Qualitative Meta-Studies: The Challenge of the Double Hermeneutic in Theory Construction" year="under review - 1st round" accepted="" venue="Journal of Management Inquiry" abstract="Qualitative meta-studies offer a powerful means for generating new theory by synthesizing rich case evidence from multiple studies. The emergence of Generative AI (GenAI) promises to accelerate this labor-intensive process, yet its application remains fraught with epistemological risks. Drawing on Giddens’ concept of the double hermeneutic, we suggest that generative tools can struggle to perform a valid rational reconstruction of qualitative data. Two main issues arise: anchoring, in which the model adopts original study framings without analyzing the evidence, and occlusion, which leads to poor synthesis across cases. Our illustrative analysis of ten digital transformation case studies using a source grounded generative tool shows that standard prompting fails to mitigate these biases. We suggest a workflow for meta-studies with generative AI tools that includes prompt engineering, manual data preprocessing, and dialogic interaction with generative AI as a reflexive thinking partner.">
@@ -590,7 +580,7 @@
           <author>Hani Safadi</author>
         </authors>
       </paper>
-      <paper title="Generating Knowledge Capital" year="under review - 1st round" accepted="" venue="Sloan Management Review" abstract="Companies can create a competitive advantage by combining high-quality human capital with sophisticated organizational capital. Four organizational types are based on these combinations: creative complexity, breakthrough science, applied science, and operational complexity. Five significant elements of knowledge capital creation capabilities are: know thy capital creation system, knowledgeable leadership, knowledge engineering, systems thinking, and continuous investment in systems of inquiry. This article provides guidance on leveraging the five elements to build knowledge capital for a target archetype.">
+      <paper title="Generating Knowledge Capital" year="under review - 1st round" accepted="" venue="Business Horizons" abstract="Companies can create a competitive advantage by combining high-quality human capital with sophisticated organizational capital. Four organizational types are based on these combinations: creative complexity, breakthrough science, applied science, and operational complexity. Five significant elements of knowledge capital creation capabilities are: know thy capital creation system, knowledgeable leadership, knowledge engineering, systems thinking, and continuous investment in systems of inquiry. This article provides guidance on leveraging the five elements to build knowledge capital for a target archetype.">
         <authors>
           <author>Richard Watson</author>
           <author>Hani Safadi</author>
@@ -598,6 +588,17 @@
       </paper>
     </section>
     <section name="working papers">
+      <paper title="Epistemic Resilience: A New Frontier for Information Systems" year="under review - 1st round" accepted="" venue="European Journal of Information Systems" abstract="This paper introduces the concept of epistemic resilience as a necessary attribute for information systems to address the prevalence of misinformation on social media and internet platforms. It describes epistemic resilience's critical role in reducing manipulation and misinformation by examining the philosophical, psychological, and sociological underpinnings of belief formation and information sharing. Drawing on Churchman’s systems of inquiry, the paper proposes design principles for redesigning modern information systems for epistemic resilience.">
+        <authors>
+          <author>Hani Safadi</author>
+        </authors>
+      </paper>
+      <paper title="Separating Novelty from Noise: A Sociotechnical Perspective on Managing Peripheral Contributions in Online Communities" year="major revision - 3rd round" accepted="" venue="Information Systems Research">
+        <authors>
+          <author>P Kumar Sachin</author>
+          <author>Hani Safadi</author>
+        </authors>
+      </paper>
       <paper title="Exploration-Exploitation and Knowledge Creation in Online Communities" year="working paper" accepted="" venue="TBD">
         <authors>
           <author>Hani Safadi</author>
