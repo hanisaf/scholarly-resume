@@ -17,6 +17,7 @@ from pathlib import Path
 SCRIPT_DIR = Path(__file__).parent
 DATA_FILE = SCRIPT_DIR / "src/assets/data.json"
 OUTPUT_FILE = SCRIPT_DIR / "src/assets/resume.html"
+INDEX_FILE = SCRIPT_DIR / "src/index.html"
 
 
 # --- Pipe equivalents ---
@@ -342,6 +343,25 @@ def main():
         f.write(html)
 
     print(f"Generated: {OUTPUT_FILE}")
+
+    # Inject body content into index.html between SEO placeholders
+    index_text = INDEX_FILE.read_text(encoding="utf-8")
+    start_marker = "<!-- paste here rendered content for SEO-->"
+    end_marker = "<!-- end of paste -->"
+    start_idx = index_text.find(start_marker)
+    end_idx = index_text.find(end_marker)
+    if start_idx == -1 or end_idx == -1:
+        print("Warning: SEO placeholder not found in index.html; skipping injection.")
+    else:
+        new_index = (
+            index_text[: start_idx + len(start_marker)]
+            + "\n"
+            + body
+            + "\n"
+            + index_text[end_idx:]
+        )
+        INDEX_FILE.write_text(new_index, encoding="utf-8")
+        print(f"Injected body content into: {INDEX_FILE}")
 
 
 if __name__ == "__main__":

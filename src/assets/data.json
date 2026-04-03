@@ -947,7 +947,8 @@
                 "year": "2024",
                 "accepted": "",
                 "venue": "European Conference on Information Systems",
-                "url": "",
+                "url": "https://github.com/hanisaf/preprint/blob/main/conferences/Digital_Symbiosis_ECIS_2024.pdf",
+                "url2": "",
                 "abstract": "The ecosystem is a key adaptive structure that joins hierarchies and markets as the third pillar of modern business theory. While competition has been at the center of economic thinking, cooperation has recently gained greater attention. Borrowing from biology, we conceive an ecosystem as symbiotic relationships among participants that span cooperation to competition. We then use the vocabulary of symbiosis to analyze the relationships observed in ecosystems facilitated by digital technology. We show how biological symbiosis can help us interpret a world of digitally enabled ecosystems, a phenomenon we refer to as digital symbiosis. We further show how this novel theoretical understanding can inform policymaking for mitigating ecosystems’ adverse societal impacts."
             },
             {
@@ -958,7 +959,8 @@
                 ],
                 "venue": "International Conference on Information Systems",
                 "year": 2022,
-                "url": "https://aisel.aisnet.org/cgi/viewcontent.cgi?article=1077&context=treos_icis2022",
+                "url": "https://github.com/hanisaf/preprint/blob/main/conferences/Making_Google_Stupid_ICIS_2022.pdf",
+                "url2": "https://aisel.aisnet.org/cgi/viewcontent.cgi?article=1077&context=treos_icis2022",
                 "abstract": ""
             },                
             {
@@ -971,7 +973,8 @@
                 ],
                 "venue": "International Conference on Information Systems",
                 "year": 2021,
-                "url": "https://aisel.aisnet.org/icis2021/ai_business/ai_business/1/",
+                "url": "https://github.com/hanisaf/preprint/blob/main/conferences/Bots_Human_Interaction_ICIS_2021.pdf",
+                "url2": "https://aisel.aisnet.org/icis2021/ai_business/ai_business/1/",
                 "abstract": "Bots are widespread in a variety of online platforms including online communities. Bots perform various useful tasks but little is known about how bots may alter the nature of human interaction, in particular how they interact and exchange information. We draw on social exchange theory and symbolic interactionism to highlight the social aspect of human cognition and action and theorize how bots affect the online social environment and subsequently change how people interact with each other. We examine the effects of two fundamental forms of bots: reflexive and supervisory, and their differential impact on social exchange. With data from discussion communities on Reddit, we show that reflexive bots increase unidirectional exchange, whereas supervisory bots reduce centralization. Further, reflexive bots increase the depth of discourse, whereas supervisory bots reduce the breadth of discourse. We discuss the implications of these findings on theorizing about bots and the design of online communities."
             },            
             {
@@ -982,7 +985,8 @@
                 ],
                 "venue": "Americas Conference on Information Systems",
                 "year": 2021,
-                "url": "https://aisel.aisnet.org/treos_amcis2021/6/",
+                "url": "https://github.com/hanisaf/preprint/blob/main/conferences/Learning_Online_Environments_AMCIS_2021.pdf",
+                "url2": "https://aisel.aisnet.org/treos_amcis2021/6/",
                 "abstract": "Learning environments, such as classrooms, can be designed to combine elements of cooperation and competition. Assessing these novel settings is not easy as it requires prolonged observational or experimental data. Today, many online environments are virtual providing transparent settings for assessing the effectiveness of learning strategies. We benefit from Dota 2, an online video game in which players join competing teams fighting in battles. Leveraging data about 3.5 million matches, we operationalize learning using objective data and perform conceptual clustering to uncover the best strategies for learning with cooperation, competition, or both elements. This work contributes to a better understanding of learning and informs the design of virtual learning environments."
             },            
             {
@@ -995,7 +999,8 @@
                 ],
                 "venue": "International Conference on Information Systems",
                 "year": 2020,
-                "url": "https://aisel.aisnet.org/icis2020/digital_innovation/digital_innovation/1/",
+                "url": "https://github.com/hanisaf/preprint/blob/main/conferences/Open_Communities_Formal_Orgs_ICIS_2020.pdf",  
+                "url2": "https://aisel.aisnet.org/icis2020/digital_innovation/digital_innovation/1/",
                 "abstract": "How can formal organizations and open communities engage in mutually beneficial relationships? We develop a framework that explains how an open community’s engagement with a formal organization can be mutually beneficial to both in the long-term. We theorize how a symbiotic relationship between open communities and formal organizations can be forged by nurturing various forms of capital flow between them as well as creating virtuous feedback loops within and across each other’s capital creation systems. The framework has implications for understanding innovation in ecosystems and networked economies."
             },
             {
@@ -1008,7 +1013,8 @@
                 ],
                 "venue": "Americas Conference on Information Systems",
                 "year": 2020,
-                "url": "https://aisel.aisnet.org/amcis2020/virtual_communities/virtual_communities/3/",
+                "url": "https://github.com/hanisaf/preprint/blob/main/conferences/Orgs_Communities_Symbiosis_AMCIS_2020.pdf",
+                "url2": "https://aisel.aisnet.org/amcis2020/virtual_communities/virtual_communities/3/",
                 "abstract": "How can organizations and communities engage in mutually beneficial relationships? We develop a framework that explains how an open community’s engagement with an organization can be mutually beneficial to both in the long-term. We theorize how a symbiotic relationship between organizations and communities can be achieved by nurturing various forms of capital flow between organizations and communities as well as creating virtuous feedback loops within each other’s capital creation systems."
             },
             {
@@ -1020,7 +1026,8 @@
                 ],
                 "venue": "Academy of Management Proceedings",
                 "year": 2020,
-                "url": "https://journals.aom.org/doi/abs/10.5465/AMBPP.2020.12051abstract",
+                "url": "https://github.com/hanisaf/preprint/blob/main/conferences/Genesis_Online_Community_AOM_2020.pdf",
+                "url2": "https://journals.aom.org/doi/abs/10.5465/AMBPP.2020.12051abstract",
                 "abstract": "Open online communities have become widespread forms of organizing in which multiple participants share knowledge, and communicate on the basis of specific commonalities. Yet, we still know little about their genesis. Given the importance of these new forms of organizing, it is crucial to understand their formation. How do they come to be? This study examines how multiple, heterogeneous participants converge around what they shape as shared interests. It engages in computationally-intensive theory development by examining the emergence of the data science open online community on the social media platform Twitter. It builds theory on the genesis of an open online community as a process of spinning and twisting of discourses that coalesce the interests of the members. This study contributes to scholarship on online communities by theorizing the process by which they come to exist as well as the literature on organizational dialog by elaborating on how dialog leads to self-organization in open communities."
             },
             {
@@ -1035,7 +1042,8 @@
                 ],
                 "venue": "International Conference on Information Systems",
                 "year": 2019,
-                "url": "https://aisel.aisnet.org/icis2019/is_health/is_health/27/",
+                "url": "https://github.com/hanisaf/preprint/blob/main/conferences/Tension_Resolution_Knowledge_Flows_ICIS_2019.pdf",
+                "url2": "https://aisel.aisnet.org/icis2019/is_health/is_health/27/",
                 "abstract": "Online communities bring together members of common interest and are recognized as generators of significant knowledge. In healthcare, online communities are a medium for patients to share their stories, gain peer support, and learn more about medical conditions. To succeed, these communities need to sustain their knowledge flows and resolve arising tensions. The current literature suggests that participation dynamics and emergent organizational structure are sufficient to resolve tensions in online communities. Based on increased evidence of the need of formal management to sustain online communities, we propose that emergent structure and roles may not always be sufficient when tensions are prevalent and stakes are high such as in online patient communities. We conduct an inductive field study of Mayo Clinic Connect, a leading online patient community. The findings suggest that formal management and emergent leadership play a complementary role to resolve tensions and sustain knowledge flows. We theorize a virtuous cycle of moderation and socialization that effectively integrates the effort of the community formal management and emergent leaders."
             },
             {
@@ -1048,7 +1056,8 @@
                 ],
                 "venue": "Americas Conference on Information Systems",
                 "year": 2019,
-                "url": "https://aisel.aisnet.org/amcis2019/enterprise_systems/enterprise_systems/6",
+                "url": "https://github.com/hanisaf/preprint/blob/main/conferences/Remixing_Generic_Defaults_AMCIS_2019.pdf",
+                "url2": "https://aisel.aisnet.org/amcis2019/enterprise_systems/enterprise_systems/6",
                 "abstract": "Extant literature emphasizes the fit between tasks and technology features to impact performance. Specialized information systems such as Enterprise Collaboration Systems (ECSs) are designed to align with the tasks of collaboration, coordination, and communication in organizations. Despite this fit, users often continue to use generic default technologies (i.e., general purpose software such as an Excel spreadsheet) to perform the tasks that are supported by the specialized systems. We investigate this phenomenon using a multiple case study approach. We present our initial findings and elaborate on the emerging theme of remixing of generic defaults with specialized software as a new perspective in exploring this phenomenon."
             },
             {
@@ -1060,7 +1069,8 @@
                 ],
                 "venue": "Hawaii International Conference on System Sciences",
                 "year": 2019,
-                "url": "https://scholarspace.manoa.hawaii.edu/bitstream/10125/59995/1/0555.pdf",
+                "url": "https://github.com/hanisaf/preprint/blob/main/conferences/LPP_Value_Creation_HICSS_2019.pdf",
+                "url2": "https://scholarspace.manoa.hawaii.edu/bitstream/10125/59995/1/0555.pdf",
                 "abstract": "Online knowledge sharing communities require contributions and active participation to thrive, yet all participation is not equal. Community members well-socialized in the community are more likely to make stronger contributions. In this paper, we theorize about how legitimate peripheral participation of new online knowledge sharing community members can drive different types of contributions and potentially generate value for the community. We conduct an agent-based simulation analysis of different configurations of legitimate peripheral participation to explore our theoretical arguments. We find, in general, that increased requirements for legitimate peripheral participation of new members drive quality contributions and generates value for the community. However, we also find that there is an inflection point where too many such demands may stifle contributions and impede value creation in these communities."
             },
             {
@@ -1073,7 +1083,8 @@
                 ],
                 "venue": "Academy of Management Proceedings",
                 "year": 2018,
-                "url": "https://journals.aom.org/doi/10.5465/AMBPP.2018.35",
+                "url": "https://github.com/hanisaf/preprint/blob/main/conferences/Embeddedness_Marginality_AOM_2018.pdf",
+                "url2": "https://journals.aom.org/doi/10.5465/AMBPP.2018.35",
                 "abstract": "This paper applies a multiple embeddedness perspective to better understand individual knowledge contribution in online communities. The community of practice and open innovation perspectives suggest different answers to the question: who is most likely to contribute knowledge in online communities? Viewed from a community of practice perspective, the most deeply embedded members of an online community are most likely to contribute knowledge. Conversely, from an open innovation perspective, solutions to local problems are more likely to be provided by peripheral participants from the marginsñcontributors who are not embeddeded in the community. By extending the conceptualization of embeddedness to encompass not only social embeddedness, but also epistemic embeddedness, we resolve these conflicting predictions. Neither the community of practice nor the open innovation perspective individually explains knowledge contribution in online communities. Instead, using data regarding 88,472 participants at 51 Stack Exchange problem-solving online communities, we find that individuals who are socially embedded and epistemically marginal are more likely to make valuable knowledge contributions. We develop a novel approach to measuring epistemic embeddedness, using topic models, and also demonstrate that social embeddedness and epistemic marginality exhibit a considerable complementary interaction."
             },
             {
@@ -1086,7 +1097,8 @@
                 ],
                 "venue": "Hawaii International Conference on System Sciences",
                 "year": 2018,
-                "url": "https://www.researchgate.net/publication/323379738_The_Role_of_Anchoring_in_Actualizing_IT_Affordances_in_EMR_Implementations",
+                "url": "https://github.com/hanisaf/preprint/blob/main/conferences/Anchoring_EMR_Affordances_HICSS_2018.pdf",
+                "url2": "https://www.researchgate.net/publication/323379738_The_Role_of_Anchoring_in_Actualizing_IT_Affordances_in_EMR_Implementations",
                 "abstract": "Affordances are useful theoretical tools to study IT mediated organizational change. Affordance actualization process provides a temporal structure to build a model that lays out a non-deterministic sequence to understand the changes that happen in organizations on the introduction of new IS. Affordances and affordance actualization have been studied in many contexts with the focus on material agency of the new IS or human agency of the user groups. Using the case of an EMR implementation in a family and urgent care clinic in Canada observed over 5 years, we discovered that anchoring on legacy systems in place before the EMR implementation has a significant influence in the actualization of affordances of the new IS. We present an affordance actualization process model including the anchoring influence observed, to provide a richer explanation of affordance actualization in EMR implementations."
             },
             {
@@ -1098,8 +1110,9 @@
                 ],
                 "venue": "Academy of Management Proceedings",
                 "year": 2017,
-                "url": "https://journals.aom.org/doi/abs/10.5465/ambpp.2017.11597abstract",
-                "abstract": "Todayís world is characterized with an ever-increasing influx of data generated at an unparalleled scale. Big data provide unprecedented opportunities for social scientists to apply computational techniques to understand patterns of individual and group behavior that used to be beyond the reach of scientific method. At the same time, big data pose challenges for exploration and inductive understanding of social phenomena. This is in particular more prevalent when questions are not well defined and data is unstructured, making it less amenable to quantification and computation. In this conceptual paper, we review some of the key challenges that big data raise for qualitative researchers trained in the grounded theory methods (GTM) tradition, and then outline guiding principles for designing a system to respond to these challenges. Paying attention to the particularities of qualitative data analysis, we suggest several design patterns suiting the tasks involved and matching them to challenges of applying GTM to big data sets. We are in the process of developing a system which, as an initial prototype, incorporates these design patterns and addresses the aforementioned key challenges."
+                "url": "https://github.com/hanisaf/preprint/blob/main/conferences/Interactive_Visual_System_AOM_2017.pdf",
+                "url2": "https://journals.aom.org/doi/abs/10.5465/ambpp.2017.11597abstract",
+                "abstract": "Today's world is characterized with an ever-increasing influx of data generated at an unparalleled scale. Big data provide unprecedented opportunities for social scientists to apply computational techniques to understand patterns of individual and group behavior that used to be beyond the reach of scientific method. At the same time, big data pose challenges for exploration and inductive understanding of social phenomena. This is in particular more prevalent when questions are not well defined and data is unstructured, making it less amenable to quantification and computation. In this conceptual paper, we review some of the key challenges that big data raise for qualitative researchers trained in the grounded theory methods (GTM) tradition, and then outline guiding principles for designing a system to respond to these challenges. Paying attention to the particularities of qualitative data analysis, we suggest several design patterns suiting the tasks involved and matching them to challenges of applying GTM to big data sets. We are in the process of developing a system which, as an initial prototype, incorporates these design patterns and addresses the aforementioned key challenges."
             },
             {
                 "id": "10.5465/ambpp.2017.11597abstract",
@@ -1110,7 +1123,8 @@
                 ],
                 "venue": "Academy of Management Proceedings",
                 "year": 2014,
-                "url": "https://journals.aom.org/doi/abs/10.5465/ambpp.2014.12549abstract",
+                "url": "https://github.com/hanisaf/preprint/blob/main/conferences/Power_of_Words_AOM_2014.pdf",
+                "url2": "https://journals.aom.org/doi/abs/10.5465/ambpp.2014.12549abstract",
                 "abstract": "This paper proposes a new mechanism that explains how new members in online communities establish ties with existing members. Contrary to mainstream tie formation mechanisms (e.g. preferential attachment and small world clustering) that rely solely on structural properties to predict new relationships, we propose that members interests represented by the content of messages exchanged among members are a key factor in forming future relationships. Using statistical language modeling, we show that a new member chooses to link to other existing members based on shared interests implied by their previous communication. We validate the model using longitudinal data from an open-source online community in the context of healthcare IT."
             },
             {
@@ -1122,7 +1136,8 @@
                 ],
                 "venue": "Collective Intelligence",
                 "year": 2014,
-                "url": "https://arxiv.org/ftp/arxiv/papers/1406/1406.2977.pdf",
+                "url": "https://github.com/hanisaf/preprint/blob/main/conferences/Local_Perspective_Online_Collaboration_CI_2014.pdf",
+                "url2": "https://arxiv.org/ftp/arxiv/papers/1406/1406.2977.pdf",
                 "abstract": "In this paper, we focus on how the position/embeddedness of members in an online community of innovation relates to their knowledge contribution to the community. We depart from previous research by bringing a different perspective to examine position within a network: we focus on the local position of members rather than the traditionally considered global position. This differentiation has significant theoretical and methodological implications. On the theoretical front, a local view of position implies a more confined and local organization of work in online communities than previously thought. From a methodological perspective, evaluating the local structure of large networks involves radically different algorithms that have only recently become feasible with the increase of processing power."
             },
             {
@@ -1136,7 +1151,8 @@
                 ],
                 "venue": "Academy of Management Proceedings",
                 "year": 2014,
-                "url": "https://journals.aom.org/doi/abs/10.5465/ambpp.2014.104",
+                "url": "https://github.com/hanisaf/preprint/blob/main/conferences/Grassroots_Framing_AOM_2014.pdf",
+                "url2": "https://journals.aom.org/doi/abs/10.5465/ambpp.2014.104",
                 "abstract": "Recent crises as well as the rise of social media have made it especially theoretically and topically important to understand how grassroots actors, i.e. actors who are not institutionally recognized and established, frame a crisis. This research contrasts and relates grassroots actorsí to established actorsí framing (e.g. media and social movement organizations). Building upon framing and social movement literatures as well as upon emerging works on social media affordances, we develop mixed-methods analyses of framing related to the Gulf of Mexico oil spill of 2010 and produced through the popular microblogging platform Twitter. Building upon empirical findings, this research conceptualizes why and how, with microblogging, grassroots actorsí framing of a crisis does not simply diffuse but rather builds upon, reacts to and opposes established actorsí framing. It adds to the literature by showing and conceptualizing how, through microblogging, grassroots actors do not only come together with others who share similar frames, but also provoke others who hold opposite frames. It finally reveals that grassroots framing through microblogging may contribute to exacerbate the crisis."
             },
             {
@@ -1150,7 +1166,8 @@
                 ],
                 "venue": "International Conference on Information Systems",
                 "year": 2012,
-                "url": "https://www.semanticscholar.org/paper/Stakeholders'-Use-of-Microblogging-to-Engage-in-a-Vaast-Lapointe/169337b6f7644c41bc93743aa85425fcefa4fad3",
+                "url": "https://github.com/hanisaf/preprint/blob/main/conferences/Emotion_Strategies_Microblogging_ICIS_2012.pdf",
+                "url2": "https://www.semanticscholar.org/paper/Stakeholders'-Use-of-Microblogging-to-Engage-in-a-Vaast-Lapointe/169337b6f7644c41bc93743aa85425fcefa4fad3",
                 "abstract": "The rise of microblogging has drastically transformed the ways in which people become aware of, talk about, experience, and respond to crises. Microblogging allows for multiple stakeholders to express and manage emotions that a crisis may trigger. This research examines how multiple stakeholders engage in emotion strategies through microblogging over the course of a crisis. Relying upon and extending emerging literatures on crisis management and the psycho-sociology of emotions, we propose the concept of emotion strategies to explore and elaborate upon the different uses of emotions and their crucial importance in a crisis context. We examine how microblogging features and affordances might enable and shape the emotion strategies of various stakeholders involved in a crisis. We outline the details of an ongoing investigation in the context of the 2010 Gulf of Mexico oil spill and provide illustrative insights. We conclude by highlighting future steps in this research and expected contributions"
             },
             {
@@ -1162,7 +1179,8 @@
                 ],
                 "venue": "Americas Conference Information System",
                 "year": 2011,
-                "url": "https://aisel.aisnet.org/amcis2011_submissions/21",
+                "url": "https://github.com/hanisaf/preprint/blob/main/conferences/IT_Healthcare_AMCIS_2011.pdf",
+                "url2": "https://aisel.aisnet.org/amcis2011_submissions/21",
                 "abstract": "Research on Healthcare IT is a highly multidisciplinary field. Each stream of research brings a certain focus and contributionsto our understanding of the role of technology in healthcare. However, this high multidisciplinary can be confusing as theresults and implications of the different streams may look incommensurable. This paper looks at various streams of researchon health IT and presents an integrative framework that utilizes organizational change to understand how different researchstreams on health IT interrelate and contradict in terms of their focus, contributions and implications. We argue that such anintegrative understanding is the key to capture the complexity of health IT projects and ensure their success."
             },
             {
@@ -1174,7 +1192,8 @@
                 ],
                 "venue": "International Conference on Information Systems",
                 "year": 2010,
-                "url": "https://aisel.aisnet.org/icis2010_submissions/47/",
+                "url": "https://github.com/hanisaf/preprint/blob/main/conferences/Workarounds_EMR_ICIS_2010.pdf",
+                "url2": "https://aisel.aisnet.org/icis2010_submissions/47/",
                 "abstract": "A significant degree of customization of medical information technology is required to effectively integrate the promise of IT with the diversity and complexity of medical work. In the absence of such customizations, dissatisfaction and resistance toward the system arise. Indeed, the complexity of the medical work and the inability of software to tailor to the diverse medical practices may explain the limited diffusion of health information systems especially in North America. We study the role of workarounds during an open-source Electronic Medical Record System (EMR) implementation at a medium-size urgent care clinic in a major Canadian city. We found that the technology appropriation process involved the evolving of number of non-trivial workarounds in order to match the EMR to medical work. The emergence of workarounds is conceptualized as a knowledge creation and integration process. This perspective allows us to look at the antecedents and the change dynamics of workarounds in the clinic. Furthermore diverging from the negative view toward workarounds, we discuss the importance of incorporating workarounds during and following system development. The workaround perspective shed the light on how usersí behavior can be channeled into a constructive development effort. This paper contributes by examining the workaround of medical practitioners using an open-source electronic medical record system as well as offering a knowledge perspective for the study of EMR appropriation"
             },
             {
@@ -1230,7 +1249,8 @@
                 "year": "2020",
                 "accepted": "",
                 "venue": "Sunbelt Conference",
-                "url": "http://www.pfeffer.at/sunbelt/posters/283.pdf",
+                "url": "https://github.com/hanisaf/preprint/blob/main/conferences/Bots_Online_Networks_Sunbelt_2020.pdf",
+                "url2": "http://www.pfeffer.at/sunbelt/posters/283.pdf",
                 "abstract": ""
             },                       
             {
@@ -1245,7 +1265,7 @@
                 ],
                 "venue": "Pre-ICIS Paper-a-Thon Workshop",
                 "year": 2018,
-                "url": "",
+                "url": "https://github.com/hanisaf/preprint/blob/main/conferences/Effective_Moderation_Patient_Communities_PreICIS_2018.pdf",
                 "abstract": "Online patient communities are becoming a mainstream medium for patients to share their stories, gain peer support and search for medical information. Online patient communities face unique challenges in sustaining their membership and dealing with specific issues that arise in the healthcare domain such as privacy, misinformation and trust. Moreover, these communities are commonly sponsored by health organizations that are keen on moderating information on these sites. We focus on moderation practices and the role of moderators to understand how they contribute to the success of an online patient community. We conduct an inductive case study to uncover best practices employed in a thriving online patient community to manage volunteer workforce, moderate an increasing volume of content contributed by members, resolve issues and achieve desired outcomes. We find four categories of practices: connective, syntactic, semantic and pragmatic that are used by both staff moderators and volunteer mentors. These findings offer a deeper understanding of how online patient communities effectively moderate contributions and resolve issues which has important implications for managers and designers of online patient communities and contribute to literature on organization-sponsored online communities in healthcare."
             },
             {
@@ -1258,7 +1278,7 @@
                 ],
                 "venue": "Pre-ICIS Workshop on Advances in Qualitative IS Research Methodologies",
                 "year": 2016,
-                "url": "",
+                "url": "https://github.com/hanisaf/preprint/blob/main/conferences/Design_Computational_System_GTM_PreICIS_2016.pdf",
                 "abstract": ""
             },
             {
@@ -1295,7 +1315,7 @@
                 ],
                 "venue": "International Conference on Information Systems",
                 "year": 2015,
-                "url": ""
+                 "url": "https://github.com/hanisaf/preprint/blob/main/conferences/Occupational_Community_Social_Media_ICIS_2015.pdf"
             },
             {
                 "id": "",
@@ -1306,7 +1326,7 @@
                 ],
                 "venue": "IFIP Working Group 8.2 Workshop on Information Systems and Organization",
                 "year": 2014,
-                "url": "",
+                "url": "https://github.com/hanisaf/preprint/blob/main/conferences/Local_Perspective_Collaboration_IFIP_2014.pdf",
                 "abstract": ""
             },
             {
@@ -1319,7 +1339,8 @@
                 ],
                 "venue": "Open and User Innovation Workshop",
                 "year": 2014,
-                "url": "https://www.hbs.edu/faculty/conferences/2014-oui/Documents/OUI2014_Book_of_Abstracts.pdf",
+                "url": "https://github.com/hanisaf/preprint/blob/main/conferences/Knowledge_Creation_Healthcare_OUI_2014.pdf",
+                "url2": "https://www.hbs.edu/faculty/conferences/2014-oui/Documents/OUI2014_Book_of_Abstracts.pdf",
                 "abstract": ""
             },
             {
@@ -1333,7 +1354,7 @@
                 ],
                 "venue": "Colloquium of the European Group for Organizational Studies",
                 "year": 2013,
-                "url": "",
+                "url": "https://github.com/hanisaf/preprint/blob/main/conferences/Grassroots_Framing_Crisis_EGOS_2013.pdf",
                 "abstract": ""
             },
             {
@@ -1344,7 +1365,7 @@
                 ],
                 "venue": "Conference of the Administrative Sciences Association of Canada",
                 "year": 2013,
-                "url": "",
+                "url": "https://github.com/hanisaf/preprint/blob/main/conferences/General_Laws_IS_Use_ASAC_2013.pdf",
                 "abstract": ""
             },
             {
@@ -1356,7 +1377,7 @@
                 ],
                 "venue": "Open and User Innovation Workshop",
                 "year": 2012,
-                "url": "",
+                "url": "https://github.com/hanisaf/preprint/blob/main/conferences/Rethinking_Workarounds_OUI_2012.pdf",
                 "abstract": ""
             },
             {
@@ -1369,7 +1390,7 @@
                 ],
                 "venue": "Academy of Management Meeting",
                 "year": 2012,
-                "url": ""
+                "url": "https://github.com/hanisaf/preprint/blob/main/conferences/Symbolic_Action_Microblogging_AOM_2012.pdf"
             },
             {
                 "id": "",
@@ -1380,7 +1401,7 @@
                 ],
                 "venue": "Conference of the Administrative Sciences Association of Canada",
                 "year": 2011,
-                "url": "",
+                "url": "https://github.com/hanisaf/preprint/blob/main/conferences/Customizations_Workarounds_EMR_ASAC_2011.pdf",
                 "abstract": ""
             },
             {
@@ -1393,7 +1414,7 @@
                 ],
                 "venue": "Conference of the Administrative Sciences Association of Canada",
                 "year": 2011,
-                "url": "",
+                "url": "https://github.com/hanisaf/preprint/blob/main/conferences/Organizational_Identification_OCs_ASAC_2011.pdf",
                 "abstract": ""
             },
             {
@@ -1405,7 +1426,7 @@
                 ],
                 "venue": "Conference of the Administrative Sciences Association of Canada",
                 "year": 2010,
-                "url": "",
+                "url": "https://github.com/hanisaf/preprint/blob/main/conferences/OpenSource_EMR_Impact_ASAC_2010.pdf",
                 "abstract": ""
             },
             {
@@ -2018,6 +2039,22 @@
     },
     "invitations": {
         "talks": [
+            {
+                "id": "",
+                "title": "Designing Information Systems for Epistemic Resilience",
+                "venue": "1st Workshop on Responsible Technologies, University of Arizona",
+                "year": 2026,
+                "url": "https://eller.arizona.edu/departments-research/centers-labs/management-information/events",
+                "abstract": ""
+            },
+            {
+                "id": "",
+                "title": "Dynamics of Mirroring in Open-Source Software Projects",
+                "venue": "Concordia University",
+                "year": 2025,
+                "url": "",
+                "abstract": ""
+            }, 
             {
                 "id": "",
                 "title": "Validation Criteria for Computationally Intensive Theory Construction",
