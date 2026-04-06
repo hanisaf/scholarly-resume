@@ -174,6 +174,19 @@
     "research": {
         "journal articles": [
             {
+                "id": "",
+                "title": "Dynamics of Mirroring: Temporal Sequencing of Mirror-Misting and Mirror-Focusing in Open-Source Evolution",
+                "authors": [
+                    "Hani Safadi",
+                    "Amrit Tiwana"
+                ],
+                "year": "Forthcoming",
+                "accepted": "2026",
+                "venue": "Journal of the Association for Information Systems",
+                "url": "https://github.com/hanisaf/preprint/blob/main/Mirroring_JAIS.pdf",
+                "abstract": "The mirroring hypothesis posits a correspondence between ties in a team and technical dependencies in its work. Mirroring is a cornerstone in understanding the development of complex technical systems. However, its application to Open-Source Software (OSS) suggests weak support. Why does mirroring, prevalent in many complex systems, appear absent in OSS, and what alternative mechanisms might explain evolutionary outcomes in OSS and analogous distributed innovation environments? Departing from prior studies examining mirroring as a static state of the system, we focus on its unbroached dynamics, specifically mirror focusing and mirror misting, and their evolutionary consequences. We theorize that it is the sequence of these dynamics, rather than either state in isolation, which drives evolutionary outcomes. We analyze the evolving source code and commit histories of 1,279 projects over 20 years, using methods analogous to functional subsequences in genome analysis. We find that mirroring dynamics fluctuate in OSS projects, creating temporal sequences of mirror misting followed by mirror focusing. Using panel vector autoregression and fixed-effects models to analyze projects’ codebases and commit logs, we show that mirror focusing enhances project evolution across both systemwide and module-specific levels. Our findings move the mirroring discourse beyond static notions to its processual dynamics, contributing novel insights into OSS development by uncovering its antifragility, in which sequencing mirroring dynamics enhances evolutionary outcomes. To the mirroring hypothesis discourse, we add how the oscillatory sequences of misting followed by focusing—not mere achievement of static mirroring—gives rise to evolutionary benefits."
+            },  
+            {
                 "id": "10.1080/07421222.2025.2602394",
                 "title": "Synchronizing Development Teams with Drifting Software Systems: A Decomposability-Based Theory of Evolutionary Mechanisms",
                 "authors": [
@@ -485,20 +498,7 @@
                 "abstract": "Fake news is a widespread and concerning phenomenon. The goal of this article is twofold. First, we argue that curtailing fake news is better pursued by identifying its propagators than by classifying its content. Second, to validate our conceptual argument, we develop a system for curtailing the propagation of fake news on social media by identifying users who are susceptible to believing and propagating it. We anchor our approach in the debate about the ontological nature of truth, the empirical challenges of classifying fake news content, as well as the psychological and social origins of believing fake news. Through interpreting our model using modern explainable machine learning, we deepen our theoretical understanding of why people believe and share fake news, extend the applicability of our system beyond its original context, and provide guidelines for mitigating fake news propagation."
             }  
         ],        
-        "-papers under review": [
-            {
-                "id": "",
-                "title": "Dynamics of Mirroring in Open-Source Software Projects",
-                "authors": [
-                    "Hani Safadi",
-                    "Amrit Tiwana"
-                ],
-                "year": "minor revision",
-                "accepted": "",
-                "venue": "Journal of the Association for Information Systems",
-                "url": "",
-                "abstract": "We study how fit between the unfolding architecture of IT applications (“apps”) and IT maintenance teams (“app<-->team fit”) over apps’ post-implementation lifespan drives the evolution of IT apps. Attempts to tweak an IT app often unveil lurking design imperfections, which new generations of technologies exacerbate. Such appteam misfits can derail IT apps’ evolvability. We develop a middle-range theory of how fit between the evolving architecture of IT apps and the architecture of IT maintenance teams induces two nuanced, cardinal mechanisms through which IT apps evolve. These mechanisms—evolution of only an app’s modules and evolution of only links among its modules—parsimoniously explain incremental, radical, modular, and architectural innovation in evolving IT apps. We test these ideas using novel econometric analyses of a bespoke trace dataset constructed by analyzing the source code from over 1,300 open-source IT apps, spanning about 5,000 million lines of code, 7 million modules, 10 million changes, and over 280,000 person-years of work spanning 20 years. Our findings substantively contribute to research on IT evolution and IT architecture. Our novel contribution to research on IT architecture is how fit between the coevolving architectures of IT apps and IT project teams compensate for emergent, residual imperfections in app architecture, reinforcing the evolutionary payoffs from choices about each other. Our novel contributions to research on IT evolution are developing the two cardinal mechanisms that explain how IT apps evolve and tracing them back to app architecture, team architecture, and their interplay."
-            },                           
+        "-papers under review": [                         
             {
                 "id": "",
                 "title": "Developers’ Multi-Project Involvement and Continued Contribution to Open-Source Software Projects",
