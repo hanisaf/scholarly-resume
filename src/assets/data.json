@@ -1545,7 +1545,31 @@
         "grants": [
             {
                 "id": "",
+                "title": "Generative AI for Business Analytics",
+                "year": 2025,
+                "venue": "Terry College Teaching Innovation Grants",
+                "amount": 2500,
+                "url": ""
+            },            
+            {
+                "id": "",
+                "title": "Developing New Content around Generative AI for Business Analytics",
+                "year": 2024,
+                "venue": "Terry College Teaching Innovation Grants",
+                "amount": 2500,
+                "url": ""
+            },                           
+            {
+                "id": "",
                 "title": "Developing a Multiple-Choice Question Bank for Take-Home Biweekly Quizzes",
+                "year": 2023,
+                "venue": "Terry College Teaching Innovation Grants",
+                "amount": 5000,
+                "url": ""
+            },
+            {
+                "id": "",
+                "title": "Developing an Interactive Learning Tool for Teaching Programming",
                 "year": 2022,
                 "venue": "Terry College Teaching Innovation Grants",
                 "amount": 5000,
@@ -1860,6 +1884,12 @@
                 "startdate": 2024   
             },
             {
+                "venue": "MIS Quarterly",
+                "venueshort": "MISQ",
+                "role": "Associate Editor (Policy, Regulation & Ethics)",
+                "startdate": 2025
+            },
+            {
                 "venue": "IEEE Transactions on Engineering Management",
                 "venueshort": "IEEE TEM",
                 "role": "Editorial Review Board Member",
@@ -1972,6 +2002,12 @@
             }
         ],
         "conference editorialship": [
+            {
+                "venue": "International Conference on Information Systems",
+                "venueshort": "ICIS",
+                "role": "Track Chair",
+                "startdate": 2026
+            },
             {
                 "venue": "European Conference on Information Systems",
                 "venueshort": "ECIS",
@@ -2277,7 +2313,7 @@
                 "id": "",
                 "title": "Advice from Successful Faculty and Tips for Faculty Productivity Profiles",
                 "venue": "University of Georgia, Office of Faculty Affairs",
-                "year": 2021,
+                "year": "2021-2022",
                 "url": "",
                 "abstract": ""
             },            
