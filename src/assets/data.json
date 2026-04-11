@@ -1923,6 +1923,18 @@
                 "startdate": 2015
             },
             {
+                "venue": "Journal of the Management Information Systems",
+                "venueshort": "JMIS",
+                "role": "Reviewer",
+                "startdate": 2025
+            },
+            {
+                "venue": "Journal of the Association for Information Systems",
+                "venueshort": "JAIS",
+                "role": "Reviewer",
+                "startdate": 2016
+            },                        
+            {
                 "venue": "Organization Science",
                 "venueshort": "Organization Science",
                 "role": "Reviewer",
@@ -1935,10 +1947,16 @@
                 "startdate": 2017
             },
             {
-                "venue": "Journal of the Association for Information Systems",
-                "venueshort": "JAIS",
+                "venue": "Scientific Reports",
+                "venueshort": "SR",
                 "role": "Reviewer",
-                "startdate": 2016
+                "startdate": 2026
+            },
+            {
+                "venue": "Strategic Organization",
+                "venueshort": "SO",
+                "role": "Reviewer",
+                "startdate": 2025
             },
             {
                 "venue": "ACM Transactions on Management Information Systems",
