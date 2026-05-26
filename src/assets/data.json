@@ -523,7 +523,7 @@
                     "Shaila Miranda",
                     "Nicholas Berente"
                 ],
-                "year": "major revision - 2nd round",
+                "year": "major revision - 3rd round",
                 "accepted": "",
                 "venue": "MIS Quarterly",
                 "url": "",
@@ -579,19 +579,6 @@
             },
             {
                 "id": "",
-                "title": "Dynamics of Attention Allocation in Knowledge-Intensive Teams",
-                "authors": [
-                    "Hani Safadi",
-                    "Amrit Tiwana"
-                ],
-                "year": "major revision - 2nd round",
-                "accepted": "",
-                "venue": "Strategic Organization",
-                "url": "",
-                "abstract": "We explore the unbroached dynamics of attention allocation in teams engaged in complex knowledge work. We introduce the notions of attention fixation and attention switching, concepts present only implicitly in prior studies, and theorize how their interplay drives team productivity. Attention fixation refers to an intratemporal focus on a single issue, while attention switching refers to the intertemporal shifting of attention between issues. Using multi-decade trace data from 1,356 teams developing open-source software projects, we find that both attention fixation and switching independently enhance team productivity but are mutual substitutes. We then address the paradox of how teams benefit from both strategies even though they’re substitutive. We abductively employ sequence mining and identify two longer-term, dynamic attention allocation strategies: (1) sequential attention allocation, characterized by high fixation and low switching, and (2) vacillating attention allocation, characterized by low fixation and high switching. Our unique contribution is bringing dynamics into the theoretical conversation on attention allocation in knowledge work."
-            },
-            {
-                "id": "",
                 "title": "The Evolutionary Pathways of Technology Market Commercialization",
                 "authors": [
                     "Hani Safadi",
@@ -628,9 +615,35 @@
                 "venue": "Business Horizons",
                 "url": "",
                 "abstract": "Companies can create a competitive advantage by combining high-quality human capital with sophisticated organizational capital. Four organizational types are based on these combinations: creative complexity, breakthrough science, applied science, and operational complexity. Five significant elements of knowledge capital creation capabilities are: know thy capital creation system, knowledgeable leadership, knowledge engineering, systems thinking, and continuous investment in systems of inquiry. This article provides guidance on leveraging the five elements to build knowledge capital for a target archetype."
+            },
+            {
+                "id": "",
+                "title": "Experts Vs Algorithms: Algorithmic Control Of Communication Visibility And Its Impact On Socializing Newcomers In Online Communities",
+                "authors": [
+                    "P Kumar Sachin",
+                    "Hani Safadi"
+                ],
+                "year": "under review - 1st round",
+                "accepted": "",
+                "venue": "MIS Quarterly",
+                "url": "",
+                "abstract": ""
             }                                   
         ],
         "--working papers": [ 
+            {
+                "id": "",
+                "title": "Dynamics of Attention Allocation in Knowledge-Intensive Teams",
+                "authors": [
+                    "Hani Safadi",
+                    "Amrit Tiwana"
+                ],
+                "year": "major revision - 2nd round",
+                "accepted": "",
+                "venue": "Strategic Organization",
+                "url": "",
+                "abstract": "We explore the unbroached dynamics of attention allocation in teams engaged in complex knowledge work. We introduce the notions of attention fixation and attention switching, concepts present only implicitly in prior studies, and theorize how their interplay drives team productivity. Attention fixation refers to an intratemporal focus on a single issue, while attention switching refers to the intertemporal shifting of attention between issues. Using multi-decade trace data from 1,356 teams developing open-source software projects, we find that both attention fixation and switching independently enhance team productivity but are mutual substitutes. We then address the paradox of how teams benefit from both strategies even though they’re substitutive. We abductively employ sequence mining and identify two longer-term, dynamic attention allocation strategies: (1) sequential attention allocation, characterized by high fixation and low switching, and (2) vacillating attention allocation, characterized by low fixation and high switching. Our unique contribution is bringing dynamics into the theoretical conversation on attention allocation in knowledge work."
+            },
             {
                 "id": "",
                 "title": "Epistemic Resilience: A New Frontier for Information Systems",
