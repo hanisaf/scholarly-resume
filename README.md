@@ -8,6 +8,89 @@ ScholarlyResume stores all of this data in a master json file in assets/data.jso
 
 This data is formatted into a static website and a printable resume with an Angular app. You can use the app without changing the underlying codebase by referring to the gh-pages branch and editing assets/data.json and portrait.jpg files. That's said, if you want to change the default layout you will need to edit app.component.html and re-build the project. See below the Angular boilerplate documentation.
 
+## Requirements
+
+- Node.js 22.x
+- npm (bundled with Node.js)
+- Angular CLI (global install recommended)
+- Git
+- Python 3 (only needed when regenerating static resume files)
+
+## Installation (Step by Step)
+
+1. Clone the repository and move into the project folder.
+
+```bash
+git clone https://github.com/hanisaf/scholarly-resume.git
+cd scholarly-resume
+```
+
+2. Verify Node.js and npm are installed.
+
+```bash
+node -v
+npm -v
+```
+
+Expected: Node version should be 22.x.
+
+3. Install Angular CLI globally.
+
+```bash
+npm install -g @angular/cli
+```
+
+4. Confirm Angular CLI is available.
+
+```bash
+ng version
+```
+
+5. Install project dependencies.
+
+```bash
+npm install
+```
+
+6. Start the development server.
+
+```bash
+ng serve
+```
+
+Then open http://localhost:4200/.
+
+## Alpine Linux Notes (Optional)
+
+If you are using Alpine Linux and need Node.js 22 specifically, the default Alpine repositories may provide newer major versions. In that case, install Node.js 22 manually from a compatible musl build, then run:
+
+```bash
+npm install -g @angular/cli
+npm install
+```
+
+## Useful Project Commands
+
+```bash
+npm start              # Dev server at http://localhost:4200
+npm run build          # Production build
+npm run build:prerender # Production build + prerender
+npm test               # Unit tests (Karma/Jasmine)
+npm run serve:ssr      # Serve SSR build
+npm run watch          # Dev build with file watching
+```
+
+## Data and Static Resume Generation
+
+- Main resume data lives in `src/assets/data.json`.
+- After editing data, regenerate the static HTML resume:
+
+```bash
+python3 generate_resume.py
+```
+
+This updates `src/assets/resume.html`.
+
 ## Development server
 
 Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The app will automatically reload if you change any of the source files.
