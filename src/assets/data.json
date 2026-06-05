@@ -508,11 +508,24 @@
                     "John Hulland",
                     "Elena Karahanna"
                 ],
-                "year": "major revision - 4th round",
+                "year": "minor revision",
                 "accepted": "",
                 "venue": "Journal of Strategic Information Systems",
                 "url": "",
                 "abstract": ""
+            },
+            {
+                "id": "",
+                "title": "Generative AI and Qualitative Meta-Studies: The Challenge of the Double Hermeneutic in Theory Construction",
+                "authors": [
+                    "Nicholas Berente",
+                    "Hani Safadi"
+                ],
+                "year": "minor revision",
+                "accepted": "",
+                "venue": "Journal of Management Inquiry",
+                "url": "",
+                "abstract": "Qualitative meta-studies offer a powerful means for generating new theory by synthesizing rich case evidence from multiple studies. The emergence of Generative AI (GenAI) promises to accelerate this labor-intensive process, yet its application remains fraught with epistemological risks. Drawing on Giddens’ concept of the double hermeneutic, we suggest that generative tools can struggle to perform a valid rational reconstruction of qualitative data. Two main issues arise: anchoring, in which the model adopts original study framings without analyzing the evidence, and occlusion, which leads to poor synthesis across cases. Our illustrative analysis of ten digital transformation case studies using a source grounded generative tool shows that standard prompting fails to mitigate these biases. We suggest a workflow for meta-studies with generative AI tools that includes prompt engineering, manual data preprocessing, and dialogic interaction with generative AI as a reflexive thinking partner."
             },                       
             {
                 "id": "",
@@ -528,19 +541,7 @@
                 "venue": "MIS Quarterly",
                 "url": "",
                 "abstract": ""
-            },      
-            {
-                "id": "",
-                "title": "The Evolutionary Consequences of System-of-Systems Modularity",
-                "authors": [
-                    "Hani Safadi"
-                ],
-                "year": "major revision - 2nd round",
-                "accepted": "",
-                "venue": "ACM TOSEM",
-                "url": "",
-                "abstract": "Evolution is not one system’s property as its dependencies with other intertwined, evolving systems grow. We conceptualize system-of-systems modularity that simultaneously considers a system’s internal architecture and that of other interdependent systems. Data from 8,220 information systems’ projects over eight years show how system-of-systems modularity explains evolution above-and-beyond prior conceptualizations. They underscore the migration from standalone information systems to systems-of-systems."
-            },     
+            },         
             {
                 "id": "",
                 "title": "Member Leaders in Online Patient Communities: A Recipe for Resilience",
@@ -555,7 +556,18 @@
                 "url": "",
                 "abstract": ""
             },
-                   
+            {
+                "id": "",
+                "title": "The Evolutionary Consequences of System-of-Systems Modularity",
+                "authors": [
+                    "Hani Safadi"
+                ],
+                "year": "major revision - 2nd round",
+                "accepted": "",
+                "venue": "ACM TOSEM",
+                "url": "",
+                "abstract": "Evolution is not one system’s property as its dependencies with other intertwined, evolving systems grow. We conceptualize system-of-systems modularity that simultaneously considers a system’s internal architecture and that of other interdependent systems. Data from 8,220 information systems’ projects over eight years show how system-of-systems modularity explains evolution above-and-beyond prior conceptualizations. They underscore the migration from standalone information systems to systems-of-systems."
+            },                     
             {
                 "id": "",
                 "title": "Open Paths of Inquiry: Computational Theory Construction in Information Systems Research",
@@ -592,25 +604,12 @@
             },
             {
                 "id": "",
-                "title": "Generative AI and Qualitative Meta-Studies: The Challenge of the Double Hermeneutic in Theory Construction",
-                "authors": [
-                    "Nicholas Berente",
-                    "Hani Safadi"
-                ],
-                "year": "under review - 1st round",
-                "accepted": "",
-                "venue": "Journal of Management Inquiry",
-                "url": "",
-                "abstract": "Qualitative meta-studies offer a powerful means for generating new theory by synthesizing rich case evidence from multiple studies. The emergence of Generative AI (GenAI) promises to accelerate this labor-intensive process, yet its application remains fraught with epistemological risks. Drawing on Giddens’ concept of the double hermeneutic, we suggest that generative tools can struggle to perform a valid rational reconstruction of qualitative data. Two main issues arise: anchoring, in which the model adopts original study framings without analyzing the evidence, and occlusion, which leads to poor synthesis across cases. Our illustrative analysis of ten digital transformation case studies using a source grounded generative tool shows that standard prompting fails to mitigate these biases. We suggest a workflow for meta-studies with generative AI tools that includes prompt engineering, manual data preprocessing, and dialogic interaction with generative AI as a reflexive thinking partner."
-            },
-            {
-                "id": "",
                 "title": "Generating Knowledge Capital",
                 "authors": [
                     "Richard Watson",
                     "Hani Safadi"
                 ],
-                "year": "under review - 1st round",
+                "year": "major revision - 2nd round",
                 "accepted": "",
                 "venue": "Business Horizons",
                 "url": "",
@@ -622,6 +621,20 @@
                 "authors": [
                     "P Kumar Sachin",
                     "Hani Safadi"
+                ],
+                "year": "under review - 1st round",
+                "accepted": "",
+                "venue": "MIS Quarterly",
+                "url": "",
+                "abstract": ""
+            },
+            {
+                "id": "",
+                "title": "Exploration-Exploitation and Knowledge Creation in Online Communities",
+                "authors": [
+                    "Hani Safadi",
+                    "Emmanuelle Vaast",
+                    "Weifeng Li"
                 ],
                 "year": "under review - 1st round",
                 "accepted": "",
@@ -668,21 +681,7 @@
                 "venue": "Information Systems Research",
                 "url": "",
                 "abstract": ""
-            },         
-            {
-                "id": "",
-                "title": "Exploration-Exploitation and Knowledge Creation in Online Communities",
-                "authors": [
-                    "Hani Safadi",
-                    "Emmanuelle Vaast",
-                    "Weifeng Li"
-                ],
-                "year": "working paper",
-                "accepted": "",
-                "venue": "TBD",
-                "url": "",
-                "abstract": ""
-            },            
+            },          
             {
                 "id": "",
                 "title": "The Power of Silence: Why Digital Chattiness Is Your Next Major Crisis",
