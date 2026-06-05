@@ -508,11 +508,24 @@
                     "John Hulland",
                     "Elena Karahanna"
                 ],
-                "year": "major revision - 4th round",
+                "year": "minor revision",
                 "accepted": "",
                 "venue": "Journal of Strategic Information Systems",
                 "url": "",
                 "abstract": ""
+            },
+            {
+                "id": "",
+                "title": "Generative AI and Qualitative Meta-Studies: The Challenge of the Double Hermeneutic in Theory Construction",
+                "authors": [
+                    "Nicholas Berente",
+                    "Hani Safadi"
+                ],
+                "year": "minor revision",
+                "accepted": "",
+                "venue": "Journal of Management Inquiry",
+                "url": "",
+                "abstract": "Qualitative meta-studies offer a powerful means for generating new theory by synthesizing rich case evidence from multiple studies. The emergence of Generative AI (GenAI) promises to accelerate this labor-intensive process, yet its application remains fraught with epistemological risks. Drawing on Giddens’ concept of the double hermeneutic, we suggest that generative tools can struggle to perform a valid rational reconstruction of qualitative data. Two main issues arise: anchoring, in which the model adopts original study framings without analyzing the evidence, and occlusion, which leads to poor synthesis across cases. Our illustrative analysis of ten digital transformation case studies using a source grounded generative tool shows that standard prompting fails to mitigate these biases. We suggest a workflow for meta-studies with generative AI tools that includes prompt engineering, manual data preprocessing, and dialogic interaction with generative AI as a reflexive thinking partner."
             },                       
             {
                 "id": "",
@@ -523,24 +536,12 @@
                     "Shaila Miranda",
                     "Nicholas Berente"
                 ],
-                "year": "major revision - 2nd round",
+                "year": "major revision - 3rd round",
                 "accepted": "",
                 "venue": "MIS Quarterly",
                 "url": "",
                 "abstract": ""
-            },      
-            {
-                "id": "",
-                "title": "The Evolutionary Consequences of System-of-Systems Modularity",
-                "authors": [
-                    "Hani Safadi"
-                ],
-                "year": "major revision - 2nd round",
-                "accepted": "",
-                "venue": "ACM TOSEM",
-                "url": "",
-                "abstract": "Evolution is not one system’s property as its dependencies with other intertwined, evolving systems grow. We conceptualize system-of-systems modularity that simultaneously considers a system’s internal architecture and that of other interdependent systems. Data from 8,220 information systems’ projects over eight years show how system-of-systems modularity explains evolution above-and-beyond prior conceptualizations. They underscore the migration from standalone information systems to systems-of-systems."
-            },     
+            },         
             {
                 "id": "",
                 "title": "Member Leaders in Online Patient Communities: A Recipe for Resilience",
@@ -555,7 +556,18 @@
                 "url": "",
                 "abstract": ""
             },
-                   
+            {
+                "id": "",
+                "title": "The Evolutionary Consequences of System-of-Systems Modularity",
+                "authors": [
+                    "Hani Safadi"
+                ],
+                "year": "major revision - 2nd round",
+                "accepted": "",
+                "venue": "ACM TOSEM",
+                "url": "",
+                "abstract": "Evolution is not one system’s property as its dependencies with other intertwined, evolving systems grow. We conceptualize system-of-systems modularity that simultaneously considers a system’s internal architecture and that of other interdependent systems. Data from 8,220 information systems’ projects over eight years show how system-of-systems modularity explains evolution above-and-beyond prior conceptualizations. They underscore the migration from standalone information systems to systems-of-systems."
+            },                     
             {
                 "id": "",
                 "title": "Open Paths of Inquiry: Computational Theory Construction in Information Systems Research",
@@ -579,19 +591,6 @@
             },
             {
                 "id": "",
-                "title": "Dynamics of Attention Allocation in Knowledge-Intensive Teams",
-                "authors": [
-                    "Hani Safadi",
-                    "Amrit Tiwana"
-                ],
-                "year": "major revision - 2nd round",
-                "accepted": "",
-                "venue": "Strategic Organization",
-                "url": "",
-                "abstract": "We explore the unbroached dynamics of attention allocation in teams engaged in complex knowledge work. We introduce the notions of attention fixation and attention switching, concepts present only implicitly in prior studies, and theorize how their interplay drives team productivity. Attention fixation refers to an intratemporal focus on a single issue, while attention switching refers to the intertemporal shifting of attention between issues. Using multi-decade trace data from 1,356 teams developing open-source software projects, we find that both attention fixation and switching independently enhance team productivity but are mutual substitutes. We then address the paradox of how teams benefit from both strategies even though they’re substitutive. We abductively employ sequence mining and identify two longer-term, dynamic attention allocation strategies: (1) sequential attention allocation, characterized by high fixation and low switching, and (2) vacillating attention allocation, characterized by low fixation and high switching. Our unique contribution is bringing dynamics into the theoretical conversation on attention allocation in knowledge work."
-            },
-            {
-                "id": "",
                 "title": "The Evolutionary Pathways of Technology Market Commercialization",
                 "authors": [
                     "Hani Safadi",
@@ -605,32 +604,59 @@
             },
             {
                 "id": "",
-                "title": "Generative AI and Qualitative Meta-Studies: The Challenge of the Double Hermeneutic in Theory Construction",
-                "authors": [
-                    "Nicholas Berente",
-                    "Hani Safadi"
-                ],
-                "year": "under review - 1st round",
-                "accepted": "",
-                "venue": "Journal of Management Inquiry",
-                "url": "",
-                "abstract": "Qualitative meta-studies offer a powerful means for generating new theory by synthesizing rich case evidence from multiple studies. The emergence of Generative AI (GenAI) promises to accelerate this labor-intensive process, yet its application remains fraught with epistemological risks. Drawing on Giddens’ concept of the double hermeneutic, we suggest that generative tools can struggle to perform a valid rational reconstruction of qualitative data. Two main issues arise: anchoring, in which the model adopts original study framings without analyzing the evidence, and occlusion, which leads to poor synthesis across cases. Our illustrative analysis of ten digital transformation case studies using a source grounded generative tool shows that standard prompting fails to mitigate these biases. We suggest a workflow for meta-studies with generative AI tools that includes prompt engineering, manual data preprocessing, and dialogic interaction with generative AI as a reflexive thinking partner."
-            },
-            {
-                "id": "",
                 "title": "Generating Knowledge Capital",
                 "authors": [
                     "Richard Watson",
                     "Hani Safadi"
                 ],
-                "year": "under review - 1st round",
+                "year": "major revision - 2nd round",
                 "accepted": "",
                 "venue": "Business Horizons",
                 "url": "",
                 "abstract": "Companies can create a competitive advantage by combining high-quality human capital with sophisticated organizational capital. Four organizational types are based on these combinations: creative complexity, breakthrough science, applied science, and operational complexity. Five significant elements of knowledge capital creation capabilities are: know thy capital creation system, knowledgeable leadership, knowledge engineering, systems thinking, and continuous investment in systems of inquiry. This article provides guidance on leveraging the five elements to build knowledge capital for a target archetype."
+            },
+            {
+                "id": "",
+                "title": "Experts Vs Algorithms: Algorithmic Control Of Communication Visibility And Its Impact On Socializing Newcomers In Online Communities",
+                "authors": [
+                    "P Kumar Sachin",
+                    "Hani Safadi"
+                ],
+                "year": "under review - 1st round",
+                "accepted": "",
+                "venue": "MIS Quarterly",
+                "url": "",
+                "abstract": ""
+            },
+            {
+                "id": "",
+                "title": "Exploration-Exploitation and Knowledge Creation in Online Communities",
+                "authors": [
+                    "Hani Safadi",
+                    "Emmanuelle Vaast",
+                    "Weifeng Li"
+                ],
+                "year": "under review - 1st round",
+                "accepted": "",
+                "venue": "MIS Quarterly",
+                "url": "",
+                "abstract": ""
             }                                   
         ],
         "--working papers": [ 
+            {
+                "id": "",
+                "title": "Dynamics of Attention Allocation in Knowledge-Intensive Teams",
+                "authors": [
+                    "Hani Safadi",
+                    "Amrit Tiwana"
+                ],
+                "year": "major revision - 2nd round",
+                "accepted": "",
+                "venue": "Strategic Organization",
+                "url": "",
+                "abstract": "We explore the unbroached dynamics of attention allocation in teams engaged in complex knowledge work. We introduce the notions of attention fixation and attention switching, concepts present only implicitly in prior studies, and theorize how their interplay drives team productivity. Attention fixation refers to an intratemporal focus on a single issue, while attention switching refers to the intertemporal shifting of attention between issues. Using multi-decade trace data from 1,356 teams developing open-source software projects, we find that both attention fixation and switching independently enhance team productivity but are mutual substitutes. We then address the paradox of how teams benefit from both strategies even though they’re substitutive. We abductively employ sequence mining and identify two longer-term, dynamic attention allocation strategies: (1) sequential attention allocation, characterized by high fixation and low switching, and (2) vacillating attention allocation, characterized by low fixation and high switching. Our unique contribution is bringing dynamics into the theoretical conversation on attention allocation in knowledge work."
+            },
             {
                 "id": "",
                 "title": "Epistemic Resilience: A New Frontier for Information Systems",
@@ -655,21 +681,7 @@
                 "venue": "Information Systems Research",
                 "url": "",
                 "abstract": ""
-            },         
-            {
-                "id": "",
-                "title": "Exploration-Exploitation and Knowledge Creation in Online Communities",
-                "authors": [
-                    "Hani Safadi",
-                    "Emmanuelle Vaast",
-                    "Weifeng Li"
-                ],
-                "year": "working paper",
-                "accepted": "",
-                "venue": "TBD",
-                "url": "",
-                "abstract": ""
-            },            
+            },          
             {
                 "id": "",
                 "title": "The Power of Silence: Why Digital Chattiness Is Your Next Major Crisis",
@@ -1545,7 +1557,31 @@
         "grants": [
             {
                 "id": "",
+                "title": "Generative AI for Business Analytics",
+                "year": 2025,
+                "venue": "Terry College Teaching Innovation Grants",
+                "amount": 2500,
+                "url": ""
+            },            
+            {
+                "id": "",
+                "title": "Developing New Content around Generative AI for Business Analytics",
+                "year": 2024,
+                "venue": "Terry College Teaching Innovation Grants",
+                "amount": 2500,
+                "url": ""
+            },                           
+            {
+                "id": "",
                 "title": "Developing a Multiple-Choice Question Bank for Take-Home Biweekly Quizzes",
+                "year": 2023,
+                "venue": "Terry College Teaching Innovation Grants",
+                "amount": 5000,
+                "url": ""
+            },
+            {
+                "id": "",
+                "title": "Developing an Interactive Learning Tool for Teaching Programming",
                 "year": 2022,
                 "venue": "Terry College Teaching Innovation Grants",
                 "amount": 5000,
@@ -1860,6 +1896,12 @@
                 "startdate": 2024   
             },
             {
+                "venue": "MIS Quarterly",
+                "venueshort": "MISQ",
+                "role": "Associate Editor (Policy, Regulation & Ethics)",
+                "startdate": 2025
+            },
+            {
                 "venue": "IEEE Transactions on Engineering Management",
                 "venueshort": "IEEE TEM",
                 "role": "Editorial Review Board Member",
@@ -1893,6 +1935,18 @@
                 "startdate": 2015
             },
             {
+                "venue": "Journal of the Management Information Systems",
+                "venueshort": "JMIS",
+                "role": "Reviewer",
+                "startdate": 2025
+            },
+            {
+                "venue": "Journal of the Association for Information Systems",
+                "venueshort": "JAIS",
+                "role": "Reviewer",
+                "startdate": 2016
+            },                        
+            {
                 "venue": "Organization Science",
                 "venueshort": "Organization Science",
                 "role": "Reviewer",
@@ -1905,10 +1959,16 @@
                 "startdate": 2017
             },
             {
-                "venue": "Journal of the Association for Information Systems",
-                "venueshort": "JAIS",
+                "venue": "Scientific Reports",
+                "venueshort": "SR",
                 "role": "Reviewer",
-                "startdate": 2016
+                "startdate": 2026
+            },
+            {
+                "venue": "Strategic Organization",
+                "venueshort": "SO",
+                "role": "Reviewer",
+                "startdate": 2025
             },
             {
                 "venue": "ACM Transactions on Management Information Systems",
@@ -1972,6 +2032,12 @@
             }
         ],
         "conference editorialship": [
+            {
+                "venue": "International Conference on Information Systems",
+                "venueshort": "ICIS",
+                "role": "Track Chair",
+                "startdate": 2026
+            },
             {
                 "venue": "European Conference on Information Systems",
                 "venueshort": "ECIS",
@@ -2277,7 +2343,7 @@
                 "id": "",
                 "title": "Advice from Successful Faculty and Tips for Faculty Productivity Profiles",
                 "venue": "University of Georgia, Office of Faculty Affairs",
-                "year": 2021,
+                "year": "2021-2022",
                 "url": "",
                 "abstract": ""
             },            
