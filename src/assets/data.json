@@ -216,7 +216,7 @@
                     "Amrit Tiwana",
                     "Hani Safadi"
                 ],
-                "year": "2025",
+                "year": "2026",
                 "accepted": "2025",
                 "venue": "Information Systems Research",
                 "url": "https://github.com/hanisaf/preprint/blob/main/silence_ISR.pdf",
@@ -622,12 +622,41 @@
                     "P Kumar Sachin",
                     "Hani Safadi"
                 ],
-                "year": "under review - 1st round",
+                "year": "major revision - 2nd round",
                 "accepted": "",
                 "venue": "MIS Quarterly",
                 "url": "",
                 "abstract": ""
-            },
+            }                                   
+        ],
+        "--working papers": [
+            {
+                "id": "",
+                "title": "All Talk? Referenceability and the Selection of AI Ethics Issues in Public Discourse",
+                "authors": [
+                    "Emmanuelle Vaast",
+                    "Maha Shaikh",
+                    "Hani Safadi"
+                ],
+                "year": "working paper",
+                "accepted": "",
+                "venue": "",
+                "url": "",
+                "abstract": "Information Systems (IS) research on the ethics of Artificial Intelligence (AI) has advanced principles, governance frameworks, and responsibility models for organizational settings. This work takes ethical concerns as given, and rests on an unexamined condition: that a concern has a party who can be held answerable. Answerability is constructed earlier, in the public discourse where the actors shaping AI contest what counts as an ethical issue. We apply critical discourse analysis and computational theory construction to the Eye on AI podcast (2018 to 2025) through segment-level discourse coding and a grounded extraction of who references whom. We theorize the selection as discursive gating. Ethical concerns pass ordered thresholds before becoming institutional material. Statability admits a concern and fixes the register in which it is voiced. Referenceability determines whether a voiced concern attaches to a party others can align with, distance from, or hold answerable. Referenceability is essential: a concern can be present in the discourse (i.e., stated) yet absent from its debates. In our data, speakers raise labor displacement and social impacts of AI often but name no one who could answer for them. By contrast, competitive and technical concerns attract named firms, researchers, and governments. Thus, an issue regarding AI ethics can be common in the discourse yet absent from its arguments, for want of anyone to argue with. For IS, this study explains a shortfall the field has treated as an implementation problem: a responsible AI apparatus yielding little accountability for distributive harm. Governance frameworks, audits, and accountability by design require addressees, and public discourse supplies some for competitive and technical concerns while withholding them for human ones. This requirement is referenceability, which reveals a scope condition scholarship has left implicit: AI ethics governance reaches only concerns the discourse has made answerable."
+            },            
+            {
+                "id": "",
+                "title": "Mechanistic Retroduction: Agentic Search for Mechanisms in IS Theory Construction",
+                "authors": [
+                    "Hani Safadi",
+                    "Amrit Tiwana"
+                ],
+                "year": "working paper",
+                "accepted": "",
+                "venue": "",
+                "url": "",
+                "abstract": "IS theorizing has historically advanced by expanding our knowledge of when and where a core effect holds, but rarely by developing mechanisms explaining how it operates. In Lakatos’ technical sense, this pattern is degenerative since such additions carry no “excess empirical content.” Not for want of interest, but inferential infrastructure, which agentic AI now supplies. We develop mechanistic retroduction, a principled approach to agentic AI-assisted retroductive inference that uncovers mechanisms—the causal pathways through which a confirmed core effect operates. It is organized around an outer researcher-led retroductive loop anchoring a theoretical core with plausible mechanisms, and an inner agentic Bacon-Platt loop iteratively pruning them. Grounded in Lakatos' hard core/protective belt architecture, it draws on Bacon's philosophy of science and Platt's strong inference, all disciplined by Pólya's heuristic reasoning. It preserves the researcher's intellectual agency over retroductive discovery while deploying agentic AI to generate mechanism-rich protective belts. This human-machine division of labor converts Lakatosian-degenerative streams into mechanistically-rich, progressive counterparts. We illustrate the approach with multidecade-long digital traces spanning ~5 billion events from open-source development. 42 agentic and two researcher loops surfaced four novel mechanisms, undiscoverable without agentic AI, underlying the atrophy of information systems. Computational theorizing approaches require but do not themselves provide a normative criterion for distinguishing progressive from degenerative theorizing. Mechanistic retroduction thus offers a principled way to make agentic AI constitutive—not merely supportive—of mechanistic IS theory construction."
+            },             
             {
                 "id": "",
                 "title": "Exploration-Exploitation and Knowledge Creation in Online Communities",
@@ -636,14 +665,12 @@
                     "Emmanuelle Vaast",
                     "Weifeng Li"
                 ],
-                "year": "under review - 1st round",
+                "year": "working paper",
                 "accepted": "",
-                "venue": "MIS Quarterly",
+                "venue": "",
                 "url": "",
                 "abstract": ""
-            }                                   
-        ],
-        "--working papers": [ 
+            },
             {
                 "id": "",
                 "title": "Dynamics of Attention Allocation in Knowledge-Intensive Teams",
@@ -651,9 +678,9 @@
                     "Hani Safadi",
                     "Amrit Tiwana"
                 ],
-                "year": "major revision - 2nd round",
+                "year": "working paper",
                 "accepted": "",
-                "venue": "Strategic Organization",
+                "venue": "",
                 "url": "",
                 "abstract": "We explore the unbroached dynamics of attention allocation in teams engaged in complex knowledge work. We introduce the notions of attention fixation and attention switching, concepts present only implicitly in prior studies, and theorize how their interplay drives team productivity. Attention fixation refers to an intratemporal focus on a single issue, while attention switching refers to the intertemporal shifting of attention between issues. Using multi-decade trace data from 1,356 teams developing open-source software projects, we find that both attention fixation and switching independently enhance team productivity but are mutual substitutes. We then address the paradox of how teams benefit from both strategies even though they’re substitutive. We abductively employ sequence mining and identify two longer-term, dynamic attention allocation strategies: (1) sequential attention allocation, characterized by high fixation and low switching, and (2) vacillating attention allocation, characterized by low fixation and high switching. Our unique contribution is bringing dynamics into the theoretical conversation on attention allocation in knowledge work."
             },
@@ -663,9 +690,9 @@
                 "authors": [
                     "Hani Safadi"
                 ],
-                "year": "under review - 1st round",
+                "year": "working paper",
                 "accepted": "",
-                "venue": "European Journal of Information Systems",
+                "venue": "",
                 "url": "",
                 "abstract": "This paper introduces the concept of epistemic resilience as a necessary attribute for information systems to address the prevalence of misinformation on social media and internet platforms. It describes epistemic resilience's critical role in reducing manipulation and misinformation by examining the philosophical, psychological, and sociological underpinnings of belief formation and information sharing. Drawing on Churchman’s systems of inquiry, the paper proposes design principles for redesigning modern information systems for epistemic resilience."
             },
@@ -676,9 +703,9 @@
                     "P Kumar Sachin",
                     "Hani Safadi"
                 ],
-                "year": "major revision - 3rd round",
+                "year": "working paper",
                 "accepted": "",
-                "venue": "Information Systems Research",
+                "venue": "",
                 "url": "",
                 "abstract": ""
             },          
@@ -2303,7 +2330,7 @@
                 "id": "",
                 "title": "Towards A Craft Of Computational Theory Construction",
                 "venue": "Academy of Management Meeting",
-                "year": "2023-2024",
+                "year": "2023-2025",
                 "url": "",
                 "abstract": ""
             }, 
