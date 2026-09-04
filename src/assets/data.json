@@ -175,6 +175,22 @@
         "journal articles": [
             {
                 "id": "",
+                "title": "Multi-Project Involvement and Volunteer Developers’ Continued Contributions to Open Source Software Projects",
+                "authors": [
+                    "Pratyush Sharma",
+                    "Hani Safadi",
+                    "Elena Karahanna",
+                    "John Hulland",
+                    "Munsif Sokiyna"
+                ],
+                "year": "Forthcoming",
+                "accepted": "2026",
+                "venue": "Journal of Strategic Information Systems",
+                "url": "https://github.com/hanisaf/preprint/blob/main/Continued_Contribution_JSIS.pdf",
+                "abstract": "Open source software (OSS) ecosystems consist of projects that compete for volunteer developers who divide their attention across projects. Multi-project involvement makes it challenging for a focal project to attract a critical mass of volunteers to make long-term continued code contributions. Adopting a context-specific theorizing approach, we extend established OSS motivation literature to the multi-project context by examining how developers’ continued focal project contributions are affected by the relative attractiveness of competing projects with which they are concurrently involved. Specifically, we focus on two well-established extrinsic motivators, developer status and project success, and examine how their relative values across a developer’s project portfolio influence continued contribution to a focal project. Using data from 2,931 volunteer developers affiliated with 445 focal projects and 4,448 competing projects hosted on Google Code, we find that developers’ continued contribution to a focal project is heightened when they have lower relative status in competing projects and when competing projects have lower relative success than the focal project. Asymmetrically, we also find that continued contribution to the focal project is not diminished when developers have higher relative status in competing projects or when those projects are more successful than the focal project. These findings extend work on continued contribution by highlighting the multi-project embedded nature of work performed in OSS ecosystems and have important implications for understanding developer retention across projects."
+            },
+            {
+                "id": "",
                 "title": "Dynamics of Mirroring: Temporal Sequencing of Mirror-Misting and Mirror-Focusing in Open-Source Evolution",
                 "authors": [
                     "Hani Safadi",
@@ -501,21 +517,6 @@
         "-papers under review": [                         
             {
                 "id": "",
-                "title": "Developers’ Multi-Project Involvement and Continued Contribution to Open-Source Software Projects",
-                "authors": [
-                    "Pratyush Sharma",
-                    "Hani Safadi",
-                    "John Hulland",
-                    "Elena Karahanna"
-                ],
-                "year": "minor revision",
-                "accepted": "",
-                "venue": "Journal of Strategic Information Systems",
-                "url": "",
-                "abstract": ""
-            },
-            {
-                "id": "",
                 "title": "Generative AI and Qualitative Meta-Studies: The Challenge of the Double Hermeneutic in Theory Construction",
                 "authors": [
                     "Nicholas Berente",
@@ -627,6 +628,19 @@
                 "venue": "MIS Quarterly",
                 "url": "",
                 "abstract": ""
+            },
+            {
+                "id": "",
+                "title": "Mechanistic Retroduction: Agentic Search for Mechanisms in IS Theory Construction",
+                "authors": [
+                    "Hani Safadi",
+                    "Amrit Tiwana"
+                ],
+                "year": "first submission",
+                "accepted": "",
+                "venue": "Information Systems Research",
+                "url": "",
+                "abstract": "IS theorizing has historically advanced by expanding our knowledge of when and where a core effect holds, but rarely by developing mechanisms explaining how it operates. In Lakatos’ technical sense, this pattern is degenerative since such additions carry no “excess empirical content.” Not for want of interest, but inferential infrastructure, which agentic AI now supplies. We develop mechanistic retroduction, a principled approach to agentic AI-assisted retroductive inference that uncovers mechanisms—the causal pathways through which a confirmed core effect operates. It is organized around an outer researcher-led retroductive loop anchoring a theoretical core with plausible mechanisms, and an inner agentic Bacon-Platt loop iteratively pruning them. Grounded in Lakatos' hard core/protective belt architecture, it draws on Bacon's philosophy of science and Platt's strong inference, all disciplined by Pólya's heuristic reasoning. It preserves the researcher's intellectual agency over retroductive discovery while deploying agentic AI to generate mechanism-rich protective belts. This human-machine division of labor converts Lakatosian-degenerative streams into mechanistically-rich, progressive counterparts. We illustrate the approach with multidecade-long digital traces spanning ~5 billion events from open-source development. 42 agentic and two researcher loops surfaced four novel mechanisms, undiscoverable without agentic AI, underlying the atrophy of information systems. Computational theorizing approaches require but do not themselves provide a normative criterion for distinguishing progressive from degenerative theorizing. Mechanistic retroduction thus offers a principled way to make agentic AI constitutive—not merely supportive—of mechanistic IS theory construction."
             }                                   
         ],
         "--working papers": [
@@ -643,20 +657,7 @@
                 "venue": "",
                 "url": "",
                 "abstract": "Information Systems (IS) research on the ethics of Artificial Intelligence (AI) has advanced principles, governance frameworks, and responsibility models for organizational settings. This work takes ethical concerns as given, and rests on an unexamined condition: that a concern has a party who can be held answerable. Answerability is constructed earlier, in the public discourse where the actors shaping AI contest what counts as an ethical issue. We apply critical discourse analysis and computational theory construction to the Eye on AI podcast (2018 to 2025) through segment-level discourse coding and a grounded extraction of who references whom. We theorize the selection as discursive gating. Ethical concerns pass ordered thresholds before becoming institutional material. Statability admits a concern and fixes the register in which it is voiced. Referenceability determines whether a voiced concern attaches to a party others can align with, distance from, or hold answerable. Referenceability is essential: a concern can be present in the discourse (i.e., stated) yet absent from its debates. In our data, speakers raise labor displacement and social impacts of AI often but name no one who could answer for them. By contrast, competitive and technical concerns attract named firms, researchers, and governments. Thus, an issue regarding AI ethics can be common in the discourse yet absent from its arguments, for want of anyone to argue with. For IS, this study explains a shortfall the field has treated as an implementation problem: a responsible AI apparatus yielding little accountability for distributive harm. Governance frameworks, audits, and accountability by design require addressees, and public discourse supplies some for competitive and technical concerns while withholding them for human ones. This requirement is referenceability, which reveals a scope condition scholarship has left implicit: AI ethics governance reaches only concerns the discourse has made answerable."
-            },            
-            {
-                "id": "",
-                "title": "Mechanistic Retroduction: Agentic Search for Mechanisms in IS Theory Construction",
-                "authors": [
-                    "Hani Safadi",
-                    "Amrit Tiwana"
-                ],
-                "year": "working paper",
-                "accepted": "",
-                "venue": "",
-                "url": "",
-                "abstract": "IS theorizing has historically advanced by expanding our knowledge of when and where a core effect holds, but rarely by developing mechanisms explaining how it operates. In Lakatos’ technical sense, this pattern is degenerative since such additions carry no “excess empirical content.” Not for want of interest, but inferential infrastructure, which agentic AI now supplies. We develop mechanistic retroduction, a principled approach to agentic AI-assisted retroductive inference that uncovers mechanisms—the causal pathways through which a confirmed core effect operates. It is organized around an outer researcher-led retroductive loop anchoring a theoretical core with plausible mechanisms, and an inner agentic Bacon-Platt loop iteratively pruning them. Grounded in Lakatos' hard core/protective belt architecture, it draws on Bacon's philosophy of science and Platt's strong inference, all disciplined by Pólya's heuristic reasoning. It preserves the researcher's intellectual agency over retroductive discovery while deploying agentic AI to generate mechanism-rich protective belts. This human-machine division of labor converts Lakatosian-degenerative streams into mechanistically-rich, progressive counterparts. We illustrate the approach with multidecade-long digital traces spanning ~5 billion events from open-source development. 42 agentic and two researcher loops surfaced four novel mechanisms, undiscoverable without agentic AI, underlying the atrophy of information systems. Computational theorizing approaches require but do not themselves provide a normative criterion for distinguishing progressive from degenerative theorizing. Mechanistic retroduction thus offers a principled way to make agentic AI constitutive—not merely supportive—of mechanistic IS theory construction."
-            },             
+            },                       
             {
                 "id": "",
                 "title": "Exploration-Exploitation and Knowledge Creation in Online Communities",
