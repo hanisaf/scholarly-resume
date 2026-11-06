@@ -175,6 +175,19 @@
         "journal articles": [
             {
                 "id": "",
+                "title": "Creating knowledge capital: An essential competitive action for enterprises dependent on advanced technology",
+                "authors": [
+                    "Richard Watson",
+                    "Hani Safadi"
+                ],
+                "year": "Forthcoming",
+                "accepted": "2026",
+                "venue": "Business Horizons",
+                "url": "https://github.com/hanisaf/preprint/blob/main/knowledge_capital_BH.pdf",
+                "abstract": "Companies can create a competitive advantage by combining high-quality human capital with sophisticated organizational capital. Four organizational types are based on these combinations: creative complexity, breakthrough science, applied science, and operational complexity. Five significant elements of knowledge capital creation capabilities are: know thy capital creation system, knowledgeable leadership, knowledge engineering, systems thinking, and continuous investment in systems of inquiry. This article provides guidance on leveraging the five elements to build knowledge capital for a target archetype."
+            },            
+            {
+                "id": "",
                 "title": "Multi-Project Involvement and Volunteer Developers’ Continued Contributions to Open Source Software Projects",
                 "authors": [
                     "Pratyush Sharma",
@@ -183,7 +196,7 @@
                     "John Hulland",
                     "Munsif Sokiyna"
                 ],
-                "year": "Forthcoming",
+                "year": "2026",
                 "accepted": "2026",
                 "venue": "Journal of Strategic Information Systems",
                 "url": "https://github.com/hanisaf/preprint/blob/main/Continued_Contribution_JSIS.pdf",
@@ -196,7 +209,7 @@
                     "Hani Safadi",
                     "Amrit Tiwana"
                 ],
-                "year": "Forthcoming",
+                "year": "2026",
                 "accepted": "2026",
                 "venue": "Journal of the Association for Information Systems",
                 "url": "https://github.com/hanisaf/preprint/blob/main/Mirroring_JAIS.pdf",
@@ -592,32 +605,6 @@
             },
             {
                 "id": "",
-                "title": "The Evolutionary Pathways of Technology Market Commercialization",
-                "authors": [
-                    "Hani Safadi",
-                    "Hossein Arjmandi"
-                ],
-                "year": "major revision - 2nd round",
-                "accepted": "",
-                "venue": "MIS Quarterly",
-                "url": "",
-                "abstract": "We theorize and test how two technology evolution mechanisms, recombination and structural deepening, shape technology market commercialization, an important and often overlooked outcome of innovation adoption. Using a large data set of US IT patents filed from 2010 to 2019 and patent assignment records to operationalize commercialization, we derive scalable measures of evolution mechanisms from patent text and estimate models of patent lifetime reassignments. Both mechanisms are positively associated with commercialization, but their interaction is negative, indicating substitution when pursued simultaneously. Examining the innovation modes resulting from these mechanisms reveals that architectural innovation outperforms modular innovation, which is on par with radical innovation in driving market commercialization. The findings contribute to a mechanism-level understanding of how IT innovation decisions lead to market outcomes, filling an important gap in IT innovation and adoption."
-            },
-            {
-                "id": "",
-                "title": "Generating Knowledge Capital",
-                "authors": [
-                    "Richard Watson",
-                    "Hani Safadi"
-                ],
-                "year": "major revision - 2nd round",
-                "accepted": "",
-                "venue": "Business Horizons",
-                "url": "",
-                "abstract": "Companies can create a competitive advantage by combining high-quality human capital with sophisticated organizational capital. Four organizational types are based on these combinations: creative complexity, breakthrough science, applied science, and operational complexity. Five significant elements of knowledge capital creation capabilities are: know thy capital creation system, knowledgeable leadership, knowledge engineering, systems thinking, and continuous investment in systems of inquiry. This article provides guidance on leveraging the five elements to build knowledge capital for a target archetype."
-            },
-            {
-                "id": "",
                 "title": "Experts Vs Algorithms: Algorithmic Control Of Communication Visibility And Its Impact On Socializing Newcomers In Online Communities",
                 "authors": [
                     "P Kumar Sachin",
@@ -644,6 +631,19 @@
             }                                   
         ],
         "--working papers": [
+            {
+                "id": "",
+                "title": "The Evolutionary Pathways of Technology Market Commercialization",
+                "authors": [
+                    "Hani Safadi",
+                    "Hossein Arjmandi"
+                ],
+                "year": "working paper",
+                "accepted": "",
+                "venue": "",
+                "url": "",
+                "abstract": "We theorize and test how two technology evolution mechanisms, recombination and structural deepening, shape technology market commercialization, an important and often overlooked outcome of innovation adoption. Using a large data set of US IT patents filed from 2010 to 2019 and patent assignment records to operationalize commercialization, we derive scalable measures of evolution mechanisms from patent text and estimate models of patent lifetime reassignments. Both mechanisms are positively associated with commercialization, but their interaction is negative, indicating substitution when pursued simultaneously. Examining the innovation modes resulting from these mechanisms reveals that architectural innovation outperforms modular innovation, which is on par with radical innovation in driving market commercialization. The findings contribute to a mechanism-level understanding of how IT innovation decisions lead to market outcomes, filling an important gap in IT innovation and adoption."
+            },            
             {
                 "id": "",
                 "title": "All Talk? Referenceability and the Selection of AI Ethics Issues in Public Discourse",
@@ -1278,6 +1278,18 @@
             }
         ],
         "conference presentations": [
+            {
+                "id": "",
+                "title": "Mechanistic Retroduction: Pólyan Discipline in the Search for IS Mechanisms",
+                "venue": "Conference on Generative AI in Research Methods",
+                "authors": [
+                    "Hani Safadi",
+                    "Amrit Tiwana"
+                ],                
+                "year": "2026",
+                "url2": "https://sites.google.com/view/2026gaim/home/program",
+                "abstract": ""
+            },
             {
                 "id": "",
                 "title": "Bots versus Humans in Online Social Networks: A Study of Reddit Communities",
@@ -2133,6 +2145,14 @@
     },
     "invitations": {
         "talks": [
+            {
+                "id": "",
+                "title": "Mechanistic Retroduction: Agentic Search for Mechanisms in IS Theory Construction",
+                "venue": "ESADE Institute of Innovation (IIK) Online Seminar Series",
+                "year": 2026,
+                "url": "",
+                "abstract": ""
+            },             
             {
                 "id": "",
                 "title": "Designing Information Systems for Epistemic Resilience",
